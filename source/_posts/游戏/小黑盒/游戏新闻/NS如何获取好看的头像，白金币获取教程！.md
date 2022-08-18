@@ -1,0 +1,18 @@
+
+---
+title: 'NS如何获取好看的头像，白金币获取教程！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/08/18/3fb83b95f5cabc6581c9eabf3c555192/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Thu, 18 Aug 2022 10:59:53 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/08/18/3fb83b95f5cabc6581c9eabf3c555192/thumb.jpeg'
+---
+
+<div>   
+<p>最近任天堂在会员服务里上架了好看（二次元浓度高）的异度之刃3的头像，我也是刚刚学习了一下如何获取，今天在黑盒看到有人在问，于是跟大家分享一下<span data-emoji="cube_加油" class="hb-emoji"></span></p><p><img class="lazy" data-height="720" src="https://imgheybox.max-c.com/bbs/2022/08/18/3fb83b95f5cabc6581c9eabf3c555192/thumb.jpeg" data-width="1280" referrerpolicy="no-referrer"></p><h4 class="img-desc">你就说这头像你要不要吧</h4><p>首先我们需要有一个日服或者美服的账号，港服是没有这个功能的（悲），其他速度我没有验证，据说只有日服美服有。</p><p>然后我们需要开通老任的会员，这些头像是提供给会员的“礼物”。富哥们可以去某宝购买单人会员，穷哥们我选择开通家庭会员。</p><p>家庭会员同样可以选择某宝，但是如果遇到黑心店家，可能你的会员还没到期就把你从家庭里踢出去了。所以我推荐软件JUMP的家庭会员（不是广告，黑盒没有这个服务，不然可以黑盒开<span data-emoji="heygirl_痴" class="hb-emoji"></span>）</p><p><img class="lazy" data-height="740" src="https://imgheybox.max-c.com/bbs/2022/08/18/7eee0b6edad6b13d1644cf6ff193d6e9/thumb.jpeg" data-width="1080" referrerpolicy="no-referrer"></p><h4 class="img-desc">家庭会员一年不贵</h4><p>之后我们在NS主页面进入左下角的Nintendo Switch Online，可能因为网络问题，加载会比较慢。</p><p><img class="lazy" data-height="358" src="https://imgheybox.max-c.com/bbs/2022/08/18/38e950bae57759bbad638be1850848a7/thumb.jpeg" data-width="685" referrerpolicy="no-referrer"></p><h4 class="img-desc">吃灰较久的玩家可能要更新系统</h4><p>从这里开始，老任就不允许我们使用屏幕截图功能了，所以我只能手机拍屏，大家勿怪<span data-emoji="heygirl_喜欢" class="hb-emoji"></span></p><p><img class="lazy" data-height="1947" src="https://imgheybox.max-c.com/bbs/2022/08/18/933a1ae2fd5f83ef2000a7bdc792f183/thumb.jpeg" data-width="3965" referrerpolicy="no-referrer"></p><h4 class="img-desc">白金礼盒</h4><p>找到左边倒数第三行白金礼盒，右上角第一个图标代表能够获取白金币的会员任务，第二个图标代表白金币数量，第三个代表你编辑好的头像数量。</p><p>下面则是头像购买页面，可以看到头像主体（游戏角色）是10币1个，头像框和头像背景在下面没有显示出来，是5币1个。</p><blockquote><p><b>那么关键问题来了，任务该怎么做呢？</b></p></blockquote><p><img class="lazy" data-height="2240" src="https://imgheybox.max-c.com/bbs/2022/08/18/6bc9f9317d2d885ae3da0e6e51f0f208/thumb.jpeg" data-width="3968" referrerpolicy="no-referrer"></p><h4 class="img-desc">左上角显示禁止截屏</h4><p>由于我们进的是日服美服，可能会看不懂任务描述。这里我们可以借助手机上的翻译软件，使用拍屏幕翻译功能。我用的软件是有道词典。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/08/18/9b789246b387d58b7986c045054a208e/thumb.jpeg" data-width="1226" referrerpolicy="no-referrer"></p><h4 class="img-desc">翻译完了应该不难理解</h4><p>比如上图这个任务，就是玩一款需要老任会员联机的游戏即可。我选择的游戏是喷喷2，注意打开游戏的时候要选择你想获取头像的日服或者美服进入。游戏开一秒钟就可以回来领金币了。</p><p><img class="lazy" data-height="2240" src="https://imgheybox.max-c.com/bbs/2022/08/18/85ff3321b2f4c7aed4914e2aa259ed11/thumb.jpeg" data-width="3968" referrerpolicy="no-referrer"></p><h4 class="img-desc">噔噔噔噔～爆金币了 +30</h4><p>大部分任务都跟这个一样简单，玩一个会免游戏，玩指定会免游戏，只有一个任务比较麻烦，就是上传存档至云端的任务。</p><p>由于你开了会员以后，玩过的游戏会自动把存档传到云端备份，所以这个任务只能启动你没有用这个账号玩过的游戏去完成，相当于是鼓励你买新游戏和玩游戏。</p><p>当然，这个任务只给20白金币，我们有多少游戏就赚多少次，剩下的不要也罢，其他任务获取的白金币足够购买我们喜欢的头像了。</p><p><img class="lazy" data-height="1279" src="https://imgheybox.max-c.com/bbs/2022/08/18/c78e541935d54a5469ec5233a766c0c4/thumb.jpeg" data-width="2825" referrerpolicy="no-referrer"></p><h4 class="img-desc">我的头像！</h4><p>购买以后，单个游戏的头像主体、头像框和背景可以自由组合，不同游戏之间不能混搭使用。比如你不能把卡比加到异度之刃的背景上去。</p><p>不过还是比原有的头像好看，冲冲冲！</p><p><a href="heybox://open_subject" target="_blank">#ns#</a>   <a href="heybox://open_subject" target="_blank">#教程#</a> </p><p><img class="lazy" data-height="undefined" src="https://cdn.max-c.com/stickers/heyboxgirl/1/thumb.png" data-width="undefined" referrerpolicy="no-referrer"></p><p>                             惯例爱你们</p>  
+</div>
+            

@@ -5,11 +5,11 @@ categories:
  - 编程
  - 开源中国
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=3762'
+headimg: 'https://picsum.photos/400/300?random=4482'
 author: 开源中国
 comments: false
 date: Thu, 18 Aug 2022 07:23:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3762'
+thumbnail: 'https://picsum.photos/400/300?random=4482'
 ---
 
 <div>   
@@ -27,8 +27,7 @@ thumbnail: 'https://picsum.photos/400/300?random=3762'
  <li>Web 服务器通过 web-server/dispatchers/dispatch-logresp 支持记录响应状态代码</li> 
  <li>db 库支持 PostgreSQL 连接的自定义类型</li> 
 </ul> 
-<p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.racket-lang.org%2F2022%2F08%2Fracket-v8-6.html" target="_blank">详情查看发布公告</a>。</p> 
-<p> </p>
+<p style="color:#000000; margin-left:0; margin-right:0; text-align:start"><a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fblog.racket-lang.org%2F2022%2F08%2Fracket-v8-6.html" target="_blank">详情查看发布公告</a>。</p>
                                         </div>
                                       
 </div>
