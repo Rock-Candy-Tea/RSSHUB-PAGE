@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=6080'
+headimg: 'https://picsum.photos/400/300?random=4828'
 author: 知乎
 comments: false
-date: Fri, 19 Aug 2022 02:43:49 GMT
-thumbnail: 'https://picsum.photos/400/300?random=6080'
+date: Thu, 18 Aug 2022 21:51:48 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4828'
 ---
 
 <div>   
-梦游大仙的回答<br><br><p data-pid="yH_pGviP">《壮志凌云》其实是一部还算靠谱的军旅片，甚至连主角使用的某些空战术语都是比较真实的。</p><p data-pid="O4Gqqz3q">但《壮志凌云·独行侠》则全片几乎都是在扯淡了……</p><p data-pid="XPbQwznM">毕竟真实情况下飞行器以10马赫的速度解体，飞行员一般连尸首都找不到。</p><p data-pid="r3iQAsqW">毕竟明明f35能在隐身的情况下干f18所有的事情，电影非说f35不能做激光制导。</p><p data-pid="FD-y-ndy">毕竟敌人的防空导弹网络可以将山谷封得死死的，主角开的f18只要一冒头就会被干下来。这么牛叉的防空系统居然没想着给机场布置几套。那么一大群亚音速的战斧巡航蛋比主角飞的还高，就这么直挺挺得飞过了敌人头顶，它们居然连防空警报都没拉……</p><p data-pid="pj8U6Fkl">至于最后的结尾被吐槽不合理。主角开着f18带着小弟学天行者炸死星我都忍了，公猫干俩苏菲薄饼算啥？</p><p data-pid="-vROrAJg">我是如此讨厌超英电影，每次被朋友拖去电影院看超英片，我都会在睡着（除了《黑暗骑士》三部曲和《美国队长2》）。</p><p data-pid="lLtJn3LT">我小时候看的第一部空战电影就是《壮志凌云》，因为这部电影我彻底迷上了可变机翼战斗机。以至于f14、f111、狂风、su22、su24、米格23、米格27甚至vf0、vf1、vf11、vf25的模型我都做过。谁知道我等了十几年的续集，就等来个这么个玩意……</p><p data-pid="bIYAS0JN">题主说它打败了漫威DC这种超英片，我不同意。</p><p data-pid="qQclMYzR">它是用了和超英片相同的套路，和它们同流合污罢了。</p><p></p>  
+旅行者一号的回答<br><br><p data-pid="USsGBdN7">别的不说，超英电影差不多得了，</p><p data-pid="CZoOD-e1">从恐怖分子的山洞里手动打造初代钢铁侠，</p><p data-pid="jacIZkgq">到爱你3000遍打完响指下线，</p><p data-pid="KHBCwjOO">漫威最辉煌的复联宇宙实际上已经结束了，</p><p data-pid="r5id_qdE">后续出的都是垃圾，</p><p data-pid="oJe-r9F9">黑寡妇扑街，雷神扑街，</p><p data-pid="-DHIhx1s">尚气我到现在都没勇气去看原片，</p><p data-pid="wQtKXfiP">钢铁侠死的那一刻，</p><p data-pid="ECxYLPiF">超英电影差不多也死了，</p><p data-pid="F9v-ximj">并不是具体什么原因导致电影品质变烂，</p><p data-pid="X5sELHq8">而是物极必反，</p><p data-pid="DoWRx1Ye">曾经漫威电影一部部把观众推向新的高潮，</p><p data-pid="VuS57Vwt">终极之战完事以后，高潮已经结束，</p><p data-pid="1D5o-KNd">实在没法再弄个比灭霸更强的反派继续推剧情，</p><p data-pid="CxWkVk11">从惊奇队长Bug一样的超能力设定开始，</p><p data-pid="_k7D_aRS">漫威已经彻底放飞自我，</p><p data-pid="6Of_3lEH">类似传奇私服广告，</p><p data-pid="Q30B38Zb">一刀999，屠龙满地爆，</p><p data-pid="h3lKC_7Q">是兄弟就砍我，越来越离谱，</p><p data-pid="UClsrV01">还是曾经期待中一部部上映的复联和单个英雄电影更值得回味，</p><p data-pid="2BuXn27y">如今，超英题材已经被挖透了，</p><p data-pid="kTebIYmQ">再出很难不是垃圾，</p><p data-pid="_2CrGAe-">至于被《壮志凌云2》打败，</p><p data-pid="kefzoZpi">还是被别的什么电影打败，</p><p data-pid="-1DQ7UM5">只是时间问题。</p>  
 </div>
             

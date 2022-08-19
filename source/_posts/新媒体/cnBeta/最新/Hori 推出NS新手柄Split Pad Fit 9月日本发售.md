@@ -1,0 +1,19 @@
+
+---
+title: 'Hori 推出NS新手柄Split Pad Fit 9月日本发售'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0819/b5aaaf3baeed8c2.png'
+author: cnBeta
+comments: false
+date: Fri, 19 Aug 2022 03:31:08 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0819/b5aaaf3baeed8c2.png'
+---
+
+<div>   
+著名配件厂商Hori推出了新的Switch手柄Split Pad Fit，与上一代产品Split Pad Pro相比本次采用了更流畅的设计，让手小的玩家更加方便握持。Split Pad Fit采用分体设计，有十字键，支持连发和背部自定义按键设定，但依旧没有HD震动和NFC等功能，预计于9月在日本发售，价格约为40美元。<br>
+ <p style="text-align: left;"><strong>手柄预告</strong></p><p style="text-align: left;"><iframe src="https://player.youku.com/embed/XNTg5NjA5NTk4NA?client_id=5a73c0df8eb0d91d" allowfullscreen __idm_id__="7151617" width="750" height="480" frameborder="0"></iframe></p><p style="text-align: left;"><strong>视频截图</strong></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0819/b5aaaf3baeed8c2.png"><img data-original="https://static.cnbetacdn.com/article/2022/0819/b5aaaf3baeed8c2.png" src="https://static.cnbetacdn.com/thumb/article/2022/0819/b5aaaf3baeed8c2.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0819/8e32eb0badf1347.png"><img data-original="https://static.cnbetacdn.com/article/2022/0819/8e32eb0badf1347.png" src="https://static.cnbetacdn.com/thumb/article/2022/0819/8e32eb0badf1347.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0819/77254fbc649553b.png"><img data-original="https://static.cnbetacdn.com/article/2022/0819/77254fbc649553b.png" src="https://static.cnbetacdn.com/thumb/article/2022/0819/77254fbc649553b.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0819/a4946cdd5715e38.png"><img data-original="https://static.cnbetacdn.com/article/2022/0819/a4946cdd5715e38.png" src="https://static.cnbetacdn.com/thumb/article/2022/0819/a4946cdd5715e38.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0819/d6704d3ef3984b5.png"><img data-original="https://static.cnbetacdn.com/article/2022/0819/d6704d3ef3984b5.png" src="https://static.cnbetacdn.com/thumb/article/2022/0819/d6704d3ef3984b5.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0819/6ce30dae4599c12.png"><img data-original="https://static.cnbetacdn.com/article/2022/0819/6ce30dae4599c12.png" src="https://static.cnbetacdn.com/thumb/article/2022/0819/6ce30dae4599c12.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0819/467913a8e2f93d7.png"><img data-original="https://static.cnbetacdn.com/article/2022/0819/467913a8e2f93d7.png" src="https://static.cnbetacdn.com/thumb/article/2022/0819/467913a8e2f93d7.png" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0819/8d943e4aa75c740.png"><img data-original="https://static.cnbetacdn.com/article/2022/0819/8d943e4aa75c740.png" src="https://static.cnbetacdn.com/thumb/article/2022/0819/8d943e4aa75c740.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0819/1041b64bcf494d0.png"><img data-original="https://static.cnbetacdn.com/article/2022/0819/1041b64bcf494d0.png" src="https://static.cnbetacdn.com/thumb/article/2022/0819/1041b64bcf494d0.png" referrerpolicy="no-referrer"></a></p>   
+</div>
+            

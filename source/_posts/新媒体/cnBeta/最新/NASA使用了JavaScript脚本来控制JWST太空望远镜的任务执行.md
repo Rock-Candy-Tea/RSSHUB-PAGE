@@ -1,0 +1,19 @@
+
+---
+title: 'NASA使用了JavaScript脚本来控制JWST太空望远镜的任务执行'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/08/417a9746e150edb.gif'
+author: cnBeta
+comments: false
+date: Fri, 19 Aug 2022 04:24:06 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/08/417a9746e150edb.gif'
+---
+
+<div>   
+尽管配备了各种先进的科学仪器，<strong>但刚刚分享了首批宇宙照片的詹姆斯·韦伯太空望远镜，还是被发现很可能采用了陈旧的 JavaScript 编程语言来控制。</strong>由集成科学仪器模块（ISIM）文档可知，JWST 配套软件基于脚本任务处理（Script Processor Task）方案。<br><br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/417a9746e150edb.gif" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/417a9746e150edb.gif" referrerpolicy="no-referrer"></a></p><p>太空望远镜科学研究所的 Ilana Dashevsky 和 Vicki Balzano 指出（<a href="https://www.stsci.edu/~idash/pub/dashevsky0607rcsgso.pdf" target="_self">PDF</a>）：</p><blockquote><p>在接收到任务命令后，JWST 的脚本处理器会运行 JavaScript 编写的脚本、并且支持同时运行 10 个。</p><p>JWST 有一堆用于执行特定任务的预编写脚本，以‘最大化效率和最小化地面系统’。</p><p>地面上的科学家可告诉 JWST 去做什么，然后交给脚本处理器程序去解释。</p><p>程序会根据脚本的访问系统，来调用其它应用程序和系统。</p></blockquote><p><a href="https://static.cnbetacdn.com/article/2022/0819/2c13455e0af0830.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0819/2c13455e0af0830.jpg" alt="2.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">脚本处理流程示意</p><p>即便如此，JWST 还是未采用 JavaScript 直接控制中红外仪器的 Web 浏览器。</p><p>因为它更像是给主管提供了一份任务列表（本例中为 JavaScript），然后将之分发给旗下团队。</p><blockquote><p>ISIM 属于望远镜相机仪器的集合体，JS 脚本控制着它们的工作过程。</p><p>NASA 更是直接将 ISIM 称作 JWST <a href="https://www.jwst.nasa.gov/content/observatory/instruments/index.html" target="_self">望远镜的心脏</a>。</p></blockquote><p><a href="https://static.cnbetacdn.com/article/2022/0819/6483c8d042dd625.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0819/6483c8d042dd625.jpg" alt="3.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">作为 JWST 功能拼图的一环，JavaScript 仍然非常重要。</p><p>至于为何使用老朽的 JavaScript 编程语言，Dashevsky 和 Balzano 的说法是，他们是用 Nombas ScriptEase 5.00e 构建的。</p><p>由现已停运的 <a href="http://brent-noorda.com/nombas/us/devspace/errata/jisdk/index500.htm#v500e" target="_self">Nombas</a> 网站可知，该软件的上一次更新，可追溯到大约 20 年前的 2003 年 1 月，但我们对 JWST 团队的选择并不感到意外。</p><blockquote><p>据悉，虽然 JWST 于 2021 年底发射升空，但该项目其实在 1989 年就已萌芽。</p><p>JWST 的实际开建为 2004 年，当时距离 ScriptEase 5 的发布也只过去两年。</p><p>当然，航天器的功能通常很是简单。比之最新颖的技术解决方案，研究人员更关注它的稳健性。</p></blockquote><p><a href="https://static.cnbetacdn.com/article/2022/0819/733e95c79d4f015.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0819/733e95c79d4f015.jpg" alt="4.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">最大化效率论文中的简化架构插图</p><p>需要指出的是，与项目本身一样，描述 JWST 上的 JavaScript 系统的文档也已相当陈旧。</p><p>Dashevsky 和 Balzano 没有注明撰写的日期，但出版年份是 2006，此外 ISIM 手稿则是源于 2011（也有说 2010）。</p><p>最后，虽然 NASA 没有回应 <a href="https://www.theverge.com/2022/8/18/23206110/james-webb-space-telescope-javascript-jwst-instrument-control" target="_self">TheVerge</a> 的置评请求，但 JWST <a href="https://jwst-docs.stsci.edu/jwst-observatory-hardware/jwst-integrated-science-instrument-module" target="_self">文档页面</a>上一篇 2017 年发表的文章，还是提到过“基于事件驱动的科学操作”，与 JavaScript 的系统概念不谋而合。</p><p>顺道一提，这份知识库中还详细介绍了 JWST 板载的 68 GB 固态存储器，称之可容纳 58.8 ~ 65 GB 的实际科学数据。</p><div class="article-relation"><p><strong>相关文章:</strong></p><p><a href="https://www.cnbeta.com/articles/science/1291923.htm" target="_blank">詹姆斯·韦伯太空望远镜仅板载了68GB的固态记录器</a></p><p><a href="https://www.cnbeta.com/articles/tech/1302069.htm" target="_blank">JSON发明人：老朽的JavaScript编程语言早该入土了</a></p><p><a href="https://www.cnbeta.com/articles/science/1306125.htm" target="_blank">NASA韦伯望远镜捕捉到迄今为止最大的图像 揭示令人惊叹的星系集合</a></p></div>   
+</div>
+            
