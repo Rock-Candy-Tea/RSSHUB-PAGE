@@ -38,7 +38,13 @@ Charmstones
 豪华版玩家迎来一个独家新服装
 </p>
 <p style="text-indent:2em;">
-同时该作将登陆Steam，此前为Epic商城限时独占
+同一天<a href="https://store.steampowered.com/app/1954200/Kena_Bridge_of_Spirits/" target="_blank">该作将登陆Steam</a>，此前为Epic商城限时独占
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220819/1660916128_642158.jpg" alt="《凯娜：精神之桥》将登陆Steam 周年更新将来" referrerpolicy="no-referrer">
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220819/1660916135_242716.jpg" alt="《凯娜：精神之桥》将登陆Steam 周年更新将来" referrerpolicy="no-referrer">
 </p>          
 </div>
             
