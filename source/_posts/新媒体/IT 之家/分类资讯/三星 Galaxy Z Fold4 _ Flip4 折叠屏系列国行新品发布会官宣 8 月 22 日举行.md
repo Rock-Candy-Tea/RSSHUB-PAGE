@@ -1,0 +1,19 @@
+
+---
+title: '三星 Galaxy Z Fold4 _ Flip4 折叠屏系列国行新品发布会官宣 8 月 22 日举行'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/f7fac5b2-712b-4f58-9732-c22938b8ee21.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEyMC5wbmc=,g_3,x_12,y_12,a_0,t_100'
+author: IT 之家
+comments: false
+date: Fri, 19 Aug 2022 10:50:38 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/f7fac5b2-712b-4f58-9732-c22938b8ee21.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEyMC5wbmc=,g_3,x_12,y_12,a_0,t_100'
+---
+
+<div>   
+<p data-vmark="ef24"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 19 日消息，三星于 8 月 10 日晚间在海外发布了 Galaxy Z Fold4 / Flip4 等新品，官方今日宣布，将于<span class="accentTextColor">北京时间 8 月 22 日 19:00</span> 举行国行新品发布会，届时将公布多款产品的国行定价。</p><p style="text-align: center;" data-vmark="81ff"><img src="https://img.ithome.com/newsuploadfiles/2022/8/f7fac5b2-712b-4f58-9732-c22938b8ee21.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEyMC5wbmc=,g_3,x_12,y_12,a_0,t_100" w="777" h="693" title="三星 Galaxy Z Fold4 / Flip4 折叠屏系列国行新品发布会官宣 8 月 22 日举行" width="777" height="693" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="f5fe"><a class="ithome_super_player" contenteditable="false" target="_blank" data-timestamp="1660906067293" data-vpreview-url="https://f.video.weibocdn.com/o0/iZ1ckK7klx07YxzDqvSw010412004UeJ0E010.mp4?label=mp4_720p&template=1280x720.25.0&ori=0&ps=1CwnkDw1GXwCQx&Expires=1660909629&ssig=OIm0oyMLEe&KID=unistore,video" href="https://weibo.com/2031482343/M1MpFbhhJ"><img src="https://wx3.sinaimg.cn/orj480/002dtTmfly1h5c8xfwhuqj60p40e40t002.jpg" class="lazy" title="三星 Galaxy Z Fold4 / Flip4 折叠屏系列国行新品发布会官宣 8 月 22 日举行" referrerpolicy="no-referrer"></a></p><p data-vmark="6e7a">三星此前已经开启了<a href="https://www.ithome.com/0/634/412.htm" target="_blank">国行先行者计划</a>，新品的尝鲜价已公布，参与者将于 <span class="accentTextColor">8 月 26 日</span>优先发货。</p><p data-vmark="d871">IT之家了解到，<a href="https://www.ithome.com/0/634/396.htm" target="_blank">三星 Galaxy Z Flip4 折叠屏手机</a>采用 6.7 英寸（直角）屏幕，后置双 1200 万像素摄像头，前置 1000 万前置摄像头，搭载 3700mAh（典型值）电池，骁龙 8+ Gen 1 处理器，标配 8GB 内存，可选 128GB -512GB 闪存，国行尝鲜价 8499 元起。</p><p style="text-align: center;" data-vmark="1c8f"><img src="https://img.ithome.com/newsuploadfiles/2022/8/a4fa99fd-8961-4203-8d88-ea150c95a1ff.png" w="1440" h="699" title="三星 Galaxy Z Fold4 / Flip4 折叠屏系列国行新品发布会官宣 8 月 22 日举行" width="1440" height="398" referrerpolicy="no-referrer"></p><p data-vmark="e926"><a href="https://www.ithome.com/0/634/395.htm" target="_blank">三星 Galaxy Z Fold4</a> 是首款首发搭载 Android 12L 的智能手机，搭载骁龙 8+ Gen 1 处理器。该机配备了 6.2 英寸 HD+ 的 Dynamic AMOLED 2X 外屏，支持 120Hz 自适应刷新率；采用了 7.6 英寸 QXGA+ 的 Dynamic AMOLED 2X Infinity Flex 内屏，刷新率为 120Hz，同样支持 S Pen，国行尝鲜价 13999 元起。</p><p style="text-align: center;" data-vmark="42ad"><img src="https://img.ithome.com/newsuploadfiles/2022/8/1e77debd-3014-44c5-84c8-c4943ffbf354.png" w="702" h="320" title="三星 Galaxy Z Fold4 / Flip4 折叠屏系列国行新品发布会官宣 8 月 22 日举行" width="702" height="320" referrerpolicy="no-referrer"></p><p data-vmark="28e7"><a href="https://www.ithome.com/0/634/402.htm" target="_blank">三星 Galaxy Watch 5/5 Pro</a> 智能手表支持体温检测、NFC 公交 / 门禁卡，去掉旋转表圈，国行尝鲜价 1899/3299 元起。</p><p style="text-align: center;" data-vmark="847b"><img src="https://img.ithome.com/newsuploadfiles/2022/8/0c341f99-40ad-4243-8aa8-d37a63cc578f.png" w="1013" h="490" title="三星 Galaxy Z Fold4 / Flip4 折叠屏系列国行新品发布会官宣 8 月 22 日举行" width="1013" height="397" referrerpolicy="no-referrer"></p><p data-vmark="c432"><a href="https://www.ithome.com/0/634/402.htm" target="_blank">三星 Galaxy Buds2 Pro</a> 真无线耳机支持 24-bit 高保真音频、智能主动降噪（ANC）、360 音频，尺寸缩小 15%，续航 18 小时，国行尝鲜价 1399 元。</p>
+          
+</div>
+            
