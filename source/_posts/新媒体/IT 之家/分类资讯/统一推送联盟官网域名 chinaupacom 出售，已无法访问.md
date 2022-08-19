@@ -1,0 +1,20 @@
+
+---
+title: '统一推送联盟官网域名 chinaupa.com 出售，已无法访问'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/1fd4c1bf-68fe-487b-af8e-56aa5690b36e.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE1Ny5wbmc=,g_3,x_16,y_16,a_0,t_100'
+author: IT 之家
+comments: false
+date: Thu, 18 Aug 2022 15:18:47 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/1fd4c1bf-68fe-487b-af8e-56aa5690b36e.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE1Ny5wbmc=,g_3,x_16,y_16,a_0,t_100'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D551675" rel="nofollow">你的手机是</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1394472" rel="nofollow">机智的BLACK</a> 的线索投递！</div>
+            <p data-vmark="72e0"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 18 日消息，统一推送联盟于 2017 年 10 月正式成立，目标是在国内联合多家厂商制定安卓统一推送服务（Unified Push Service，简称 UPS）技术标准，为国内的消息推送服务建立统一的标准。今年 4 月份，统一推送联盟宣布更名为“统一推送工作委员会”。</p><p data-vmark="247e">据IT之家小伙伴发现的线索，统一推送联盟官网的域名 <a href="http://www.chinaupa.com/" target="_blank">chinaupa.com</a> 目前处于“<span class="accentTextColor">正在出售</span>”状态，价格为 800 元，持有人为“自由如风”。</p><p data-vmark="6cf3" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/1fd4c1bf-68fe-487b-af8e-56aa5690b36e.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE1Ny5wbmc=,g_3,x_16,y_16,a_0,t_100" w="1019" h="708" title="统一推送联盟官网域名 chinaupa.com 出售，已无法访问" width="1019" height="570" referrerpolicy="no-referrer"></p><p data-vmark="4f8a" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/160d377d-93c8-4d81-81c6-44ea2340e4a5.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE2My5wbmc=,g_9,x_16,y_16,a_0,t_100" w="1059" h="637" title="统一推送联盟官网域名 chinaupa.com 出售，已无法访问" width="1059" height="493" referrerpolicy="no-referrer"></p><p data-vmark="37bf">IT之家搜索发现，统一推送联盟官网在 2020 年 3 月还可以访问，统一推送联盟 UPA 官方微博则在 <span class="accentTextColor">2020 年 7 月</span>之后就没有再更新过。</p><p data-vmark="ede1" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/8880a23e-202c-4afd-93d1-6efed757f7ed.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExOS5wbmc=,g_3,x_12,y_12,a_0,t_100" w="776" h="703" title="统一推送联盟官网域名 chinaupa.com 出售，已无法访问" width="776" height="703" referrerpolicy="no-referrer"></p><p data-vmark="54d4">2021 年 8 月，统一推送联盟旗下所有相关标准与成果纳入了中国信通院与中国互联网协会共建的“<span class="accentTextColor">统一移动基础服务</span>”（Unified Mobile Service, UMS）的相关体系之中。</p><p data-vmark="bec0">IT之家接着查看 <a href="http://www.mobileservice.cn/" target="_blank">UMS 官网</a>发现，统一推送服务的子页面 <a href="https://push.mobileservice.cn/index.html" target="_blank" title="http://push.mobileservice.cn/index.html"><span class="link-text-start-with-http">https://push.mobileservice.cn/index.html</span></a> 也<span class="accentTextColor">无法访问</span>了。</p><p data-vmark="ddce" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2021/8/6606b729-5a15-433c-91b5-f2de8c1ab45a.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzIwNy5wbmc=,g_9,x_21,y_21,a_0,t_100" w="1346" h="1130" title="统一推送联盟官网域名 chinaupa.com 出售，已无法访问" width="1346" height="688" referrerpolicy="no-referrer"></p><p data-vmark="893f" style="text-align: justify;">目前统一推送工委会的最新消息是在 <span class="accentTextColor">2022 年 7 月份</span>，统一推送服务覆盖品牌包括华为、荣耀、OPPO、realme、一加、中兴、三星、vivo、iQOO、小米、Redmi、锤子、ROG、联想、拯救者和努比亚。</p><p data-vmark="a5e5" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/5ea6e5d2-2696-44ae-84eb-1ef6ca256c6a.jpg@s_2,w_820,h_342" w="820" h="342" alt="图片" title="统一推送联盟官网域名 chinaupa.com 出售，已无法访问" width="820" height="342" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
