@@ -5,15 +5,15 @@ categories:
  - 博客
  - 劍心．回憶
  - 分类
-headimg: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/2022-03/res/t-ropppongi.jpg'
+headimg: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/2022-03/res/t-roppongi.jpg'
 author: 劍心．回憶
 comments: false
 date: Fri, 19 Aug 2022 13:01:07 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/2022-03/res/t-ropppongi.jpg'
+thumbnail: 'https://cors.zfour.workers.dev/?http://kenshin.hk/blog/2022-03/res/t-roppongi.jpg'
 ---
 
 <div>   
-<p align="center"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/2022-03/res/t-ropppongi.jpg" referrerpolicy="no-referrer"></p>
+<p align="center"><img src="https://cors.zfour.workers.dev/?http://kenshin.hk/blog/2022-03/res/t-roppongi.jpg" referrerpolicy="no-referrer"></p>
 <p>【收視】08/19：週四收視，各劇沒有大起跌，《六本木Class》雖然只是微升，但已經是連續四週向上，是本季走勢最好劇集之一。《純愛不協和音》則繼續身處地獄，看來會和《新．信長公記》競逐日劇史上成績最差黃金檔的寶座。《遺留捜査7》則連續四週保持平穩。送上最新收視排名。</p>
 <p>EX木20｜遺留捜査7｜8.8% > 8.6% (-0.2%)<br>
 EX木21｜六本木Class｜9.2% > 9.3% (+0.1%)<br>
