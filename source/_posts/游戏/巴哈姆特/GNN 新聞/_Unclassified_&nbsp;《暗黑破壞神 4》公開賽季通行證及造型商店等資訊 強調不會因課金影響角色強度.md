@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/78/b55a4ce9854a6607f8d084c1401huve5.JPG?v=1660878679231'
 author: 巴哈姆特
 comments: false
-date: 2022-08-19 05:21:39
+date: 2022-08-19 06:14:35
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/78/b55a4ce9854a6607f8d084c1401huve5.JPG?v=1660878679231'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/78/b55a4ce9854a6607f8d084c1401huve5.
 <div>
 <div>
 <div>
-　　Blizzard 今（19）日公開由遊戲副總監 Joe Piepiora 在季度更新報告中透露的《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%9A%97%E9%BB%91%E7%A0%B4%E5%A3%9E%E7%A5%9E%204" target="_blank">暗黑破壞神 4</a>》全新賽季、遊戲內容、主流玩法，以及各式遊戲內的活動細節；並由首席線上服務產品經理 Jonathan Mann 揭露持續服務的營利理念、賽季通行證以及造型商店等資訊。</div>
+　　Blizzard 於昨（18）日公開由遊戲副總監 Joe Piepiora 在季度更新報告中透露的《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%9A%97%E9%BB%91%E7%A0%B4%E5%A3%9E%E7%A5%9E%204" target="_blank">暗黑破壞神 4</a>》全新賽季、遊戲內容、主流玩法，以及各式遊戲內的活動細節；並由首席線上服務產品經理 Jonathan Mann 揭露持續服務的營利理念、賽季通行證以及造型商店等資訊。</div>
 </div>
 <div>
  </div>
