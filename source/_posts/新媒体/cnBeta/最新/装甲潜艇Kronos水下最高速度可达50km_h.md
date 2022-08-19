@@ -1,0 +1,19 @@
+
+---
+title: '装甲潜艇Kronos水下最高速度可达50km_h'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/08/6ce27ba43a83267.png'
+author: cnBeta
+comments: false
+date: Fri, 19 Aug 2022 09:18:41 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/08/6ce27ba43a83267.png'
+---
+
+<div>   
+Highland Systems正在以非凡的风格增加其车辆阵容，现在，它有一个11座的装甲速度恶魔--Kronos。这款混合型野兽的灵感显然来自于鳐鱼，它拥有折叠式翅膀和高达1200马力的推进力。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/6ce27ba43a83267.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/6ce27ba43a83267.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Highland Systems由乌克兰人创立，现在位于阿联酋和英国之间，这家谜一样的公司将自己描述为研发和项目管理的“暴徒”，其召集了来自国防界的一群工程专家。上一次我们遇到这些家伙，是为了检查他们的"风暴"混合水陆两栖MPV，它看起来只是一堆疯狂的渲染图。但是，该团队在阿布扎比的IREX展会上带来了一个原型，它是一个绝对的怪物。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/bf777390587bd32.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/bf777390587bd32.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">尽管Kronos装甲潜水艇乍一看像是完全渲染过的垃圾，是一些过度兴奋的设计学生的异想天开，但这东西似乎也是合法的。它是为商业、军事和据称是救援行动而设计的--从严酷的、基本上没有窗户的内部来看，它似乎对旅游或奢侈品不感兴趣。Kronos的长度略高于9米，重量约为10,000公斤。它肥大的翅膀可以向上折叠。</p><p style="text-align: left;">把它放在水里后，可以容纳10名乘客和一名司机。混合动力系统将柴油发电机跟驱动喷水推进系统的1,200马力、2,400牛·米电动机结合在一起。它可以下潜到100米的工作深度及250米的最大临界深度，这在某种程度上是相当不错的。空气供应可以持续36小时左右。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/b901971a72ee5a9.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/b901971a72ee5a9.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">性能数据非常疯狂。Highland介绍称，它在水面上的速度为80公里/小时，在水下的速度为50公里/小时。它携带的电池足以完成36小时的全电动任务，或可以启动柴油发电机再增加18小时，这使得总航程可以达到非常令人印象深刻的54小时的自主性。此外，还有自适应照明、自动生命支持系统和<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C870%26ev%3D1554_584894%26JL%3D3_%25E7%25A9%25BA%25E8%25B0%2583%25E7%25B1%25BB%25E5%2588%25AB_%25E7%25AB%258B%25E6%259F%259C%25E5%25BC%258F%25E7%25A9%25BA%25E8%25B0%2583%23J_crumbsBar" target="_blank">空调</a>--示意图上还显示了鱼雷的位置。</p><p style="text-align: left;">它可能看起来像纯粹的科幻小说，但Defence Blog有一张在阿联酋建造的主壳体的照片，所以它似乎正在发生。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/4669e600f7af7f7.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/4669e600f7af7f7.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/35b32f5f11a4e99.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/35b32f5f11a4e99.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/b93faa93ebcb893.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/b93faa93ebcb893.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/2d18ef307317606.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/2d18ef307317606.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/98ba0a6653942f8.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/98ba0a6653942f8.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/820055261e909f5.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/820055261e909f5.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2022/08/d74e73a3a14ba58.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/d74e73a3a14ba58.webp" referrerpolicy="no-referrer"></a></p>   
+</div>
+            

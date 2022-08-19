@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/58/8b8ba15959f29c4537f5ef1b4a1huxm5.JPG?v=1660883683783'
 author: 巴哈姆特
 comments: false
-date: 2022-08-19 09:10:13
+date: 2022-08-19 10:11:10
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/58/8b8ba15959f29c4537f5ef1b4a1huxm5.JPG?v=1660883683783'
 ---
 
@@ -20,6 +20,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/58/8b8ba15959f29c4537f5ef1b4a1huxm5.
  </div>
 <div>
 　　而本次 CBT 測試旨在調整遊戲內容以及機能檢驗，預計將針對 iOS 以及 Android 裝置使用者招募 2,500 人，報名時間至 9 月 18 日 17:00 截止，9 月 18 日 18:00 至 23:00 公佈中選者名單，預計 9 月 20 日 18:00 至 28 日 11:59 舉辦，參與玩家將可獲得限定外觀。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/nkAHnsQ_K_I?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>
