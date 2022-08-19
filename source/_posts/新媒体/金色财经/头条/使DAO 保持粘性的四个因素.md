@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 金色财经
  - 头条
-headimg: 'https://picsum.photos/400/300?random=7758'
+headimg: 'https://picsum.photos/400/300?random=1282'
 author: 金色财经
 comments: false
-date: Thu, 18 Aug 2022 13:56:14 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7758'
+date: Fri, 19 Aug 2022 00:36:54 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1282'
 ---
 
 <div>   
-DAO 是一个全新的、令人惊叹的工作环境，它们通常允许你“自由走进”、环顾四周，并决定是否要留下来做出贡献。  
+Web3 为我们提供了重要的机会来改善工作条件和认可方法，以更包容和有效地吸引和留住人才。作为贡献者，随着 DAO 社区的不断成熟，我们应该寻找什么？  
 </div>
             

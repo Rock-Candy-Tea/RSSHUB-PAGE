@@ -1,0 +1,19 @@
+
+---
+title: '林肯发布全电动概念车Model L100：一瞥未来超豪华车型的电气化'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/08/cf15156f39e3199.png'
+author: cnBeta
+comments: false
+date: Fri, 19 Aug 2022 02:35:26 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/08/cf15156f39e3199.png'
+---
+
+<div>   
+林肯对拥有强影响力的概念车并不陌生，没有人可以说林肯L100概念车不那么引人注目。不出所料，这款在圆石滩亮相的L100型概念车是全电动的。林肯没有给出具体的电池尺寸、电机的功率或范围，甚至没有给出它设想的汽车中的电机数量。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/cf15156f39e3199.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/cf15156f39e3199.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=375453734&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p><p style="text-align: left;">它只说有下一代电池和电池组技术在发挥作用，而这将使改变能量密度。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/34223bc22cdcc97.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/34223bc22cdcc97.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">不过可以说同样重要的是，该汽车制造商设想的电动化包装是如何运作的。林肯表示，通过在结构上将电池组整合到概念车中，它已经能更好地利用内部空间并释放出外部设计的优势。</p><p style="text-align: left;"><strong>电动空气动力遇见豪华车型</strong></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/eee043a21ab49a2.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/eee043a21ab49a2.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">当然，Model L100概念车的外观是令人难忘的。很明显，空气动力学在决定整体轮廓方面发挥了很大作用。我们已经看到，在空气中追逐滑度会导致电动汽车看起来像相对无定形的大块头，不过林肯设法避免了这一点。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/fde796b5e5a74bd.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/fde796b5e5a74bd.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">相反，它利用了光线、玻璃和规模。Model L100概念车低矮的车身、玻璃全景车顶和反向铰链式车门增加了戏剧性并使进入和退出更加直接。与此同时，传感器跟踪车主的接近并会在车外和车内奉上精心策划的灯光秀。然后，车门--一直延伸到后保险杠--向外张开，而整个玻璃车顶部分则抬起来。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/d6b01dbfd3142b8.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/d6b01dbfd3142b8.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这款概念车采用了缎面数字陶瓷三色金属漆，在冷蓝色和柔和白色之间转换。取代传统的铬合金，磨砂丙烯酸被用作更可持续的替代品。与此同时，整个车厢的地板是一个大的数字面板，其能显示变化的图形、颜色和图案。</p><p style="text-align: left;"><strong>没有方向盘，没有生产计划</strong></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/fb1bcc9712e2d3e.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/fb1bcc9712e2d3e.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在里面，你将找不到任何像方向盘这样的东西。相反，林肯将Model L100概念车作为一款完全自主的汽车，其摒弃了人类的操作，转而采用了自动驾驶的虚拟司机。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/6929cf0ce2c2856.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/6929cf0ce2c2856.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">该车由一个受宝石灵感启发的棋子控制并在集成到中控台的数字棋盘上移动。林肯使用了可回收的麂皮织物，这使得Model L100概念车的内部没有动物。当林肯汽车行驶的时候，驾驶者无需看挡风玻璃，前排座椅可以旋转以让第一排的人面对后排座椅进而创造出一个休闲风格的内部空间。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/3baab04b1f20fee.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/3baab04b1f20fee.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">与大多数设计研究一样，林肯没有谈论L100型概念车的生产问题。相反，它把这辆车看作是风格可能性的一个转折点，因为汽车制造商准备推出其第一辆全电动汽车。人们在2022年早些时候已经看到了林肯Star概念车的第一个暗示及听到了到2025年推出三款全电动汽车的承诺。竞争对手凯迪拉克正在准备其Celestiq电动车，而宾利和劳斯莱斯的高端竞争也在同一时间段内进行，林肯重塑的赌注--以及在高端汽车中大幅改变游戏规则的机会--从未如此之高。</p>   
+</div>
+            
