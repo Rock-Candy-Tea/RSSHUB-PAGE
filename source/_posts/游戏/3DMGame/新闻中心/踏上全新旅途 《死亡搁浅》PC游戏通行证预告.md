@@ -22,7 +22,7 @@ Pass的玩家体验。
 厂商今日放出全新预告片，对即将登陆PC Game Pass的《死亡搁浅》进行介绍：
 </p>
 <p style="text-align:center;">
-<iframe height="480" width="640" src="https://player.youku.com/embed/XNTg5NTA0Mzk4MA==?client_id=5a73c0df8eb0d91d" frameborder="0" allowfullscreen>
+<iframe src="https://player.youku.com/embed/XNTg5NTA0Mzk4MA==?client_id=5a73c0df8eb0d91d" allowfullscreen width="640" height="480" frameborder="0">
 </iframe>
 </p>
 <p style="text-indent:2em;">

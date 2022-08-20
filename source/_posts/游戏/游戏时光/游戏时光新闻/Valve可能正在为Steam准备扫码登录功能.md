@@ -23,7 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/08/20/220820175557228_u9317
 
                 
                 
-                    <div class="topicContent front_content sort_content">SteamDB 创始人 Pavel Djundik 发推表示，Valve 似乎正在调整 Steam 的登录界面，可能他们正在为 Steam 准备扫码登录功能。</div>
+                    <div class="topicContent front_content sort_content">SteamDB创始人Pavel Djundik发推表示，Valve似乎正在调整Steam的登录界面，可能他们正在为Steam准备扫码登录功能。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2022/08/20/220820175557228_u93176.png" src="https://img01.vgtime.com/game/cover/2022/08/20/220820175557228_u93176.png?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
