@@ -1,0 +1,19 @@
+
+---
+title: '英伟达RTX 30系列清库存 带动AMD RX 6000显卡大调价'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0820/7226c7e7e12b1f7.jpg'
+author: cnBeta
+comments: false
+date: Sat, 20 Aug 2022 03:42:38 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0820/7226c7e7e12b1f7.jpg'
+---
+
+<div>   
+在币价持续走低的情况下，低迷的加密货币挖矿市场让英伟达 GPU 销售也遇冷。为了赶在 RTX 40 系列发布前清掉 Ampere GPU 库存，绿厂甚至亲自下场督导 AIB 合作伙伴调价。<strong>与此同时，红厂这边的 AMD Radeon RX 6000 系列 RDNA 2 显卡，也正努力赶在 RX 7000 系列 RDNA 3 新品上市前出货。</strong><br>
+ <p><a href="https://static.cnbetacdn.com/article/2022/0820/7226c7e7e12b1f7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0820/7226c7e7e12b1f7.jpg" alt="0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（via <a href="https://wccftech.com/amd-radeon-rx-6000-graphics-cards-difficult-to-sell-after-gpu-price-crash-aibs-ready-price-cuts-to-get-rid-of-inventory/" target="_self">WCCFTech</a>）</p><p>渠道方面的消息称，<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://asus.jd.com/" target="_blank">华硕</a>（<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://asus.jd.com/" target="_blank">ASUS</a>）、微星（<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://msi-pc.jd.com/" target="_blank">MSI</a>）、Gigabyte 在试图说服零售商和分销商进货更多消费级 RX 6000 系列显卡这件事上遇到了困难。</p><p>此前在 GPU 挖矿热潮下，价格翻番的 NVIDIA 显卡依然相当紧俏。但随着币价的暴跌，这一畸形的市场现象也逐渐变得难以维持。对于 AMD 来说，其游戏显卡的需求更是低迷。</p><p><a href="https://static.cnbetacdn.com/article/2022/0820/8b15fb69550599d.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0820/8b15fb69550599d.png" alt="1-1.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">华擎 RX 6700 XT，售约 416 美元 / 2836 RMB 。</p><p>由 2022 Q2 财报可知，尽管图形部门营收增长了 32%、但 AMD 也证实其独显业务出现了疲态。</p><p>前者主要归功于<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a> <a data-link="1" href="https://microsoft.pvxt.net/e4yLO" target="_blank">Xbox</a> / 索尼 PS 游戏主机在内的半定制 SoC 业务的需求强劲，增至 17 亿美元的营收、从表面上掩盖了后者的销售下滑。</p><p>此外受全球宏观经济遇冷的影响，消费者的可自由支配收入，势必会进一步导致本季度的游戏 GPU 业务继续下滑。</p><p><a href="https://static.cnbetacdn.com/article/2022/0820/4e1b45a55dd727b.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0820/4e1b45a55dd727b.png" alt="1-2.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">华擎 RX 6600，售约 260 美元 / 1772 RMB 。</p><p>即便如此，AMD 还是专注于执行现有的路线图，其中就包括在今年晚些时候推出三款高端 RDNA 3 GPU（Radeon RX 7000 系列）。</p><p>消费级 GPU 市场经历了需求非常强劲的 2021 年，但从 2022 开年到 2 季度，我们又见到了需求的放缓。</p><p>AMD CEO 苏姿丰博士推测，这在某种程度上受到了当前供需关系逆转、同时也不可忽略全球经济气候的大环境影响。</p><p><a href="https://static.cnbetacdn.com/article/2022/0820/402ed9ad6be19b3.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0820/402ed9ad6be19b3.png" alt="1-3.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">蓝宝石 RX 6560 XT，售约 350 美元 / 2386 RMB 。</p><p>期间以蓝宝石为代表的 AMD 独家 AIB 合作伙伴，也在积极下调中高端 Radeon RX 6000 系列显卡的售价。比如 RX 6700 XT 从 3699 直降到 2999 RMB，调降幅度近乎 20% 。</p><p>截止发稿时，WCCFTech 还留意到其它 A 卡厂商的定价逐日下调，比如华擎 RX 6700 XT 挑战者已较首发指导价下调近百美元。</p><p>几个月前标价 399 美元的 RX 6650 XT，现已几乎与 329 美元的 RX 6600 持平。想要入手微星 RX 6750 XT 的话，还可节省 80 美元（低于 549.99 美元）。</p><p><a href="https://static.cnbetacdn.com/article/2022/0820/21c72c83b70db97.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0820/21c72c83b70db97.png" alt="4.png" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">微星 RTX 3080 Ti，售约 875 美元 / 5964 RMB 。</p><p>作为参考，英伟达 RTX 3080 Ti 的价格已跌去三成（以建议零售 1199 美元的 MSI Ventus 3X OC 为例）。</p><p>最后，如果本周早些时候的预测应验，AMD Radeon RX 6000 和 NVIDIA GeForce RTX 30 系列的售价还是继续全面下跌。</p><p>甚至到 8 月底的时候，等等党们还可迎来更大的惊喜。若几周后看到遍地开花的 1000 美元以下 RTX 3090，也请不要见怪。</p>   
+</div>
+            

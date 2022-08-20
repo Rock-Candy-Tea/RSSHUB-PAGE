@@ -1,0 +1,20 @@
+
+---
+title: 'QQ 音乐 App 内测免费更换图标，需 iOS 10.3 _ 安卓 10 及以上'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/9071cf43-8111-4e5f-a6ab-61b50890cf66.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzE2Ni5wbmc=,t_100,g_9,y_17,x_17,a_0'
+author: IT 之家
+comments: false
+date: Fri, 19 Aug 2022 14:47:49 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/9071cf43-8111-4e5f-a6ab-61b50890cf66.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzE2Ni5wbmc=,t_100,g_9,y_17,x_17,a_0'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1543054" rel="nofollow">Snapchat</a> 的线索投递！</div>
+            <p data-vmark="20cf"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 19 日消息，QQ 音乐 App 11.9 内测版上线替换图标功能，<span class="accentTextColor">可限时免费体验</span>。</p><p style="text-align: center;" data-vmark="3328"><img src="https://img.ithome.com/newsuploadfiles/2022/8/9071cf43-8111-4e5f-a6ab-61b50890cf66.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzE2Ni5wbmc=,t_100,g_9,y_17,x_17,a_0" w="1069" h="2220" title="QQ 音乐 App 内测免费更换图标，需 iOS 10.3 / 安卓 10 及以上" width="1069" height="1703" referrerpolicy="no-referrer"></p><p style="text-align: justify;" data-vmark="644d">目前 QQ 音乐定制图标只有“夏日摇滚款”可更换，点击替换后需要重启 App，然后就可以显示新图标了。</p><p style="text-align: center;" data-vmark="cb11"><img src="https://img.ithome.com/newsuploadfiles/2022/8/0627ead9-306f-4f03-8236-e8d766dd1ddd.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE2Ni5wbmc=,g_5,x_0,y_0,a_0,t_100" w="1080" h="2142" title="QQ 音乐 App 内测免费更换图标，需 iOS 10.3 / 安卓 10 及以上" width="1080" height="1626" referrerpolicy="no-referrer"></p><p style="text-align: justify;" data-vmark="5633">不过IT之家在原生安卓 11 测试下图标出现了正方形的白底，体验不是很好。大家可以在下方的链接中自行体验，安卓用户记得关闭图标包。</p><p style="text-align: center;" data-vmark="1704"><img src="https://img.ithome.com/newsuploadfiles/2022/8/48308dda-4a16-4d1f-9c1d-c4e84815ee65.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xdy9xdzk1LnBuZw==,g_2,x_0,y_5,a_0,t_100" w="306" h="368" title="QQ 音乐 App 内测免费更换图标，需 iOS 10.3 / 安卓 10 及以上" width="306" height="368" referrerpolicy="no-referrer"></p><p data-vmark="4513"><strong>活动参与须知</strong></p><ul class=" list-paddingleft-2"><li><p data-vmark="0004">1、本活动受版本的限制，只支持 <span class="accentTextColor">11.9 版本及以上</span>的用户使用；若您的版本低于 11.9，则需按照指引升级灰度包体验。</p></li><li><p data-vmark="a971">2、由于替换 icon 受本身手机系统的影响，目前仅支持 <span class="accentTextColor">iOS 10.3 及以上 & Android 10 及以上</span>系统版本；若非以上类型则不可替换 icon 请谅解。</p></li><li><p data-vmark="2532">3、由于安卓机型众多，可能存在部分机型不适配的情况，若您的手机机型不可替换 icon 则请谅解。</p></li><li><p data-vmark="3ff3">4、若替换 icon 后您的 QQ 音乐 icon 未替换成功，或者点击 icon 无反应等情况，请重启手机尝试。</p></li><li><p data-vmark="22e5">5、由于目前还在内测功能阶段，若替换 icon 后想重新换回默认 icon，则需卸载内测包，重新下载 QQ 音乐 App。</p></li></ul><p data-vmark="6bf9"><strong>体验链接：</strong><a href="https://y.qq.com/forest/SAxUuocedkq5Ds5Z/index.html?openinqqmusic=1" target="_blank"><span class="link-text-start-with-http">https://y.qq.com/forest/SAxUuocedkq5Ds5Z/index.html?openinqqmusic=1</span></a></p><p style="text-align: center;" data-vmark="032f"><img src="https://img.ithome.com/newsuploadfiles/2022/8/ddf8499e-5c8a-4443-9386-dae39c544a2a.png" w="726" h="510" title="QQ 音乐 App 内测免费更换图标，需 iOS 10.3 / 安卓 10 及以上" width="726" height="510" referrerpolicy="no-referrer"></p><p data-vmark="254f">IT之家了解到，<a href="https://www.ithome.com/0/634/726.htm" target="_blank">腾讯 QQ 8.9.5 也开始测试 App 个性图标</a>，需要购买 <span class="accentTextColor">QQ 超级会员</span>，用户可以选择专属个性图标。</p><p data-vmark="6664">SVIP 可享专属应用图标包括默认图标（免费）、简约蓝色、光遇会员、炫彩 OS、尊贵黑金、会员燃鹅等。另外，此功能还有对应的续费超级会员图标。</p><p data-vmark="4c08" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/6bf763a0-8949-4b0d-bf85-f3f9a7a70e38.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzE4MC5wbmc=,g_7,x_18,y_18,a_0,t_100" w="1170" h="2297" title="QQ 音乐 App 内测免费更换图标，需 iOS 10.3 / 安卓 10 及以上" width="1170" height="1610" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
