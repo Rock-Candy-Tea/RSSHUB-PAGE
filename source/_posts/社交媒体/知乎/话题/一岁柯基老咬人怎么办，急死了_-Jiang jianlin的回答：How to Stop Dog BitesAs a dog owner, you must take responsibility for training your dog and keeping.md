@@ -1,0 +1,18 @@
+
+---
+title: '一岁柯基老咬人怎么办，急死了_-Jiang jianlin的回答：How to Stop Dog BitesAs a dog owner, you must take responsibility for training your dog and keeping...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://picsum.photos/400/300?random=1504'
+author: 知乎
+comments: false
+date: Sat, 20 Aug 2022 13:41:05 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1504'
+---
+
+<div>   
+<strong>一岁柯基老咬人怎么办，急死了?</strong><br>Jiang jianlin的回答<br><h2>How to Stop Dog Bites</h2><p data-pid="ElXOxuJM">As a dog owner, you must take responsibility for training your dog and keeping them under control at all times. You are responsible for your dog's behavior and are the first line of defense in <span class="nolink">preventing dog bites</span>. It's important to do whatever you can to keep your dog from biting, and these tips can help:</p><p class="ztext-empty-paragraph"><br></p><ul><li data-pid="zN4-tWbD">At the very least, put your dog through basic <span class="nolink">training</span>. Continue a <span class="nolink">training program</span> throughout your dog's life to reinforce the lessons you've taught them.</li><li data-pid="Ib6QRoGj"><span class="nolink">Socialize</span> your dog from a young age. Start this when they are a puppy and be consistent throughout their life! Socializing your dog includes allowing them to meet and interact with different types of people under calm and positive circumstances, including children, disabled persons, and elderly people. It also means, exposing your dog to various situations on a regular basis, such as other animals, loud noises, large machines, bicycles, and anything else that might cause fear. If your dog is not well socialized or displays any signs of fear or aggression, work with a professional trainer prior to attempting any of the above. The trainer can help lay out a plan to safely and slowly socialize your pet if possible.</li><li data-pid="vEefL7l-">Learn your dog's body language, as well as <span class="nolink">key signs that may lead to a bite</span>. When you're around people, pay attention to your dog and know when aggression is building up. Stop it or remove your dog from the situation before it escalates.</li><li data-pid="QeRwaSG3"><i>Do not</i> discipline your dog with physical, violent, or aggressive punishments. Opt for <span class="nolink">positive reinforcement</span> before resorting to the use of <span class="nolink">aversives</span>. Remember to <span class="nolink">reward</span> your dog for good behavior.</li><li data-pid="w5OMpARA">Always keep your dog on a short <span class="nolink">leash</span> or in a fenced area. Know your dog well before letting it off-leash in permitted areas. Keep your dog in your sight at all times. If you know your dog can be fearful or aggressive, do not put them in situations where they may become fearful and bite another person or pet.</li><li data-pid="bAhQJkmc">If you suspect or know that your dog has <span class="nolink">fearful</span> or <span class="nolink">aggressive tendencies</span>, always warn others. <i>Do not</i> let your dog approach people and other animals unless the situation is highly controlled. Be mindful of your dog's limitations and do not place them in situations that will stress them or put them or other people at risk. Work with a trainer if you know your dog has fearful or aggressive tendencies. They can discuss the appropriate use a basket <span class="nolink">muzzle</span> if necessary.</li><li data-pid="gXgewVCW">Keep your dog's <span class="nolink">vaccinations</span> current (especially <span class="nolink">rabies</span>).</li></ul>  
+</div>
+            
