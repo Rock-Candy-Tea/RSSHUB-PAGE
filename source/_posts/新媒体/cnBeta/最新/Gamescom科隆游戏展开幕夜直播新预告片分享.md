@@ -1,0 +1,19 @@
+
+---
+title: 'Gamescom科隆游戏展开幕夜直播新预告片分享'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0821/382c6d4ee70eed1.jpg'
+author: cnBeta
+comments: false
+date: Sun, 21 Aug 2022 00:44:34 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0821/382c6d4ee70eed1.jpg'
+---
+
+<div>   
+今年的科隆国际游戏展(Gamescom)即将在德国科隆开幕，开幕夜直播(Opening Night Live)将带来一系列之前发布的游戏的全球首秀。目前发布会提到的将会亮相的部分游戏：<br>
+ <p><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0821/382c6d4ee70eed1.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0821/382c6d4ee70eed1.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0821/382c6d4ee70eed1.jpg" referrerpolicy="no-referrer"></a></p><p>Sonic Frontiers《索尼克：边境》</p><p>Hogwarts Legacy《霍格沃兹：遗产》</p><p>the Callisto Protocol《木卫四协议》</p><p>High on Life</p><p>Return to Monkey Island《重返猴岛》</p><p>Lies of P</p><p>Genshin Impact《原神》</p><p>The Outlast Trials《逃生：试炼》</p><p>Gotham Knights《哥谭骑士》</p><p>Honkai Star Rail《崩坏：星穹铁道》</p><p>Goat Simulator 3《模拟山羊3》</p><p>The Expanse: the Telltale Series《苍穹浩瀚》</p><p>当然这只是我们可以期待的一部分作品，新闻稿中提到“还有更多内容有待公布”。</p><p>开幕夜直播，由游戏业界知名人士、TGA创办者兼主持人Geoff Keighley主持，将于北京时间8月24日凌晨2点举行。</p><p><strong>Gamescom科隆游戏展开幕夜直播新预告片</strong></p><p style="text-align: center;"><strong><iframe src="//player.youku.com/embed/XNTg5NTI1NDkzNg==?client_id=5a73c0df8eb0d91d" width="640" height="480" frameborder="0"></iframe></strong></p><p><strong>视频截图</strong></p><p><strong><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0821/7c442981a502965.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0821/7c442981a502965.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0821/7c442981a502965.jpg" referrerpolicy="no-referrer"></a> </strong></p><p><strong><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0821/e11c13909e6c769.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0821/e11c13909e6c769.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0821/e11c13909e6c769.jpg" referrerpolicy="no-referrer"></a> </strong></p><p><strong><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0821/aa40e9d3f19e645.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0821/aa40e9d3f19e645.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0821/aa40e9d3f19e645.jpg" referrerpolicy="no-referrer"></a> </strong></p><p><strong><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0821/8b15da6c27dddb4.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0821/8b15da6c27dddb4.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0821/8b15da6c27dddb4.jpg" referrerpolicy="no-referrer"></a> </strong></p><p><strong><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0821/baf1ae8e173d1c1.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0821/baf1ae8e173d1c1.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0821/baf1ae8e173d1c1.jpg" referrerpolicy="no-referrer"></a> </strong></p><p><strong><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0821/3b661ff46048e53.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0821/3b661ff46048e53.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0821/3b661ff46048e53.jpg" referrerpolicy="no-referrer"></a> </strong></p><p><strong><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0821/e48d3f1cdd148f0.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0821/e48d3f1cdd148f0.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0821/e48d3f1cdd148f0.jpg" referrerpolicy="no-referrer"></a> </strong></p>   
+</div>
+            

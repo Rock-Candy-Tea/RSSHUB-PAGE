@@ -1,0 +1,19 @@
+
+---
+title: 'YouTube删除特斯拉车主利用孩子代替模型测试FSD系统视频'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/08/082b0f33d43c338.png'
+author: cnBeta
+comments: false
+date: Sun, 21 Aug 2022 00:44:13 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/08/082b0f33d43c338.png'
+---
+
+<div>   
+8月21日消息，<strong>Google母公司Alphabet旗下视频平台YouTube已经删除了两段视频，这些视频显示特斯拉车主在道路或车道上用自己的孩子代替人体模型进行辅助驾驶系统“全自动驾驶”（FSD）进行安全测试。</strong><br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/08/082b0f33d43c338.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/08/082b0f33d43c338.png" title alt style="width: 640px; height: 646px;" width="640" vspace="0" height="646" border="0" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">这些测试是为了确定安装了特斯拉最新司机辅助驾驶系统的车辆，在缓慢行驶的情况下，是否会自动避免与正在行走或者在路上站立不动的行人相撞。</p><p style="text-align: center;"><video src="//flv.bn.netease.com/4418608449b5d50dbfcac3d18d6db931034f05cf8f3648561902eb060bc6b35cfb030e0b046747284be6a4b14e178a0ac6e0bb699a1eefe60c6d2b1aff4b015aa80bccabb0debb61da2282202da6420d554875b82ffccf4de39f76c58f3dbaece621f36f6e5162160ef5b6a3a7e2f3e078c1b1deb1ca14db.mp4" controls="controls" width="640" height="480"></video></p><p style="text-align: left;">YouTube发言人埃琳娜·埃尔南德斯(Elena Hernandez)在电子邮件中写道：“YouTube不允许显示未成年人参与危险活动或鼓励未成年人从事危险活动的内容。经过审查，我们确定上述视频违反了我们的有害和危险政策，因此我们删除了这些内容。”</p><p style="text-align: left;">埃尔南德斯说:“具体来说，我们不允许展示或鼓励未成年人出现可能导致伤害的有害情况内容，包括危险的特技、冒险或恶作剧。”</p><p style="text-align: left;">特斯拉在美国销售的司机辅助驾驶系统分为两种，分别是名为Autopilot的标准套餐和名为FSD的高级选项，后者的预付费用为12000美元，或每月199美元。特斯拉还允许部分司机在该公司的车载安全测试中获得高分，从而获得参与名为FSD Beta的试验性计划的资格。</p><p style="text-align: left;">所有这些系统都不能使特斯拉汽车实现自动驾驶，也不能在主驾驶座没有司机的情况下安全使用，尽管它们可以注意道路，并能够在短时间内自动转向、刹车或加速。特斯拉的车主手册警告司机，该系统不会让他们的汽车自动驾驶。</p><p style="text-align: left;"><strong>测试车主：我准备好随时接手</strong></p><p style="text-align: left;">在8月14日发布的一段视频中，特斯拉车主和投资者塔德·帕克（Tad Park）曾驾驶Model 3汽车测试，他以每小时8英里（约合13公里）的时速在旧金山湾区的一条路上驾车驶向他的孩子。幸运的是，在测试中没有人受伤。</p><p style="text-align: left;">在YouTube将这段视频删除之前，其浏览量已达数万次。Alphabet还拥有自动驾驶汽车技术开发商和机器人出租车运营商Waymo。</p><p style="text-align: left;">帕克是Volt Equity的首席执行官，也是一家专注于自动驾驶技术的ETF VCAR的投资组合经理。帕克在接受采访时表示：“我亲身体验了这款产品，并相信自己的投资。我们采取了广泛的安全防范措施，这样孩子们就永远不会有危险。”</p><p style="text-align: left;">在随后的一封电子邮件中，帕克写道：“我们先是对人体模型进行了测试，然后测试了高个子篮球运动员，接着一个孩子站在路上，最后我的另一个孩子穿过了马路。”</p><p style="text-align: left;">他说，这辆车的行驶速度从未超过13公里，并解释说：“我们确保车辆能够识别出那个孩子。即使系统完全失灵，我也随时准备接手。我有一种感觉，如果汽车减速不够，我知道什么时候需要踩刹车。</p><p style="text-align: left;">在帕克看来，测试是成功的，因为汽车减速了，没有撞到任何物体、行人或他的孩子。当被问及他是否会再做一次测试时，他说：“我认为没有必要再做进一步的测试，但如果有必要，我会再做一次测试。话虽如此，但我不会建议人们在家里刻意尝试这种做法。”</p><p style="text-align: left;">帕克进行这些测试的部分原因是为了反驳软件公司创始人丹·奥多德（Dan O’Dowd），后者批评特斯拉的司机辅助驾驶功能在全美打广告。</p><p style="text-align: left;">奥马尔·卡齐（Omar Qazi）是特斯拉的股东之一，也是特斯拉在社交网络上的主要推广者。特斯拉首席执行官埃隆·马斯克（Elon Musk）在Twitter上频繁与卡齐等人互动。</p><p style="text-align: left;"><strong>监管机构接连发出警告</strong></p><p style="text-align: left;">除了YouTube，媒体还联系了加州机动车管理局和国家公路交通安全管理局（NHTSA），询问此类视频是否安全或合法。NHTSA在8月16日表示：“NHTSA建议公众，任何人试图自己测试车辆技术都可能是非常危险的。任何人都不应该拿自己或其他任何人的生命冒险来测试车辆技术的性能。"</p><p style="text-align: left;">该机构还指出:“正如NHTSA一贯声明的那样，目前没有任何汽车能够自动驾驶。今天可供购买的最先进的车辆技术提供了司机辅助驾驶功能，当仍然需要全神贯注的人类司机时刻执行驾驶任务并监控周围环境。”</p><p style="text-align: left;">今年6月，NHTSA首次公布了司机辅助驾驶系统撞车的数据，发现在2021年7月20日至2022年5月21日期间，使用这类系统的特斯拉车辆涉及273起撞车事故。NHTSA目前正在调查多起特斯拉车辆与停放的紧急车辆相撞事件，此外还有20多起特斯拉撞车事故，其中多起造成人员死亡。</p><p style="text-align: left;">加州机动车管理局通过电子邮件表示：“随着先进车辆技术变得越来越广泛，我们与其他交通安全利益攸关方一样，对司机可能误解或误用这些功能有着同样的担忧。我们此前已向特斯拉表示，并将继续强调，就任何车辆技术的能力、限制和预期用途向客户、买家和普通公众提供明确有效的沟通至关重要。”</p><p style="text-align: left;">加州机动车管理局最近声称，特斯拉在其司机辅助驾驶系统方面从事欺骗性营销或虚假广告。该机构还在对特斯拉的技术(包括FSD Beta)进行长时间的安全审查。</p><p style="text-align: left;">帕克进行试驾的小镇警方没有及时做出回应，特斯拉也没有立即回复置评请求。</p>   
+</div>
+            
