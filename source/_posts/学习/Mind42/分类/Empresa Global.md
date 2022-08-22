@@ -5,15 +5,15 @@ categories:
  - 学习
  - Mind42
  - 分类
-headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=c6f7495b-a64e-4a87-b404-62437f51f67e&size=gallery'
+headimg: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=e7be08bb-98f5-4a3c-9333-6e56c6de37e9&size=gallery'
 author: Mind42
 comments: false
-date: 2022-08-22 00:52:19
-thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=c6f7495b-a64e-4a87-b404-62437f51f67e&size=gallery'
+date: 2022-08-22 03:19:21
+thumbnail: 'https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=e7be08bb-98f5-4a3c-9333-6e56c6de37e9&size=gallery'
 ---
 
 <div>   
-<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=c6f7495b-a64e-4a87-b404-62437f51f67e&size=gallery" referrerpolicy="no-referrer"><p>
+<img src="https://mind42.com/api/ajax/mindmapThumbnail?mindmapId=e7be08bb-98f5-4a3c-9333-6e56c6de37e9&size=gallery" referrerpolicy="no-referrer"><p>
                                     </p>  
 </div>
             

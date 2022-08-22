@@ -8,7 +8,7 @@ categories:
 headimg: 'https://gitee.com/makunet/fast-boot/raw/master/fast-server/src/main/resources/public/1.png'
 author: 开源中国
 comments: false
-date: Sun, 21 Aug 2022 23:53:00 GMT
+date: Mon, 22 Aug 2022 07:53:00 GMT
 thumbnail: 'https://gitee.com/makunet/fast-boot/raw/master/fast-server/src/main/resources/public/1.png'
 ---
 
