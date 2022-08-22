@@ -1,0 +1,19 @@
+
+---
+title: 'Gurman：苹果已在上周完成 iOS 16 正式版开发，9 月 7 日 iPhone 14 _ Pro 系列发布会见'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/d7958ae6-9af2-47d3-ac0c-39725007b45c.png'
+author: IT 之家
+comments: false
+date: Sun, 21 Aug 2022 13:16:41 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/d7958ae6-9af2-47d3-ac0c-39725007b45c.png'
+---
+
+<div>   
+<p data-vmark="7d12"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 21 日消息，据彭博社的 Mark Gurman 称，<span class="accentTextColor">苹果工程师上周完成了 iOS 16 正式版的开发</span>。</p><p data-vmark="f162">在最新一期的“Power On”通讯中，Gurman 重申 iOS 16 和 watchOS 9 计划与 iPhone 14 / Pro 系列和 Apple Watch Series 8 一起推出，而他预计 <span class="accentTextColor">iPadOS 16 和 macOS Ventura 将在 10 月推出</span>。</p><p style="text-align: center;" data-vmark="13b8"><img src="https://img.ithome.com/newsuploadfiles/2022/8/d7958ae6-9af2-47d3-ac0c-39725007b45c.png" w="840" h="463" title="Gurman：苹果已在上周完成 iOS 16 正式版开发，9 月 7 日 iPhone 14 / Pro 系列发布会见" width="840" height="452" referrerpolicy="no-referrer"></p><p data-vmark="a1ba">IT之家里了解到，根据 <a href="https://www.ithome.com/0/635/691.htm" target="_blank">Gurman 本周早些时候的一份报告</a>，苹果计划在 <span class="accentTextColor">9 月 7 日当地时间周三</span>（预计为北京时间 9 月 8 日凌晨）举行 iPhone 14 / Pro 系列发布会。Gurman 表示，苹果已经告知一些 Apple Store 零售店员工为 <span class="accentTextColor">9 月 16 日当地时间周五</span>的新产品发布做准备，这表明新款 iPhone 和 Apple Watch 型号可能会在该日期上市。</p><p data-vmark="f127">此外，天风国际分析师郭明錤转发该爆料称，苹果 iPhone 14 / Pro 系列的发布 / 发货日期可能<span class="accentTextColor">早于 iPhone 13/12</span>，这可能是苹果在上次财报电话会议上对 22 年第三季度前景乐观的原因之一。</p><p data-vmark="bc72">苹果为 iOS 16 引入了全新的锁屏设计，无论是小部件、通知设计还是字体、颜色，用户都可以进行高自由度的个性化定制，而且还将支持多个锁屏。</p><p style="text-align: center;" data-vmark="792a"><img src="https://img.ithome.com/newsuploadfiles/2022/6/f0784d92-2b94-4ccb-96db-e8170b121f47.jpg@s_2,w_820,h_461" w="820" h="461" alt="在 5 台 iPhone 屏幕上展示 iOS 16 及其新功能。" title="Gurman：苹果已在上周完成 iOS 16 正式版开发，9 月 7 日 iPhone 14 / Pro 系列发布会见" width="820" height="461" referrerpolicy="no-referrer"></p><p style="text-align: justify;" data-vmark="3eda">此外，从<a href="https://www.ithome.com/0/632/282.htm" target="_blank">曝光的内容</a>来看，iPhone 14 Pro 和 iPhone 14 Pro Max 的 iOS 16 将迎来<span class="accentTextColor">息屏显示</span>，在按下电源键后，壁纸就会切换到“Sleep”版本，并显示时间、小组件等信息。当用户再次按下电源键亮屏后，壁纸就会切换回原来的彩色版本。</p><p data-vmark="b8d0">▼ 9To5Mac 制作的 iPhone 14 Pro 息屏显示设想图</p><p data-vmark="8cd4" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/7/129ff2cb-bf92-4912-ba7a-615e166de76f.png" w="1378" h="702" alt="9To5Mac 制作的 iPhone 14 Pro 息屏显示设想图" title="Gurman：苹果已在上周完成 iOS 16 正式版开发，9 月 7 日 iPhone 14 / Pro 系列发布会见" width="1378" height="418" referrerpolicy="no-referrer"></p><p data-vmark="ccee">iOS 16 正式版还将包括<a href="https://www.ithome.com/0/622/659.htm" target="_blank">以下功能</a>：</p><p data-vmark="7bfb">专注模式比以前更容易调整，而且用户可以在应用中直接剔除不喜欢的内容。通过信息 App，现在用户可以编辑或者撤回已发送的内容，又或者将信息标记为未读，而且它还支持 SharePlay，与 FaceTime 非常相似。</p><p data-vmark="cdfa">邮件应用在搜索工具方面进行了改进，而且也支持撤回等操作。如果用户没有收到回复，用户甚至还可以设置一个提醒来检查邮件。</p><p data-vmark="9d1b">此外，苹果还在努力用 Passkeys 取代密码来登录账户，这是一种更安全的生物识别方式。</p><p data-vmark="94b2">iCloud 照片库可帮助用户轻易地与其他家人分享照片，而且视频中还支持实时文本 / 字幕显示。此外，它有一个很有趣的新功能，用户可以将主题从背景中提取出来（借助 Visual Lookup）。</p><p data-vmark="a4e9">其他方面，听写功能也同样得到了改进，而且地图现已支持多站路线，苹果还为用户提供了 Apple Pay Later 进行分期付款，而家庭 App 也迎来了全新的面貌。</p><p data-vmark="9c36">iOS 16 Beta5 版本在 iPhone 状态栏中增加了<a href="https://www.ithome.com/0/633/988.htm" target="_blank" title="电池百分比显示">电池百分比显示</a>，此外还引入了新的声音设置，用户可以通过声音更好地查找 Apple Watch 或定位 iPhone。</p><p style="text-align: center;" data-vmark="9190"><img src="https://img.ithome.com/newsuploadfiles/2022/8/880e3599-f925-4631-8bcc-117bd1ce58b3.jpg" w="800" h="450" title="Gurman：苹果已在上周完成 iOS 16 正式版开发，9 月 7 日 iPhone 14 / Pro 系列发布会见" width="800" height="450" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
