@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/05/3725757cee085d2021ea38e0441hunt5.JPG?v=1660819185056'
 author: 巴哈姆特
 comments: false
-date: 2022-08-22 03:19:06
+date: 2022-08-22 05:03:02
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/05/3725757cee085d2021ea38e0441hunt5.JPG?v=1660819185056'
 ---
 
@@ -42,9 +42,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/05/3725757cee085d2021ea38e0441hunt5.
 <div>
  </div>
 <div>
-<div style="background-color: rgb(255, 255, 255);">
+<div>
 　　體驗版可由此下載：</div>
-<div style="background-color: rgb(255, 255, 255);">
+<div>
  </div>
 <ul>
 <li>
@@ -235,8 +235,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/05/3725757cee085d2021ea38e0441hunt5.
 <div>
  </div>
 <div>
-<h2 style="background-color: rgb(255, 255, 255);">
-《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%A5%9E%E9%A0%98%E7%B7%A8%E5%B9%B4%E5%8F%B2" target="_blank">神領編年史</a>》簡介</h2>
+<h2>
+《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%A5%9E%E9%A0%98%E7%B7%A8%E5%B9%B4%E5%8F%B2" target="_blank">神領編年史</a>》簡介</h2>
 <div>
  </div>
 <div>
@@ -272,7 +272,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/05/3725757cee085d2021ea38e0441hunt5.
  </div>
 </div>
 <div>
-<h2 style="background-color: rgb(255, 255, 255);">
+<h2>
 產品資訊</h2>
 <ul>
 <li>
@@ -303,8 +303,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/05/3725757cee085d2021ea38e0441hunt5.
 <div>
  </div>
 <div>
-<h2 style="background-color: rgb(255, 255, 255);">
-官網網站公開最新資訊</h2>
+<h2>
+官網公開最新資訊</h2>
 <div>
  </div>
 <div>
