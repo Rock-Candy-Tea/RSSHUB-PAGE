@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/26/319d9b8e4bd4537bad0535977d1hw565.JPG?v=1661166189303'
 author: 巴哈姆特
 comments: false
-date: 2022-08-22 11:08:33
+date: 2022-08-22 12:19:28
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/319d9b8e4bd4537bad0535977d1hw565.JPG?v=1661166189303'
 ---
 
@@ -22,7 +22,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/319d9b8e4bd4537bad0535977d1hw565.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/26/319d9b8e4bd4537bad0535977d1hw565.JPG?v=1661166189303" data-srcset="https://p2.bahamut.com.tw/B/2KU/26/319d9b8e4bd4537bad0535977d1hw565.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/26/319d9b8e4bd4537bad0535977d1hw565.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/26/319d9b8e4bd4537bad0535977d1hw565.JPG?v=1661166189303" data-srcset="https://p2.bahamut.com.tw/B/2KU/26/319d9b8e4bd4537bad0535977d1hw565.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/26/319d9b8e4bd4537bad0535977d1hw565.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -32,11 +32,11 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/319d9b8e4bd4537bad0535977d1hw565.
 <div>
  </div>
 <div>
-　　官方指出，他們此次釋出《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Nightingale" target="_blank">Nightingale</a>》首部研發日記影片，由研發團隊成員帶領玩家介紹遊戲世界的背景故事與傳說，還有散落在這個遊戲世界的生物等。</div>
+　　官方指出，他們此次釋出《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Nightingale" target="_blank">Nightingale</a>》首部研發日記影片，由研發團隊成員帶領玩家介紹遊戲世界的背景故事與傳說，還有散落在這個遊戲世界的生物等。遊戲故事描述由於奧術傳送門遭切斷，玩家被困在世界之外，玩家必須想辦法成為一名熟練的行者，在跨次元傳送旅行，只有這樣玩家才能找到如何前往已知的人類最後堡壘。</div>
 <div>
  </div>
 <div>
-　　研發團隊在影片中透露，從人類世界而來的實際或虛構人物，將會作為 NPC 在遊戲中登場，像是維多利亞時代的人物等，還有像是莎士比亞故事中《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BB%B2%E5%A4%8F%E5%A4%9C%E4%B9%8B%E5%A4%A2" target="_blank">仲夏夜之夢</a>》的神秘生物等。</div>
+　　當玩家打開前往妖境深處的傳送門，將面對荒蕪的森林、痛苦的沼澤、閃亮的沙漠與陰暗的叢林等各式挑戰，玩家要想辦法烹飪食物、建造居住地等，來熬過逆境與挑戰。研發團隊在影片中透露，遊戲中將會出現從人類世界而來的實際或虛構人物、以 NPC 身份登場，例如像是維多利亞時代的人物等，還有像是莎士比亞故事中《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BB%B2%E5%A4%8F%E5%A4%9C%E4%B9%8B%E5%A4%A2" target="_blank">仲夏夜之夢</a>》的神秘生物。</div>
 <div>
  </div>
 <div>
