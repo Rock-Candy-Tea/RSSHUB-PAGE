@@ -1,0 +1,19 @@
+
+---
+title: '创新不止 _ Provi CM20在红点设计奖中夺得最高荣誉'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/22/jihui/1661148967612069877.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 22 Aug 2022 06:14:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/22/jihui/1661148967612069877.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">近日，奥林巴斯Provi CM20细胞培养监控系统，依靠其突破性创新技术成为2022年红点设计奖（Red Dot Design Award）产品设计类别中“Best of the Best”获得者。这场世界著名的设计大赛中，享有盛誉的红点评审团一致认为Provi CM20细胞培养监控系统代表了细胞培养流程的创新飞跃，是具有开创性的产品，特授予此荣誉。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/22/jihui/1661148967612069877.jpg" alt="创新不止 | Provi CM20在红点设计奖中夺得最高荣誉" width="420" height="614" title="创新不止 | Provi CM20在红点设计奖中夺得最高荣誉" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/22/jihui/1661148968021016817.jpg" alt="创新不止 | Provi CM20在红点设计奖中夺得最高荣誉" width="700" height="357" title="创新不止 | Provi CM20在红点设计奖中夺得最高荣誉" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在传统细胞培养工作流程中，用户每隔2至3天就要从细胞培养箱中取出样品检查包括细胞形态、融合度和计数在内的细胞状况，并在显微镜下进行观察。这一过程既繁琐、又需要手动操作且只能获得定性结果，因此不但造成工作量和成本的增加，而且不同操作者的细胞质量检查结果也存在差别。</p><p style="text-indent: 2em; text-align: left;">这些挑战激发我们设计出更精简解决方案的灵感。CM20细胞培养监控系统将远程细胞观察、自动图像采集和人工智能驱动的细胞量化分析集于一身，从而提高细胞培养的效率和准确性。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/22/jihui/1661148968373052851.png" alt="创新不止 | Provi CM20在红点设计奖中夺得最高荣誉" width="565" height="312" title="创新不止 | Provi CM20在红点设计奖中夺得最高荣誉" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;">国际专家评审团点评</p><p style="text-indent: 2em; text-align: left;"><strong>国际专家评审团点评：</strong>Provi CM20细胞培养监控系统代表了细胞培养流程的创新飞跃。与传统操作方式不同，我们无需从培养箱中取出细胞样本就能进行远程监控，从而显著解放了实验室人员并提供出色的实验结果。该设计理念将高度先进的可视化和分析技术转化为令人印象深刻的紧凑型设备，与培养箱的苛刻环境完美契合。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-8/22/jihui/20220822141809_1661149089069508523.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: center;"><strong>Provi CM20设计亮点</strong></p><p style="text-indent: 2em; text-align: left;">在新的自动化细胞培养工作流程中，用户在完成细胞传代换液等操作后，仅仅需要在软件上一键开启观察项目，即可定时观察细胞获取定量结果。</p><p style="text-indent: 2em; text-align: left;">借助CM20的云工作站，即使是身处家中也可以远程进行监控，实时监测细胞状态。</p><p style="text-indent: 2em; text-align: left;">当完成一个流程的细胞培养后，系统会自动输出全流程细胞图像和分析数据的可视化报告。用户可以根据分析结果定量比较不同批次或者同一批次不同细胞的生长状态。并且借助这些定性和定量的结果快速优化工作流，建立起可重复的实验或者工作流程。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-8/22/jihui/20220822141808_1661149088949454503.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">此前CM20也已斩获过科技创新界的荣誉之一“爱迪生创新奖”。评审团同样对CM20在改善细胞培养工作流程，提供更加智能化数据服务等方面的表现印象深刻。出色纤薄的产品设计进一步赋予了CM20观察细胞工厂等下一代培养容器的可能性。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/22/jihui/1661148970735027147.png" alt="创新不止 | Provi CM20在红点设计奖中夺得最高荣誉" width="565" height="389" title="创新不止 | Provi CM20在红点设计奖中夺得最高荣誉" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">相信CM20将引领细胞观察领域类产品的新一代革命，为客户创造一个更加智能可视化的细胞培养工作场景。</p><p style="text-indent: 2em; text-align: left;">在Evident，我们以科学精神为指导，将创新和探索视为工作的核心。我们始终会通过设计和制造高质量生命科学系统的方式，寻找能够帮助科学家和研究人员改进流程、解决问题并实现目标的全新思路。</p> 
+  
+</div>
+            
