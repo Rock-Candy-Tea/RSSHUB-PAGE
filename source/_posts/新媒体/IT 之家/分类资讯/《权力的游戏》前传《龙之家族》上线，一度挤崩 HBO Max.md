@@ -1,0 +1,19 @@
+
+---
+title: '《权力的游戏》前传《龙之家族》上线，一度挤崩 HBO Max'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/1cf700ca-2169-4dcb-afd9-8b4add879c61.jpg@s_2,w_820,h_273'
+author: IT 之家
+comments: false
+date: Mon, 22 Aug 2022 07:23:15 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/1cf700ca-2169-4dcb-afd9-8b4add879c61.jpg@s_2,w_820,h_273'
+---
+
+<div>   
+<p data-vmark="3789"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 22 日消息，今天，《权力的游戏》前传《龙之家族》剧集的第一集上线 HBO Max，一度挤崩 HBO Max App。</p><p style="text-align: center;" data-vmark="7feb"><img src="https://img.ithome.com/newsuploadfiles/2022/8/1cf700ca-2169-4dcb-afd9-8b4add879c61.jpg@s_2,w_820,h_273" w="1440" h="480" title="《权力的游戏》前传《龙之家族》上线，一度挤崩 HBO Max" srcset="https://img.ithome.com/newsuploadfiles/2022/8/1cf700ca-2169-4dcb-afd9-8b4add879c61.jpg 2x" width="1440" height="273" referrerpolicy="no-referrer"></p><p data-vmark="a795">HBO Max 表示，《龙之家族》上线当晚，<strong>数百万 HBO Max 订阅者成功观看了该剧</strong>。随着大量用户涌入 HBO Max App，一些用户到了无法播放的问题，官方称请尝试关闭应用程序并重新启动。</p><p data-vmark="338e">IT之家了解到，该剧改编自乔治・R・R・马丁的《火与血》，<strong>设定在《权力的游戏》事件发生前 200 年，讲述了坦格利安家族的故事</strong>，情节将包括内战“血龙狂舞”。该剧主演包括帕迪・康斯戴恩、马特・史密斯（神秘博士）、奥利维亚・库克、艾玛・达西、史蒂夫・杜桑（神秘博士）、伊芙・贝斯特、水野索诺亚、法比安・弗兰克尔和里斯・伊凡斯。曾扮演神秘博士的马特・史密斯将饰演一位坦格利安王子。</p><p data-vmark="5dad">IGN 为该剧评分 8 分。目前，一些网友吐槽该剧选角糟糕，相比《权力的游戏》演员颜值大幅下滑。</p><p data-vmark="f970">官方角色海报：</p><p data-vmark="3fbf" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/2f5c56b7-b674-47ad-8654-97d3f485dfe3.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》前传《龙之家族》上线，一度挤崩 HBO Max" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="bdef" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/d2a2ff94-5639-4bdf-98c5-bb0a4f3adb20.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》前传《龙之家族》上线，一度挤崩 HBO Max" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="911c" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/b236f4e2-8af2-40ae-b0c6-aa7579c035dc.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》前传《龙之家族》上线，一度挤崩 HBO Max" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="4ace" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/c122310a-fe26-494e-b783-f8f4d5df4098.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》前传《龙之家族》上线，一度挤崩 HBO Max" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="7a70" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/fb8c6962-b5cc-49cc-a59b-fa1d80bd67d3.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》前传《龙之家族》上线，一度挤崩 HBO Max" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="5bcc" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/0534240c-2b78-4848-97f9-cab8061623e2.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》前传《龙之家族》上线，一度挤崩 HBO Max" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="591e" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/2a827f52-1fbe-47a6-86e6-9f824a322a21.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》前传《龙之家族》上线，一度挤崩 HBO Max" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="f92f" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/c168884f-5334-4b56-821e-48ace4957070.jpg@s_2,w_820,h_1230" w="1440" h="2160" title="《权力的游戏》前传《龙之家族》上线，一度挤崩 HBO Max" width="1440" height="1230" referrerpolicy="no-referrer"></p><p data-vmark="a691" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/f3827eb1-747c-4c4c-9956-49741df23f49.jpg@s_2,w_820,h_546" w="1440" h="959" title="《权力的游戏》前传《龙之家族》上线，一度挤崩 HBO Max" width="1440" height="546" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
