@@ -1,0 +1,19 @@
+
+---
+title: '硕日新能源参评_维科杯·OFweek 2022年度光伏行业最具成长力企业_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/22/guanghua/1661161182724044554.png'
+author: 高科技行业门户
+comments: false
+date: Mon, 22 Aug 2022 09:44:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/22/guanghua/1661161182724044554.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">由高科技行业门户OFweek维科网主办、OFweek<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能光伏">太阳能光伏</a></span>网承办的“维科杯·OFweek 2022<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a></span><span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>行业年度评选”正在火热进行中！</p><p style="text-indent: 2em; text-align: left;">本次评选活动将于2022年8月24日-8月31日进入网络投票环节，最终获奖结果将于9月27日在深圳举办的“OFweek 2022（第十三届）太阳能光伏产业大会暨年度评选颁奖典礼”上隆重公布。</p><p style="text-indent: 2em; text-align: left;">目前活动已吸引众多业内企业积极参评！其中<strong>深圳硕日新能源科技优先公司（以下简称“硕日新能源”）参评“维科杯·OFweek 2022年度光伏行业最具成长力企业”。</strong></p><p style="text-indent: 2em; text-align: left;"><strong>企业简介</strong></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/22/guanghua/1661161182724044554.png" width="500" height="170" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">深圳硕日新能源科技有限公司成立于2008年,总部位于深圳，工厂地处东莞长安。硕日是世界一流的光伏离网产品及解决方案提供商，集研发、生产、销售和服务于一体的国家高新技术企业。</p><p style="text-indent: 2em; text-align: left;">公司从成立至今，荣获100余项国家技术专利，成功入选广东省知识产权示范企业、获评“广东省太阳能<span class="hrefStyle"><a href="https://chuneng.ofweek.com/CATList-180200-8300-chuneng.html" target="_blank" title="储能技术">储能技术</a></span>工程技术研究中心”。公司诸多技术、产品工艺、产品设计成为行业标准。</p><p style="text-indent: 2em; text-align: left;">公司现已形成以“SRNE”品牌为主的太阳能控制器、逆控一体机、户用<span class="hrefStyle"><a href="https://chuneng.ofweek.com/" target="_blank" title="储能">储能</a></span>为主的三大产品线及“源码Road Smart”品牌为主的太阳能路灯的产品线。在“诚信、创新、超越、共赢”的经营理念下，公司在国内和海外都建立起了完善的销售和服务网络。</p><p style="text-indent: 2em; text-align: left;"><strong>参选奖项：维科杯·OFweek 2022年度光伏行业最具成长力企业</strong></p><p style="text-indent: 2em; text-align: left;"><strong>参选述说／理由：</strong></p><p style="text-indent: 2em; text-align: left;">硕日新能源从太阳能控制器起家，相继布局储能<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260002-guangfuqijian.html" target="_blank" title="逆变器">逆变器</a></span>、户用储能等产品线，公司专注于户用端光伏离网电源设备的研发生产，并不断向光伏离网系统解决方案，即户用储能系统延伸。由于光伏离网发电系统当前的主流市场在海外，因此公司一直在积极开拓海外市场，目前公司绝大部分的产品直接或间接的销往海外。“光伏+储能”作为未来的发展方向，目前处于爆发前期，公司在太阳能控制器与储能逆变器领域具有技术与市场的沉淀，具备了先发优势，适合海外户用需求，深受终端消费者的喜爱，具有极大的潜力。</p><p style="text-indent: 2em; text-align: left;">光伏行业相关会议展会推荐：</p><p style="text-indent: 2em; text-align: left;">1、OFweek 2022(第十三届)太阳能光伏产业大会暨光伏行业年度颁奖典礼</p><p style="text-indent: 2em; text-align: left;">时间地点：2022年9月27日，深圳福田会展中心</p><p style="text-indent: 2em; text-align: left;">大会专题：<a href="https://www.ofweek.com/seminar/2022/pv/" target="_blank">https://www.ofweek.com/seminar/2022/pv/</a></p><p style="text-indent: 2em; text-align: left;">2、OFweek 2022智慧光伏与储能大会暨展览会将于</p><p style="text-indent: 2em; text-align: left;">时间地点：2022年9月27-29日，深圳福田会展中心</p><p style="text-indent: 2em; text-align: left;">大会专题：<a href="https://www.ofweek.com/seminar/2022/PVES/" target="_blank">https://www.ofweek.com/seminar/2022/PVES/</a></p><p style="text-indent: 2em; text-align: left;">3、维科杯·OFweek 2022太阳能光伏行业年度评选</p><p style="text-indent: 2em; text-align: left;">时间地点：2022年9月27-29日，深圳福田会展中心</p><p style="text-indent: 2em; text-align: left;">会议专题：<a href="https://www.ofweek.com/award/2022/solar/" target="_blank">https://www.ofweek.com/award/2022/solar/</a></p> 
+  
+</div>
+            
