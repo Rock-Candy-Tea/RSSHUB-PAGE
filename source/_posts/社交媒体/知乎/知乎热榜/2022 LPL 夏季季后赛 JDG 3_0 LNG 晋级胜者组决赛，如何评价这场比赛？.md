@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=5860'
+headimg: 'https://picsum.photos/400/300?random=8239'
 author: 知乎
 comments: false
-date: Tue, 23 Aug 2022 12:20:06 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5860'
+date: Tue, 23 Aug 2022 11:54:04 GMT
+thumbnail: 'https://picsum.photos/400/300?random=8239'
 ---
 
 <div>   
-海瑟薇的床边故事的回答<br><br><p data-pid="gPYk-6iS">季后赛第一轮打完。</p><p data-pid="GroAP5KY">JDG：我有虚空女皇打野！</p><p data-pid="95hNB8j_">LNG：我有永恩中单！</p><p data-pid="IxId0YiI">TES：我有赛娜塔姆！</p><p data-pid="031Rz-sG">EDG：我有无敌猫咪！</p><p data-pid="LZOWymQI"><b>RNG：我有泰坦！</b></p><p data-pid="Kos8z7GX">众人：？</p><p data-pid="y9hujvyg">JDG：我有莫甘娜打野！</p><p data-pid="BhYPOQKa">LNG：我有梦魇中单！</p><p data-pid="P22m0uOy">TES：我有布隆反打！</p><p data-pid="DYf1jYgI">EDG：我有厄斐琉斯大核体系！</p><p data-pid="jnrb-N-_"><b>RNG：我有薇古丝！</b></p><p data-pid="w0SC9Pxd">众人：？</p><p data-pid="5owpVa83">JDG：我有下路一级团埋伏！</p><p data-pid="7MD2vQxE">LNG：我有中路稳定扫眼！</p><p data-pid="AIV3YrQ7">TES：我有拉扯到极致的逆风反打能力！</p><p data-pid="koH1sTXr">EDG：我有运营到胜势的前期雪球能力！</p><p data-pid="p51I8jg_"><b>RNG：我在靠！我在靠！我在赶！我们这波很强，强开无敌的！</b></p><hr><p data-pid="rZpPko6P">不开玩笑了，去掉RNG这个晦气的……</p><p data-pid="2xxTFbVZ"><b>TES≥EDG≥JDG，这三支队伍甚至后面每打一轮我都不信有人能完整预测谁胜谁负。</b></p><p data-pid="4puJsMwm"><b>软辅的加入改变了团战的玩法，你能看到比去年更加纷繁复杂的操作去带领队伍获得比赛的胜利。</b></p><p data-pid="sSMqO06U">膏膏！他就像个战神！</p><p data-pid="fqy6jaqX">999！他就是个战神！</p><p data-pid="NuVtSzoW">NANA！我已经迫不及待看你和小天的常规赛MVP候选人对决了。</p><p data-pid="XZ-9l2kY">从TES到JDG，我们发现并不是久疏战阵就一定会一泻千里，TES中路昏了一盘就觉醒了，JDG测试了一场猫咪的强度拿下之后依然不头铁的按死。</p><p data-pid="VX4XCa7q"><b>今年LPL的常规赛也许真的很难看，但今年的季后赛真的太好看了。</b></p><p></p><p></p><p></p>  
+呆呆磊的回答<br><br><p data-pid="Mnp7EF7c">这就是有一个顶级教练的强队表现，不怕你连胜手热，更多的时间还能够准备更多的套路，三局的bp，第三局的下路埋伏就是把lng研究明白了。</p><p data-pid="XnoiDfUe">这样单杀，9宝你要干嘛呀！！！</p><p data-pid="W15rDpfF">上次看到如此意气风发的369还是在当年的msc。</p><p data-pid="wGkM1syr">其实认真的来说，这个赛季的369的对线是收着打的，并不像之前的他过于专注于对线，选了很多团队英雄，能压也是稳着压。</p><p data-pid="Yq-NeGr2">可是，不要忘记369曾经是一个偏科于对线的选手，永远不要低估他的对线能力，红米这赛季应该有注重训练他偏弱的团战能力，在这一刻红米的调教以及他自己的努力，一起爆发了出来。对线单杀，团战无敌，说实在的在看第二局时，我隔着屏幕看着369那个鳄鱼都害怕。</p><p data-pid="wMUo3KBf">说起missing，我真心认为一阵应该给他，峰峰这个赛季的表现堪称完美，其实当时他在we作为重建核心时，我就觉得这个辅助挺强的，是有机会成为不亚于meiko和ming的顶级辅助，但是当时的we“卖票”很怕他会一蹶不振。</p><p data-pid="B-ULJdPz">hope其实当年在edg打的还不错的，只是老公猛的太耀眼，现在hope能够在jdg打的真的好，淀粉好像都挺欣慰的，这个赛季的hope和峰峰的下路组合其实对线强度很高，并且团战尤其是他的强项。</p><p data-pid="lIhignoR">牙膏在联赛打了很多年了，不知为什么有人认为他是很弱的中单，其实在法核版本牙膏真的很强，并且他也一直在练英雄扩充自己的英雄池，就是为了帮助团队，曾经被诟病是一个不善于游走的中单，但是他这赛季的游走威胁真的很大。这一刻宣布:膏膏时差调好了，等着！</p><p data-pid="TTPy0MDb">kanavi在加入jdg一直作为核心来打，他不只是靠野核来赢比赛，注重队伍更多的发展，走出自己的舒适圈，玩一些更多节奏打野，这个赛季的他和小天应该是并列最强打野。</p><p data-pid="Nyb68Iw1">其实，这个jdg的队员都是曾经被人诟病很多问题的，在加入这个队伍时，在红米和他们自己的努力下成为了一个顶级强队。</p><p data-pid="BbFkVNCM">这个赛季jdg有时候打的其实很浪，不太符合jdg一贯的风格，我只能理解这是一种自信，是他们对自己的队伍的自信。</p>  
 </div>
             
