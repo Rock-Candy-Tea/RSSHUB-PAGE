@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/63/f14f13a3261e851cfd27e6a9b41hw3f5.JPG?v=1661162951986'
 author: 巴哈姆特
 comments: false
-date: 2022-08-23 00:58:51
+date: 2022-08-23 03:34:48
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/63/f14f13a3261e851cfd27e6a9b41hw3f5.JPG?v=1661162951986'
 ---
 
@@ -35,7 +35,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/63/f14f13a3261e851cfd27e6a9b41hw3f5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%82%91%E5%85%8B%E9%A7%AD%E7%AB%8A%E4%BB%BB%E5%8B%99" target="_blank">傑克駭竊任務</a>》是一款融合了賽博龐克與現代風像素風格的回合制冒險 RPG。玩家將於遊戲中扮演年輕駭客「諾亞（Noa）」，平時疏遠主人公的父親「亞伯納（Abner）」因不明原因被大企業「Monomind」綁架帶走，別無他法的諾亞只能在事情惡化之前把父親拯救出來，並試圖找出隱藏在這黑暗世界背後的陰謀。</div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%82%91%E5%85%8B%E9%A7%AD%E7%AB%8A%E4%BB%BB%E5%8B%99" target="_blank">傑克駭竊任務</a>》是一款融合了賽博龐克與現代像素風格的回合制冒險 RPG。玩家將於遊戲中扮演年輕駭客「諾亞（Noa）」，平時疏遠主人公的父親「亞伯納（Abner）」因不明原因被大企業「Monomind」綁架帶走，別無他法的諾亞只能在事情惡化之前把父親拯救出來，並試圖找出隱藏在這黑暗世界背後的陰謀。</div>
 <div>
  </div>
 <div>
