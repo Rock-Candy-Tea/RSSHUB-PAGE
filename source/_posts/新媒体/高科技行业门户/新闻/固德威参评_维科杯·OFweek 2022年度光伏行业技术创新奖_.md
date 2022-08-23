@@ -1,0 +1,19 @@
+
+---
+title: '固德威参评_维科杯·OFweek 2022年度光伏行业技术创新奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/23/guanghua/1661251819006076460.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 23 Aug 2022 10:54:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/23/guanghua/1661251819006076460.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">由高科技行业门户OFweek维科网主办、OFweek<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能光伏">太阳能光伏</a></span>网承办的“维科杯·OFweek2022<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a></span><span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>行业年度评选”正在火热进行中！</p><p style="text-indent: 2em; text-align: left;">本次评选活动将于2022年8月24日-8月31日进入网络投票环节，最终获奖结果将于9月27日在深圳举办的“OFweek 2022（第十三届）太阳能光伏产业大会暨年度评选颁奖典礼”上隆重公布。</p><p style="text-indent: 2em; text-align: left;">目前活动已吸引众多业内企业积极参评！其中<strong>固德威技术股份有限公司参评“维科杯·OFweek 2022年度光伏行业技术创新奖”。</strong></p><p style="text-indent: 2em; text-align: left;"><strong>企业简介</strong></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/23/guanghua/1661251819006076460.png" width="500" height="279" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">固德威技术股份有限公司成立于2010年，总部位于苏州高新区，是一家以新能源电力电源设备的转换、<span class="hrefStyle"><a href="https://chuneng.ofweek.com/" target="_blank" title="储能">储能</a></span>变换、能源管理为基础，以降低用电成本、提高用电效率为核心，以能源多能互补、能源价值创造为目的，集自主研发、生产、销售及服务为一体的高新技术企业，主营业务产品包括<span class="hrefStyle"><a href="https://solar.ofweek.com/KW-guangfubingwang.html" target="_blank" title="光伏并网">光伏并网</a></span><span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260002-guangfuqijian.html" target="_blank" title="逆变器">逆变器</a></span>、<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-1009-guangfuchuneng.html" target="_blank" title="光伏储能">光伏储能</a></span>逆变器、智能数据采集器以及SEMS智慧能源管理系统。</p><p style="text-indent: 2em; text-align: left;"><strong>参选奖项：维科杯·OFweek 2022年度光伏行业技术创新奖</strong></p><p style="text-indent: 2em; text-align: left;"><strong>参选述说／理由：</strong></p><p style="text-indent: 2em; text-align: left;">创新是一个企业的生命力，固德威拥有研发人员超600名，依托十多年的实力积淀，不断修炼研发创新内功，增强核心竞争力。早前，固德威就已先后荣获政府列名“高新技术企业”、“省工程技术中心”、“省工业设计中心”、“省博士后创新基站”、“省研究生工作站”等，其检测实验室还顺利通过CNAS（中国合格评定认可委员会）国家检测实验室认可。固德威还积极与各知名高校共建产学研合作平台，推动光伏产业向高度智能化、场景化、更高安全性、更高可靠性、更低成本的方向发展，从而引领国内智慧能源产业前沿技术，为推动国家能源转型添砖加瓦。</p><p style="text-indent: 2em; text-align: left;">光伏行业相关会议展会推荐：</p><p style="text-indent: 2em; text-align: left;">1、OFweek 2022(第十三届)太阳能光伏产业大会暨光伏行业年度颁奖典礼</p><p style="text-indent: 2em; text-align: left;">时间地点：2022年9月27日，深圳福田会展中心</p><p style="text-indent: 2em; text-align: left;">大会专题：<a href="https://www.ofweek.com/seminar/2022/pv/" target="_blank">https://www.ofweek.com/seminar/2022/pv/</a></p><p style="text-indent: 2em; text-align: left;">2、OFweek 2022智慧光伏与储能大会暨展览会将于</p><p style="text-indent: 2em; text-align: left;">时间地点：2022年9月27-29日，深圳福田会展中心</p><p style="text-indent: 2em; text-align: left;">大会专题：<a href="https://www.ofweek.com/seminar/2022/PVES/" target="_blank">https://www.ofweek.com/seminar/2022/PVES/</a></p><p style="text-indent: 2em; text-align: left;">3、维科杯·OFweek 2022太阳能光伏行业年度评选</p><p style="text-indent: 2em; text-align: left;">时间地点：2022年9月27-29日，深圳福田会展中心</p><p style="text-indent: 2em; text-align: left;">会议专题：<a href="https://www.ofweek.com/award/2022/solar/" target="_blank">https://www.ofweek.com/award/2022/solar/</a></p> 
+  
+</div>
+            
