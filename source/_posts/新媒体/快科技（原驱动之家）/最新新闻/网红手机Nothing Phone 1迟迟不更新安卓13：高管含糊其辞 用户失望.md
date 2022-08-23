@@ -1,0 +1,38 @@
+
+---
+title: '网红手机Nothing Phone 1迟迟不更新安卓13：高管含糊其辞 用户失望'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20220823/s_8c983d0db7ab40829e67699a85417845.jpg'
+author: 快科技（原驱动之家）
+comments: false
+date: Tue, 23 Aug 2022 21:58:49 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20220823/s_8c983d0db7ab40829e67699a85417845.jpg'
+---
+
+<div>   
+<p>Nothing由前一加联合创始人Carl Pei创办，这家公司在7月份推出了旗下第一款新品Nothing Phone 1。</p>
+<p>该机在未发布之前就引发极高的关注，<strong>酷安网上Nothing Phone 1热度超过了19万，与iPhone 14 20万的热度较为接近。</strong></p>
+<p>Nothing Phone 1凭借着独特的设计风格，在一众安卓手机中脱颖而出，再加上469欧元（约合人民币3200元）的售价，<strong>上市后销量迅速突破了20万台，被网友称为”网红手机“。</strong></p>
+<p>伴随着Android 13正式版的到来，用户也在期盼Nothing能第一时间为Nothing Phone 1适配Android 13。</p>
+<p>然而Nothing创始人Carl Pei在与用户互动时含糊其辞，<span style="color:#ff0000;"><strong>未正面回应什么时候推送Android 13正式版更新，称”规格、功能和版本号不代表产品的全部“。</strong></span></p>
+<p>对于这样的回答，网友认为过于敷衍，有些失望。Nothing客服称Nothing Phone 1 Android 13更新预计在2023年上半年推出。</p>
+<p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220823/8c983d0db7ab40829e67699a85417845.jpg" style="text-align: -webkit-center;" target="_blank"><img alt="网红手机Nothing Phone 1迟迟不更新安卓13：高管含糊其辞 用户失望" h="303" src="https://img1.mydrivers.com/img/20220823/s_8c983d0db7ab40829e67699a85417845.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
+<p><strong>考虑到Nothing Phone 1预装的Nothing OS与原生Android较为接近，因此明年上半年才推送显然有些晚了。</strong></p>
+<p>据悉，此次Android 13改进了现有的隐私控制。在Android 13上，谷歌添加了更精细的权限设置，允许用户仅共享特定的照片和视频，而不是授予对媒体库的完全访问权限。</p>
+<p>另外，Android 13也会在一段时间后自动清除剪贴板历史记录，用户必须授予应用发送通知的权限，而不会默认开启。</p>
+<p>更重要的是，Android 13采用蓝牙低功耗(LE)音频，这是一种新的蓝牙音频标准，延迟更低。</p>
+<p>这使得用户可以听到与声音源近乎同步的音频，从而减少延迟。借助蓝牙低功耗(LE)音频，用户还可以享受增强的音频质量并将音频同时广播到多个设备。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220823/4f9fb8ade08142ee95e7e74380545e89.png" target="_blank"><img alt="网红手机Nothing Phone 1迟迟不更新安卓13：高管含糊其辞 用户失望" h="300" src="https://img1.mydrivers.com/img/20220823/s_4f9fb8ade08142ee95e7e74380545e89.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+
+            
+ <div style="overflow: hidden;font-size:14px;padding-top:30px;border-bottom:1px solid #eee;">
+           <p class="zhuanzai">【本文结束】如需转载请务必注明出处：快科技</p>  
+          <p class="url"><span style="color:#666">责任编辑：振亭</span></p>
+        </div>
+     
+        
+</div>
+            
