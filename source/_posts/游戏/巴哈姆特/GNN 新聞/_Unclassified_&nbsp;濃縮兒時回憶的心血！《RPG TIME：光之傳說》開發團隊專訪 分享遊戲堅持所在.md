@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/93/9d328440cf02db5e90d7f413bf1hvnl5.JPG?v=1661137144584'
 author: 巴哈姆特
 comments: false
-date: 2022-08-22 15:11:18
+date: 2022-08-23 00:58:51
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/9d328440cf02db5e90d7f413bf1hvnl5.JPG?v=1661137144584'
 ---
 
 <div>   
 <div>
 <div>
-　　搶先 1 年在 Xbox、PC 以及智慧型手機平台上推出，日前終於在 Nintendo Switch 和 PlayStation 平台上推出的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=RPG+TIME%EF%BC%9A%E5%85%89%E4%B9%8B%E5%82%B3%E8%AA%AA" target="_blank">RPG TIME：光之傳說</a>（RPG タイム！～ライトの伝説～）》，是一款以「小學生在筆記本上繪製出的遊戲」作為舞台，其獨特而且溫馨的風格讓人印象十分深刻的作品。</div>
+　　搶先 1 年在 Xbox 以及 PC 平台發售，日前終於在 Nintendo Switch 和 PlayStation 平台上推出的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=RPG+TIME%EF%BC%9A%E5%85%89%E4%B9%8B%E5%82%B3%E8%AA%AA" target="_blank">RPG TIME：光之傳說</a>（RPG タイム！～ライトの伝説～）》是一款以「小學生在筆記本上繪製出的遊戲」作為舞台，其獨特而且溫馨的風格讓人印象十分深刻的作品。</div>
 <div>
  </div>
 <div>
@@ -31,11 +31,11 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/9d328440cf02db5e90d7f413bf1hvnl5.
 <div>
  </div>
 <div>
-<span style="color:#a52a2a;"><span style="font-size:13px;">※ Indie World 是任天堂為推薦獨立製作遊戲而推出的企畫，為大家介紹獨立製作遊戲的時下新作與精典名作。</span></span></div>
+<span style="color:#a52a2a;"><span style="font-size:13px;">※ Indie World 是任天堂為推薦獨立製作遊戲而推出的企劃，為大家介紹獨立製作遊戲的時下新作與精典名作。</span></span></div>
 <div>
  </div>
 <div>
-　　本作的開發團隊 DeskWorks！，是由「會寫一點程式的遊戲企畫」以及「會畫一點畫的遊戲企畫」兩名成為為中心組成的日本獨立遊戲開發團隊。本作就是由這兩人為主，花費長達九年的時間精心打造出來的心血。</div>
+　　本作的開發團隊 DeskWorks！，是由「會寫一點程式的遊戲企劃」以及「會畫一點畫的遊戲企劃」兩名成為為中心組成的日本獨立遊戲開發團隊。本作就是由這兩人為主，花費長達九年的時間精心打造出來的心血。</div>
 <div>
  </div>
 <div>
