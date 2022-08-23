@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14741/scrooge.-full.jpg'
 author: Axis Studios
 comments: false
-date: 2022-08-23 12:19:43
+date: 2022-08-23 13:32:04
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14741/scrooge.-full.jpg'
 ---
 
@@ -31,6 +31,17 @@ thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14741/scrooge.-full.j
 
                 
 
+                    
+                        <h3 class="mb-0">
+                            Senior team
+                        </h3>
+                            <span class="listing-details semni">
+                                    <a href="https://axisstudiosgroup.com/people/stephen-donnelly/">Stephen Donnelly</a>: 
+                                <span class="detail">
+                                         Director
+                                </span>
+                            </span>
+                    
 
                 
             
