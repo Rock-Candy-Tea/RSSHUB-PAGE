@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/28/6932ae281b383535a5f99208801hwgc5.JPG?v=1661229278866'
 author: 巴哈姆特
 comments: false
-date: 2022-08-23 09:09:56
+date: 2022-08-23 10:11:12
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/6932ae281b383535a5f99208801hwgc5.JPG?v=1661229278866'
 ---
 
@@ -38,7 +38,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/6932ae281b383535a5f99208801hwgc5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B8%81%E4%B8%81%E6%AD%B7%E9%9A%AA%E8%A8%98" target="_blank">丁丁歷險記</a>》是由漫畫家 Hergé 創作、最早於 1929 年以法文首次出版，至今已累計銷售超過 2 億 7 千5 百萬本。而 Moulinsart 是於 1986 年成立，旨在專門保護並推廣漫畫家 Hergé 旗下作品。</div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B8%81%E4%B8%81%E6%AD%B7%E9%9A%AA%E8%A8%98" target="_blank">丁丁歷險記</a>》是由漫畫家 Hergé 創作、最早於 1929 年以法文首次出版，至今已累計銷售超過 2 億 7 千5 百萬本。而 Moulinsart 是於 1986 年成立的機構，旨在專門保護並推廣漫畫家 Hergé 旗下作品。</div>
 <div>
  </div>
 <div>
@@ -55,7 +55,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/6932ae281b383535a5f99208801hwgc5.
  </div>
 <div>
 <div>
-　　發行商 Microids 的 CEO Stephane Longeard 表示：「能夠改編這位著名的比利時記者冒險經歷是一件令人感到興奮的事情。我們從幾年前就開始研發這款遊戲，現在已經迫不及待地想向玩家展示更多資訊。我們將竭盡全力向 Hergé 的作品致敬，並呈現給玩家最好的改編作品。」</div>
+　　Microids 首席執行長 Stéphane Longeard 表示：「能夠改編這位著名的比利時記者冒險經歷是一件令人感到興奮的事情。我們從幾年前就開始研發這款遊戲，現在已經迫不及待地想向玩家展示更多資訊。我們將竭盡全力向 Hergé 的作品致敬，並呈現給玩家最好的改編作品。」</div>
 <div>
  </div>
 <div>
