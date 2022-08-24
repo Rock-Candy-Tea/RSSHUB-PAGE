@@ -1,0 +1,18 @@
+
+---
+title: '《魔音 MagicVoice》Track03 #133 回家吧'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/5e47da5f-e010-4a80-9a3a-17d6747458ae.jpeg'
+author: Matters
+comments: false
+date: Wed, 24 Aug 2022 00:54:24 GMT
+thumbnail: 'https://assets.matters.news/embed/5e47da5f-e010-4a80-9a3a-17d6747458ae.jpeg'
+---
+
+<div>   
+<figure class="image"><img src="https://assets.matters.news/embed/5e47da5f-e010-4a80-9a3a-17d6747458ae.jpeg" data-asset-id="5e47da5f-e010-4a80-9a3a-17d6747458ae" referrerpolicy="no-referrer"><figcaption><span>凌嬰｜繪者：KC.5（Tommy Ng）</span></figcaption></figure><p>肇飛知道，他不能把預見的說出口。言靈的力量，連他自己也無法控制，每當他把預見到的化成語言傾諸於口，預示必定成為事實，無法逆改。這是為甚麼他總不能暢所欲言的原因。</p><p>然而，他絕對不能讓這個未來成為事實！</p><p>金黃色的光霧，填滿肇飛的一雙眼，又轉瞬消退無蹤。他拉著澄音與凌嬰的手，變得無力。站立的力量，也失去了，他跪倒地上，就像預示情景中的阿流。</p><p><strong>「傻瓜！」</strong></p><p>被抱緊。肇飛感受到一陣熟悉的香氣。</p><p>凌沁身上花香，撲鼻而至。她的兩手，用盡氣她柔弱身體的力量，擁抱著肇飛。</p><p>本來戴在頭上的畫家帽，因她跑得太快而被吹跌了，及腰的長曲髮散開，順勢把她與肇飛包圍起來。</p><p><strong>「沒事了啦！我們回家吧！」</strong></p><p>凌沁活潑的聲音，在肇飛心裡響起。</p><p>只在他的心內響起。</p><figure class="image"><img src="https://assets.matters.news/embed/0a475d6c-8235-43fb-89cf-6c1c8caf5e4d.jpeg" data-asset-id="0a475d6c-8235-43fb-89cf-6c1c8caf5e4d" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><hr><hr><p><br></p><p><em>擁有可能是最具傳奇性的魔音樂團，聲舞唱片的創辦人，據聞早在魔音樂團尚未成軍，便已長期留在倫敦，隱居。</em></p><p><em>在那之前，他曾經擁有支配不少跨國業務的龐大企業王國。只是，在他退下來之後，大部分業務紛紛自立分家，而他亦沒有作出任何干預的行動，只保留包括聲舞唱片在內的少數機構。那些機構，五花百門。唯一，同時最重要的共通點，它們全是面向公眾的企業。</em></p><p><em>他有三個女兒，除大女隨他遠赴倫敦之外，年紀相差一歲的二女和么女被留在這城市。她們擁有父親所送的一座大宅，還有天文數字的財富，可對於家族業務的一切，幾乎與她們毫無關係。</em></p><p><em>除了，她們分別憑自己能力，成為魔音樂團的成員。</em></p><p><em>支離破碎的凌家。</em></p><p><em>凌家的女兒……</em></p><p><br></p><hr><hr><p><br></p><p>阿流花了半晚，看畢所有他能夠在網上尋得，有關凌家的資料。</p><p>雖然他無法明白擁有家人，感覺會怎麼樣，是否特別快樂？還是特別安心、溫暖？他只有兩個月的記憶，家人這名詞對他來說，實在陌生。然而，把家人套用在凌嬰與她姐姐身上；明明有著重要的父親與大姐，可又無法待在一起，阿流感受到那份無奈與哀愁。</p><p>十多小時之前，阿流伴隨凌沁，闖進洋禾醫院三樓的禁地。那裡，有數不清的藥水瓶，無色亦無味，就如一般開水一樣。凌沁拿起了幾瓶細看，眉頭緊皺。</p><p>「阿流，告訴你一個秘密，你可不要告訴任何人呀！」回復笑臉，凌沁把其中一瓶藥水打開，遞到阿流面前，笑說：「很久以前，我們家的老頭子，想過製造這些呢。」</p><p>「藥水？」</p><p>「是控制候選者，魔力甦醒後，將會擁有哪一種能力的魔法藥水。」凌沁似在開玩笑。</p><p>阿流察看瓶上的標籤，恍然大悟，點了點頭。</p><p>「即是，只要讓某個人喝下這藥水，當他的魔力被喚醒後，他便擁有Jumper的異能，對嗎？」</p><p>「對呀！就是人人都有可能像我或小嬰一樣，想有何種魔力都可以。」凌沁把手上的瓶子，隨手向後拋，任由它墜落，粉碎。「老頭子臨離開之前說過，這些其實不應存在。世上有三個妖女已經太多了。」</p><p>「妖女？」這個，阿流罕有地無法立即明白過來。</p><p>「這個稱號蠻不錯呢。老頭子說的，是我們三姐妹。凌家的女兒。」凌沁像在說著別人的故事，神態輕鬆自在。</p><p>「陷阱，快出來！」肇飛的喊叫聲隱約從外面傳來。</p><p>肇飛的聲音，似比凌沁自己的身世，更能讓她動容。凌沁再沒多說半句，立即拉著阿流，以最快速度，拐過看來是捷徑一樣的巷道，直奔出去。</p><p>阿流記得，在三樓走廊衝刺的時候，其中有一間病房，房門虛掩。從那窄小隙縫之間，他看見病床上躺著一個男人。那男人半仰起頭，似乎見到阿流，咧嘴露出一個滿孩子氣的笑容。</p><p>那個笑容，讓阿流安心。於是，他也微笑起來，以穩健步伐代替之前有點不知所措的腳步，與凌沁並肩，一起離開這座醫院。</p><p>凌家的女兒……</p><p><br></p><p>未完待續</p><p><strong>繼續閱讀《魔音》</strong><a href="https://matters.news/tags/VGFnOjEwNjA4NQ" rel="noopener noreferrer" target="_blank"><br class="smart">魔音MagicVoice</a> <a href="https://matters.news/tags/VGFnOjEwNjA5MQ" rel="noopener noreferrer" target="_blank"><br class="smart">MagicVoice Saga</a> <br class="smart">Track 01《<a href="https://matters.news/tags/VGFnOjEwNjA5Mg" rel="noopener noreferrer" target="_blank">無法告訴你這約誓</a>》<br class="smart">Track 02《<a href="https://matters.news/tags/VGFnOjEwNjA4Ng" rel="noopener noreferrer" target="_blank">聽見無聲告白</a>》<br class="smart">Track 03《<a href="https://matters.news/tags/VGFnOjEwNjA4Nw" rel="noopener noreferrer" target="_blank">回憶休止符</a>》 <br class="smart">不一樣的《<a href="https://www.penana.com/story/100271" rel="noopener noreferrer" target="_blank">魔音</a>》</p>  
+</div>
+            

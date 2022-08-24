@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/23/7472d58516bddd01f5cd3a780a1hx2f5.JPG?v=1661288386771'
 author: 巴哈姆特
 comments: false
-date: 2022-08-24 00:52:54
+date: 2022-08-24 03:31:35
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/23/7472d58516bddd01f5cd3a780a1hx2f5.JPG?v=1661288386771'
 ---
 
@@ -21,13 +21,19 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/23/7472d58516bddd01f5cd3a780a1hx2f5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 33.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/23/7472d58516bddd01f5cd3a780a1hx2f5.JPG?v=1661288386771" data-srcset="https://p2.bahamut.com.tw/B/2KU/23/7472d58516bddd01f5cd3a780a1hx2f5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/23/7472d58516bddd01f5cd3a780a1hx2f5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 33.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/23/7472d58516bddd01f5cd3a780a1hx2f5.JPG?v=1661288386771" data-srcset="https://p2.bahamut.com.tw/B/2KU/23/7472d58516bddd01f5cd3a780a1hx2f5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/23/7472d58516bddd01f5cd3a780a1hx2f5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%B5%95%E5%91%BD%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%AF%A6%E9%A9%97" target="_blank">絕命精神病院實驗</a>》故事背景設定在冷戰時期，非自願的志工被莫科夫公司（Murkoff Corporation）強迫招募，成為新型洗腦和精神控制方法的受試者。在佈滿猜疑、恐懼和暴力的世界裡，你的道德會面臨挑戰、你的耐力會遭到試驗，而你的理智則會被粉碎。</div>
+<div>
+ </div>
+<div>
+<p class="caution">
+【注意！以下影片包含暴力或暴露等限制級成分，未成年請勿觀看！】</p>
+</div>
 <div>
  </div>
 <div>
