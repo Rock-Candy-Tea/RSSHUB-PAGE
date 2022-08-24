@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.JPG?v=1661324059159'
 author: 巴哈姆特
 comments: false
-date: 2022-08-24 08:12:34
+date: 2022-08-24 09:09:38
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.JPG?v=1661324059159'
 ---
 
@@ -33,7 +33,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.JPG?v=1661324059159" data-srcset="https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.JPG?v=1661324059159" data-srcset="https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -64,7 +64,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 49.35%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/10/b59581559fb0d26a458204c4ea1hxae5.JPG?v=1661324248279" data-srcset="https://p2.bahamut.com.tw/B/2KU/10/b59581559fb0d26a458204c4ea1hxae5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/10/b59581559fb0d26a458204c4ea1hxae5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 49.35%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/10/b59581559fb0d26a458204c4ea1hxae5.JPG?v=1661324248279" data-srcset="https://p2.bahamut.com.tw/B/2KU/10/b59581559fb0d26a458204c4ea1hxae5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/10/b59581559fb0d26a458204c4ea1hxae5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -99,7 +99,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.
 <td>
 <span style="font-size:16px;">草</span></td>
 <td colspan="2" rowspan="3">
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/15/7dc4b26b0978c7c8c698560c181hxaj5.JPG?v=1661324854711" data-srcset="https://p2.bahamut.com.tw/B/2KU/15/7dc4b26b0978c7c8c698560c181hxaj5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/15/7dc4b26b0978c7c8c698560c181hxaj5.JPG 2x" alt="image" referrerpolicy="no-referrer"></td>
+<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/15/7dc4b26b0978c7c8c698560c181hxaj5.JPG?v=1661324854711" data-srcset="https://p2.bahamut.com.tw/B/2KU/15/7dc4b26b0978c7c8c698560c181hxaj5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/15/7dc4b26b0978c7c8c698560c181hxaj5.JPG 2x" referrerpolicy="no-referrer"></td>
 </tr>
 <tr>
 <td style="background-color: rgb(102, 102, 102); text-align: center;">
@@ -150,7 +150,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.
 <td>
 <span style="font-size: 16px;">草</span></td>
 <td colspan="2" rowspan="3">
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/14/e649302c40d43e1e2d8beb29321hxai5.JPG?v=1661325089990" data-srcset="https://p2.bahamut.com.tw/B/2KU/14/e649302c40d43e1e2d8beb29321hxai5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/14/e649302c40d43e1e2d8beb29321hxai5.JPG 2x" alt="image" referrerpolicy="no-referrer"></td>
+<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/14/e649302c40d43e1e2d8beb29321hxai5.JPG?v=1661325089990" data-srcset="https://p2.bahamut.com.tw/B/2KU/14/e649302c40d43e1e2d8beb29321hxai5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/14/e649302c40d43e1e2d8beb29321hxai5.JPG 2x" referrerpolicy="no-referrer"></td>
 </tr>
 <tr>
 <td style="background-color: rgb(102, 102, 102); text-align: center;">
@@ -196,7 +196,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.
 <td>
 <span style="font-size: 16px;">冰</span></td>
 <td colspan="2" rowspan="3">
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/13/799792b7eee79a5a75e69cd0bf1hxah5.JPG?v=1661325254317" data-srcset="https://p2.bahamut.com.tw/B/2KU/13/799792b7eee79a5a75e69cd0bf1hxah5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/13/799792b7eee79a5a75e69cd0bf1hxah5.JPG 2x" alt="image" referrerpolicy="no-referrer"></td>
+<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/13/799792b7eee79a5a75e69cd0bf1hxah5.JPG?v=1661325254317" data-srcset="https://p2.bahamut.com.tw/B/2KU/13/799792b7eee79a5a75e69cd0bf1hxah5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/13/799792b7eee79a5a75e69cd0bf1hxah5.JPG 2x" referrerpolicy="no-referrer"></td>
 </tr>
 <tr>
 <td style="background-color: rgb(102, 102, 102); text-align: center;">
@@ -228,7 +228,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.
 <td>
 <span style="font-size: 16px;">雷</span></td>
 <td colspan="2" rowspan="3">
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/12/50da1c2514b740abebf241c56c1hxag5.JPG?v=1661325258549" data-srcset="https://p2.bahamut.com.tw/B/2KU/12/50da1c2514b740abebf241c56c1hxag5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/12/50da1c2514b740abebf241c56c1hxag5.JPG 2x" alt="image" referrerpolicy="no-referrer"></td>
+<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/12/50da1c2514b740abebf241c56c1hxag5.JPG?v=1661325258549" data-srcset="https://p2.bahamut.com.tw/B/2KU/12/50da1c2514b740abebf241c56c1hxag5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/12/50da1c2514b740abebf241c56c1hxag5.JPG 2x" referrerpolicy="no-referrer"></td>
 </tr>
 <tr>
 <td style="background-color: rgb(102, 102, 102); text-align: center;">
@@ -253,7 +253,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 49.35%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/09/aa25bc3ef852e4804c7b8d81d61hxad5.JPG?v=1661325644738" data-srcset="https://p2.bahamut.com.tw/B/2KU/09/aa25bc3ef852e4804c7b8d81d61hxad5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/09/aa25bc3ef852e4804c7b8d81d61hxad5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 49.35%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/09/aa25bc3ef852e4804c7b8d81d61hxad5.JPG?v=1661325644738" data-srcset="https://p2.bahamut.com.tw/B/2KU/09/aa25bc3ef852e4804c7b8d81d61hxad5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/09/aa25bc3ef852e4804c7b8d81d61hxad5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -287,13 +287,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.
 <td>
 <span style="font-size: 16px;">岩</span></td>
 <td colspan="2" rowspan="3">
-<img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/11/fe4752528b3130959fadbbcea91hxaf5.JPG?v=1661325856550" data-srcset="https://p2.bahamut.com.tw/B/2KU/11/fe4752528b3130959fadbbcea91hxaf5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/11/fe4752528b3130959fadbbcea91hxaf5.JPG 2x" alt="image" referrerpolicy="no-referrer"></td>
+<img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/11/fe4752528b3130959fadbbcea91hxaf5.JPG?v=1661325856550" data-srcset="https://p2.bahamut.com.tw/B/2KU/11/fe4752528b3130959fadbbcea91hxaf5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/11/fe4752528b3130959fadbbcea91hxaf5.JPG 2x" referrerpolicy="no-referrer"></td>
 </tr>
 <tr>
 <td style="background-color: rgb(102, 102, 102); text-align: center;">
 <b><span style="color: rgb(255, 255, 255);"><span style="font-size: 16px;">武器</span></span></b></td>
 <td>
-<span style="font-size: 16px;">弓</span></td>
+<span style="font-size: 16px;">長柄武器</span></td>
 </tr>
 <tr>
 <td colspan="2" rowspan="1">
@@ -356,7 +356,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 49.35%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/08/1b6de08e6161a0124265fbeb491hxac5.JPG?v=1661326708155" data-srcset="https://p2.bahamut.com.tw/B/2KU/08/1b6de08e6161a0124265fbeb491hxac5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/08/1b6de08e6161a0124265fbeb491hxac5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 49.35%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/08/1b6de08e6161a0124265fbeb491hxac5.JPG?v=1661326708155" data-srcset="https://p2.bahamut.com.tw/B/2KU/08/1b6de08e6161a0124265fbeb491hxac5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/08/1b6de08e6161a0124265fbeb491hxac5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -413,7 +413,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 36.13%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/07/fce0e902f5c05db9d38d22f5081hxab5.PNG?v=1661326780064" data-srcset="https://p2.bahamut.com.tw/B/2KU/07/fce0e902f5c05db9d38d22f5081hxab5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/07/fce0e902f5c05db9d38d22f5081hxab5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 36.13%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/07/fce0e902f5c05db9d38d22f5081hxab5.PNG?v=1661326780064" data-srcset="https://p2.bahamut.com.tw/B/2KU/07/fce0e902f5c05db9d38d22f5081hxab5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/07/fce0e902f5c05db9d38d22f5081hxab5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -458,7 +458,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 36.13%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/06/9b8afff36041ea3cc346cd01d21hxaa5.JPG?v=1661327021882" data-srcset="https://p2.bahamut.com.tw/B/2KU/06/9b8afff36041ea3cc346cd01d21hxaa5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/06/9b8afff36041ea3cc346cd01d21hxaa5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 36.13%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/06/9b8afff36041ea3cc346cd01d21hxaa5.JPG?v=1661327021882" data-srcset="https://p2.bahamut.com.tw/B/2KU/06/9b8afff36041ea3cc346cd01d21hxaa5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/06/9b8afff36041ea3cc346cd01d21hxaa5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -522,7 +522,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/c86f48b19e06f4dc778d43a0081hxak5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 36.13%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/d5a19d05d3410ed995283aed4d1hxa95.JPG?v=1661327464446" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/d5a19d05d3410ed995283aed4d1hxa95.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/05/d5a19d05d3410ed995283aed4d1hxa95.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 36.13%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/d5a19d05d3410ed995283aed4d1hxa95.JPG?v=1661327464446" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/d5a19d05d3410ed995283aed4d1hxa95.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/05/d5a19d05d3410ed995283aed4d1hxa95.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>

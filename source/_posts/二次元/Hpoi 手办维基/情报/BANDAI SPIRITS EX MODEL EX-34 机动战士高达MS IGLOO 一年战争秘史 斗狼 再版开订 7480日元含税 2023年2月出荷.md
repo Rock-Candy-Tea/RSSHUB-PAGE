@@ -5,11 +5,11 @@ categories:
  - 二次元
  - Hpoi 手办维基
  - 情报
-headimg: 'https://cors.zfour.workers.dev/?http://r3.hpoi.net.cn/gk/cover/n/2015/07/8e309de492084cea84f6315aa2fdf98d.jpg?date=1661327023'
+headimg: 'https://cors.zfour.workers.dev/?http://r3.hpoi.net.cn/gk/cover/n/2022/08/6c747607507044cb9e6fde3cbff9018d.png?date=1661327023'
 author: Hpoi 手办维基
 comments: false
-date: Wed, 24 Aug 2022 07:44:00 GMT
-thumbnail: 'https://cors.zfour.workers.dev/?http://r3.hpoi.net.cn/gk/cover/n/2015/07/8e309de492084cea84f6315aa2fdf98d.jpg?date=1661327023'
+date: Wed, 24 Aug 2022 08:10:23 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://r3.hpoi.net.cn/gk/cover/n/2022/08/6c747607507044cb9e6fde3cbff9018d.png?date=1661327023'
 ---
 
 <div>   
@@ -37,6 +37,6 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://r3.hpoi.net.cn/gk/cover/n/201
                     
                 
                     
-                <br><img src="https://cors.zfour.workers.dev/?http://r3.hpoi.net.cn/gk/cover/n/2015/07/8e309de492084cea84f6315aa2fdf98d.jpg?date=1661327023" referrerpolicy="no-referrer">  
+                <br><img src="https://cors.zfour.workers.dev/?http://r3.hpoi.net.cn/gk/cover/n/2022/08/6c747607507044cb9e6fde3cbff9018d.png?date=1661327023" referrerpolicy="no-referrer">  
 </div>
             
