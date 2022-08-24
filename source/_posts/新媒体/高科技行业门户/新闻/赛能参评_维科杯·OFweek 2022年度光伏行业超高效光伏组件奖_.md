@@ -1,0 +1,19 @@
+
+---
+title: '赛能参评_维科杯·OFweek 2022年度光伏行业超高效光伏组件奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/23/guanghua/1661252746558006597.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 23 Aug 2022 11:11:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/23/guanghua/1661252746558006597.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">由高科技行业门户OFweek维科网主办、OFweek<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能光伏">太阳能光伏</a></span>网承办的“维科杯·OFweek2022<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a></span><span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>行业年度评选”正在火热进行中！</p><p style="text-indent: 2em; text-align: left;">本次评选活动将于2022年8月24日-8月31日进入网络投票环节，最终获奖结果将于9月27日在深圳举办的“OFweek 2022（第十三届）太阳能光伏产业大会暨年度评选颁奖典礼”上隆重公布。</p><p style="text-indent: 2em; text-align: left;">目前活动已吸引众多业内企业积极参评！其中<strong>深圳赛能数字能源技术有限公司参评“维科杯·OFweek 2022年度光伏行业超高效<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260008-zujianmokuai.html" target="_blank" title="光伏组件">光伏组件</a></span>奖”。</strong></p><p style="text-indent: 2em; text-align: left;"><strong>企业简介</strong></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/23/guanghua/1661252746558006597.png" width="500" height="118" title alt referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">深圳赛能数字能源技术有限公司（简称赛能）致力于成为全球领先的源网荷储一体化智慧能源解决方案服务商。公司成立于2022年，是上市公司上海爱旭新能源股份有限公司（简称爱旭，股票代码600732）全资子公司。赛能以科技创新为着力点，深度融合能源技术和数字技术，持续推动清洁能源发展和传统能源高效利用，使安全、智慧、低碳的能源惠及千行百业，千家万户。作为一家技术驱动型公司，在能源领域，公司已掌握从<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>片到组件核心根技术。</p><p style="text-indent: 2em; text-align: left;"><strong>参评选项：维科杯·OFweek 2022年度光伏行业超高效光伏组件奖</strong></p><p style="text-indent: 2em; text-align: left;"><strong>参选述说/理由：</strong></p><p style="text-indent: 2em; text-align: left;">2022年6月28日全球首创新世代N型ABC组件，采用最新N型全背接触电池，正面全面积太阳光吸收，组件量产效率高达23.5%，最大功率720w+，获得了T?V产品认证证书和CE认证证书；全生命周期发电量较目前P型组件高11.6%+；更低衰减率：首年≤1%，逐年≤ 0.35%/年；更优功率温度系数：-0.29%/℃；更大尺寸：BOS成本节省3%+；更美观：纯黑正面无栅线，全黑外观。另外一项革命性技术突破就是非银金属化，迈入“无银时代”，彻底终结贵金属银对晶硅太阳电池金属化的主宰地位，革命性降低晶硅太阳电池非银金属化，迈入“无银时代”，彻底终结贵金属银对晶硅太阳电池金属化的主宰地位，革命性降低晶硅太阳电池非硅制造成本。</p><p style="text-indent: 2em; text-align: left;">光伏行业相关会议展会推荐：</p><p style="text-indent: 2em; text-align: left;">1、OFweek 2022(第十三届)太阳能光伏产业大会暨光伏行业年度颁奖典礼</p><p style="text-indent: 2em; text-align: left;">时间地点：2022年9月27日，深圳福田会展中心</p><p style="text-indent: 2em; text-align: left;">大会专题：<a href="https://www.ofweek.com/seminar/2022/pv/" target="_blank">https://www.ofweek.com/seminar/2022/pv/</a></p><p style="text-indent: 2em; text-align: left;">2、OFweek 2022智慧光伏与<span class="hrefStyle"><a href="https://chuneng.ofweek.com/" target="_blank" title="储能">储能</a></span>大会暨展览会将于</p><p style="text-indent: 2em; text-align: left;">时间地点：2022年9月27-29日，深圳福田会展中心</p><p style="text-indent: 2em; text-align: left;">大会专题：<a href="https://www.ofweek.com/seminar/2022/PVES/" target="_blank">https://www.ofweek.com/seminar/2022/PVES/</a></p><p style="text-indent: 2em; text-align: left;">3、维科杯·OFweek 2022太阳能光伏行业年度评选</p><p style="text-indent: 2em; text-align: left;">时间地点：2022年9月27-29日，深圳福田会展中心</p><p style="text-indent: 2em; text-align: left;">会议专题：<a href="https://www.ofweek.com/award/2022/solar/" target="_blank">https://www.ofweek.com/award/2022/solar/</a></p> 
+  
+</div>
+            

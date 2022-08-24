@@ -1,0 +1,19 @@
+
+---
+title: '赛能参评_维科杯·OFweek 2022年度光伏行业最具成长力企业_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/23/guanghua/1661252746558006597.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 23 Aug 2022 11:13:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/23/guanghua/1661252746558006597.png'
+---
+
+<div>   
+<p style="white-space: normal; text-indent: 2em;">由高科技行业门户OFweek维科网主办、OFweek<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能光伏">太阳能光伏</a></span>网承办的“维科杯·OFweek2022<span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="太阳能">太阳能</a></span><span class="hrefStyle"><a href="https://solar.ofweek.com/" target="_blank" title="光伏">光伏</a></span>行业年度评选”正在火热进行中！</p><p style="white-space: normal; text-indent: 2em;">本次评选活动将于2022年8月24日-8月31日进入网络投票环节，最终获奖结果将于9月27日在深圳举办的“OFweek 2022（第十三届）太阳能光伏产业大会暨年度评选颁奖典礼”上隆重公布。</p><p style="white-space: normal; text-indent: 2em;">目前活动已吸引众多业内企业积极参评！其中<strong>深圳赛能数字能源技术有限公司参评“维科杯·OFweek 2022年度光伏行业最具成长力企业”。</strong></p><p style="white-space: normal; text-indent: 2em;"><strong>企业简介</strong></p><p style="white-space: normal; text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/23/guanghua/1661252746558006597.png" width="500" height="118" title alt referrerpolicy="no-referrer"></p><p style="white-space: normal; text-indent: 2em;">深圳赛能数字能源技术有限公司（简称赛能）致力于成为全球领先的源网荷储一体化智慧能源解决方案服务商。公司成立于2022年，是上市公司上海爱旭新能源股份有限公司（简称爱旭，股票代码600732）全资子公司。赛能以科技创新为着力点，深度融合能源技术和数字技术，持续推动清洁能源发展和传统能源高效利用，使安全、智慧、低碳的能源惠及千行百业，千家万户。作为一家技术驱动型公司，在能源领域，公司已掌握从<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0.HTM" target="_blank" title="电池">电池</a></span>片到组件核心根技术。</p><p style="white-space: normal; text-indent: 2em;"><strong>参评选项：<strong style="text-indent: 32px; white-space: normal;">维科杯·OFweek 2022年度</strong></strong><strong style="text-indent: 32px; white-space: normal;">光伏行业最具成长力企业</strong></p><p style="white-space: normal; text-indent: 2em;">参选述说/理由：</p><p style="white-space: normal; text-indent: 2em;">深圳赛能数字能源技术有限公司成立于2022年，是上市公司上海爱旭新能源股份有限公司（股票代码600732）全资子公司。作为一家技术驱动型公司，在能源领域，公司已掌握从电池片到组件核心根技术。通过N型ABC技术的核心优势，帮助客户投建更高效、更可靠、更具投资收益的<span class="hrefStyle"><a href="https://solar.ofweek.com/CAT-260009-xitongjicheng.html" target="_blank" title="光伏系统">光伏系统</a></span>，并将引领行业标准，进一步推动全球光伏行业进入新的发展时代，使更多人能够享有清洁能源带来的光明未来。 </p><p style="white-space: normal; text-indent: 2em;">赛能还拥有智能支架等关键设备提供能力，以及零C云平台、V2G双向充电桩、<span class="hrefStyle"><a href="https://chuneng.ofweek.com/" target="_blank" title="储能">储能</a></span>控制系统数字化设计及运维等能力。领先的和制造能力还有强大优质的合作伙伴资源，使赛能在源网荷储一体化领域拥有明显优势。聚焦“源网荷储一体化”方案，提出“更高效的源、更安全的储、更灵活的荷、更智慧的网”概念。</p><p style="white-space: normal; text-indent: 2em;">光伏行业相关会议展会推荐：</p><p style="white-space: normal; text-indent: 2em;">1、OFweek 2022(第十三届)太阳能光伏产业大会暨光伏行业年度颁奖典礼</p><p style="white-space: normal; text-indent: 2em;">时间地点：2022年9月27日，深圳福田会展中心</p><p style="white-space: normal; text-indent: 2em;">大会专题：<a href="https://www.ofweek.com/seminar/2022/pv/" target="_blank">https://www.ofweek.com/seminar/2022/pv/</a></p><p style="white-space: normal; text-indent: 2em;">2、OFweek 2022智慧光伏与储能大会暨展览会将于</p><p style="white-space: normal; text-indent: 2em;">时间地点：2022年9月27-29日，深圳福田会展中心</p><p style="white-space: normal; text-indent: 2em;">大会专题：<a href="https://www.ofweek.com/seminar/2022/PVES/" target="_blank">https://www.ofweek.com/seminar/2022/PVES/</a></p><p style="white-space: normal; text-indent: 2em;">3、维科杯·OFweek 2022太阳能光伏行业年度评选</p><p style="white-space: normal; text-indent: 2em;">时间地点：2022年9月27-29日，深圳福田会展中心</p><p style="white-space: normal; text-indent: 2em;">会议专题：<a href="https://www.ofweek.com/award/2022/solar/" target="_blank">https://www.ofweek.com/award/2022/solar/</a></p><p><br></p> 
+  
+</div>
+            
