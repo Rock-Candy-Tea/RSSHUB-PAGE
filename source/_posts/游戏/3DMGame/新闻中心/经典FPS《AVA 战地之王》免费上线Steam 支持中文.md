@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220824/1661329645_1089
 
 <div>   
 <p style="text-indent:2em;">
-由NEOWIZ开发的经典FPS游戏《A.V.A战地之王》现已正式在Steam平台免费推出，支持简体中文。游戏明日正式开服，现已可以进行预下载。<span>游戏内容为不同的PVP或PVE游戏模式。为了满足战友们的作战需求,战友们可以挑选:侦察兵,步枪手,或狙击手。</span>
+由NEOWIZ开发的经典FPS游戏《A.V.A战地之王》现已正式在Steam平台免费推出，支持简体中文。游戏明日正式开服，现已可以进行预下载。<span>游戏内容为不同的PVP或PVE游戏模式。为了满足战友们的作战需求,战友们可以挑选:侦察兵,步枪手,或狙击手。</span> 
 </p>
 <h3>
 游戏预告
