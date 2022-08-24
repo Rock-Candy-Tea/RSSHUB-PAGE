@@ -1,0 +1,22 @@
+
+---
+title: '其他
+【GC 22】由曾製作《異塵餘生》《上古卷軸 5》開發者打造 奇幻 RPG《命運之歌》公開
+ 3 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/40/9c0195e32d6a78a8e3eb64fc641hxuo5.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/40/9c0195e32d6a78a8e3eb64fc641hxuo5.JPG'
+---
+
+<div>   
+由曾研發《異塵餘生》與《上古卷軸 5》等開發者成立的新工作室 Something Wicked Games，在今（24）日凌晨舉辦的 Gamescom 開幕夜活動「Gamescom Opening Night Live 2022」中，公開一...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/40/9c0195e32d6a78a8e3eb64fc641hxuo5.JPG" referrerpolicy="no-referrer">  
+</div>
+            
