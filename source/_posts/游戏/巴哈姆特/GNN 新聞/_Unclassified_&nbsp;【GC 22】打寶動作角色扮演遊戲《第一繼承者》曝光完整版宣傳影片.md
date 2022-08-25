@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/48/9cca8f2b991bcdd830cf2a6d0c1hxs45.PNG?v=1661337644277'
 author: 巴哈姆特
 comments: false
-date: 2022-08-25 03:34:39
+date: 2022-08-25 05:13:50
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/48/9cca8f2b991bcdd830cf2a6d0c1hxs45.PNG?v=1661337644277'
 ---
 
@@ -95,7 +95,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/48/9cca8f2b991bcdd830cf2a6d0c1hxs45.
  </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%AC%AC%E4%B8%80%E7%B9%BC%E6%89%BF%E8%80%85" target="_blank">第一繼承者</a>》封測預定於太平洋夏季時間 10 月 20 日至 10 月 26 日登場，即日起已在 Steam 平台開放測試資格申請。</div>
-</div><p> </p>
+</div>
+<p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="22814" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>

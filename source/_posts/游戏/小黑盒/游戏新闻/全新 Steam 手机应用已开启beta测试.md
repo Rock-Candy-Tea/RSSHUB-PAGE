@@ -1,0 +1,18 @@
+
+---
+title: '全新 Steam 手机应用已开启beta测试'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/08/25/704d287bbaa786ecc19087b061aeab26/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Thu, 25 Aug 2022 11:14:24 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/08/25/704d287bbaa786ecc19087b061aeab26/thumb.jpeg'
+---
+
+<div>   
+<p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/08/25/704d287bbaa786ecc19087b061aeab26/thumb.jpeg" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">测试</h4><p><br></p><h3>好消息好消息，现在steam手机应用开启测试啦</h3><p>来源：<a href="https://steamcommunity.com/groups/SteamMobileApp" target="_blank">https://steamcommunity.com/groups/SteamMobileApp</a></p><p><br></p><p>下面是机翻<span data-emoji="cube_doge" class="hb-emoji"></span></p><p>欢迎！ 我们已经重做了 Steam 移动应用程序，希望得到您的反馈。 除了商店、Steam Guard 和交易确认之外，该应用程序现在还提供 QR 码登录、更智能的通知、改进的库视图和多帐户支持。 为了获得最佳体验，您需要下载测试版移动应用程序并加入 Steam 客户端测试版。 这将允许您尝试通过扫描二维码登录 Steam 客户端。<br></p><p><br></p><p><b>安卓</b><br></p><p>在您的 Android 设备上打开此链接：<a href="https://play.google.com/apps/testing/com.valvesoftware.android.steam.community" target="_blank">https://play.google.com/apps/testing/com.valvesoftware.android.steam.community</a><br></p><p>Google Play 商店将为您提供加入测试版和下载更新应用程序的链接。<br></p><p><br></p><p><b>iOS</b><br></p><p>在您的 iOS 设备上打开此链接：https://testflight.apple.com/join/8BOPXsGz<br></p><p>系统将提示您安装 Apple 自己的 TestFlight 应用程序。 安装 TestFlight 后，它将自动安装更新的 Steam 移动应用程序。<br></p><p>请注意：根据 Apple 指南，iOS 测试版参与者将被限制为 10,000 名，并且这些名额将很快被填满。 随着 Beta 版的进行，我们将添加更多名额，因此请检查名额是否已满。<br></p><p><br></p><p><b>Steam 客户端测试版</b><br></p><p>如果您想尝试通过使用新的移动应用扫描二维码来登录 Steam 客户端，您需要选择加入 Steam 客户端测试版。 要在浏览器中登录 Steam，只需单击“显示 QR 码”链接。<br></p><p><br></p><p>请在讨论中发表您的反馈<br></p><p>我们仍在添加功能、修复错误和完善应用程序。 了解您对哪些内容感到兴奋、可以改进的内容以及需要修复的内容会很有帮助。<br></p><p>欢迎所有人加入群组和对话，即使您无法参与测试。 我们希望收到你的来信。<br></p><p>留下反馈时，请务必告诉我们您使用的设备和操作系统。 因此，请在您的评论中包括这一点。<br></p><p><br></p><h3>食用教程：</h3><p>PC只需在设置中把参与测试修改为Steam Beta Update后重启客户端即可</p><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/08/25/b2746fa6807e5a3ea4e4d267c33a8abf/thumb.png" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">更新</h4><p>更新后登录界面点击I'm in the beta.show me  a QR code即可出现登录二维码</p><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/08/25/4162af8daf770bda6274c6be8cc0b6f9/thumb.png" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">登录</h4><p><br></p><p>手机分为安卓和苹果，由于设备有限仅测试了安卓客户端。</p><p>有条件的可以点击链接通过Google Play 商店更新测试版<a href="https://play.google.com/apps/testing/com.valvesoftware.android.steam.community" target="_blank">https://play.google.com/apps/testing/com.valvesoftware.android.steam.community</a></p><p>或者直接下载这个我下载好的客户端</p><p> 下载链接</p><p><br></p><p>客户端扫描码及验证码界面（可通过左下角切换）</p><p><br></p><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/08/25/8055affd45c59a54fe07f13f57e7cc7a/thumb.png" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">扫码</h4><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/08/25/7c75413a92b10e701a3b419b5fb708e5/thumb.png" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">验证码</h4><p>可通过设置改为中文</p><p><img class="lazy" data-height="0" src="https://imgheybox.max-c.com/web/2022/08/25/39ddb16716da980a4032b6c0d26fb107/thumb.png" data-width="0" referrerpolicy="no-referrer"></p><h4 class="img-desc">中文</h4><p>其他细节由大家测试吧。</p><p><span data-emoji="cube_惊讶" class="hb-emoji"></span>v社终于想起在6年前至今都没更新过的Steam手机应用了，这次测试版支持了多账户和扫码登录，虽然聊天功能给砍了，不过还是用起来还是舒服多了。</p>  
+</div>
+            
