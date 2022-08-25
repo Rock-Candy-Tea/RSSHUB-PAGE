@@ -1,0 +1,19 @@
+
+---
+title: '棱镜全息完成近亿元B轮融资，产业投资加持开启_出行元宇宙_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/25/Zyong/1661397402232010339.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 25 Aug 2022 03:16:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/25/Zyong/1661397402232010339.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">近日，浙江棱镜全息科技有限公司（以下简称“棱镜全息”）宣布完成近亿元B轮融资，由上市企业当虹科技（688039．SH）独家战略投资，该投资信息也出现在了当虹科技刚刚披露的2022年半年报中。</p><p style="text-indent: 2em; text-align: left;">本轮融资资金棱镜全息将用于技术迭代研发、视觉算法与<span class="hrefStyle"><a href="https://www.ofweek.com/ai/" target="_blank" title="AI">AI</a></span>技术优化，丰富产品图谱、拓展商业落地与产能建设等。据悉，两个月前棱镜全息刚刚完成近亿元A＋轮融资，由吉利科技集团、千合投资共同参投。</p><p style="text-indent: 2em; text-align: left;"><strong>发挥战略协同效应，深化产业布局</strong></p><p style="text-indent: 2em; text-align: left;">当虹科技拥有世界先进的计算机视觉技术与人工智能技术，在视觉AI、视觉感知、大数据、5G边缘计算等方面积累了丰富的技术和行业经验。</p><p style="text-indent: 2em; text-align: left;">棱镜全息作为中国领先的全息科技公司，已在出行元宇宙、数字化文娱、全息<span class="hrefStyle"><a href="https://smarthome.ofweek.com/" target="_blank" title="智能家居">智能家居</a></span>等产业深度布局，本轮融资后，将与当虹科技在技术研发及应用、生态拓展等方面深度战略协同。</p><p style="text-indent: 2em; text-align: left;">当虹科技董事长、总经理孙彦龙表示：我们认为未来虚拟世界与真实世界的界限会变得模糊，可交互全息显示作为元宇宙的重要入口，将承载物联网、智能汽车和虚拟现实等新兴产业的重要支撑和基础，成为各领域竞争的新高地。我们看好棱镜全息在这一赛道的高成长性和潜力，这与当虹科技的发展战略高度匹配。当虹科技将与棱镜全息发挥战略协同效应，双向赋能，在产品、业务、资源等方面开展多层次、多样化的深度合作，共同致力于虚拟现实与全息科技的融合创新与应用拓展。</p><p style="text-indent: 2em; text-align: left;"><strong>软硬件内容一体化，智慧出行全栈式解决方案</strong></p><p style="text-indent: 2em; text-align: left;">据了解，棱镜全息是全球率先达到车规级量产标准的全息显示Tier1供应商，在智慧出行领域，提供涵盖软硬件内容一体化＋多模态交互的全栈式整体解决方案。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/25/Zyong/1661397402232010339.jpg" alt="棱镜全息完成近亿元B轮融资，产业投资加持开启“出行元宇宙”" title="棱镜全息完成近亿元B轮融资，产业投资加持开启“出行元宇宙”" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在产品方面，棱镜全息基于自主研发无介质全息显示科技推出的AID（Aerial holo Intelligent Display，全息空中智能显示系统）是座舱显示屏的有效替代，开创无屏时代。随着技术持续迭代升级，AID目前已满足更小体积、更大FOV的强需求，结合智能识别算法、数字人交互平台、多模态交互引擎等，提供更具人性化、情感化的自然交互与主动关怀，是新一代显示交互革命。</p><p style="text-indent: 2em; text-align: left;">针对智慧出行场景，棱镜全息于今年推出了HOLO AR HUD，采用创新性的FHOLO全息光电模组，超薄设计，集成度高。通过空间结构光场的拼接，超大FOV，达到路面显示全覆盖，融合轻量化AR引擎、智能化UI／UX、DMS算法等软件技术，将导航信息、ADAS辅助驾驶信息、LBS数据、多维信息的实时路面数据与真实驾驶环境融为一体，实现车道级AR智能导航，街道级POI的全场景覆盖。</p><p style="text-indent: 2em; text-align: left;">同时，棱镜全息将AID与HOLO AR HUD融合应用，开创性构建整车无屏化解决方案，虚实结合打破次元壁，推动出行元宇宙新纪元。</p><p style="text-indent: 2em; text-align: left;">据悉，棱镜全息的车载产品，不仅应用于乘用车领域，还将落地于高铁、地铁、飞机等公共交通领域。例如：在高铁上，用户的专属全息旅行伴侣可以实时报站、提供用餐提醒、天气提醒、节日问候等个性化、人性化服务，及全息办公＼娱乐＼社交等，满足旅途中用户多元化需求。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/25/Zyong/1661397402445002485.jpg" alt="棱镜全息完成近亿元B轮融资，产业投资加持开启“出行元宇宙”" title="棱镜全息完成近亿元B轮融资，产业投资加持开启“出行元宇宙”" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>跨界布局，数字化文娱并驾齐驱</strong></p><p style="text-indent: 2em; text-align: left;">据悉，除了智慧出行领域，棱镜全息还深度布局数字化文娱产业。棱镜全息以全息整合科技、高品质内容编创，结合头部IP资源的全栈式服务商业模式，通过整合科技、文化资源，推出了面向亲子主题园区、科创文博数字展厅、文旅景区等场景的线下全息亲子互动空间、定制化文娱产品与服务、满足多元化观演场景需求的Mholo线上元宇宙剧场等，不断蓄力发展数字化文娱，推动创新科技在文娱领域和场景的应用。</p><p style="text-indent: 2em; text-align: left;">不久前，棱镜全息继与万达宝贝王、奥飞娱乐达成战略合作后，又与另一头部文娱企业咏声动漫签订战略合作协议。目前，棱镜全息已与多个头部亲子IP建立全息内容深度开发合作。</p><p style="text-indent: 2em; text-align: left;"><strong>商业前景广阔，未来可期</strong></p><p style="text-indent: 2em; text-align: left;">随着人们对生活的智能化、品质化、个性化等需求的不断增加，全息科技作为新兴产业技术，正在从特定场景需求走向大众应用并迅速发展，不难推测“全息＋”的未来应用空间将会非常广泛。全息科技与云计算、AI、大数据等新技术融合应用，将满足更多下沉市场需求，具有广阔的商业前景与空间。</p> 
+  
+</div>
+            

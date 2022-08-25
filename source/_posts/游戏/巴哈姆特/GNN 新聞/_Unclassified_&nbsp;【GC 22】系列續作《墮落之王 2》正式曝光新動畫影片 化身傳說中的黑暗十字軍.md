@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/94/960162cf88dad42397dd2873a01hxfi5.JPG?v=1661328483098'
 author: 巴哈姆特
 comments: false
-date: 2022-08-25 00:58:39
+date: 2022-08-25 03:34:40
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/960162cf88dad42397dd2873a01hxfi5.JPG?v=1661328483098'
 ---
 
@@ -29,7 +29,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/960162cf88dad42397dd2873a01hxfi5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/960162cf88dad42397dd2873a01hxfi5.JPG?v=1661328483098" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/960162cf88dad42397dd2873a01hxfi5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/94/960162cf88dad42397dd2873a01hxfi5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/960162cf88dad42397dd2873a01hxfi5.JPG?v=1661328483098" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/960162cf88dad42397dd2873a01hxfi5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/94/960162cf88dad42397dd2873a01hxfi5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -87,7 +87,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/960162cf88dad42397dd2873a01hxfi5.
  </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A2%AE%E8%90%BD%E4%B9%8B%E7%8E%8B+2" target="_blank">墮落之王 2</a>》以 Unreal Engine 5 打造，目前正在開發 PC 與最新一代家用主機版本；遊戲預計 2023 年問世。</div>
-</div><p> </p>
+</div>
+<p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="19620" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>

@@ -1,0 +1,18 @@
+
+---
+title: '重试框架 Spring-Retry 和 Guava-Retry，你知道该怎么选吗？'
+categories: 
+ - 编程
+ - 开发者头条
+ - 今天头条
+headimg: 'https://picsum.photos/400/300?random=4745'
+author: 开发者头条
+comments: false
+date: 2022-08-25 03:34:08
+thumbnail: 'https://picsum.photos/400/300?random=4745'
+---
+
+<div>   
+重试框架 Spring-Retry 和 Guava-Retry，你知道该怎么选吗？  
+</div>
+            
