@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/50/f18f41e5719f3cd96b01bdb78d1hy8u5.JPG?v=1661415124962'
 author: 巴哈姆特
 comments: false
-date: 2022-08-25 11:09:34
+date: 2022-08-25 12:19:14
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/50/f18f41e5719f3cd96b01bdb78d1hy8u5.JPG?v=1661415124962'
 ---
 
@@ -22,13 +22,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/50/f18f41e5719f3cd96b01bdb78d1hy8u5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/f18f41e5719f3cd96b01bdb78d1hy8u5.JPG?v=1661415124962" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/f18f41e5719f3cd96b01bdb78d1hy8u5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/50/f18f41e5719f3cd96b01bdb78d1hy8u5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/f18f41e5719f3cd96b01bdb78d1hy8u5.JPG?v=1661415124962" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/f18f41e5719f3cd96b01bdb78d1hy8u5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/50/f18f41e5719f3cd96b01bdb78d1hy8u5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　《百英雄傳》集合了曾同參與《幻想水滸傳》等傳統日式角色扮演遊戲製作的老牌創作者村山吉隆、河野純子、小牟田修、村上純一等人參與。包含日式 RPG 特有的冒險要素、高解析度 2.5D 遊戲畫面、以點陣繪製的生動遊戲角色、在戰爭下的故事與群像劇、多達 100 名的英雄角色，以及要塞建築系統等豐富要素。</div>
+　　《百英雄傳》集合了曾參與《幻想水滸傳》等傳統日式角色扮演遊戲製作的老牌創作者村山吉隆、河野純子、小牟田修、村上純一等人。包含日式 RPG 特有的冒險要素、高解析度 2.5D 遊戲畫面、以點陣繪製的生動遊戲角色、在戰爭下的故事與群像劇、多達 100 名的英雄角色，以及要塞建築系統等豐富要素。</div>
 <div>
  </div>
 <div>

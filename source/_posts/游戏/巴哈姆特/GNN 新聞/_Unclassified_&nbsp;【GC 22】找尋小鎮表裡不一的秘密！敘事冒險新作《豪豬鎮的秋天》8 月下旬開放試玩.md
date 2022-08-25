@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/98/9bdabd522c4e321e8be185afec1hya65.JPG?v=1661416642038'
 author: 巴哈姆特
 comments: false
-date: 2022-08-25 11:09:34
+date: 2022-08-25 12:19:14
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/9bdabd522c4e321e8be185afec1hya65.JPG?v=1661416642038'
 ---
 
@@ -34,7 +34,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/9bdabd522c4e321e8be185afec1hya65.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B1%AA%E8%B1%AC%E9%8E%AE%E7%9A%84%E7%A7%8B%E5%A4%A9" target="_blank">豪豬鎮的秋天</a>》是一款敘事冒險遊戲。故事講述主人公「芬利（Finley）」因緣際會來到豪豬鎮擔任實習醫生，乍看之下豪豬鎮是一個純樸友好的地方，每個人都認識、彼此熱情地打招呼。然而，當芬利此生活一段時間後，發現不是每個人都像他們外表看起來的那樣友善；而此時芬利也將面臨工作和日常生活帶來的衝突... 玩家在本作中將扮演主人公芬利，在跟小鎮的居民相處中，試圖找出隱藏在背後的秘密。</div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B1%AA%E8%B1%AC%E9%8E%AE%E7%9A%84%E7%A7%8B%E5%A4%A9" target="_blank">豪豬鎮的秋天</a>》是一款敘事冒險遊戲。故事講述主人公「芬利（Finley）」因緣際會來到豪豬鎮擔任實習醫生，乍看之下豪豬鎮是一個純樸友好的地方，每個人都認識、彼此熱情地打招呼。然而，當芬利在此生活一段時間後，發現不是每個人都像他們外表看起來的那樣友善；而此時芬利也將面臨工作和日常生活帶來的衝突... 玩家在本作中將扮演主人公芬利，在跟小鎮的居民相處中，試圖找出隱藏在背後的秘密。</div>
 <div>
  </div>
 <div>
@@ -123,7 +123,10 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/98/9bdabd522c4e321e8be185afec1hya65.
  </div>
 <div>
 　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%B1%AA%E8%B1%AC%E9%8E%AE%E7%9A%84%E7%A7%8B%E5%A4%A9" target="_blank">豪豬鎮的秋天</a>》將於 8 月 30 日開放試玩，預定在 2023 年於 PlayStation 5、PlayStation 4、Xbox Series X|S、Xbox One、Nintendo Switch、PC（Steam／GOG）等平台推出。</div>
-</div><p> </p>
+</div>
+<div>
+ </div>
+<p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="55722" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;">(c) 2022 Assemble Entertainment GmbH. Developed by BUNTSPECHT Film und Digitales GmbH. Published by Assemble Entertainment GmbH. All rights reserved.</p>
 </div>
