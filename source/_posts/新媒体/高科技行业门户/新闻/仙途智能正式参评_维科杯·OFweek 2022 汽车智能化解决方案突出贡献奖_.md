@@ -1,0 +1,19 @@
+
+---
+title: '仙途智能正式参评_维科杯·OFweek 2022 汽车智能化解决方案突出贡献奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/25/shiqi/1661411953146080706.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 25 Aug 2022 07:19:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/25/shiqi/1661411953146080706.jpg'
+---
+
+<div>   
+<p style="text-align: left;">“维科杯·OFweek2022中国<span class="hrefStyle"><a href="https://www.ofweek.com/auto/" target="_blank" title="汽车">汽车</a></span>行业年度评选”由中国高科技行业门户OFweek维科网主办，OFweek电子工程网、OFweek激光网、OFweek<span class="hrefStyle"><a href="https://www.ofweek.com/auto/" target="_blank" title="智能汽车">智能汽车</a></span>网、OFweek<span class="hrefStyle"><a href="https://nev.ofweek.com/" target="_blank" title="新能源汽车">新能源汽车</a></span>网共同承办。本次活动将联合多个权威官方平台共同举办，并以其公正、客观的评选流程倍受业界广泛关注，将成为高科技领域最具专业性、影响力和代表性的行业评选之一！</p><p style="text-align: left;">本次评选活动9月1日－9月11日进入网络投票及专家评审阶段，并将于9月28日在中国·深圳举行盛大的颁奖典礼。</p><p style="text-align: left;">目前，活动正处于火热的报名申报阶段，业内企业均积极响应。目前，上海仙途智能科技有限公司已经正式参评“维科杯·OFweek 2022 汽车智能化解决方案突出贡献奖”。</p><p style="text-align: left;"><strong>企业简介</strong></p><p style="text-align: center;"><strong><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/25/shiqi/1661411953146080706.jpg" title="仙途智能正式参评“维科杯·OFweek 2022 汽车智能化解决方案突出贡献奖”" alt="仙途智能正式参评“维科杯·OFweek 2022 汽车智能化解决方案突出贡献奖”" referrerpolicy="no-referrer"></strong></p><p>仙途智能Autowise.ai成立于2017年8月，公司以人工智能和<span class="hrefStyle"><a href="https://www.ofweek.com/auto/CAT-70109-automaticdriving.html" target="_blank" title="自动驾驶">自动驾驶</a></span>技术的研发及应用为核心业务。2017年，仙途智能Autowise.ai在上海组建了中国最早的一批robotaxi车队，并于2019年获得自动驾驶卡车测试牌照。秉承“自动驾驶改善城市生活”的发展使命，仙途智能Autowise.ai率先将自动驾驶技术应用到城市环卫领域，发布全球首支涵盖1-18吨不同车型、并能应用于复杂作业场景的自动驾驶清扫车队，并成为自动驾驶商业化领先企业。 目前，公司在全球范围内拥有150余辆自动驾驶清扫车，车辆已在瑞士、德国、美国及中国上海、北京、广州、郑州、南京、合肥、唐山等全球20多座城市实现多场景商业落地，累计真实运营里程超百万公里。</p><p style="text-align: left;"><strong>参选平台名称：</strong>仙途智能Autowise.ai自动驾驶环卫特殊场景解决方案</p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/25/shiqi/1661411980042007712.jpg" title="仙途智能正式参评“维科杯·OFweek 2022 汽车智能化解决方案突出贡献奖”" alt="仙途智能正式参评“维科杯·OFweek 2022 汽车智能化解决方案突出贡献奖”" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>产品推出年份：</strong>2021年</p><p style="text-align: left;"><strong>产品扼要说明：</strong></p><p style="text-align: left;">在提供各类城市道路自动驾驶清扫解决方案之后，仙途智能将目标对准了城市环卫中的特殊应用场景，在过江隧道（南京长江隧道）、机场跑道（郑州新郑机场）和港口（河北唐山港）先后落地了对应场景的解决方案，并实施商业化运营。</p><p style="text-align: left;"><strong>其设计应用或创新的关键点：</strong></p><p style="text-align: left;">1、在南京长江隧道，过江隧道场景单一，GPS信号难以触达，缺乏构建高精度地图的有效特征。仙途智能才去局部定位加关键场景全局定位的融合框架，在隧道出入口，隧道岔口等关键路段预先构建全局定位特征，引导车辆进行清扫路线的选择；隧道内则使用激光雷达、轮速计及IMU数据进行融合进行局部定位。这套技术摆脱了对GPS信号及昂贵惯导设备的依赖，以较低的成本获得了可靠的定位。</p><p style="text-align: left;">2、在郑州新郑机场，机场跑道无明显车道线，地面特征少，对于定位算法提出挑战。机场场景中的FOD(可能损伤航空器的跑道异物)也需<span class="hrefStyle"><a href="https://www.ofweek.com/auto/tag-%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6.HTM" target="_blank" title="无人驾驶">无人驾驶</a></span>的感知与规划系统做出特定识别与应对。仙途智能融合高精度工业相机、激光雷达等传感器数据，对于小于10cm的各种FOD物体进行检测。随着传感器技术演化、精度提升，配置方案的演进以及深度学习算法迭代，识别算法将更加准确，可有效减少跑道FOD事故的发生。</p><p style="text-align: left;">3、在河北唐山港，港区面积大、人车流量大，清扫车数量多，无管理困难。同时由于港口运输车辆过多、交通繁忙，在绘制高精度地图期间无法进行封路协助。仙途智能针对场景实际情况开发了额外的数据处理功能，剔除了高密度车流和人流造成的干扰。同时将自动驾驶清扫车接入仙途智能云端控制平台，通过管理平台对环卫清扫车进行实时监控和控制，大幅提升清洁效率和质量。</p><p style="text-align: left;"><strong>参选述说／理由：</strong></p><p style="text-align: left;">仙途智能突破了城市公开道路以外的特殊场景，将自动驾驶应用在这些特殊场景的环卫工作，帮助解决环卫行业痛点，同时也推动了自动驾驶技术的商业化落地。</p><p style="text-align: left;">本届“维科杯·OFweek2022中国汽车行业年度评选”活动于8月29日开始进入火热的“网络投票及专家评选”阶段，这一阶段用户可登录活动官方网站，对入围参赛企业、产品进行投票；评委团将对入围名单进行多次讨论，并参考网络投票意见，审定最终获奖名单。</p><p style="text-align: left;">还犹豫什么，赶紧去参加吧！9月1日起，为心仪的企业及产品投票吧！</p> 
+  
+</div>
+            

@@ -5,11 +5,11 @@ categories:
  - 游戏
  - GameRes 游资网
  - 列表
-headimg: 'https://picsum.photos/400/300?random=3736'
+headimg: 'https://picsum.photos/400/300?random=8122'
 author: GameRes 游资网
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=3736'
+thumbnail: 'https://picsum.photos/400/300?random=8122'
 ---
 
 <div>   

@@ -1,0 +1,19 @@
+
+---
+title: '驭势科技正式参评_维科杯·OFweek 2022 汽车智能化解决方案突出贡献奖_'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/25/shiqi/1661411413110063324.png'
+author: 高科技行业门户
+comments: false
+date: Thu, 25 Aug 2022 07:11:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/25/shiqi/1661411413110063324.png'
+---
+
+<div>   
+<p style="text-align: left;">“维科杯·OFweek2022中国<span class="hrefStyle"><a href="https://www.ofweek.com/auto/" target="_blank" title="汽车">汽车</a></span>行业年度评选”由中国高科技行业门户OFweek维科网主办，OFweek电子工程网、OFweek激光网、OFweek<span class="hrefStyle"><a href="https://www.ofweek.com/auto/" target="_blank" title="智能汽车">智能汽车</a></span>网、OFweek<span class="hrefStyle"><a href="https://nev.ofweek.com/" target="_blank" title="新能源汽车">新能源汽车</a></span>网共同承办。本次活动将联合多个权威官方平台共同举办，并以其公正、客观的评选流程倍受业界广泛关注，将成为高科技领域最具专业性、影响力和代表性的行业评选之一！</p><p style="text-align: left;">本次评选活动8月29日-9月12日进入网络投票及专家评审阶段，并将于9月28日在中国·深圳举行盛大的颁奖典礼。</p><p style="text-align: left;">目前，活动正处于火热的报名申报阶段，业内企业均积极响应。目前，驭势科技（北京）有限公司已经正式参评“维科杯·OFweek 2022 汽车智能化解决方案突出贡献奖”。</p><p style="text-align: left;"><strong>企业简介</strong></p><p style="text-align: justify;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/25/shiqi/1661411413110063324.png" title="驭势科技正式参评“维科杯·OFweek 2022 汽车智能化解决方案突出贡献奖”" alt="驭势科技正式参评“维科杯·OFweek 2022 汽车智能化解决方案突出贡献奖”" referrerpolicy="no-referrer"></p><p style="text-align: justify;"><span style="text-align: left;">驭势科技成立于2016年2月，是中国领先的<span class="hrefStyle"><a href="https://www.ofweek.com/auto/CAT-70109-automaticdriving.html" target="_blank" title="自动驾驶">自动驾驶</a></span>公司，依托于自主研发的U-Drive?智能驾驶平台，在业务上已经形成可规模化部署的L3-L4级智能驾驶系统，可以满足多场景、高级别的自动驾驶需求。2019年，驭势科技率先在机场和厂区领域实现了“去安全员”<span class="hrefStyle"><a href="https://www.ofweek.com/auto/tag-%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6.HTM" target="_blank" title="无人驾驶">无人驾驶</a></span>常态化运营的重大突破，落地“全场景、真无人、全天候”的自动驾驶技术，并由此迈向大规模商用。</span></p><p style="text-align: left;"><strong>参选产品名称：</strong>U-Drive?智能驾驶平台</p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-8/25/shiqi/20220825151044_1661411444152947670.png" referrerpolicy="no-referrer">产品图</p><p><strong>产品推出年份：</strong>2016年</p><p style="text-align: left;"><strong>平台扼要说明：</strong></p><p style="text-align: left;">驭势科技的核心技术是基于U-Drive?智能驾驶平台打造的，为全行业、全场景提供AI驾驶服务，做赋能出行、物流新生态的AI驾驶员。可在<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E4%B9%98%E7%94%A8%E8%BD%A6.HTM" target="_blank" title="乘用车">乘用车</a></span>领域、无人公交领域、无人物流领域实现。具有无人化、可量产、柔性化的特点。</p><p style="text-align: left;"><strong>其设计应用或创新的关键点：</strong></p><p style="text-align: left;"><strong>●业界领先的自动驾驶算法：</strong></p><p style="text-align: left;">1.1 基于深度学习的多传感器融合算法，可实现全场景、全天候、全方位的实时感知环境和厘米级高精度定位能力。 1.2 同时提供满足复杂场景和任务要求的合理行为决策和路径规划以及安全平顺的车辆控制。</p><p style="text-align: left;">1.3 基于机器学习的数据驱动的算法可实现与场景的自动适配。</p><p style="text-align: left;"><strong>●功能强大的云端运营管理平台：</strong></p><p style="text-align: left;">2.1 通过车端、路端数据的全流程、自动化采集、存储、传输及分析，不断优化无人驾驶算法、系统的安全性及用户体验。</p><p style="text-align: left;">2.2 并对系统组件做实时和预测性的运维，支持无人驾驶应用的运营和管理。</p><p style="text-align: left;"><strong>●全功能车规级智能驾驶控制器：</strong></p><p style="text-align: left;">3.1 专为L3-L4级自动驾驶提供高性能、高可靠、高度集成的智能驾驶功能，是无人驾驶系统的核心。</p><p style="text-align: left;">3.2 控制器可轻量、灵活部署于各式车型，满足车规级的量产应用需求。</p><p style="text-align: left;"><strong>参选述说／理由：</strong></p><p style="text-align: left;">驭势科技依托自主研发的U-Drive?智能驾驶平台，在业务上已经形成可规模化部署的L3-L4级智能驾驶系统，可以满足多场景、高级别的自动驾驶需求。2019年， 驭势科技率先在机场和厂区领域实现了“去安全员” 无人驾驶常态化运营的重大突破，落地“全场景、真无人、全天候”的自动驾驶技术，并由此迈向大规模商用。截止2022年7月，驭势科技无人车队真无人商业运营里程已超165万公里。</p> 
+  
+</div>
+            
