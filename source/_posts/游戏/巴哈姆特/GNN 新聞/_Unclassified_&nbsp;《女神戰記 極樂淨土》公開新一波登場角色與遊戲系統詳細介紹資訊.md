@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/26/6561451ba48fb535b75af399911hx5a5.JPG?v=1661313144421'
 author: 巴哈姆特
 comments: false
-date: 2022-08-24 15:10:18
+date: 2022-08-25 00:58:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/6561451ba48fb535b75af399911hx5a5.JPG?v=1661313144421'
 ---
 
@@ -542,7 +542,7 @@ PlayStation Store 數位預購特典：武器「光明之劍亞斯齊爾」</li>
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/54/37b49debee78b4403f66ea67f91hx625.JPG?v=1661341918865" data-srcset="https://p2.bahamut.com.tw/B/2KU/54/37b49debee78b4403f66ea67f91hx625.JPG?v=1661341882&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/54/37b49debee78b4403f66ea67f91hx625.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/54/37b49debee78b4403f66ea67f91hx625.JPG?v=1661341918865" data-srcset="https://p2.bahamut.com.tw/B/2KU/54/37b49debee78b4403f66ea67f91hx625.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/54/37b49debee78b4403f66ea67f91hx625.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -600,7 +600,7 @@ PlayStation 5、PlayStation 4 數位豪華版</h3>
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/ed806471f5d9f2191745dcd7111hx635.JPG?v=1661341928247" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/ed806471f5d9f2191745dcd7111hx635.JPG?v=1661341892&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/ed806471f5d9f2191745dcd7111hx635.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/ed806471f5d9f2191745dcd7111hx635.JPG?v=1661341928247" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/ed806471f5d9f2191745dcd7111hx635.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/ed806471f5d9f2191745dcd7111hx635.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -688,7 +688,7 @@ Steam 數位豪華版</h3>
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/ed806471f5d9f2191745dcd7111hx635.JPG?v=1661341938506" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/ed806471f5d9f2191745dcd7111hx635.JPG?v=1661341892&w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/ed806471f5d9f2191745dcd7111hx635.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/ed806471f5d9f2191745dcd7111hx635.JPG?v=1661341938506" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/ed806471f5d9f2191745dcd7111hx635.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/ed806471f5d9f2191745dcd7111hx635.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
