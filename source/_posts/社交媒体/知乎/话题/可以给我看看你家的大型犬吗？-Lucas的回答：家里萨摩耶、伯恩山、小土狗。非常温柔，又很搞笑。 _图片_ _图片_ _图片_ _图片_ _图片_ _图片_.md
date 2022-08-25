@@ -1,0 +1,18 @@
+
+---
+title: '可以给我看看你家的大型犬吗？-Lucas的回答：家里萨摩耶、伯恩山、小土狗。非常温柔，又很搞笑。 _图片_ _图片_ _图片_ _图片_ _图片_ _图片_'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-839b50ad64cea4302e280db29e4b50ca_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Thu, 25 Aug 2022 06:51:32 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-839b50ad64cea4302e280db29e4b50ca_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>可以给我看看你家的大型犬吗？</strong><br>Lucas的回答<br><p data-pid="BOyaMVNe">家里萨摩耶、伯恩山、小土狗。非常温柔，又很搞笑。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-839b50ad64cea4302e280db29e4b50ca_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1702" data-rawheight="1276" data-default-watermark-src="https://pic1.zhimg.com/50/v2-a49c79de8a002a6b7eed6d5c66ed6fb1_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-839b50ad64cea4302e280db29e4b50ca_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-b133b60c694395cffb2e972d5237699a_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1702" data-rawheight="1276" data-default-watermark-src="https://pic3.zhimg.com/50/v2-4de790cd905e0b99baf8a282ad939bde_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-b133b60c694395cffb2e972d5237699a_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-896d2822c1f133951315328153cf9ca8_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="960" data-rawheight="788" data-default-watermark-src="https://pic1.zhimg.com/50/v2-a5622322e6f72d6dfd393ee03ad35d7f_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-896d2822c1f133951315328153cf9ca8_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-a5b338bd2be04fd203cbdb7fe8eeb559_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1440" data-rawheight="1080" data-default-watermark-src="https://picx.zhimg.com/50/v2-9cba6f7100898bbcb400229934635e36_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-a5b338bd2be04fd203cbdb7fe8eeb559_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pica.zhimg.com/v2-7e04d788fc671f32a860b0ceb9ed2c86_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1440" data-rawheight="1080" data-default-watermark-src="https://pic2.zhimg.com/50/v2-771f44db542e0a193cac6ec80aa8c12d_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-7e04d788fc671f32a860b0ceb9ed2c86_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-1229066542acbcccaf291d2ace26a632_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1276" data-rawheight="1702" data-default-watermark-src="https://pic1.zhimg.com/50/v2-beda45a4df28e04c2bf070e7569d8267_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-1229066542acbcccaf291d2ace26a632_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/54/f071e879aebf56c4b873b6888a1hy0m5.JPG?v=1661402400155'
 author: 巴哈姆特
 comments: false
-date: 2022-08-25 06:24:23
+date: 2022-08-25 07:15:15
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/54/f071e879aebf56c4b873b6888a1hy0m5.JPG?v=1661402400155'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/54/f071e879aebf56c4b873b6888a1hy0m5.
 <div>
 <div>
 <div>
-　　由波蘭工作室 Vile <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Monarch" target="_blank">Monarch</a> 所研發的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B0%BE%E6%BF%AB%E4%B9%8B%E5%9C%B0" target="_blank">氾濫之地</a>（暫譯，原名：Floodland）》於 Gamecom 2022 曝光，遊戲預定於 11 月 15 日發售。</div>
+　　由波蘭工作室 Vile <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Monarch" target="_blank">Monarch</a> 所研發的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B0%BE%E6%BF%AB%E4%B9%8B%E5%9C%B0" target="_blank">氾濫之地</a>（暫譯，原名：Floodland）》於 Gamescom 2022 曝光，遊戲預定於 11 月 15 日發售。</div>
 <div>
  </div>
 <div>
@@ -97,8 +97,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/54/f071e879aebf56c4b873b6888a1hy0m5.
  </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B0%BE%E6%BF%AB%E4%B9%8B%E5%9C%B0" target="_blank">氾濫之地</a>》今年 11 月 15 日將於 Steam 及 GOG 上發售。</div>
-</div>
-<p> </p>
+</div><p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="55716" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>

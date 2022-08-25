@@ -28,7 +28,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/08/25/220825104439368_u2407
 
 这意味着今后 D 加密技术将支持任天堂 Switch 游戏。</p><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/08/25/220825104439368_u24074.jpg" referrerpolicy="no-referrer"><figcaption class="vg_insert_img_notice" contenteditable="true"></figcaption></figure></div><p>D 加密技术，全称
 Denuvo Anti-Tamper，是一种由
-Denuvo 公司开发的反篡改技术。其作为一种盗版措施，常被应用于包括游戏、软件、电子书等多领域中。</p><p>就在昨天，Denuvo 背后的爱迪德公司发布了一项声明。在声明中他们表示，
+Denuvo 公司开发的反篡改技术。其作为一种反盗版措施，常被应用于包括游戏、软件、电子书等多领域中。</p><p>就在昨天，Denuvo 背后的爱迪德公司发布了一项声明。在声明中他们表示，
 Switch
 
 游戏长期以来一直受到盗版问题的困扰，为了解决这一情况，他们推出了名为「Switch Emulator Protection」的工具，通过这项技术，NS 游戏在 PC 模拟器上的运行将会受阻。</p><p>公司指出，该技术并不会影响游戏的体验。</p><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/08/25/220825104606383_u24074.jpg" referrerpolicy="no-referrer"><figcaption class="vg_insert_img_notice" contenteditable="true"></figcaption></figure></div><p>

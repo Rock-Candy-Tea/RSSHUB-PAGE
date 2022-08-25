@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/50/0c6ef2efecfbd275a7123026061hxxq5.JPG?v=1661398239193'
 author: 巴哈姆特
 comments: false
-date: 2022-08-25 06:24:24
+date: 2022-08-25 07:15:15
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/50/0c6ef2efecfbd275a7123026061hxxq5.JPG?v=1661398239193'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/50/0c6ef2efecfbd275a7123026061hxxq5.
 <div>
 <div>
 <div>
-　　由中國深圳的獨立遊戲開發團隊可口遊戲（Blingame）研發、Lightning Games 發行的動作遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8B%87%E6%95%A2%E7%9A%84%E5%93%88%E5%85%8B" target="_blank">勇敢的哈克</a>》1.0 正式版已在 Steam 平台上架。</div>
+　　由中國深圳的獨立遊戲開發團隊可口遊戲（Blingame）研發、OKJOY 發行的動作遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8B%87%E6%95%A2%E7%9A%84%E5%93%88%E5%85%8B" target="_blank">勇敢的哈克</a>》1.0 正式版已在 Steam 平台上架。</div>
 <div>
  </div>
 <div>
@@ -93,8 +93,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/50/0c6ef2efecfbd275a7123026061hxxq5.
  </div>
 <div>
 　　PC 新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%8B%87%E6%95%A2%E7%9A%84%E5%93%88%E5%85%8B" target="_blank">勇敢的哈克</a>》1.0 版即日起正式推出。</div>
-</div>
-<p> </p>
+</div><p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="19340" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
