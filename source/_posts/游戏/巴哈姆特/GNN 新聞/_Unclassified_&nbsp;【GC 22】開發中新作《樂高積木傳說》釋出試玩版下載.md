@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/79/311ec654f1825335092de5de161hy6v5.JPG'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/71/b0b3d719ee7c7764d3c058ed2c1hy9f5.JPG?v=1661415980326'
 author: 巴哈姆特
 comments: false
-date: 2022-08-25 08:14:47
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/79/311ec654f1825335092de5de161hy6v5.JPG'
+date: 2022-08-25 09:09:48
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/b0b3d719ee7c7764d3c058ed2c1hy9f5.JPG?v=1661415980326'
 ---
 
 <div>   
@@ -17,6 +17,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/79/311ec654f1825335092de5de161hy6v5.
 <div>
 <div>
 　　發行商 Thunderful Publishing 旗下由 Clock<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Stone" target="_blank">Stone</a> 開發的《樂高》系列冒險遊戲新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%82%E9%AB%98%E7%A9%8D%E6%9C%A8%E5%82%B3%E8%AA%AA" target="_blank">樂高積木傳說</a>（暫譯，原名：LEGO Bricktales）》於即日起在 Steam 平台開放試玩版搶先體驗。</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/b0b3d719ee7c7764d3c058ed2c1hy9f5.JPG?v=1661415980326" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/b0b3d719ee7c7764d3c058ed2c1hy9f5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/71/b0b3d719ee7c7764d3c058ed2c1hy9f5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
 <div>
  </div>
 <div>
@@ -99,8 +107,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/79/311ec654f1825335092de5de161hy6v5.
  </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%82%E9%AB%98%E7%A9%8D%E6%9C%A8%E5%82%B3%E8%AA%AA" target="_blank">樂高積木傳說</a>》預定今年在 PC Steam、PlayStation、Xbox 和 Nintendo Switch 平台推出。</div>
-</div>
-<p> </p>
+</div><p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="54221" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
