@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/26/55b3a0a1f369fd09c020895f9b1hz2q5.JPG?v=1661506090812'
 author: 巴哈姆特
 comments: false
-date: 2022-08-26 11:08:40
+date: 2022-08-26 12:19:10
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/55b3a0a1f369fd09c020895f9b1hz2q5.JPG?v=1661506090812'
 ---
 
 <div>   
 <div>
 <div>
-　　由獨立遊戲開發者 Christian Sparks 開發製作的潛行動作冒險遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%8F%E6%B5%A3%E7%86%8A%E6%89%BE%E9%9B%B6%E9%A3%9F" target="_blank">小浣熊找零食</a>（暫譯，原名：Snaccoon）》在 GamesRadar 於 Gamescom 2022 期間主辦的數位遊戲發表會「Future Games Show（未來遊戲展）」上釋出最新遊戲預告片；本作的發行平台與上市日期尚未公布。</div>
+　　由獨立遊戲開發者 Christian Sparks 開發製作的潛行動作冒險遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%8F%E6%B5%A3%E7%86%8A%E6%89%BE%E9%9B%B6%E9%A3%9F" target="_blank">小浣熊找零食</a>（暫譯，原名：Snaccoon）》在 GamesRadar 於 Gamescom 2022 期間主辦的數位遊戲發表會「Future Games Show（未來遊戲展）」上釋出最新遊戲預告片；本作目前計畫在 PC 平台推出，上市日期尚未公布。</div>
 <div>
  </div>
 <div>
@@ -89,7 +89,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/55b3a0a1f369fd09c020895f9b1hz2q5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%8F%E6%B5%A3%E7%86%8A%E6%89%BE%E9%9B%B6%E9%A3%9F" target="_blank">小浣熊找零食</a>》尚未公布發行平台與上市日期。</div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%8F%E6%B5%A3%E7%86%8A%E6%89%BE%E9%9B%B6%E9%A3%9F" target="_blank">小浣熊找零食</a>》目前計畫在 PC 平台推出，上市日期尚未公布。</div>
 <p style="font-size: 12px; padding: 10px 0;">© 2022 by Christian Sparks</p>
 </div>
 <!-- 新聞內容結束 -->
