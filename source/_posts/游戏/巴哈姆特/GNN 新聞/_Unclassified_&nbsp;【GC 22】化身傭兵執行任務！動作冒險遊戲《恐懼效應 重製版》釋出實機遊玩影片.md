@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/93/fba774321bad84e01e8c4f8a6f1hyqp5.JPG?v=1661497356632'
 author: 巴哈姆特
 comments: false
-date: 2022-08-26 09:09:46
+date: 2022-08-26 10:10:41
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/93/fba774321bad84e01e8c4f8a6f1hyqp5.JPG?v=1661497356632'
 ---
 
 <div>   
 <div>
 <div>
-　　由波蘭 MegaPixel Studio 開發、Forever Entertainment 發行的恐怖動作冒險遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%81%90%E6%87%BC%E6%95%88%E6%87%89%20%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">恐懼效應 重製版</a>（暫譯，原名：Fear Effect Reinvented）》在 Gamescom 2022 中釋出了最新實機遊玩預告片；本的發行平台與上市日期則尚未公布。</div>
+　　由波蘭 MegaPixel Studio 開發、Forever Entertainment 發行的恐怖動作冒險遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%81%90%E6%87%BC%E6%95%88%E6%87%89%20%E9%87%8D%E8%A3%BD%E7%89%88" target="_blank">恐懼效應 重製版</a>（暫譯，原名：Fear Effect Reinvented）》在 Gamescom 2022 中釋出了最新實機遊玩預告片；本作的發行平台與上市日期則尚未公布。</div>
 <div>
  </div>
 <div>

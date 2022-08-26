@@ -17,7 +17,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220826/1661503972_7839
 在最近的英伟达2023年第二季度财报电话会议上，英伟达CEO黄仁勋表示，显卡的价格应该与当前的游戏主机一样高。
 </p>
 <p style="text-indent:2em;">
-他说道：“我们一直认为GeForce的ASP（平均售价）应该向游戏主机的平均售价靠近，所以现在大约<span>应该是500美元。”根据黄仁勋的说法，这种信念源自于“GeForce本质上就是玩家PC中的游戏机”的想法。</span>
+他说道：“我们一直认为GeForce的ASP（平均售价）应该向游戏主机的平均售价靠近，所以现在大约<span>应该是500美元。”根据黄仁勋的说法，这种信念源自于“GeForce本质上就是玩家PC中的游戏机”的想法。</span> 
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220826/1661503972_783956.jpg" alt="英伟达CEO老黄：显卡的价格应该与游戏主机一样高" referrerpolicy="no-referrer"> 
