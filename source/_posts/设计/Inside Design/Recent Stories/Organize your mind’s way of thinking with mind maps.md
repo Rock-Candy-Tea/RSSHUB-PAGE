@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/mind-maps/'
 author: Inside Design
 comments: false
-date: 2022-08-25 15:11:18
+date: 2022-08-26 00:55:12
 thumbnail: 'https://www.invisionapp.com/inside-design/mind-maps/'
 ---
 
