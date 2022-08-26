@@ -5,15 +5,15 @@ categories:
  - 新媒体
  - 品玩
  - 实时要闻
-headimg: 'https://picsum.photos/400/300?random=1523'
+headimg: 'https://picsum.photos/400/300?random=8725'
 author: 品玩
 comments: false
 date: Fri, 26 Aug 2022 05:12:32 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1523'
+thumbnail: 'https://picsum.photos/400/300?random=8725'
 ---
 
 <div>   
-品驾
+2022成都车展
 
 
 奔驰首款EVA纯电平台国产车型全新EQE正式上市
