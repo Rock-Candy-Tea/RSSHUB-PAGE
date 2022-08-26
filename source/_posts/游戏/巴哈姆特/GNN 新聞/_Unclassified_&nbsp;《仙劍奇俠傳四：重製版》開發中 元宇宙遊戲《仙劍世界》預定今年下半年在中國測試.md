@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/39/6b2a665aa779aa4a0fb7c03d3e1hyxj5.JPG?v=1661501271019'
 author: 巴哈姆特
 comments: false
-date: 2022-08-26 08:12:59
+date: 2022-08-26 09:09:46
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/39/6b2a665aa779aa4a0fb7c03d3e1hyxj5.JPG?v=1661501271019'
 ---
 
@@ -28,7 +28,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/39/6b2a665aa779aa4a0fb7c03d3e1hyxj5.
 <div>
  </div>
 <div>
-　　報告也提及，先前公開結合開放世界與元宇宙平台的《仙劍世界》，內容將打造的天空之城「仙劍靈鏡」、是一個娛樂社交的元宇宙平台。「仙劍靈鏡」給玩家一個輕鬆、休閒的田園、山水和高山峻嶺的仙境，玩家可以在上面建造自己的山莊、庭院、農舍；可以和喜歡的朋友一起釣魚、泛舟、農作；可以設計自己喜歡的服裝、寵物和休閒小遊戲，讓創作者獲得更好的回報，還可以參加派對和觀看平台精心準備的演出，還可以結合製造業和農林牧業，讓玩家體驗線上就能操控實體經濟產出的樂趣。《仙劍世界》遊戲預定 2022 年下半年進行首輪測試，計劃於 2023 年上半年上線。</div>
+　　報告也提及，先前公開結合開放世界與元宇宙平台的《仙劍世界》，內容將打造天空之城「仙劍靈鏡」、這是一個娛樂社交的元宇宙平台。「仙劍靈鏡」給玩家一個輕鬆、休閒的田園、山水和高山峻嶺的仙境，玩家可以在上面建造自己的山莊、庭院、農舍；可以和喜歡的朋友一起釣魚、泛舟、農作；可以設計自己喜歡的服裝、寵物和休閒小遊戲，讓創作者獲得更好的回報，還可以參加派對和觀看平台準備的表演，還可以結合製造業和<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%BE%B2%E6%9E%97" target="_blank">農林</a>牧業，讓玩家體驗線上就能操控實體經濟產出的樂趣。《仙劍世界》遊戲預定 2022 年下半年進行首輪測試，計劃於 2023 年上半年上市。</div>
 <div>
  </div>
 <div>
@@ -41,7 +41,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/39/6b2a665aa779aa4a0fb7c03d3e1hyxj5.
 </ul>
 </div>
 <div>
-　　業績報告中指出，集合《仙劍奇俠傳》全系列正版授權的新款劇情冒險卡牌手機遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%96%B0%E4%BB%99%E5%8A%8D%E5%A5%87%E4%BF%A0%E5%82%B3" target="_blank">新仙劍奇俠傳</a>之揮劍問情》，由《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%96%B0%E5%B0%84%E9%B5%B0%E7%BE%A4%E4%BF%A0%E5%82%B3%E4%B9%8B%E9%90%B5%E8%A1%80%E4%B8%B9%E5%BF%83" target="_blank">新射鵰群俠傳之鐵血丹心</a>》原本研發團隊開發、預定 2022 年下半年在中國推出。另一款該集團與阿里巴巴旗下靈犀互動娛樂合作的大型 MMORPG 手遊《仙劍‧緣起》將於 2023 年上市。</div>
+　　業績報告中指出，集合《仙劍奇俠傳》全系列正版授權的新款劇情冒險卡牌手機遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%96%B0%E4%BB%99%E5%8A%8D%E5%A5%87%E4%BF%A0%E5%82%B3%E4%B9%8B%E6%8F%AE%E5%8A%8D%E5%95%8F%E6%83%85" target="_blank">新仙劍奇俠傳之揮劍問情</a>》，由《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%96%B0%E5%B0%84%E9%B5%B0%E7%BE%A4%E4%BF%A0%E5%82%B3%E4%B9%8B%E9%90%B5%E8%A1%80%E4%B8%B9%E5%BF%83" target="_blank">新射鵰群俠傳之鐵血丹心</a>》原本研發團隊開發、預定 2022 年下半年在中國推出。另一款該集團與阿里巴巴旗下靈犀互動娛樂合作的大型 MMORPG 手遊《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BB%99%E5%8A%8D+%E2%80%A7+%E7%B7%A3%E8%B5%B7" target="_blank">仙劍 ‧ 緣起</a>》將於 2023 年上市。</div>
 <div>
  </div>
 <div>
