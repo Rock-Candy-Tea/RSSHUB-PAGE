@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/60/cf3aa4979db30feff754cb73801hz6g5.JPG?v=1661513676897'
 author: 巴哈姆特
 comments: false
-date: 2022-08-26 12:19:10
+date: 2022-08-26 13:30:01
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/60/cf3aa4979db30feff754cb73801hz6g5.JPG?v=1661513676897'
 ---
 
@@ -21,7 +21,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/60/cf3aa4979db30feff754cb73801hz6g5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/60/cf3aa4979db30feff754cb73801hz6g5.JPG?v=1661513676897" data-srcset="https://p2.bahamut.com.tw/B/2KU/60/cf3aa4979db30feff754cb73801hz6g5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/60/cf3aa4979db30feff754cb73801hz6g5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/60/cf3aa4979db30feff754cb73801hz6g5.JPG?v=1661513676897" data-srcset="https://p2.bahamut.com.tw/B/2KU/60/cf3aa4979db30feff754cb73801hz6g5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/60/cf3aa4979db30feff754cb73801hz6g5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -290,7 +290,7 @@ M16A3</figure>
 <li>
 新地圖：擱淺</li>
 <li>
-新裝備：震盪手榴彈（Concussion Grenade）</li>
+新裝備：震盪手榴彈</li>
 <li>
 新武器：
 <ul style="list-style-type: circle;">
@@ -303,7 +303,7 @@ PF51 次要武器</li>
 </ul>
 </li>
 <li>
-新功能：小任務（Assignment）</li>
+新功能：小任務</li>
 <li>
 全新戰鬥通行證</li>
 <li>
@@ -320,6 +320,14 @@ PF51 次要武器</li>
 </ul>
 </li>
 </ul>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/9808c7d7a97e25048d9adb3a031hz6h5.JPG?v=1661518203513" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/9808c7d7a97e25048d9adb3a031hz6h5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/61/9808c7d7a97e25048d9adb3a031hz6h5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
+<div>
+ </div>
 <h3>
 我要如何解鎖所有新的遊戲物品？</h3>
 <div>
