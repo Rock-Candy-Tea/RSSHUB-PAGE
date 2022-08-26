@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.JPG?v=1661519890468'
 author: 巴哈姆特
 comments: false
-date: 2022-08-26 13:30:01
+date: 2022-08-26 14:09:05
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.JPG?v=1661519890468'
 ---
 
@@ -21,7 +21,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 53.10%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.JPG?v=1661519890468" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 53.10%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.JPG?v=1661519890468" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -33,7 +33,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 52.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/04/b3ebcd4498ee6e3309e0739f4e1hz7o5.JPG?v=1661519898289" data-srcset="https://p2.bahamut.com.tw/B/2KU/04/b3ebcd4498ee6e3309e0739f4e1hz7o5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/04/b3ebcd4498ee6e3309e0739f4e1hz7o5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 52.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/04/b3ebcd4498ee6e3309e0739f4e1hz7o5.JPG?v=1661519898289" data-srcset="https://p2.bahamut.com.tw/B/2KU/04/b3ebcd4498ee6e3309e0739f4e1hz7o5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/04/b3ebcd4498ee6e3309e0739f4e1hz7o5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -41,12 +41,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/dcf73dd9e2c6d70efea579542a1hz7p5.JPG?v=1661519955322" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/dcf73dd9e2c6d70efea579542a1hz7p5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/05/dcf73dd9e2c6d70efea579542a1hz7p5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/05/dcf73dd9e2c6d70efea579542a1hz7p5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/05/dcf73dd9e2c6d70efea579542a1hz7p5.JPG 4x" style="max-width: unset;" title="《臥龍：蒼天隕落》獨家徽章" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/dcf73dd9e2c6d70efea579542a1hz7p5.JPG?v=1661519955322" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/dcf73dd9e2c6d70efea579542a1hz7p5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/05/dcf73dd9e2c6d70efea579542a1hz7p5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/05/dcf73dd9e2c6d70efea579542a1hz7p5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/05/dcf73dd9e2c6d70efea579542a1hz7p5.JPG 4x" style="max-width: unset;" title="《臥龍：蒼天隕落》獨家徽章" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%87%A5%E9%BE%8D%EF%BC%9A%E8%92%BC%E5%A4%A9%E9%9A%95%E8%90%BD" target="_blank">臥龍：蒼天隕落</a>》獨家徽章</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/06/f80de05a69c1fb3cd63d37213e1hz7q5.JPG?v=1661519955322" data-srcset="https://p2.bahamut.com.tw/B/2KU/06/f80de05a69c1fb3cd63d37213e1hz7q5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/06/f80de05a69c1fb3cd63d37213e1hz7q5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/06/f80de05a69c1fb3cd63d37213e1hz7q5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/06/f80de05a69c1fb3cd63d37213e1hz7q5.JPG 4x" style="max-width: unset;" title="《臥龍：蒼天隕落》獨家Ｔ恤" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/06/f80de05a69c1fb3cd63d37213e1hz7q5.JPG?v=1661519955322" data-srcset="https://p2.bahamut.com.tw/B/2KU/06/f80de05a69c1fb3cd63d37213e1hz7q5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/06/f80de05a69c1fb3cd63d37213e1hz7q5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/06/f80de05a69c1fb3cd63d37213e1hz7q5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/06/f80de05a69c1fb3cd63d37213e1hz7q5.JPG 4x" style="max-width: unset;" title="《臥龍：蒼天隕落》獨家Ｔ恤" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%87%A5%E9%BE%8D%EF%BC%9A%E8%92%BC%E5%A4%A9%E9%9A%95%E8%90%BD" target="_blank">臥龍：蒼天隕落</a>》獨家Ｔ恤</figure>
 </li>
@@ -61,7 +61,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 51.35%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/07/27a66cd5fc8eb8baccf0dc12091hz7r5.JPG?v=1661520068774" data-srcset="https://p2.bahamut.com.tw/B/2KU/07/27a66cd5fc8eb8baccf0dc12091hz7r5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/07/27a66cd5fc8eb8baccf0dc12091hz7r5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 51.35%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/07/27a66cd5fc8eb8baccf0dc12091hz7r5.JPG?v=1661520068774" data-srcset="https://p2.bahamut.com.tw/B/2KU/07/27a66cd5fc8eb8baccf0dc12091hz7r5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/07/27a66cd5fc8eb8baccf0dc12091hz7r5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -131,9 +131,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/89/8be7465cd9e346744b5f4015571huht5.
 </td>
 <td>
 <div>
-<span style="font-size:16px;">試玩特典：獨家徽章一組2枚</span></div>
+<span style="font-size:16px;">試玩特典：獨家徽章 1 組 2 枚</span></div>
 <div>
-<span style="font-size:16px;">在規定的試玩時間內成功通關的玩家還可獲得獨家T恤一件！</span></div>
+<span style="font-size:16px;">在規定的試玩時間內成功通關的玩家還可獲得獨家Ｔ恤 1 件！</span></div>
 </td>
 </tr>
 <tr>
