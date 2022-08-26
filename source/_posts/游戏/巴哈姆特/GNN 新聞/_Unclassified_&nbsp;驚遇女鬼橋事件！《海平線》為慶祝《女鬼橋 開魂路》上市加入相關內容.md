@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/67/4d42a85b178275f3ed5cc5202d1hysr5.JPG?v=1661498848285'
 author: 巴哈姆特
 comments: false
-date: 2022-08-26 10:10:41
+date: 2022-08-26 11:08:40
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/4d42a85b178275f3ed5cc5202d1hysr5.JPG?v=1661498848285'
 ---
 
@@ -67,7 +67,8 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/67/4d42a85b178275f3ed5cc5202d1hysr5.
 </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B5%B7%E5%B9%B3%E7%B7%9A" target="_blank">海平線</a> 無盡旅程》中《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E9%AC%BC%E6%A9%8B+%E9%96%8B%E9%AD%82%E8%B7%AF" target="_blank">女鬼橋 開魂路</a>》內容已推出。</div>
-</div><p> </p>
+</div>
+<p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="54375" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>

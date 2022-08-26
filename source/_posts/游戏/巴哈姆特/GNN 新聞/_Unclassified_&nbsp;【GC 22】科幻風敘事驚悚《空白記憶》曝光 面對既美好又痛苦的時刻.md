@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/30/66fe329763a813fc2906f729741hyxa5.JPG?v=1661500817112'
 author: 巴哈姆特
 comments: false
-date: 2022-08-26 10:10:41
+date: 2022-08-26 11:08:40
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/66fe329763a813fc2906f729741hyxa5.JPG?v=1661500817112'
 ---
 
@@ -79,7 +79,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/66fe329763a813fc2906f729741hyxa5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%A9%BA%E7%99%BD%E8%A8%98%E6%86%B6" target="_blank">空白記憶</a>》預計 2023 年在 PC、PS5 和 Xbox Series X｜S 平台上視。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%A9%BA%E7%99%BD%E8%A8%98%E6%86%B6" target="_blank">空白記憶</a>》預計 2023 年在 PC、PS5 和 Xbox Series X｜S 平台上市。</div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="55731" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
