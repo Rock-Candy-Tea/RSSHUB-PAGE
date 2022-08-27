@@ -1,0 +1,18 @@
+
+---
+title: "原神_武器英语~猎人之径 Hunter's Path"
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://i1.max-c.com/imgx/2022/08/25/faf60dc71c4a4fa1ae18a5e0056b67261661437928.png'
+author: 小黑盒
+comments: false
+date: Sat, 27 Aug 2022 22:02:18 GMT
+thumbnail: 'https://i1.max-c.com/imgx/2022/08/25/faf60dc71c4a4fa1ae18a5e0056b67261661437928.png'
+---
+
+<div>   
+<p><img class="lazy" data-height="257" src="https://i1.max-c.com/imgx/2022/08/25/faf60dc71c4a4fa1ae18a5e0056b67261661437928.png" data-width="268" referrerpolicy="no-referrer"></p><p>A golden hunting bow made of white branches that contains the blessing of the forest. Trees with such white branches are rarely seen nowadays. The blessings were once covered by darkened blood, but the stains have been washed away by water.</p><p>用白枝制成的饰金猎弓，其中蕴含森林的祝福。长出这种洁白枝条的树，在地上已经很少见了。祝福曾一度被黑血掩盖。但污渍已被水洗净了。</p><p><br></p><p>The hunter pursuing the dark herd seemed to be on a hunt <b>without end</b>. Nights of waiting under rotten leaves, and days of slumbering inside chunks of meat, All for that fatal arrow that would penetrate the heart of the<b>prey</b>— and then, it was on to the next target.</p><p><b>without end永无止境</b></p><p><b>prey/preɪ/n.猎物，捕获物</b></p><p>追猎漆黑兽群的猎手，她的捕猎似乎<b>永无止境</b>。数夜在朽叶堆下等待，数日埋身于肉块中假寐，只为射出穿透心脏的一箭。然后，寻找新猎物。</p><p><br></p><p>Gradually, the hunter stopped worrying about the wind revealing her location to the prey, Or about using wildflowers to <b>camouflage </b>her human scent, As the smell she diffused became similar to the stench wild beasts were familiar with.</p><p><b>camouflage/ˈkæməflɑːʒ/v.掩饰；伪装；</b></p><p>渐渐地猎手不再担心风将自己的所在传给猎物，不再利用葱色的野花来掩盖自己身为人的气息，因为她散发的气味变得与野兽熟悉的腥臭相近。</p><p><br></p><p>She forgot the human tongue long before she became a hunter. During her endless hunt, the time and the sun and the moon faded into <b>oblivion</b>, And so did the boundless hunting fields promised to her. Even the blind youth who first found her and gave her the bow made of white branches, And led her onto the path of the dark beasts, Was forgotten in her <b>undistracted </b>hunt.</p><p><b>oblivion/əˈblɪviən/n.遗忘</b></p><p><b>undistracted心无旁骛的</b></p><p>在成为猎手前，她早已忘记了人的言语。在无止境的追猎中，忘记了时间与日月，忘记了原本许诺她的无边无际的大猎场。连起初找到她、将白枝制成的弓交给她，又使她走上漆黑兽径的盲眼少年，也在<b>心无旁骛的</b>狩猎中被遗忘了。</p><p><br></p><p>"For the bloodstained shall never find <b>yonder </b>hunting grounds of endless <b>viridescence</b>." "No, master, this world where barbarous beasts roam shall be my hunting grounds..."</p><p><b>yonderˈjɑːndər/adj.那边的，（在）远处的</b></p><p><b>viridescence/,virə'desəns/n.淡绿色</b></p><p>「染血者永远也不能找到，彼方无边际的苍翠猎场。」</p><p>「不，师父，这个恶兽横行的世界才是我的猎场吧…」</p><p><br></p><p>Looking into the clear water under the moonlight, the hunter found that she, too, had unwittingly turned into a wild beast. Following the tracks left by the beast, the black knight whose form and sword were reflected in the water found her, at a loss as she was...</p><p>在月光投下的净水中，猎手发现，原来自己也不知不觉变成了野兽的模样。循着野兽留下的路径，水影中映出的黑骑士与剑锋，找到了不知所措的她…</p><p><br></p><p>"So, you were just another beast to be destroyed, tempted by the illusory <b>silhouette </b>of the moon in the water." "How strange. For a moment, I thought I saw a maiden lost in the forest..."</p><p><b>silhouette/ˌsɪluˈet/n.剪影，（尤指人脸的）侧影</b></p><p>「不过又是一头需要消灭的魔兽，为水中的月轮所惑罢了。」</p><p>「真奇怪。有那么一瞬间，我还以为是迷失森林的少女呢…」</p><p><br></p><p>"I must continue westwards. For the sake of justice... To settle the crime of twisting man into a beast's form."</p><p>「继续西行吧。为了正义…为了清算将人歪曲为野兽的罪。」</p><p><img class="lazy" data-height="1937" src="https://i1.max-c.com/imgx/2022/08/25/546b32e6c5084019bfceb589f1bbb6ee1661437929.jpg" data-width="1372" referrerpolicy="no-referrer"></p><p><a href="heybox://open_subject" target="_blank">#原神3.0版本创作者征集活动#</a><br></p>  
+</div>
+            

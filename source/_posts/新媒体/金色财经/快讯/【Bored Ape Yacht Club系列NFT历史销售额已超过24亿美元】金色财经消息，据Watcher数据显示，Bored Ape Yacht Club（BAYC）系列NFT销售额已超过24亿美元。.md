@@ -1,0 +1,18 @@
+
+---
+title: '【Bored Ape Yacht Club系列NFT历史销售额已超过24亿美元】金色财经消息，据Watcher数据显示，Bored Ape Yacht Club（BAYC）系列NFT销售额已超过24亿美元。'
+categories: 
+ - 新媒体
+ - 金色财经
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=4224'
+author: 金色财经
+comments: false
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=4224'
+---
+
+<div>   
+【Bored Ape Yacht Club系列NFT历史销售额已超过24亿美元】金色财经消息，据Watcher数据显示，Bored Ape Yacht Club（BAYC）系列NFT销售额已超过24亿美元。  
+</div>
+            
