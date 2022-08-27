@@ -1,0 +1,18 @@
+
+---
+title: 'BLAST秋季赛：火男发威，OG两图战胜A队'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://i1.max-c.com/imgx/2022/08/27/46f2446b258846f5bde4bb9c8c263d7a1661608833.png'
+author: 小黑盒
+comments: false
+date: 2022-08-27 15:09:34
+thumbnail: 'https://i1.max-c.com/imgx/2022/08/27/46f2446b258846f5bde4bb9c8c263d7a1661608833.png'
+---
+
+<div>   
+<blockquote><p>本文来源：5EPlay</p><p>作者：HtAN^biub</p></blockquote><p>BLAST Premier 2022秋季小组赛，OG战队两图击败Astralis战队，成功晋级BLAST 秋季决赛。本场比赛OG战队的flameZ状态非常爆炸，多次帮助战队拿下关键分。Astralis方面尽管gla1ve状态极佳，但k0nfig和blameF的状态一般，Farlig回归“乏力”本色。两张地图A队都是以12-16的比分落败。</p><p><img class="lazy" data-height="337" src="https://i1.max-c.com/imgx/2022/08/27/46f2446b258846f5bde4bb9c8c263d7a1661608833.png" data-width="600" referrerpolicy="no-referrer"></p><p><b>OG 2-0 Astralis（Ancient 16-12；Mirage 16-12）</b></p><p>地图BP：</p><p><img class="lazy" data-height="418" src="https://i1.max-c.com/imgx/2022/08/27/bc1811fb8d41412cbf7136f6035bfec51661608834.png" data-width="600" referrerpolicy="no-referrer"></p><p>图一 Ancient（16-12）</p><p>手枪局作为进攻方的OG快攻B区，但被大壮的双枪3杀无情粉碎。第一个长枪局flameZ和degster发挥不错帮助OG拿下首分，随后顺利拿下经济局的OG将比分追平为2-2。之后的长枪局双方打的比较焦灼，A队虽然连拿4分，但OG还是止住了A队的势头。上半场最后一回合nexa残局1v3让OG以8-7的比分领先。</p><p><img class="lazy" data-height="321" src="https://i1.max-c.com/imgx/2022/08/27/2ba9c3bf18d8482597f7ac3db74ed1231661608834.jpg" data-width="600" referrerpolicy="no-referrer"></p><p>下半场A队试图进攻B区，但面对OG铜墙铁壁的中路和B小重防，A队正面对枪近乎完败，被OG拿下手枪局。第一个长枪局A队也无法熔化OG的防守，OG连拿4分，取得12-7的优势。直到第20回合依靠blameF的个人发挥，A队终于开启了下半场拿分的节奏，成功将比分追平至12-12。OG紧急叫出了暂停，暂停后OG选择强压中路，在一波换人取得人数优势后OG在残局里将A队剩余队员绞杀，OG拿下下半场久违的分数。</p><p><img class="lazy" data-height="337" src="https://i1.max-c.com/imgx/2022/08/27/6c4baa1072d340d6aea69cd1a073d1901661608835.gif" data-width="599" referrerpolicy="no-referrer"></p><p>拍拍熊双杀</p><p>A队也马上叫出暂停，之后A队选择了前期默认，但后期对B点的进攻启动过晚，使得OG拿到了宝贵的赛点。随后F1KU发挥帮助OG拿下第一图的胜利。</p><p><img class="lazy" data-height="304" src="https://i1.max-c.com/imgx/2022/08/27/7e33f42380f14156a4b6345fdc9b53281661608836.png" data-width="600" referrerpolicy="no-referrer"></p><p>图二 Mirage（16-12）</p><p>上半场身为进攻方的A队选择简单粗暴的B二楼爆弹战术，但却被守在B二楼的NEOFRAGE一换二，剩下的土匪也被回防的CT击杀，OG拿下手枪局。拿下手枪局的OG再下一分。第一个长枪局里nexa的绕后让OG提前知晓了A队的进攻方向，二楼下的flameZ强杀2人让OG拿下关键1分。下一分看似OG稳拿，不过gla1ve的沙鹰三杀再配合大壮让A队拿下第一分！</p><p><img class="lazy" data-height="337" src="https://i1.max-c.com/imgx/2022/08/27/1a3a0d0fdefb407ca1b7ebd5a8fa77bd1661608837.gif" data-width="599" referrerpolicy="no-referrer"></p><p>之后A队把比分追平，虽然OG马上连拿两分，但gla1ve的发挥真的太好了，A队强行再拿一分。上半场剩下的回合中，A队拿到了大部分回合的胜利，半场比分最后为OG 8-7领先A队。</p><p><img class="lazy" data-height="320" src="https://i1.max-c.com/imgx/2022/08/27/e4975e1f7e314cec818292ba5efbcb951661608843.jpg" data-width="600" referrerpolicy="no-referrer"></p><p>下半场OG选择爆弹进攻A点，经过激烈的人数交换后土匪进入2v2的残局。在F1KU强杀警家的Xyp9x之后，k0nfig无力回天。OG拿下手枪局！比分来到10-7时，A队迎来自己下半场第一个长枪局并顺利拿下。当双方有来有往且局势对OG不利时，flameZ站了出来！伴随着Eco翻盘OG似乎又找回了最佳状态！正当OG希望把比分扩大到14-9时，k0nfig抓住了OG换弹机会拿下双杀，比分变成13-10。在Xyp9x拿下1v2残局后，获得喘息之机的A队让比分来到12-13。</p><p><img class="lazy" data-height="337" src="https://i1.max-c.com/imgx/2022/08/27/18f537715cea47f1a1bf852f31e664de1661608844.gif" data-width="599" referrerpolicy="no-referrer"></p><p>但下一个长枪局flameZ在中路拿到两个关键击杀，A队再度落后。随后blameF开局中路被击杀，OG队员进攻单人防守的B区并进入2v1的残局，虽然gla1ve很想创造奇迹，但OG最终拿到了赛点。关键局没钱的A队只能强起，A队的枪械劣势差距过大，最终A队以12-16的比分打出GG。</p><p><img class="lazy" data-height="303" src="https://i1.max-c.com/imgx/2022/08/27/898874963250419da9ca29994638d0501661608845.png" data-width="600" referrerpolicy="no-referrer"></p><p><b>本场MVP：</b></p><p><b></b></p><p><img class="lazy" data-height="338" src="https://i1.max-c.com/imgx/2022/08/27/2dbb7557b4054c3195eac203acdd58841661608845.png" data-width="600" referrerpolicy="no-referrer"></p>  
+</div>
+            
