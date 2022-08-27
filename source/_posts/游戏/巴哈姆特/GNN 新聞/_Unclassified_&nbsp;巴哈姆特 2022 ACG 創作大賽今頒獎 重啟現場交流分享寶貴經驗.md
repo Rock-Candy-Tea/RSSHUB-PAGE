@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/82/a7840286b74facf25cdefe3d4a1hyt65.JPG?v=1661500562486'
 author: 巴哈姆特
 comments: false
-date: 2022-08-27 09:09:01
+date: 2022-08-27 10:09:46
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/a7840286b74facf25cdefe3d4a1hyt65.JPG?v=1661500562486'
 ---
 
@@ -31,6 +31,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/a7840286b74facf25cdefe3d4a1hyt65.
 <div>
  </div>
 <div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.74%;">
+<figcaption style="padding-bottom: 42.12%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/34/32016a8291aeb29baa0f1eca9c1hzba5.JPG?v=1661593591963" data-srcset="https://p2.bahamut.com.tw/B/2KU/34/32016a8291aeb29baa0f1eca9c1hzba5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/34/32016a8291aeb29baa0f1eca9c1hzba5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
+<div>
+ </div>
+<div>
 <div>
 　　本屆大賽在報名類別上分為「動畫組」、「漫畫組」、「遊戲組」共 3 個組別，遊戲組徵件類別則是包含了 PC 以及 APP 遊戲。本次投稿作品共計 508 件，收件數相較往年仍在持續成長中，充分顯示台灣 ACG 創作者的能量日益茁壯。</div>
 <div>
@@ -42,7 +50,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/a7840286b74facf25cdefe3d4a1hyt65.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/33/7b0f23259ef2f8901a8aed867b1hzb95.JPG?v=1661590179440" data-srcset="https://p2.bahamut.com.tw/B/2KU/33/7b0f23259ef2f8901a8aed867b1hzb95.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/33/7b0f23259ef2f8901a8aed867b1hzb95.JPG 2x" style="max-width: unset;" title="巴哈姆特電玩資訊站執行長 Sega" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/33/7b0f23259ef2f8901a8aed867b1hzb95.JPG?v=1661590179440" data-srcset="https://p2.bahamut.com.tw/B/2KU/33/7b0f23259ef2f8901a8aed867b1hzb95.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/33/7b0f23259ef2f8901a8aed867b1hzb95.JPG 2x" style="max-width: unset;" title="巴哈姆特電玩資訊站執行長 Sega" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 巴哈姆特電玩資訊站執行長 Sega</figure>
 </li>
