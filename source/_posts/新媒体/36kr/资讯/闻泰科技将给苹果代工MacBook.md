@@ -1,0 +1,18 @@
+
+---
+title: '闻泰科技将给苹果代工MacBook'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=1017'
+author: 36kr
+comments: false
+date: Sat, 27 Aug 2022 09:00:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1017'
+---
+
+<div>   
+闻泰科技将给苹果代工MacBook  
+</div>
+            

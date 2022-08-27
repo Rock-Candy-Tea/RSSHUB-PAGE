@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pica.zhimg.com/v2-cf5d63db584ace6a2368bd32c41f6c65_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-cf5d63db584ace6a2368bd32c41f6c65_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-08-27 11:07:49
-thumbnail: 'https://pica.zhimg.com/v2-cf5d63db584ace6a2368bd32c41f6c65_l.jpg?source=8673f162'
+date: 2022-08-27 12:19:02
+thumbnail: 'https://pic1.zhimg.com/v2-cf5d63db584ace6a2368bd32c41f6c65_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pica.zhimg.com/v2-cf5d63db584ace6a2368bd32c41f6c65_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pica.zhimg.com/v2-cf5d63db584ace6a2368bd32c41f6c65_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-cf5d63db584ace6a2368bd32c41f6c65_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">陈伟杰，</span><span class="bio">A Global Macro Guy</span>
 <a href="https://www.zhihu.com/question/31412803/answer/820974228" class="originUrl" hidden>查看知乎原文</a>
 </strong>
