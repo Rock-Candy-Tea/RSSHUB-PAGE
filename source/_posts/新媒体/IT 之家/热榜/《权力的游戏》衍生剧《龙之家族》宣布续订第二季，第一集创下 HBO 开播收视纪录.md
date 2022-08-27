@@ -1,0 +1,19 @@
+
+---
+title: '《权力的游戏》衍生剧《龙之家族》宣布续订第二季，第一集创下 HBO 开播收视纪录'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/97a0a957-72d4-4756-8274-da51d86096e8.png'
+author: IT 之家
+comments: false
+date: Fri, 26 Aug 2022 14:36:48 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/97a0a957-72d4-4756-8274-da51d86096e8.png'
+---
+
+<div>   
+<p data-vmark="4646"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 26 日消息，今天，《龙之家族》宣布续订第二季。</p><p data-vmark="7bac">本周一，该剧第一集上线 HBO Max，成为了其有史以来收看人数最多的首播剧集。仅在美国，在当地时间周日通过有线电视和 HBO Max 流媒体观看该剧集的人数达到 998.6 万。</p><p data-vmark="31ea" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/97a0a957-72d4-4756-8274-da51d86096e8.png" w="1170" h="1244" title="《权力的游戏》衍生剧《龙之家族》宣布续订第二季，第一集创下 HBO 开播收视纪录" width="1170" height="872" referrerpolicy="no-referrer"></p><p data-vmark="0a1d">目前，在豆瓣平台，<strong>《龙之家族》的评分为 8.7 分，低于《权力的游戏》前 7 季</strong>，主要槽点在于演员颜值相比《权力的游戏》大幅下滑。</p><p data-vmark="8796">IT之家了解到，该剧改编自乔治・R・R・马丁的《火与血》，<strong>设定在《权力的游戏》事件发生前 200 年，讲述了坦格利安家族的故事</strong>，情节将包括内战“血龙狂舞”。该剧主演包括帕迪・康斯戴恩、马特・史密斯（神秘博士）、奥利维亚・库克、艾玛・达西、史蒂夫・杜桑（神秘博士）、伊芙・贝斯特、水野索诺亚、法比安・弗兰克尔和里斯・伊凡斯。曾扮演神秘博士的马特・史密斯将饰演一位坦格利安王子。</p><p data-vmark="f970">官方角色海报：</p><p data-vmark="3fbf" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/2f5c56b7-b674-47ad-8654-97d3f485dfe3.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》衍生剧《龙之家族》宣布续订第二季，第一集创下 HBO 开播收视纪录" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="bdef" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/d2a2ff94-5639-4bdf-98c5-bb0a4f3adb20.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》衍生剧《龙之家族》宣布续订第二季，第一集创下 HBO 开播收视纪录" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="911c" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/b236f4e2-8af2-40ae-b0c6-aa7579c035dc.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》衍生剧《龙之家族》宣布续订第二季，第一集创下 HBO 开播收视纪录" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="4ace" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/c122310a-fe26-494e-b783-f8f4d5df4098.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》衍生剧《龙之家族》宣布续订第二季，第一集创下 HBO 开播收视纪录" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="7a70" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/fb8c6962-b5cc-49cc-a59b-fa1d80bd67d3.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》衍生剧《龙之家族》宣布续订第二季，第一集创下 HBO 开播收视纪录" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="5bcc" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/0534240c-2b78-4848-97f9-cab8061623e2.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》衍生剧《龙之家族》宣布续订第二季，第一集创下 HBO 开播收视纪录" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="591e" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/2a827f52-1fbe-47a6-86e6-9f824a322a21.jpg@s_2,w_820,h_547" w="1200" h="800" title="《权力的游戏》衍生剧《龙之家族》宣布续订第二季，第一集创下 HBO 开播收视纪录" width="1200" height="547" referrerpolicy="no-referrer"></p><p data-vmark="f92f" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/c168884f-5334-4b56-821e-48ace4957070.jpg@s_2,w_820,h_1230" w="1440" h="2160" title="《权力的游戏》衍生剧《龙之家族》宣布续订第二季，第一集创下 HBO 开播收视纪录" width="1440" height="1230" referrerpolicy="no-referrer"></p><p data-vmark="7acf" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/4/f3827eb1-747c-4c4c-9956-49741df23f49.jpg@s_2,w_820,h_546" w="1440" h="959" title="《权力的游戏》衍生剧《龙之家族》宣布续订第二季，第一集创下 HBO 开播收视纪录" width="1440" height="546" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
