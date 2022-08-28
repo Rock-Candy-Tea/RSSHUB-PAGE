@@ -19,7 +19,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220828/s_10f97570008e4e138419f2bc4c
 <p align="center"><a href="https://img1.mydrivers.com/img/20220828/10f97570008e4e138419f2bc4c36e139.png" target="_blank"><img alt="小米13 Ultra提前确认！雷军：下一代Ultra旗舰将面向全球发售" h="338" src="https://img1.mydrivers.com/img/20220828/s_10f97570008e4e138419f2bc4c36e139.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>事实上，此前已经在<a class="f14_link" href="https://news.mydrivers.com/1/854/854218.htm" target="_blank">EEC注册包括现身MIUI代码的小米13机型中</a>，的确有全球版的后缀。</p>
 <p>对于小米13 Ultra，不出意外会搭载骁龙8 Gen2处理器，影像部分，有了第一代和徕卡合作的经验，调教应该会更加成熟。</p>
-<p>至于小米13家族中的其它产品，传言小米13采用6.36英寸置评，小米13 Pro则是2K曲面屏，全系标配100W澎湃有线快充，部分型号提供陶瓷后盖选项，最快11月底12月初发布等。</p>
+<p>至于小米13家族中的其它产品，传言小米13采用6.36英寸直屏，小米13 Pro则是2K曲面屏，全系标配100W澎湃有线快充，部分型号提供陶瓷后盖选项，最快11月底12月初发布等。</p>
 <p align="center"><a href="https://img1.mydrivers.com/img/20220828/faac36ea854c4999abcac506bb0af673.png" target="_blank"><img alt="小米13 Ultra提前确认！雷军：下一代Ultra旗舰将面向全球发售" h="572" src="https://img1.mydrivers.com/img/20220828/s_faac36ea854c4999abcac506bb0af673.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
 
             
