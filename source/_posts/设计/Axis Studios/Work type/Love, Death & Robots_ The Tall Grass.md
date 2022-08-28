@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14373/ldr_2_axisstudios_001.jpg'
 author: Axis Studios
 comments: false
-date: 2022-08-28 12:16:40
+date: 2022-08-28 13:23:45
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14373/ldr_2_axisstudios_001.jpg'
 ---
 
