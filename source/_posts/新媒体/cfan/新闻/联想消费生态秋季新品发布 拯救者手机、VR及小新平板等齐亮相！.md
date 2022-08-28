@@ -1,0 +1,98 @@
+
+---
+title: '联想消费生态秋季新品发布 拯救者手机、VR及小新平板等齐亮相！'
+categories: 
+ - 新媒体
+ - cfan
+ - 新闻
+headimg: 'https://upload.cfan.com.cn/2022/0818/1660825097783.png'
+author: cfan
+comments: false
+date: Thu, 18 Aug 2022 20:19:00 GMT
+thumbnail: 'https://upload.cfan.com.cn/2022/0818/1660825097783.png'
+---
+
+<div>   
+<p>2022年8月18日19时，联想召开“正装野兽，性能觉醒”2022联想消费生态秋季新品发布会。联想携拯救者Y70性能旗舰手机、小新Pad Pro 2022、个人云存储X1s、拯救者VR700等丰富生态新品及全新ZUI 14震撼而来。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825097783.png" border="0" alt="图片1" referrerpolicy="no-referrer"></p>
+<p>有别以往，本次发布会创新性采用XR交互技术打造了一场虚实相生的感官盛宴。全新形式不仅让用户领略到以高性能为代表的“正装野兽”拯救者Y70打破桎梏、为战而生的理念，同时也体现了联想多年来始终坚持科技创新，勇于探索高新科技，并始终深耕用户需求的态度与成果。</p>
+<p><strong>拯救者Y</strong><strong>70</strong><strong>性能旗舰手机：正装野兽，性能觉醒</strong></p>
+<p>拯救者Y70手机传承了拯救者“为战而生”的品牌基因，在拥有澎湃的野兽级战力之外，加持了硬朗优雅的正装范儿，力求为用户带来更加全能、极致的使用体验。正如联想集团副总裁、平板及游戏事业部总经理陈可所言：“Y70是响当当的性能旗舰，无论是电竞游戏战场，还是工作生活的主场，都要让用户游刃有余，统统能赢”。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825114100.png" border="0" alt="图片2" referrerpolicy="no-referrer"></p>
+<p>拯救者Y70手机外观采用纤锋美学设计语言，机身薄至7.99mm，配合超薄航空铝材质全金属中框，纤薄质感与硬朗锋芒并存，极具正装范儿。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825126827.png" border="0" alt="图片3" referrerpolicy="no-referrer"></p>
+<p>拯救者Y70全系共三种配色，冰魄白纯净简约，钛晶灰彰显神秘冷酷气质，而全新烈焰红配色，则如暗夜赛道中燃起的火焰，热烈而奔放。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825147618.png" border="0" alt="图片4" referrerpolicy="no-referrer"></p>
+<p>在正装范儿的外观下，拯救者Y70蕴含着野兽般的爆发力。其搭载最新第一代骁龙8+旗舰平台，拥有更强悍的性能释放和更低的功耗表现，搭配超大满血版LPDDR5 + UFS 3.1，带来长达12小时的APP后台驻留时长，后台APP留存能力提升70%，打开速度提升100%，使用体验更酣畅顺滑。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825189815.png" border="0" alt="图片5" referrerpolicy="no-referrer"></p>
+<p>为实现硬核实力的全面释放，拯救者Y70采用霜刃Mobile液冷散热系统，7.99mm纤薄机身内置十层散热堆叠，塞入一块加厚超大体积VC均热板，面积高达5047mm²，厚度为0.55mm，相比业内普遍的0.3-0.4mm增加了约80%，堪称“大鹏之翼”，助力其拥有高效强力的散热表现。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825200115.png" border="0" alt="图片6" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825213366.png" border="0" alt="图片7" referrerpolicy="no-referrer"></p>
+<p>不仅如此，拯救者Y70手机NTC温度感应矩阵由12颗温度传感器组成，智能调节散热策略，平衡整机温度。由节能、均衡和野兽模式组成的三挡性能模式调节，可以让拯救者Y70手机通过不同的模式切换，带来不同的游戏稳帧表现和功耗表现，从而让野兽战力的释放更加智慧化和个性化。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825225514.png" border="0" alt="图片8" referrerpolicy="no-referrer"></p>
+<p>拯救者Y70手机7.99mm纤薄机身内塞入5100mAh大电池，即使畅玩大型游戏、狂刷短视频等重度使用情况也可提供约9小时的超强续航能力，避免电量焦虑。</p>
+<p>不仅如此，拯救者Y70支持68W超快闪充，延续旁路充电功能。还标配一枚68W氮化镓充电器，可为笔记本等设备进行65W PD供电，一头多用。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825240377.png" border="0" alt="图片9" referrerpolicy="no-referrer"></p>
+<p>颜值即正义的时代，拯救者Y70影像实力自然不俗。其镜头模组有“獬豸之眼”之称，5000万像素超感光传感器+1300万像素120度超广角微距镜头+景深镜头为拯救者Y70带来不容小觑的拍照实力。</p>
+<p>主摄拥有1/1.55英寸大底，f/1.88，四合一可输出2微米大像素，支持QPD高速对焦及OIS光学防抖，拥有出色的夜拍和高速抓拍实力。1300万像素广角微距镜头支持自动对焦，近距离拍摄更清晰，纤毫毕现。</p>
+<p>同时，拯救者Y70结合OIS光学防抖和EIS算法，带来更清晰、更稳定的视频录制效果。</p>
+<p>此外，拯救者Y70视听体验也更为沉浸。其搭载6.67英寸OLED柔性直屏，支持144Hz高刷新率、HDR10+及杜比视界等。同时还配备立体声双扬声器、X轴线性马达，体感全开。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825274384.png" border="0" alt="图片10" referrerpolicy="no-referrer"></p>
+<p>拯救者Y70手机8+128GB版本首发价2970元，12+256GB版本首发价3370元，16+512GB版本首发价4270元，于联想官网、乐呗、来酷、京东、天猫等平台售卖。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825288745.png" border="0" alt="图片11" referrerpolicy="no-referrer"></p>
+<p><strong>联想小新Pad Pro 2022：妙笔生花，面面出彩</strong></p>
+<p>联想小新Pad Pro 2022外观传承小新平板家族双色拼接设计语言，6.8mm、480克轻薄机身，便于携带又利于把持。同时，小新Pad Pro 2022再度进化推出2种质感背盖，一种在有机玻璃背盖上，叠加高亮微纳米材料和高雾AG磨砂，兼顾金属科技感与人文细腻感。一种则采用小羊皮纹质感素皮搭配几何斜纹，气质优雅。月魄、琥珀、烟霞、青梅、伴秋、霜雪六种多彩配色更是能满足多样化个性需求，成为时尚出街单品。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825302853.png" border="0" alt="图片12" referrerpolicy="no-referrer"></p>
+<p>联想小新Pad Pro 2022影音同样出彩，首创平板影音体验“新”标准——X-MAX，X代表更极限的（extreme），更非凡的（extraordinary），以及强调用户的体验感（experience）。具体标准细则即满足2.5k及以上分辨率 、120Hz刷新率、P3色域、独立四声道、杜比视界、杜比全景声、莱茵护眼等，全力打造极致影院级观影体验，这不仅是小新平板的“新”标准，同时也在行业内起到标杆引领作用。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825316696.png" border="0" alt="图片13" referrerpolicy="no-referrer"></p>
+<p>除满足X-MAX标准外，联想小新Pad Pro 2022还支持硬件级真10亿色和1920Hz 高频PWM调光的11.2英寸OLED屏幕和四个JBL扬声器，体验感再次跃升。</p>
+<p>性能方面，联想实验室数据显示，联想小新Pad Pro 2022即使在极致画质下畅玩一局大型游戏，一整局平均118.9帧。不仅帧率表现十分稳定，热成像表现同样出色，手握区无明显温度上升感受，散热区域的智慧设置，将游戏体验直接拉满。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825334637.png" border="0" alt="图片14" referrerpolicy="no-referrer"></p>
+<p>不仅如此，联想小新Pad Pro 2022还配备全功能Type C 3.1 Gen1、1TB Micro SD 卡扩展等丰富接口，搭载8200mAh超大电池及68W超级闪充，支持面部、指纹双解锁等功能，无论是高效办公还是畅爽娱乐都能带来出色体验。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825347728.png" border="0" alt="图片15" referrerpolicy="no-referrer"></p>
+<p>联想小新Pad Pro 2022目前公布了两种配置六种色彩机型的发售时间，搭载迅鲲1300T处理器，6+128GB配置，月魄、琥珀两种配色可选，首发价2199元；搭载高通骁龙870处理器，8+128GB配置，霜雪配色首发价2499元，烟霞、青梅、伴秋三种配色素皮款首发价2599元。</p>
+<p><strong>Z</strong><strong>UI 14</strong><strong>：绚丽灵动，效率升级</strong></p>
+<p>深耕于“快”、“稳”的ZUI携全新ZUI 14绚丽登场，不仅带来更灵动的UI界面，同时还通过游戏、办公、影音、互联等场景全方位展现其持续创新的智能化体验。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825359814.png" border="0" alt="图片16" referrerpolicy="no-referrer"></p>
+<p>游戏场景下，ZUI 14带来全新2.0版本智能游戏探帧，通过监测并学习操控习惯来智能分配和切换刷新率，既节省系统功耗又提升续航时间。而智能更新功能，则可提前设置静默更新，无需等待，游戏即开即玩。不仅如此，ZUI 14还通过系统智能调度策略强化三挡模式游戏表现，全方位满足多样化需求。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825374661.png" border="0" alt="图片17" referrerpolicy="no-referrer"></p>
+<p>办公场景下，ZUI 14深度优化“一视界”体验，支持应用窗口在全屏、分屏、浮窗三种状态下自由切换。桌面任务栏也增加应用浮窗功能，而任务栏上滑、三指捏合、拖拽分享等这些优化也让平板的体验更高效流畅。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825399535.png" border="0" alt="图片18" referrerpolicy="no-referrer"></p>
+<p>ZUI 14 AI影像技术打造多维度智能影像体验，AI场景感知提高画面质量，AI动态抓拍自动识别运动物体，保证拍摄主体清晰度。其屏幕共享、网络共享、应用接力、超级互联等功能为系统操作体验保驾护航。</p>
+<p>目前，全新ZUI 14已于拯救者Y70手机、小新Pad Pro 2022中首发，后续将在更多产品中陆续上线。</p>
+<p><strong>联想个人云存储X1s</strong><strong>：数据资产守护者</strong></p>
+<p>联想个人云存储X1s搭载全新一代Intel四核四线程N5105平台，CPU、GPU较上一代均有大幅提升。数据访问方面，搭配双2.5G网卡，支持链路聚合，峰值网络速度提升150%，即使面对音像录制、视频剪辑等重度工作者也十分友好。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825424183.png" border="0" alt="图片19" referrerpolicy="no-referrer"></p>
+<p>外观上，联想个人云存储X1s个性化搭载可视化交互屏幕，可通过屏幕实时了解安装进度及设备状态。而全新个人云系统3.0则对照片、影视、音乐等功能进行了全方位升级，极大提升数据管理效率。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825435192.png" border="0" alt="图片20" referrerpolicy="no-referrer"></p>
+<p>联想个人云存储X1s权限管理和群组空间管理功能的优化，可助力团队协作高效办公。而其全新个人云家庭影音系统，可自动匹配影片信息，影音体验更便捷。</p>
+<p>除发布旗舰款X1s外，联想个人云存储家族超性能个人云New T2Pro、高性能个人云T2s、精巧个人云A1s三款产品在此次发布会上也得到了全面升级。</p>
+<p>联想至尊旗舰款个人云存储X1s首发价2899元；联想超性能个人云New T2 Pro首发价1499元；联想高性能个人云T2S首发价999元；联想精巧个人云A1s首发价1299元。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825448728.png" border="0" alt="图片21" referrerpolicy="no-referrer"></p>
+<p>电竞赛场制胜利器——拯救者Y27 Pro 2K电竞显示器拥有180Hz高刷和0.5毫秒极速响应、1毫秒灰阶响应，为玩家带来全面沉浸式电竞体感。全功能Type-C接口，一线链接为笔记本、手机提供90W反向供电等，助力玩家全面驰骋游戏赛场。首发价1799元，将于8月22日开售。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825461850.png" border="0" alt="图片22" referrerpolicy="no-referrer"></p>
+<p><strong>拯救者</strong><strong>VR700</strong><strong>：连接虚幻与现实</strong></p>
+<p>会上，全新生态产品拯救者VR700正式亮相。其具备低延迟、4K真RGB、最高支持90Hz、每英寸像素高达773ppi等屏显特质，画面更加精致细腻，视觉体验更高质。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825474620.png" border="0" alt="图片23" referrerpolicy="no-referrer"></p>
+<p>不仅如此，拯救者VR700具备超高追踪能力，配备4颗跟踪摄像头，追踪效率达30fps/500Hz，同时具备RMS毫秒级的追踪精度，可精准追踪至玩家每一个动作，带来更加沉浸的体验感。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825485284.png" border="0" alt="图片24" referrerpolicy="no-referrer"></p>
+<p>游戏世界，无限畅玩才够爽。拯救者VR700支持Steam VR串流，同时支持在线、手机、跨平台的全游戏联机模式。6Dof空间定位、最大支持10m*10m空间栅栏，玩家可以随心、放心地沉浸式享受。3000英寸沉浸式巨幕、3D立体效果、AI画质增强让视野更广、画质更清晰，足不出户即可享受iMax影院级体验。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825498886.png" border="0" alt="图片25" referrerpolicy="no-referrer"></p>
+<p>低蓝光模式、帽式佩戴等贴心功能及设计更是为玩家带来更健康、舒适的使用体验，助力玩家在奇幻缤纷的虚拟世界中恣意畅享。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825510173.png" border="0" alt="图片26" referrerpolicy="no-referrer"></p>
+<p>拯救者VR700首发价2999元，可享受免费25款热门游戏、6期免息等福利。</p>
+<p><strong>丰富生态选件齐亮相，联想生态buff叠加</strong></p>
+<p>除终端产品外，丰富的选件产品也齐聚亮相。拯救者散热背夹、拯救者Y70 冷凝胶散热背壳、拯救者游戏手柄等拯救者生态产品为极致游戏体验再添硬核战斗力。联想小新人体工学椅C5、联想小新魔豆真无线降噪耳机E5等小新生态产品则为办公、娱乐生活增添色彩。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825524797.png" border="0" alt="图片27" referrerpolicy="no-referrer"></p>
+<p>拯救者散热背夹首发价149元，拯救者20寸行李箱首发价299元，其他丰富IP产品首发价均在百元之内。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825534152.png" border="0" alt="图片28" referrerpolicy="no-referrer"></p>
+<p>联想小新人体工学椅C5首发价599元起；联想小新魔豆真无线降噪耳机E5首发价299元，其他丰富IP产品首发价均在千元之内。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825546833.png" border="0" alt="图片29" referrerpolicy="no-referrer"></p>
+<p>此外，本次发布会更是贴心为拯救者用户推出超核黑金卡，优购码、专属客服等16项贴心权益守护全旅程，周年限时特惠新用户149元/年，老用户129元/年，诚意满满。</p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825563840.png" border="0" alt="图片30" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825563432.png" border="0" alt="图片31" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825563946.png" border="0" alt="图片32" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;"><img src="https://upload.cfan.com.cn/2022/0818/1660825564271.png" border="0" alt="图片33" referrerpolicy="no-referrer"></p>
+<p>本次2022联想消费生态秋季新品发布会，在虚实之境中上演了一场科技创新盛宴：不仅有“正装野兽”拯救者Y70手机、“面面出彩”的联想小新Pad Pro 2022、“数据守护者” 联想个人云存储X1s、连接虚幻与现实的拯救者VR700等终端硬件产品，还囊括丰富的生态选件产品。2022，与联想消费一起，站职场、征战场！</p>　  
+</div>
+            
