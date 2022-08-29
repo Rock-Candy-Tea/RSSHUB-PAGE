@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/87/1c4df98f3e37fd4b701d7220f61hzqn5.JPG?v=1661770063395'
 author: 巴哈姆特
 comments: false
-date: 2022-08-29 11:08:52
+date: 2022-08-29 13:33:48
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/87/1c4df98f3e37fd4b701d7220f61hzqn5.JPG?v=1661770063395'
 ---
 
@@ -239,7 +239,7 @@ Bandai Namco Entertainment、Hall 7</li>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/091909236e1b813158e7a724cf1hzqz5.JPG?v=1661770432836" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/091909236e1b813158e7a724cf1hzqz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/091909236e1b813158e7a724cf1hzqz5.JPG 2x" style="max-width: unset;" title="照片來源：Bandai Namco Entertainment Europe" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/091909236e1b813158e7a724cf1hzqz5.JPG?v=1661770432836" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/091909236e1b813158e7a724cf1hzqz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/091909236e1b813158e7a724cf1hzqz5.JPG 2x" style="max-width: unset;" title="照片來源：Bandai Namco Entertainment Europe" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 照片來源：Bandai Namco Entertainment Europe</figure>
 </li>
