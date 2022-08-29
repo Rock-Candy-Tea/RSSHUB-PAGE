@@ -14,7 +14,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220829/S6ef4fdc4-1586-49b9-9d15-f09
 
 <div>   
 <p><strong>北京时间2022年8月29日晚，历经多难延期，耗费上千亿美元资金，执行“阿耳忒弥斯1号”任务的“太空发射系统”(SLS)火箭还是没能发射升空，在进入发射窗口被紧急叫停。</strong></p>
-<p>据悉，<strong><span style="color:#ff0000;">发射中止的原因是工程师们要解决氢气排放管道的问题，同时一台发动机也有问题。</span></strong></p>
+<p>NASA官方表示，<strong><span style="color:#ff0000;">团队正在解决发动机故障问题</span></strong>，将继续收集相关数据，随后将发布下一次尝试发射时间。</p>
 <p>在此之前，火箭先后遭遇燃油泄露技术问题、48小时内被雷击5次意外。</p>
 <p>新的发射窗口预计在9月2日。</p>
 <p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220829/6ef4fdc4-1586-49b9-9d15-f09667509c55.jpg" target="_blank"><img alt="花费上千亿美元 地球史上最强火箭又鸽了！美国SLS首发紧急中止" h="335" src="https://img1.mydrivers.com/img/20220829/S6ef4fdc4-1586-49b9-9d15-f09667509c55.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>

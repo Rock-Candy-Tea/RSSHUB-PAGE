@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/02/c856220f4a6ef96bafb8f049341hzr25.JPG?v=1661770440288'
 author: 巴哈姆特
 comments: false
-date: 2022-08-29 13:33:48
+date: 2022-08-29 14:11:47
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/02/c856220f4a6ef96bafb8f049341hzr25.JPG?v=1661770440288'
 ---
 
@@ -38,12 +38,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/02/c856220f4a6ef96bafb8f049341hzr25.
 Michail Katkoff</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 33.25%;">
-<figcaption style="padding-bottom: 100.00%"><img name class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/32/e962d97e18e5467e477b537dbc1hzrw5.PNG?v=1661770751788" data-srcset="https://p2.bahamut.com.tw/B/2KU/32/e962d97e18e5467e477b537dbc1hzrw5.PNG?v=1661770737&w=500 1x,https://p2.bahamut.com.tw/B/2KU/32/e962d97e18e5467e477b537dbc1hzrw5.PNG?v=1661770737&w=1000 2x,https://p2.bahamut.com.tw/B/2KU/32/e962d97e18e5467e477b537dbc1hzrw5.PNG?v=1661770737&w=1500 3x,https://p2.bahamut.com.tw/B/2KU/32/e962d97e18e5467e477b537dbc1hzrw5.PNG 4x" style="max-width: unset;" title="Nadjim Adjir" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 100.00%"><img name class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/32/e962d97e18e5467e477b537dbc1hzrw5.PNG?v=1661770751788" data-srcset="https://p2.bahamut.com.tw/B/2KU/32/e962d97e18e5467e477b537dbc1hzrw5.PNG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/32/e962d97e18e5467e477b537dbc1hzrw5.PNG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/32/e962d97e18e5467e477b537dbc1hzrw5.PNG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/32/e962d97e18e5467e477b537dbc1hzrw5.PNG 4x" style="max-width: unset;" title="Nadjim Adjir" alt="image" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 Nadjim Adjir</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 33.25%;">
-<figcaption style="padding-bottom: 100.00%"><img name class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/33/bdceb2aba60db5c89328895f8d1hzrx5.JPG?v=1661770751788" data-srcset="https://p2.bahamut.com.tw/B/2KU/33/bdceb2aba60db5c89328895f8d1hzrx5.JPG?v=1661770732&w=500 1x,https://p2.bahamut.com.tw/B/2KU/33/bdceb2aba60db5c89328895f8d1hzrx5.JPG?v=1661770732&w=1000 2x,https://p2.bahamut.com.tw/B/2KU/33/bdceb2aba60db5c89328895f8d1hzrx5.JPG?v=1661770732&w=1500 3x,https://p2.bahamut.com.tw/B/2KU/33/bdceb2aba60db5c89328895f8d1hzrx5.JPG 4x" style="max-width: unset;" title="Michael McManus" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 100.00%"><img name class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/33/bdceb2aba60db5c89328895f8d1hzrx5.JPG?v=1661770751788" data-srcset="https://p2.bahamut.com.tw/B/2KU/33/bdceb2aba60db5c89328895f8d1hzrx5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/33/bdceb2aba60db5c89328895f8d1hzrx5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/33/bdceb2aba60db5c89328895f8d1hzrx5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/33/bdceb2aba60db5c89328895f8d1hzrx5.JPG 4x" style="max-width: unset;" title="Michael McManus" alt="image" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 Michael McManus</figure>
 </li>
