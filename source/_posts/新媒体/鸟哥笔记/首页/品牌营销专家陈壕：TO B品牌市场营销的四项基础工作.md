@@ -5,17 +5,16 @@ categories:
  - 新媒体
  - 鸟哥笔记
  - 首页
-headimg: 'https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/3959a14e33d84ac48c15e6e44783fc94~noop.image?_iz=58558&from=article.pc_detail&x-expires=1662355596&x-signature=AwAdwZVCJRm7VeAIOzes88LgLqU%3D'
+headimg: 'https://picsum.photos/400/300?random=7427'
 author: 鸟哥笔记
 comments: false
 date: Mon, 29 Aug 2022 05:42:00 GMT
-thumbnail: 'https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/3959a14e33d84ac48c15e6e44783fc94~noop.image?_iz=58558&from=article.pc_detail&x-expires=1662355596&x-signature=AwAdwZVCJRm7VeAIOzes88LgLqU%3D'
+thumbnail: 'https://picsum.photos/400/300?random=7427'
 ---
 
 <div>   
 <div style="height: 6px"></div>
-                        <p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;"><img src="https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/3959a14e33d84ac48c15e6e44783fc94~noop.image?_iz=58558&from=article.pc_detail&x-expires=1662355596&x-signature=AwAdwZVCJRm7VeAIOzes88LgLqU%3D" referrerpolicy="no-referrer"></p>
-<p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;" data-track="3">近来在招聘新人员，当问到To B的<a href="https://www.niaogebiji.com/tag/%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80" target="_blank">市场营销</a>工作包含哪些模块时，不少人说就是发软文、投广告和做活动，将市场营销等同于推广获客，忽视了其他模块特别是一些基础工作。</p>
+                        <p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;" data-track="3">近来在招聘新人员，当问到To B的<a href="https://www.niaogebiji.com/tag/%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80" target="_blank">市场营销</a>工作包含哪些模块时，不少人说就是发软文、投广告和做活动，将市场营销等同于推广获客，忽视了其他模块特别是一些基础工作。</p>
 <p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;" data-track="4">获客是ToB品牌市场营销最重要的任务之一，但将ToB市场营销工作简化为推广获客，未免只见树木不见森林。任何品牌的市场营销工作都是一个金字塔似的系统工程，ToB品牌亦不例外。只有打好基础才能让市场营销工作体系有序运行，才有机会实现品效合一的目的。</p>
 <p style="background-image: none; font-size: 16px; color: #000000; text-align: inherit; font-weight: inherit; line-height: inherit; margin: 25px 0px 20px;" data-track="5">那么，针对TO B品牌来说，其市场营销有哪些基础工作呢？我们一起来看看。</p>
 <h1 style="background-image: url('https://qnssl.niaogebiji.com//48aedb8880cab8c45637abc7493ecddd.png'); font-size: 20px; color: #212629; text-align: center; font-weight: 600; line-height: 30px; margin: 25px 0px 20px; background-size: 16px 20px; background-position: 0px 5px; background-repeat: no-repeat;" data-track="6">一、做好“品牌定位”，构建<a href="https://www.niaogebiji.com/tag/%E5%93%81%E7%89%8C%E4%BD%93%E7%B3%BB" target="_blank">品牌体系</a></h1>
