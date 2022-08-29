@@ -1,0 +1,18 @@
+
+---
+title: '瞳言游报：《卧龙：苍天陨落》将不设有耐力槽；XGP家庭会员品牌图曝光'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/web/2022/08/28/624bd12fe76ba33c4deab2096091e06d/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Mon, 29 Aug 2022 00:46:56 GMT
+thumbnail: 'https://imgheybox.max-c.com/web/2022/08/28/624bd12fe76ba33c4deab2096091e06d/thumb.jpeg'
+---
+
+<div>   
+<p>《瞳言游报》每日更新，关注我了解更多当日游戏圈内新闻，游戏特惠讯息！</p><p><b>小福利评论区白嫖小黑盒加速器会员！</b></p><blockquote><p>目录：</p><p>《卧龙：苍天陨落》将不设有耐力槽</p><p>《GTFO》开发商新作新作消息</p><p>XGP家庭会员品牌图曝光</p><p>PS5国行现已涨价</p><p>Steam一周销量榜</p></blockquote><p><img class="lazy" data-height="20" src="https://imgheybox.max-c.com/web/2022/08/28/624bd12fe76ba33c4deab2096091e06d/thumb.jpeg" data-width="800" referrerpolicy="no-referrer"></p><h2>《卧龙：苍天陨落》将不设有耐力槽</h2><p><img data-gameid="1448440" src="https://cdn.akamai.steamstatic.com/steam/apps/1448440/header.jpg?t=1661518845" referrerpolicy="no-referrer"></p><p>《卧龙:苍天陨落》开发商在近日接受采访时透露，游戏中的打斗都是基于中国武术特征设定的，将不设有《仁王》那样的耐力条，玩家需要在不同的情况快速做出反应。游戏中还将包含长矛、长剑、双剑等10余种武器，随着等级提升，还可以解锁法术咒语，召唤朱雀等神兽来助阵。<br></p><p><img class="lazy" data-height="20" src="https://imgheybox.max-c.com/web/2022/08/28/c2ab9f26ddd0a1516ddd4eccec670dd8/thumb.jpeg" data-width="800" referrerpolicy="no-referrer"></p><h2>《GTFO》开发商新作新作消息</h2><p><img data-gameid="493520" src="https://cdn.max-c.com/heybox/game/header/493520_asdJ2.jpg" referrerpolicy="no-referrer"></p><p>在科隆展期间，外媒NME对《GTFO》的开发商10 Chambers的CEO兼创意总监 Ulf Andersson进行了采访，他透露他们的下一款作品将是科技惊悚主题的合作抢劫射击游戏。</p><p>Andersson称，他读了很多科幻书籍，因此很有多关于“赛博朋克风”的灵感。由于他还是《收获日1》《收获日2》的设计师，他认为在抢劫FPS游戏上还能做更多文章，因此这款游戏对他来说是一款必须制作的游戏，并且会与《收获日》有很大不同，对比合作射击游戏《GTFO》，新作品在设计上就更容易上手，不会有太多过于硬核的东西。</p><p>Andersson还表示新作品目前还未定名，也没有确定发售日，项目处于早期开发阶段，但进展非常迅速。</p><p><img class="lazy" data-height="20" src="https://imgheybox.max-c.com/web/2022/08/28/b8597f70d3d64daf0192c890705e5552/thumb.jpeg" data-width="800" referrerpolicy="no-referrer"></p><h2>XGP家庭会员品牌图曝光</h2><p><img class="lazy" data-height="400" src="https://imgheybox.max-c.com/web/2022/08/28/b9b1a3fb3ce048539c829e9d039e3b4a/thumb.jpeg" data-width="400" referrerpolicy="no-referrer"></p><p>微软月初就开始在哥伦比亚和爱尔兰地区测试Xbox Game Pass的家庭计划，家庭中最多5名成员都能享受XGPU提供的服务。推特用户“Aggiornamenti Lumia”爆料了XGP家庭会员的品牌图，上面写着“FRIENDS FAMILY”（朋友和家人）。目前微软还未透露家庭会员的费用.</p><p><img class="lazy" data-height="20" src="https://imgheybox.max-c.com/web/2022/08/28/b8eb5c86e567c87ebc4c7e9b32b8c5bf/thumb.jpeg" data-width="800" referrerpolicy="no-referrer"></p><h2>PS5国行现已涨价</h2><p><img class="lazy" data-height="2400" src="https://imgheybox.max-c.com/web/2022/08/28/74d7aa803afc07faefa1ddb63882fcb2/thumb.png" data-width="3600" referrerpolicy="no-referrer"></p><p>此前索尼官方宣布由于通货膨胀等原因，将调整PS5在部分地区的价格。目前PS5在天猫商城售价已经上涨，光驱版官方售价4299元、数字版3499元。</p><p><img class="lazy" data-height="20" src="https://imgheybox.max-c.com/web/2022/08/28/6b25b06c19f207884bd4fe439ee5528a/thumb.jpeg" data-width="800" referrerpolicy="no-referrer"></p><h2>Steam一周销量榜</h2><p><img class="lazy" data-height="480" src="https://imgheybox.max-c.com/web/2022/08/28/43c9f68fe184a1c487642a5328f4a5e4/thumb.png" data-width="361" referrerpolicy="no-referrer"></p><p>详细榜单：<a href="https://www.xiaoheihe.cn/community/1/list/89602318" target="_blank">我是传送门！</a></p><p><img class="lazy" data-height="20" src="https://imgheybox.max-c.com/web/2022/08/28/2b5661fd756cd20cbca370a7acb37ef6/thumb.jpeg" data-width="800" referrerpolicy="no-referrer"></p><p><a href="heybox://open_subject" target="_blank">#steam游戏</a><a href="heybox://open_subject" target="_blank">#pc游戏</a><a href="heybox://open_subject" target="_blank">#游戏推荐</a><a href="heybox://open_subject" target="_blank">#单机游戏</a><a href="heybox://open_subject" target="_blank">#主机游戏</a><a href="heybox://open_subject" target="_blank">#瞳言游报#</a><br></p>  
+</div>
+            

@@ -1,0 +1,19 @@
+
+---
+title: '国人振奋，纯国产的14nm将在明年底实现，ASML或许真的后悔了'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member2576/202208/27105212177112.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 29 Aug 2022 00:44:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member2576/202208/27105212177112.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">近期业内人士指出纯国产的14nm工艺最快将在明年底量产，这与此前力推的28nm工艺实现纯国产，无疑是一个巨大的进步，国产先进工艺的快速进展将有利于推动<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87.HTM" target="_blank" title="国产芯片">国产芯片</a></span>产业的跃进。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202208/27105212177112.jpg" title="国人振奋，纯国产的14nm将在明年底实现，ASML或许真的后悔了" alt="国人振奋，纯国产的14nm将在明年底实现，ASML或许真的后悔了" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">最早传出14nm国产化的是电子信息研究所所长温晓君，今年6月他接受采访的时候就表示国产14nm芯片将在明年年底前实现量产，那么纯国产芯片制造工艺为何一下子就从此前的努力实现28nm国产化跃进到14nm呢？</p><p style="text-indent: 2em; text-align: left;">这就要从<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%85%89%E5%88%BB%E6%9C%BA.HTM" target="_blank" title="光刻机">光刻机</a></span>的特性说起，业界人士指出其实并没有严格意义上的28nm、14nm光刻机，自从45nm工艺以来都是采用浸润式光刻机，光源都是DUV光源ArF，激光光源波长都是193nm，然后通过水介质的折射后将波长进一步缩短，如此光源的波长可以缩短至132nm至12nm，由此就可以生产45nm至28nm工艺。</p><p style="text-indent: 2em; text-align: left;">后来芯片制造工艺又引入了FinFET技术，从而同样以193nm光源的DUV光刻机却可以生产出14nm－10nm工艺的芯片，甚至<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8F%B0%E7%A7%AF%E7%94%B5.HTM" target="_blank" title="台积电">台积电</a></span>第一代7nm工艺也是以DUV光刻机和FinFET技术开发出来的。<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85.HTM" target="_blank" title="中芯国际">中芯国际</a></span>已以ASML的DUV光刻机生产出14nm工艺，这就意味着国内的芯片制造企业已掌握了FinFET技术。</p><p style="text-indent: 2em; text-align: left;">目前国产光刻机已做到40nm，其中的关键就是如何以技术手段将193nm的光源通过水介质折射后进一步缩短，而将193nm的光源通过水介质折射后用于生产28nm、14nm的光源原理应该类似，近期就有业界人士传出国产的光源技术已成功取得突破，将光源缩短到13．5nm，如此一来研发出用于生产14nm工艺的国产光刻机也就在情理之中。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202208/27105213488478.jpg" title="国人振奋，纯国产的14nm将在明年底实现，ASML或许真的后悔了" alt="国人振奋，纯国产的14nm将在明年底实现，ASML或许真的后悔了" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">生产一个先进工艺制程其实不仅仅是光刻机，而是有诸多环节和设备，业内人士总结大约就是八大环节，此前国产芯片制造产业链通过点突破的方式陆续解决了除光刻机之外的其他环节和设备，都已进展到14nm及更先进工艺。</p><p style="text-indent: 2em; text-align: left;">其中广为人知的当属刻蚀机，而刻蚀机也是国产芯片制造设备中进展最快的，目前国产的刻蚀机已突破到5nm工艺，这也说明了国内的技术研发实力是相当强的，完全有足够的技术实力研发先进的芯片制造设备。</p><p style="text-indent: 2em; text-align: left;">只不过光刻机是其中最为复杂的一种设备，涉及到激光光源、镜头、机台等，仅仅是光刻机其实就一条相当复杂的产业链，ASML的光刻机也是需要德国、日本和美国的诸多厂商提供相关的配件才能生产出来，国产光刻机此前在机台、光源等方面都已突破了，其中的技术关键应该就在于如何将193nm的光源通过技术处理进一步缩短，如今这一个难题得到解决，同时解决28nm和14nm光刻机国产化也就在情理之中。</p><p style="text-indent: 2em; text-align: left;">ASML在今年一季度突然大举对中国出货DUV光刻机，其中的原因或许就是它了解到中国在光刻机技术上的突然进展，希望在中国量产14nmDUV光刻机之前再赚一笔；美国突然出手要求ASML停止对中国出售14nm以下的光刻机，可能都与此有关，因为中国即将解决14nm工艺的光刻机，限制14nm以上的光刻机已没有了意义。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member2576/202208/27105213850093.jpg" title="国人振奋，纯国产的14nm将在明年底实现，ASML或许真的后悔了" alt="国人振奋，纯国产的14nm将在明年底实现，ASML或许真的后悔了" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">中国人在技术研发方面的实力人所共知，连美国的许多技术研发人才都是华裔，也可以看出中国人在技术研发方面的天赋，美国的做法激发了中国技术人才的奋进之心，数年时间就在芯片制造方面取得飞跃式的进步，这显然出乎美国的意料，事实已经说明了限制无助于全球科技的发展，全球科技的发展就需要互补，合作才能共赢。</p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 国人振奋，纯国产的14nm将在明年底实现，ASML或许真的后悔了</span></p> 
+  
+</div>
+            
