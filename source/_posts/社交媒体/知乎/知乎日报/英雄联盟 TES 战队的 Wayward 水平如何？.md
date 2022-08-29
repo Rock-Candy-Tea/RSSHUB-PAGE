@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic1.zhimg.com/v2-1afcf351072c11bd535e3c82b9fef51e_l.jpg?source=8673f162'
+headimg: 'https://picx.zhimg.com/v2-1afcf351072c11bd535e3c82b9fef51e_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-08-29 10:10:29
-thumbnail: 'https://pic1.zhimg.com/v2-1afcf351072c11bd535e3c82b9fef51e_l.jpg?source=8673f162'
+date: 2022-08-29 11:08:34
+thumbnail: 'https://picx.zhimg.com/v2-1afcf351072c11bd535e3c82b9fef51e_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic1.zhimg.com/v2-1afcf351072c11bd535e3c82b9fef51e_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic1.zhimg.com/v2-1afcf351072c11bd535e3c82b9fef51e_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://picx.zhimg.com/v2-1afcf351072c11bd535e3c82b9fef51e_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">看透一切的憨憨，</span><span class="bio">流（bu）行（wu）文（zheng）化（ye）</span>
 <a href="https://www.zhihu.com/question/518761836/answer/2434959726" class="originUrl" hidden>查看知乎原文</a>
 </strong>
