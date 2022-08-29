@@ -1,0 +1,18 @@
+
+---
+title: 'NFT借貸也有死亡螺旋？藍籌地板撐得住嗎？ - 區塊D週報'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/86602676-9a47-4aba-9424-d946aade447a.png'
+author: Matters
+comments: false
+date: Tue, 23 Aug 2022 04:11:06 GMT
+thumbnail: 'https://assets.matters.news/embed/86602676-9a47-4aba-9424-d946aade447a.png'
+---
+
+<div>   
+<h2><strong>NFT借貸是什麼？</strong></h2><p>上個月我寫了一篇《<a href="https://blockdworld.substack.com/p/nftjpg" rel="noopener noreferrer" target="_blank">賣不掉還可以拿來幹嘛？三種方式讓你的NFT不要淪為錢包裡的無用JPG</a>》，其中第三種方式就是NFT借貸。簡單來說，就是把自己手上的NFT拿去抵押，借出資金來運用。好處是不需要真的賣掉NFT就可以取得資金，改善NFT流動性差的缺點，壞處則是必須付出利息，以及承擔NFT價格漲跌的可能損失。不過目前不是任何NFT都可以拿去抵押借貸，只有知名的項目會被借貸平台接受。目前較知名的NFT抵押借貸平台有BendDAO、NFTfi、Drops。</p><figure class="image"><img src="https://assets.matters.news/embed/86602676-9a47-4aba-9424-d946aade447a.png" data-asset-id="86602676-9a47-4aba-9424-d946aade447a" referrerpolicy="no-referrer"><figcaption><span>通常只有知名的項目會被借貸平台接受</span></figcaption></figure><h2><strong>NFT借貸也有死亡螺旋？</strong></h2><p>時間再往前幾個月，當時LUNA事件時我也寫過一篇《<a href="https://blockdworld.substack.com/p/ustluna" rel="noopener noreferrer" target="_blank">崩壞的穩定幣：UST與LUNA的死亡螺旋之舞</a>》介紹UST的算穩機制如何在市場情緒崩潰的時候引起幾乎不可逆轉的死亡螺旋，沒想到最近在NFT借貸領域似乎也有死亡螺旋的狀況出現，一樣是在市場對價格情緒崩盤的時候，進一步引發的死亡螺旋。</p><h2><strong>BendDAO借貸機制</strong></h2><figure class="image"><img src="https://assets.matters.news/embed/4fb9fdbe-5cb9-4efc-9a94-20ce57b20e94.png" data-asset-id="4fb9fdbe-5cb9-4efc-9a94-20ce57b20e94" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p>這次的主角就是知名的BendDAO，簡單說它的機制就是：</p><ol><li>想借錢的人將NFT丟進BendDAO的池子中抵押</li><li>貸出「該項目當時地板價的30%~40%」的ETH（這些ETH來自想放款賺利息的人）</li><li>利率約為15%~25%</li></ol><figure class="image"><img src="https://assets.matters.news/embed/887dfc6d-53fa-4b7e-88b2-1b3d501d242e.png" data-asset-id="887dfc6d-53fa-4b7e-88b2-1b3d501d242e" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><p><em>原推連結：</em><a href="https://twitter.com/CirrusNFT/status/1559954454564155392?s=20&t=SKr6jPRQ1wXKG4YMmqOieA" rel="noopener noreferrer" target="_blank"><em>這裡</em></a></p><p>但是NFT價格是浮動的，萬一NFT價格歸零不就變成一個沒有價值的抵押品了嗎？所以BendDAO設計了一個「健康指數」，隨時計算指數，如果低於1的時候就會自動啟動48小時的清算程序，將該NFT進行拍賣。而進入了清算拍賣流程的NFT，任何人都可以來買。</p><figure class="image"><img src="https://assets.matters.news/embed/a52cadb2-64bb-4f2b-97e2-27b7321d9d26.png" data-asset-id="a52cadb2-64bb-4f2b-97e2-27b7321d9d26" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><h2><strong>熊市NFT價格下跌導致連環清算，引發死亡螺旋危機</strong></h2><p>之前的文章有強調過NFT借貸不建議新手使用，請大家謹慎評估。結果才過了一個多月，就在這幾天傳出BendDAO上大量藍籌NFT（借方的抵押品）因近期熊市價格下跌而將遭清算。</p><p>由於清算拍賣的成交價格可以比當時地板價更低，因此每清算一次，就將地板價再往下拉一些，於是又再引發更多NFT進入清算流程。情勢似乎看起來即將要變成一個無解的死亡螺旋。</p><h2><strong>螺旋突然暫停（但也沒好事）</strong></h2><p>不過尷尬的是，儘管有大量藍籌NFT被特價拍賣，但卻沒有人願意當清算人（買下它）。</p><p>鑑於目前NFT市況低迷，市場預期價格只會越來越低，加上由於BendDAO的出價機制在此情境下對清算人不利（有最低價格限制且出價後ETH需鎖倉一段時間），導致大家擔心一出價就開始虧錢，因此遲遲沒有什麼出價。沒有出價就不會一直出現低於地板價的成交，因此至少稍微停住了BendDAO裡的向下螺旋（不過仍不能阻止整體市場對地板價的影響）。</p><p>另一方面由於清算和壞帳持續增加，導致出現貸方（借錢給別人的人）可能拿不回ETH的狀況（最新<a href="https://cointelegraph.com/news/benddao-contract-drained-overnight-with-15-eth-left-to-pay-lenders" rel="noopener noreferrer" target="_blank">消息</a>是BendDAO目前只剩下15ETH可以還給貸方），因此也讓BendDAO協議裡的資金紛紛出逃（原本把錢放在這裡的貸方不敢放了，於是把錢領走）。</p><h2><strong>是藍籌崩盤還是進場訊號？</strong></h2><p>儘管有人持續看衰NFT將一路下跌，但也有「趁機特價入手藍籌」的聲音出現。個人雖然對NFT收藏以及應用長期看好，但是短期內仍建議多觀察市場方向再作行動，至少等這一系列的NFT借貸協議煙火秀過後再說XD。老話一句，DYOR，若有投資行為請謹慎評估。</p><hr><p>以上就是本週的「區塊D週報」內容，如果你也會好奇未來區塊鏈將對世界帶來什麼樣的影響，在<a href="https://blockdworld.substack.com/" rel="noopener noreferrer" target="_blank">「區塊D週報」訂閱區留下Email訂閱</a>，就可以每週在信箱收到值得關注的消息哦！</p>  
+</div>
+            
