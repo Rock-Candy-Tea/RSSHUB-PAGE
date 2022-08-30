@@ -1,0 +1,18 @@
+
+---
+title: '家庭生活中养一只宠物会发生哪些变化？-M敏M的回答：我就养了一只兔兔 _图片_ 养了兔兔以后会让原本安静的小公寓变得活跃了起来，变得勤快了，从一个星期打扫一...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic2.zhimg.com/v2-88d6e62d41e640a88e4a2eaf8d27c2c1_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Tue, 30 Aug 2022 09:02:51 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-88d6e62d41e640a88e4a2eaf8d27c2c1_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>家庭生活中养一只宠物会发生哪些变化？</strong><br>M敏M的回答<br><p data-pid="fdbNFPq_">我就养了一只兔兔</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-88d6e62d41e640a88e4a2eaf8d27c2c1_1440w.jpg?source=1940ef5c" data-size="normal" data-rawwidth="591" data-rawheight="630" data-default-watermark-src="https://pic3.zhimg.com/50/v2-f644941307de8e0c9bc5b58e8637a45a_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-88d6e62d41e640a88e4a2eaf8d27c2c1_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"><figcaption>大家好，我姓兔名兔，人称兔兔</figcaption></figure><p data-pid="x7McVKZM">养了兔兔以后会让原本安静的小公寓变得活跃了起来，变得勤快了，从一个星期打扫一次卫生变成了每天打扫卫生。每天给兔兔清理兔窝。</p><p data-pid="beUxqeck">努力看各种视频给兔兔做草饼，并且希望兔兔很爱吃那种。</p><p data-pid="kjww8UJv">兔兔淘气了，很气愤但下一秒又被他萌化了。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-b39379477f8fccd2642a19103e422bcf_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="475" data-rawheight="533" data-default-watermark-src="https://pic3.zhimg.com/50/v2-e9eb9db7a331bbb3745c667061db5910_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-b39379477f8fccd2642a19103e422bcf_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="kmYMFD7O">下班回家第一件事情就是喊兔兔摸摸兔头。</p><p data-pid="ntbVoeM9">生活突然就充实起来了，开始一个星期晚上睡觉前总要跑出去看看，兔兔乖不乖，有没有偷偷跑出来。</p><p data-pid="lU4xFOA_">养了差不多1个多月的时候，兔兔得了脚皮炎,然后每天操碎了心，早中晚各一次清洗伤口换药，好在兔兔很乖。</p><figure data-size="normal"><img src="https://picx.zhimg.com/50/v2-ba4e46fc1464d06a5f4df592586790e2_720w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="292" data-rawheight="501" class="content_image" referrerpolicy="no-referrer"></figure><p data-pid="dvCUj_9c">慢慢的兔兔就变成了<a href="https://www.zhihu.com/search?q=%E5%A4%A7%E5%85%94%E5%85%94&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2650855968%7D" class="internal">大兔兔</a></p><p data-pid="ofv_DUmK">，开始每天在门口等我下班，偶尔周末出门两天会和我傲娇的生气气，可还是抵不过我给他好吃的</p><p data-pid="QG7cy-0-">又过来蹭蹭我。</p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-8d790c12f41379a43938947a7929630a_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="1080" data-rawheight="1920" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-8d790c12f41379a43938947a7929630a_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="Iv65dD6L">渐渐长大，兔兔胆子变大了，开始挑到椅子上，然后从椅子上跳到桌子上偷吃，会把每个水果上啃一口，最过分的是</p><p data-pid="S7hFQ30s">夏天那会趁我不注意，把桌子上的西瓜啃了个窟窿......</p><p data-pid="c_QAEc6Y">当然做完上述这些他都会被我在桌子上逮到揍一顿，恶狠狠地揍一顿，然后关禁闭，渐渐的就变聪明了，迅速上桌子，</p><p data-pid="1Gwnw_dD">只肯一样水果，挑小的吃完马上下来，好多次不注意都不会被发现，有时候发现了觉得又气又可爱，都不忍心揍他了。</p><figure data-size="small"><img src="https://pic3.zhimg.com/v2-b4318730477227bf8f00f19ab26aef19_1440w.jpg?source=1940ef5c" data-caption data-size="small" data-rawwidth="2276" data-rawheight="1280" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-b4318730477227bf8f00f19ab26aef19_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="jTGEo9aR">总之会让你的生活变得更有趣，更加多姿多彩</p>  
+</div>
+            
