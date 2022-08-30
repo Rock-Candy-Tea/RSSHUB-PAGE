@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/31/48e3c301984c402d55ce83af1a1i02z5.JPG?v=1661834904599'
 author: 巴哈姆特
 comments: false
-date: 2022-08-30 06:45:34
+date: 2022-08-30 07:24:01
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/31/48e3c301984c402d55ce83af1a1i02z5.JPG?v=1661834904599'
 ---
 
@@ -60,7 +60,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/31/48e3c301984c402d55ce83af1a1i02z5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%9B%9B%E6%B5%B7%E5%85%84%E5%BC%9F" target="_blank">四海兄弟</a>》是一款由捷克獨立工作室 Illusion Softworks 開發，於 2002 年推出的犯罪動作冒險遊戲。故事時間背景設定在 1930 年代，講述意外與「薩里耶利（Salieri）」黑手黨接觸、不情願地加入其組織的計程車司機「湯米·安傑洛（Tommy Angelo）」，一開始因為加入家族而感到不安，但沒過多久，豐厚的獎賞多到讓他難以抗拒... 而隨著湯米的地位提升，報酬變得愈來愈豐厚，但差事也變得更加骯髒齷齪；成為黑幫份子將讓他對自己選擇的新生活感到更加的矛盾衝突。</div>
+　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%9B%9B%E6%B5%B7%E5%85%84%E5%BC%9F" target="_blank">四海兄弟</a>》是一款由捷克獨立工作室 Illusion Softworks 開發，於 2002 年推出的犯罪動作冒險遊戲。故事時間背景設定在 1930 年代，講述意外與「薩里耶利（Salieri）」黑手黨接觸、不情願地加入組織的計程車司機「湯米·安傑洛（Tommy Angelo）」，一開始因為加入黑手黨而感到不安，但沒過多久，豐厚的獎賞卻多到讓他難以抗拒... 而隨著湯米的地位提升，報酬變得愈來愈豐厚，但差事也變得更加骯髒齷齪；成為黑幫份子將讓他對自己選擇的新生活感到更加的矛盾衝突。</div>
 <div>
  </div>
 <div>
