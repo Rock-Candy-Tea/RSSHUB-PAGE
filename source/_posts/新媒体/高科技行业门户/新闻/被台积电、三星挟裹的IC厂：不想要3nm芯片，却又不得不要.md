@@ -1,0 +1,19 @@
+
+---
+title: '被台积电、三星挟裹的IC厂：不想要3nm芯片，却又不得不要'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46034/202208/30103347600891.jpg'
+author: 高科技行业门户
+comments: false
+date: Tue, 30 Aug 2022 02:59:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46034/202208/30103347600891.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">众所周知，芯片制程在今年终于实现了3nm，最先实现的是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E4%B8%89%E6%98%9F.HTM" target="_blank" title="三星">三星</a></span>，接着是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8F%B0%E7%A7%AF%E7%94%B5.HTM" target="_blank" title="台积电">台积电</a></span>。而2025年预计将会实现2nm。</p><p style="text-indent: 2em; text-align: left;">而当制程进入3nm之后，IC厂商们也会接着推出各种各样的3nm芯片，比如<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B9%E6%9E%9C.HTM" target="_blank" title="苹果">苹果</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E9%AB%98%E9%80%9A.HTM" target="_blank" title="高通">高通</a></span>、<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%81%94%E5%8F%91%E7%A7%91.HTM" target="_blank" title="联发科">联发科</a></span>等，应该是首批客户，3nm会用于新一代的手机Soc。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202208/30103347600891.jpg" title="被台积电、三星挟裹的IC厂：不想要3nm芯片，却又不得不要" alt="被台积电、三星挟裹的IC厂：不想要3nm芯片，却又不得不要" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">但与此同时，网络上也有一种说法，那就是我们真的需要3nm么？4nm、5nm的芯片，难道已经不够用了，必须要升级到3nm了？</p><p style="text-indent: 2em; text-align: left;">事实上，实话实说，不仅网友们有疑惑，其实这些IC厂商们，也是有疑惑的，那就是4、nm、5nm的芯片，再用个几年都没问题，其实真的不想再升级的。</p><p style="text-indent: 2em; text-align: left;">但是，当晶圆厂们搞出了3nm工艺后，不用又不行，这些IC厂们，也是被挟裹了啊。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202208/30103348360917.jpg" title="被台积电、三星挟裹的IC厂：不想要3nm芯片，却又不得不要" alt="被台积电、三星挟裹的IC厂：不想要3nm芯片，却又不得不要" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">从实际体验来看，当前<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%AE%89%E5%8D%93.HTM" target="_blank" title="安卓">安卓</a></span>最强的4nm芯片是骁龙8＋，最强的5nm芯片是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E9%AA%81%E9%BE%99888.HTM" target="_blank" title="骁龙888">骁龙888</a></span>，但骁龙888与骁龙8＋差距有很大么？放在手机上，会有明显的性能差距么，还真不是。</p><p style="text-indent: 2em; text-align: left;">再说苹果芯片，当前是A15，上一代是A14，那么A15在手机体验上，就一定比A14好很多？其实也不是。</p><p style="text-indent: 2em; text-align: left;">如果晶圆厂们，没有3nm，相信不管是高通，还是苹果，用4nm、5nm的工艺推出的新芯片，一样在手机上体验非常好。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202208/30103349329847.jpg" title="被台积电、三星挟裹的IC厂：不想要3nm芯片，却又不得不要" alt="被台积电、三星挟裹的IC厂：不想要3nm芯片，却又不得不要" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">但只要晶圆厂们，推出了3nm，那就不得不用了。如果自己不用，消费者会吐槽，称这芯片已经是落后的芯片了，体验不好，手机厂商们可能也不买。</p><p style="text-indent: 2em; text-align: left;">更担心的是自己不用，万一友商用了，那么友商就有了噱头，说不定能够占到更多的份额，所以各大IC厂，不得不跟着晶圆厂的步伐，采用最新的技术，哪怕实际上并不需要，这不是挟裹是什么？</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202208/30103350829416.jpg" title="被台积电、三星挟裹的IC厂：不想要3nm芯片，却又不得不要" alt="被台积电、三星挟裹的IC厂：不想要3nm芯片，却又不得不要" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">当然，站在技术进步的角度来看，5nm、4nm、3nm、2nm都是必然的，必须一步一步的往前走。</p><p style="text-indent: 2em; text-align: left;">但说实话，从市场需求的角度而言，需要3nm、2nm芯片的厂商会越来越越少，甚至可以说，很多厂商其实并不需要这么先进的工艺，从性价比、成本来考虑，稍稍落后一点的工艺可能更好，但却又不得不用，就是这么无奈。</p><p style="text-indent: 2em; text-align: left;">说心里话，要是我是苹果、高通、联发科中的某一家IC商，也希望台积电、三星们的工艺慢一点，别推进这么快，成本太高，承受不起了。</p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 被台积电、三星挟裹的IC厂：不想要3nm芯片，却又不得不要</span></p> 
+  
+</div>
+            
