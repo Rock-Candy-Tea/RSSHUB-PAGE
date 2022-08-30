@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202208/26/8764da/b99251fe9bdd5258.png!home320'
 author: 一兜糖
 comments: false
-date: 2022-08-30 10:11:18
+date: 2022-08-30 11:09:28
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202208/26/8764da/b99251fe9bdd5258.png!home320'
 ---
 
 <div>   
-申请结束时间：2022.09.04                        <br>LG Quad Wash® 致净 蒸汽洗碗机<br>                            数量 ：4<br>                            实际价格 ：8999元<br>                            活动申请中<br>                            9人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202208/26/8764da/b99251fe9bdd5258.png!home320" referrerpolicy="no-referrer">  
+申请结束时间：2022.09.04                        <br>LG Quad Wash® 致净 蒸汽洗碗机<br>                            数量 ：4<br>                            实际价格 ：8999元<br>                            活动申请中<br>                            10人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202208/26/8764da/b99251fe9bdd5258.png!home320" referrerpolicy="no-referrer">  
 </div>
             
