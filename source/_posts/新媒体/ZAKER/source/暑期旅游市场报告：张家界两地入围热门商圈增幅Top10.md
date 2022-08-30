@@ -1,0 +1,18 @@
+
+---
+title: '暑期旅游市场报告：张家界两地入围热门商圈增幅Top10'
+categories: 
+ - 新媒体
+ - ZAKER
+ - source
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/630e05d7b15ec06c3c6c38cd_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 30 Aug 2022 04:48:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/630e05d7b15ec06c3c6c38cd_1024.jpg'
+---
+
+<div>   
+<p>各地中小学相继开学，2022 年暑期也迎来尾声。到了疫情第三年，这个暑期的旅游市场有什么不同？</p><p>去哪儿数据显示，今年暑期旅游呈 7 月长线游 8 月周边游的明显反差。去哪儿平台上，丽江、烟台、青岛等多个旅游热门城市的酒店预订量，甚至一个暑期就超过了今年上半年。</p><p>一面是几个旅游目的地的迅速爆火，一面是小众目的地接待能力突破极限的窘境。去哪儿首席执行官陈刚认为，旅游产业链条很长，生态被破坏之后重建的过程很长。政府长期有力的政策信心，才能让旅游从业者吃下 " 定心丸 "。</p><p><strong>2022 暑期首月长线游占 80%</strong></p><p>旅游达人长腿叔叔，以往每年要飞行四五十次。因为疫情的缘故，2022 年第一次飞行是从 6 月份开始，到了 7 月份一口气去了 7 个城市。许多人像长腿叔叔一样，直到 6 月底才迎来今年第一场旅行。</p><p>6 月 29 日，行程卡摘星消息公布后，去哪儿平台上机票搜索量在 30 分钟内上升 60%，酒店搜索量翻番，火车票搜索量上涨达 1.5 倍，全国人民被压抑的旅游需求一触而发。</p><p>去哪儿数据显示，7 月赴乌鲁木齐、拉萨、三亚、大理等城市的机票预订量环比 6 月增幅明显，热门航线中超八成是距离超过 800 公里的长航线。暑期的第一个月，长线游呈现复苏趋势。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202208/630e05d7b15ec06c3c6c38cd_1024.jpg" data-height="617" data-width="805" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/630e05d7b15ec06c3c6c38cd_1024.jpg" referrerpolicy="no-referrer"></div></div>比如赴拉萨的热门出发地是重庆、成都、西安、昆明、郑州，跨省长线游的出行游客为当地贡献了最多的预订。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202208/630e05d7b15ec06c3c6c38ce_1024.jpg" data-height="684" data-width="1253" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202208/630e05d7b15ec06c3c6c38ce_1024.jpg" referrerpolicy="no-referrer"></div></div>随着部分热门目的地疫情出现，长线游在 8 月初遭受到挑战。<p></p><p><strong>长沙成暑期亲子游热门目的地</strong></p><p>亲子订单依旧是 2022 暑期出游的重要组成部分，去哪儿平台数据统计，暑期亲子游热门目的地依次是：成都、重庆、昆明、北京、深圳、西安、广州、三亚、长沙、杭州。</p><p>成都、重庆延续去年的趋势，依然是去哪儿平台上亲子游热门城市，昆明则从去年的第六进入前三。</p><p>去哪儿平台上，部分热门目的地暑期酒店预订成倍增长，丽江、烟台、青岛暑期酒店预订量达到今年前半年总和。乌鲁木齐、拉萨、三亚暑期酒店预订量与近 3 个月（4-6 月）总和持平。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202208/630e05d7b15ec06c3c6c38cf_1024.jpg" data-height="966" data-width="533" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202208/630e05d7b15ec06c3c6c38cf_1024.jpg" referrerpolicy="no-referrer"></div></div>此外，暑期高温持续，气候凉爽的城市涌入大批游客。去哪儿平台上，西双版纳星光夜市、玉溪抚仙湖风景区、北京环球影城、大理双廊风景区、丽江市区、迪庆独克宗古城、张家界市区、舟山蜈蚣峙码头、威海东海岸、张家界森林公园等周边酒店预订量同比 2021 年暑期增幅显著，其中西双版纳星光夜市增幅最高达两倍。<p></p><p><strong>" 盲盒式 " 出游或成常态</strong></p><p>" 盲盒式 " 出游，似乎正逐渐成为常态。当热门旅游目的地都具有不确定性时，用户的出游决策时间也被大大缩短。去哪儿大数据显示，今年暑期游客的平均决策周期在 2-4 天，当天预订当天出发的旅游订单占总预订量的比例达到三成。</p><p>" 人们旅游的需求是存在的，只要解决隔离的问题，当地的旅游市场就会井喷。" 面对今年暑期旅游现状，去哪儿首席执行官陈刚认为，" 哪儿不隔离，就去哪儿。这就是现在用户最朴素的消费逻辑。"</p><p>6 月末，去哪儿旅行 APP 上线 " 去哪儿不隔离 " 板块，每天人工核查更新各地的隔离政策。目前 " 去哪儿不隔离 " 话题在某社交平台上有超 50 万篇分享讨论。近日去哪儿平台推出的 " 去哪儿早知道 " 板块，日均搜索量已接近 10 万人次。</p><p>" 就像薛定谔的猫一样，游客是紧跟着疫情形势走的。" 陈刚提到。去哪儿大数据显示，海南 7 月酒店预订量同比 2019 年增长四成，新疆同比增长九成，云南同比增长超六成。其中，新疆和云南 7 月的酒店预订量都创近 4 年来同期新高。</p><p>旅游景区反弹式爆发的同时，热门目的地承接游客的能力受到挑战。新疆的独库公路变 " 堵哭公路 "，西藏山南洛扎县直接宣布游客太多超过接待能力，暂停接待游客一周。一面是几个旅游目的地的迅速爆火，一面是小众目的地接待能力突破极限的窘境。市场要求旅游从业者加大基础建设的同时，也需要给予从业者持续稳定的信心。</p><p>陈刚说道，" 旅游产业链条很长的。生态被破坏之后要重建，需要一个比较漫长的过程。更难重建的是信心。相信只要隔离政策更加精准化，不止旅游行业吃下一颗‘定心丸’，安心投入再生产，整个经济也能进一步‘动’起来、‘活’起来 "。</p><p>潇湘晨报记者王丽姣</p><p>更多精彩内容，请在应用市场下载 " 晨视频 " 客户端。欢迎提供新闻线索，一经采纳即付报酬。爆料微信关注：xxcbwx，24 小时报料热线 0731-85571188。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
