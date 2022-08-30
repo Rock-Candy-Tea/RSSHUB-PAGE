@@ -1,0 +1,20 @@
+
+---
+title: '华为 Mate 50 _ Pro 系列将首发支持新版_负一屏_，更简洁'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/488e007f-b77e-4344-818e-175d1d4b576a.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEwMC5wbmc=,g_3,x_10,y_10,a_0,t_100'
+author: IT 之家
+comments: false
+date: Mon, 29 Aug 2022 13:32:09 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/488e007f-b77e-4344-818e-175d1d4b576a.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEwMC5wbmc=,g_3,x_10,y_10,a_0,t_100'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1583723" rel="nofollow">颓然芳草</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1260653" rel="nofollow">Mr丶苏</a> 的线索投递！</div>
+            <p data-vmark="7223"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 8 月 29 日消息，近期华为官方宣布，华为 Mate 50 系列及全场景新品秋季发布会将于 9 月 6 日举行，主题是“破晓而出，巅峰相见。”海报中还有一个金色圆环，很可能是华为 Mate 50 Pro 后置相机模组的标志性元素。IT之家获悉，华为今天继续预热 Mate 50 系列，号称“打破单一格调，探索美学新境”，<span class="accentTextColor">华为 Mate 50 RS 保时捷设计采用类似跑道纹理</span>。</p><p style="text-align: center;" data-vmark="9c6d"><img src="https://img.ithome.com/newsuploadfiles/2022/8/488e007f-b77e-4344-818e-175d1d4b576a.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEwMC5wbmc=,g_3,x_10,y_10,a_0,t_100" w="648" h="1718" title="华为 Mate 50 / Pro 系列将首发支持新版“负一屏”，更简洁" width="648" height="1718" referrerpolicy="no-referrer"></p><p data-vmark="f468">另外在新功能方面，智慧助手・今天应用新版本透露华为 Mate 50 系列将首发支持新版“负一屏”，更加简洁。包括支持桌面长按服务片进入添加页可添加卡片至负一屏；桌面设置“智慧助手・今天”更改为“我的”；在桌面双指捏合，进入服务卡片后可以点击最下面的“前往服务中心”进入负一屏发现页面。</p><p style="text-align: center;" data-vmark="7acd"><img src="https://img.ithome.com/newsuploadfiles/2022/8/460cfbac-5dc2-4313-a9e8-f70d1e8a0631.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEwMy5wbmc=,g_3,x_10,y_10,a_0,t_100" w="672" h="1386" title="华为 Mate 50 / Pro 系列将首发支持新版“负一屏”，更简洁" width="672" height="1386" referrerpolicy="no-referrer"></p><p data-vmark="3fde"><strong>智慧助手今天 14.0.0.200 版本众测更新内容如下：</strong></p><p data-vmark="d43d">安装应用后，从桌面滑入负一屏，进入智慧助手今天。</p><p data-vmark="1892">新版本优化：【首页 tab 优化】</p><p data-vmark="1b31">1、“我的”和“发现”页支持滑动和点击切换；</p><p data-vmark="059b">2、“我的”页，新增“动态”、“我的服务”、“资讯”三个模块；</p><p data-vmark="6163">【通知优化】</p><p data-vmark="05fc">1、点击通知卡片，进入消息页自动定位到所点击的消息卡片；</p><p data-vmark="b93f">2、消息页增加搜索消息的入口，支持搜索已接收到的所有通知或消息；</p><p data-vmark="a4bb">【服务直达＆楼上优化】</p><p data-vmark="ec49">1、动态模块新增服务直达卡片，支持显示 4 个直达服务，新增展示系统推荐服务；</p><p data-vmark="93dd">2、最近使用服务不再展示在动态服务直达卡片上；</p><p data-vmark="92a5">【新增推荐卡片】</p><p data-vmark="b06e">1、通知区右下角新增推荐卡片，内容来源涵盖覆盖卡片、应用、资讯；</p><p data-vmark="1dc4">2、长按卡片可将卡片添加到我的服务或桌面，点击卡片换一换可更换推荐内容；</p><p data-vmark="31e3">【搜索优化）</p><p data-vmark="c80a">1、支持搜索应用、快应用、来自应用的服务，应用服务支持安装、打开；</p><p data-vmark="afbe">2、搜索结果页展示类目优化，无搜索结果时，展示推荐服务；</p><p data-vmark="1e6d">【资讯优化】</p><p data-vmark="00f6">1、“我的”页底部新增“资讯卡片”，屏幕上滑或点击右侧更多按钮可进入资讯列表页；</p><p data-vmark="c971">【发现优化】</p><p data-vmark="39e1">1、榜单新增“来自应用的服务”和“组合桌面”，组合桌面服务二级页，支持一键下载，批量下载及添加至桌面；</p><p data-vmark="de2e">【服务主页优化】</p><p data-vmark="30c7">1、服务主页新增服务卡，长按服务卡片，弹出菜单，可将服务卡片添加到负一屏或桌面；</p><p data-vmark="52c1">2、进入服务卡片规格添加页，支持不同规格的卡片添加至负一屏，同一规格或不同规格卡片无限制支持添加至桌面；</p><p data-vmark="a919">【桌面 FA 】</p><p data-vmark="a507">前提：Mate 50 机型系统版本 103.0.0.87M 及以上</p><p data-vmark="df73">1、桌面长按服务片进入添加页可添加卡片至负一屏；</p><p data-vmark="c257">2、桌面设置“智慧助手．今天”更改为“我的”;</p><p data-vmark="80eb">3、在桌面双指捏合，进入服务卡片后可以点击最下面的“前往服务中心”进入负一屏发现页面</p><p style="text-align: center;" data-vmark="0891"><img src="https://img.ithome.com/newsuploadfiles/2022/8/0c81414e-14ac-4690-813e-e29fec97b07f.jpg?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzEwMy5wbmc=,g_3,x_10,y_10,a_0,t_100" w="672" h="2590" title="华为 Mate 50 / Pro 系列将首发支持新版“负一屏”，更简洁" width="672" height="2590" referrerpolicy="no-referrer"></p>
+          
+</div>
+            

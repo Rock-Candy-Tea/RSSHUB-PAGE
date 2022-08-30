@@ -70,7 +70,7 @@ myCalendarThree.book(25, 55); // return 3
 <li>Initialize an integer <code>cur = 0</code> to represent the number of intervals at the current time</li>
 <li>Enumerate all times that have records in <code>diff</code> in order, accumulate the corresponding value to <code>cur</code>, and record the max value of <code>cur</code> during our enumeration, which is the result of <code>book()</code> call.</li>
 </ul>
-<iframe src="https://leetcode.com/playground/imHidHnZ/shared" frameborder="0" width="100%" height="361" name="imHidHnZ"></iframe>
+<iframe src="https://leetcode.com/playground/YW5ownfr/shared" frameborder="0" width="100%" height="361" name="YW5ownfr"></iframe>
 <h4 id="complexityanalysis">Complexity Analysis</h4>
 <p>Let $N$ be the number of events booked.</p>
 <ul>
@@ -98,7 +98,7 @@ myCalendarThree.book(25, 55); // return 3
 </ol>
 <h4 id="implementation">Implementation</h4>
 <p>As we discussed before, the input endpoints are sparse. We don't have to create TreeNode for all intervals in the beginning. We can create a node dynamically when needed. Besides, we don't need to define a <code>TreeNode</code> class, instead, we can represent them by hashmap with unique <code>idx</code>s as keys and specify values at key <code>2 * idx</code> and <code>2 * idx + 1</code> as its left and right child nodes for any <code>idx > 0</code>.</p>
-<iframe src="https://leetcode.com/playground/ShqURidw/shared" frameborder="0" width="100%" height="500" name="ShqURidw"></iframe>
+<iframe src="https://leetcode.com/playground/T3LjRRty/shared" frameborder="0" width="100%" height="500" name="T3LjRRty"></iframe>
 <h4 id="complexityanalysis-1">Complexity Analysis</h4>
 <p>Let $N$ be the number of events booked and $C$ be the largest time (i.e., $10^9$ in this problem)</p>
 <ul>
@@ -128,11 +128,11 @@ myCalendarThree.book(25, 55); // return 3
 <h4 id="implementation-1">Implementation</h4>
 <p>The balanced tree container has different implementations in different languages. We use <code>map</code> in C++, <code>TreeMap</code> in java and <code>SortedList</code> in Python to mimic how a balanced tree behaves.</p>
 <p>And also, we can maintain only starting points of intervals without their end points, because all intervals are consecutive, the end point of an interval is also the starting point of the next one.</p>
-<iframe src="https://leetcode.com/playground/HECWNWLF/shared" frameborder="0" width="100%" height="500" name="HECWNWLF"></iframe>
+<iframe src="https://leetcode.com/playground/iTAt92jt/shared" frameborder="0" width="100%" height="500" name="iTAt92jt"></iframe>
 <h4 id="complexityanalysis-2">Complexity Analysis</h4>
 <p>Let $N$ be the number of events booked.</p>
 <ul>
-<li>Time Complexity: $O(N^2)$  in the worst case. For each new <code>[start, end)</code>, we find the intervals that contains point <code>start</code> and <code>end</code> in $O(\log&#123;N&#125;)$ time, split and add new intervals in $O(\log&#123;N&#125;)$ time. We increase at most 2 new intervals each time, so the size of <code>intervals</code>(or <code>starts</code>) is at most $2N+1$. Finally, we enumerate all intervals contained in <code>[start, end)</code> to get the max number of events, which takes $O(n)$ time. Therefore, the overall time complexity of booking $N$ events is $O(N^2)$.</li>
+<li>Time Complexity: $O(N^2)$  in the worst case. For each new <code>[start, end)</code>, we find the intervals that contains point <code>start</code> and <code>end</code> in $O(\log&#123;N&#125;)$ time, split and add new intervals in $O(\log&#123;N&#125;)$ time. We increase at most 2 new intervals each time, so the size of <code>intervals</code>(or <code>starts</code>) is at most $2N+1$. Finally, we enumerate all intervals contained in <code>[start, end)</code> to get the max number of events, which takes $O(N)$ time. Therefore, the overall time complexity of booking $N$ events is $O(N^2)$.</li>
 </ul>
 <p>Though the time complexity looks not ideal in the worst case, if the given <code>[start, end)</code> is distributed uniformly, the time complexity is $O(N\log\log N)$ (See also: <a href="https://docs.rs/chtholly_tree/latest/chtholly_tree/">Crate <code>chtholly_tree</code></a>). The proof is not easy so we ignore it here.</p>
 <ul>
