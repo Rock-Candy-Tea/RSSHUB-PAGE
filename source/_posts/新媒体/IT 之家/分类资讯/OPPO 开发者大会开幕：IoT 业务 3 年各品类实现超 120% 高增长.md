@@ -1,0 +1,19 @@
+
+---
+title: 'OPPO 开发者大会开幕：IoT 业务 3 年各品类实现超 120% 高增长'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/a129b604-349d-4c05-ad09-ae8b730b6072.png'
+author: IT 之家
+comments: false
+date: Tue, 30 Aug 2022 07:36:37 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/a129b604-349d-4c05-ad09-ae8b730b6072.png'
+---
+
+<div>   
+<p data-vmark="9465">8 月 30 日，为期两天的 2022 OPPO 开发者大会开幕，本届主题为“丰沛心灵 一路同行”，围绕万物互融的智慧生活分享 OPPO 软硬服一体的平台能力、技术服务与最新实践。开幕当日主论坛活动会场，OPPO 助理副总裁、IoT 事业群总裁李开新发表《打破壁垒 共建智慧生活》主题演讲，分享了 OPPO loT 终端销量高增长成绩单，以及通过聚合 OPPO 核心技术能力和完善 OPPO 开放平台赋能体系，与行业伙伴共建四大智慧场景的 IoT 生态发展规划。</p><p style="text-align: center;" data-vmark="8fd1"><img src="https://img.ithome.com/newsuploadfiles/2022/8/a129b604-349d-4c05-ad09-ae8b730b6072.png" w="1440" h="951" alt="图片 3" title="OPPO 开发者大会开幕：IoT 业务 3 年各品类实现超 120% 高增长" width="1440" height="542" referrerpolicy="no-referrer"></p><p data-vmark="61be"><strong>3 年各品类超 120% 高增长，聚焦四大场景构建生态布局</strong></p><p data-vmark="7466">得益于对技术和用户体验环节的极致追求，OPPO IoT 终端在 3 年时间，销量覆盖 50 多个国家和地区、各品类完成至少 120% 高增长。</p><p data-vmark="68d9">其中音频产品凭借优异音质和降噪表现，在行业中逆势突围，2021 年全球无线耳机销量破千万；可穿戴设备持续拉升安卓阵营全智能手表体验天花板，OPPO Watch 3 系列开售 36 分钟销售额超过上一代首发全天，呈现指数级增长；OPPO 平板系列产品在推出产品仅半年时间，取得 2022 年二季度安卓平板国内前五好成绩；AIoT 生态持续蓬勃发展，达到近 1 亿激活用户，近 3 亿的装机量，超过 1000 + 产品型号数；OPPO 智能电视取得超过 290% 的增长。</p><p style="text-align: center;" data-vmark="d408"><img src="https://img.ithome.com/newsuploadfiles/2022/8/a0aab345-4639-4b4b-81fe-0722c7d79612.png" w="1326" h="746" alt="图片 1" title="OPPO 开发者大会开幕：IoT 业务 3 年各品类实现超 120% 高增长" width="1326" height="461" referrerpolicy="no-referrer"></p><p data-vmark="59fe">OPPO 在智慧文娱、智慧生产、智慧学习、智慧健康四大智慧场景的牵引下，以自研入口级终端产品打造极致、轻快的用户体验，与垂直品类头部三方品牌共创无缝智慧互融体验，基于 AIoT 平台扩充符合 OPPO 价值主张的生态选品，完成了 OPPO IoT 生态多圈布局，未来将继续与行业伙伴为用户打造极致的产品和极致的场景体验。</p><p style="text-align: center;" data-vmark="0827"><img src="https://img.ithome.com/newsuploadfiles/2022/8/29c2591b-7ed7-4245-94fc-47d78b30b05a.png" w="1324" h="742" alt="图片 10" title="OPPO 开发者大会开幕：IoT 业务 3 年各品类实现超 120% 高增长" width="1324" height="460" referrerpolicy="no-referrer"></p><p data-vmark="801f"><strong>聚合 OPPO 技术能力体系，破 3 大壁垒共建开放互融生态</strong></p><p data-vmark="f890">随着智能设备激增，万物互融进程加速，不同产品、系统、品牌间的互融互通体验成为消费者关注的核心问题。通过聚合潘塔纳尔系统的泛在连接能力，OPPO IoT 实现了产品跨场景的多终端联动和多模态的交互联动，并将合作厂商的产品，和 OPPO 核心入口设备互融互通，整体提升了用户的体验。</p><p style="text-align: center;" data-vmark="d86d"><img src="https://img.ithome.com/newsuploadfiles/2022/8/7f33a7a5-b765-4420-ad88-b8a1874c77ef.png" w="1324" h="744" alt="图片 11" title="OPPO 开发者大会开幕：IoT 业务 3 年各品类实现超 120% 高增长" width="1324" height="461" referrerpolicy="no-referrer"></p><p data-vmark="dd92">针对因为不同品牌、不同协议的终端设备造成的配网复杂、连接速度慢等问题，OPPO 做到了系统发现，快速连接，实现极简快速稳定的发现以及连接配网。通过打通底层技术，实现了 AP 热点、局域网、蓝牙等多种设备协议的全面兼容，设备发现的准确率达到了 92％以上，连接的速度低于 10 秒，相较于行业传统的连接方式，速度要快一倍以上，极大的提升了用户的体验。</p><p style="text-align: center;" data-vmark="64b9"><img src="https://img.ithome.com/newsuploadfiles/2022/8/418a00d7-1329-43e4-81d1-9440a67b1d36.png" w="1328" h="744" alt="图片 12" title="OPPO 开发者大会开幕：IoT 业务 3 年各品类实现超 120% 高增长" width="1328" height="459" referrerpolicy="no-referrer"></p><p data-vmark="5305">背靠 5 亿 ColorOS 用户体量，OPPO 未来还将在四大智慧场景牵引下，携手行业伙伴打破三重壁垒，实现核心入口产品的多元化、不同系统阵营的互联互通、生态产品的全场景覆盖，打造一个开放、共生、共荣的万物互融生态。</p><p style="text-align: center;" data-vmark="f17c"><img src="https://img.ithome.com/newsuploadfiles/2022/8/398be2fe-0569-453b-9110-ffeb5592a5fa.png" w="1326" h="742" alt="图片 14" title="OPPO 开发者大会开幕：IoT 业务 3 年各品类实现超 120% 高增长" width="1326" height="459" referrerpolicy="no-referrer"></p><p data-vmark="f0dd">8 月 30 日主论坛活动已正式落幕，在 31 日 10：00 开幕的 IoT 生态分论坛上，将围绕智慧文娱、智慧学习、智慧生产、智慧健康四大场景和一个智能家庭空间的场景联动进行主题分享，与您共探万物互融时代的美好智慧生活，敬请关注！</p>
+          
+</div>
+            
