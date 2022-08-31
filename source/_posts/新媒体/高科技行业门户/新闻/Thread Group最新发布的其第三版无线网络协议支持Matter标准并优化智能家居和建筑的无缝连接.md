@@ -1,0 +1,19 @@
+
+---
+title: 'Thread Group最新发布的其第三版无线网络协议支持Matter标准并优化智能家居和建筑的无缝连接'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=2539'
+author: 高科技行业门户
+comments: false
+date: Wed, 31 Aug 2022 09:42:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2539'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">Thread 1.3.0版本可以简化<span class="hrefStyle"><a href="https://iot.ofweek.com/tag-%E7%89%A9%E8%81%94%E7%BD%91%E8%AE%BE%E5%A4%87.HTM" target="_blank" title="物联网设备">物联网设备</a></span>制造商的研发和部署投资,并为用户提供无缝体验</p><p style="text-indent: 2em; text-align: left;">加利福尼亚州圣拉蒙 - 2022年8月 – 致力于推动<span class="hrefStyle"><a href="https://iot.ofweek.com/" target="_blank" title="物联网">物联网</a></span>融合并在网络层上应对安全性、功耗和架构挑战的行业联盟Thread Group日前宣布,其无线网络协议的最新一个迭代版本Thread 1.3.0现已支持Matter标准。基于之前的迭代,Thread 1.3.0实现了完全向后兼容,通过消除设备制造商和最终用户双方的障碍,为在家庭和商业建筑中广泛地采用物联网打开了更大的空间。</p><p style="text-indent: 2em; text-align: left;">房主和建筑规划师期望从其智能环境中获得无缝体验。这种体验依赖于设备的易用性、互操作性和安全性,即这些设备能够可靠地兑现其承诺。过去,智能设备制造商很难做到这一点,因为他们在将新产品推向市场时,常常受到互操作性问题的阻碍。</p><p style="text-indent: 2em; text-align: left;">将Thread无线网络协议与Matter标准结合在一起,可为制造商面向家庭和商业建筑场景提供无缝连接设备奠定基础。这些设备通过Thread 1.3.0对Matter标准的支持,将IP路由和服务发现的全部功能带到Thread 网络,从而使Matter能够在Thread网络上无缝运行。这使制造商可以专注于创新,而不必去考虑连接性,直接使最终用户从中受益。</p><p style="text-indent: 2em; text-align: left;">Thread是一种可靠、安全且超低功耗的网络协议,它可提供快速的响应时间、更大的覆盖范围和长达数年的电池续航时间,从而用以提升连接体验。作为一种基于IP的开放标准,Thread支持将诸如照明设备、调温器、门锁、传感器和智能扬声器等家庭自动化设备安全、可靠、便捷地集成到<span class="hrefStyle"><a href="https://smarthome.ofweek.com/" target="_blank" title="智能家居">智能家居</a></span>或建筑中,并直接连接到云端。</p><p style="text-indent: 2em; text-align: left;">作为基于IP的网络传输层协议,Thread可以与任何基于IP协议的应用层一起工作。除了支持Matter外,Thread 1.3.0还将支持KNX <span class="hrefStyle"><a href="https://iot.ofweek.com/tag-IoT.HTM" target="_blank" title="IoT">IoT</a></span>、DALI+、OCF和BACnet等其他应用层。</p><p style="text-indent: 2em; text-align: left;">Thread 1.3.0通过强调并专注于Matter,将为用户现在就带来以下体验:</p><p style="text-indent: 2em; text-align: left;"><strong>·</strong> 跨Matter设备的无缝响应:Thread 1.3.0使Matter设备能够加入用户基于IP的网络,同时支持低功耗及更大覆盖范围的应用场景。Matter终端设备可以使用任何经过认证的Thread边界路由器(Thread Border Router),并与所有智能设备一起工作,使其能够被更容易添加到网络中,并支持他们轻松地加入到现有网络。</p><p style="text-indent: 2em; text-align: left;"><strong style="text-indent: 32px; white-space: normal;">·</strong> 无缝集成到现有网络基础设施中:Thread边界路由器使Thread设备很容易被发现并与Thread网络之外的设备进行通信,这是因为它们看起来就像网络上的任何其他Wi-Fi设备一样。用户可以通过IP网络访问它们,并可以使用mDNS发现服务。与Wi-Fi接入设备一样,Thread边界路由器独具特色,因为它们可以被整合到任何企业的现有设备中,从而将对额外专用硬件的需求降至最低。</p><p style="text-indent: 2em; text-align: left;"><strong style="text-indent: 32px; white-space: normal;">·</strong> 简化现场固件更新:Thread 1.3.0支持在Thread设备上快速且自动更新固件,而不会影响控件的响应性或事件传递的及时性。升级已安装到现场的设备可能很麻烦;Thread 1.3.0支持同时对所有Thread设备进行固件更新,而不会牺牲网络性能。</p><p style="text-indent: 2em; text-align: left;">“Thread是一种基于IP、低功耗、低延迟、可靠且安全的网状网络(mesh)技术,Thread Group一直在寻求将其用来发挥物联网优势的途径,” Thread Group总裁Vividh Siddha表示。“借助Thread 1.3.0,用户可以更轻松地连接、配置和使用他们的Matter设备,因为它们可以与任何经过认证的Thread边界路由器配合使用,并与其他智能设备一起工作。这确保了用户可以轻松地从其Thread产品中体验到更强大、更快捷和更可靠的网络。”</p><p style="text-indent: 2em; text-align: left;">Thread 1.3.0网络协议规范和认证计划现在可以提供给Thread Group成员使用。并即将支持其他合作伙伴生态系统,例如 KNX、DALI和OCF。更多信息,请点击这里。</p><p style="text-indent: 2em; text-align: left;"><strong>关于 Thread Group</strong></p><p style="text-indent: 2em; text-align: left;">作为一家成立于2013年的非营利组织,Thread Group致力于让Thread成为家庭和商业建筑中物联网的基础。Thread基于开放标准构建,是一种低功耗无线网络协议,可实现物联网设备、移动设备和互联网之间的直接、端到端、安全和可扩展的连接。而且,由于Thread基于IP协议,它可以与许多场景、应用程序、设备和云无缝集成。Thread Group提供严格的认证计划,以确保设备互操作性和积极的用户体验。Thread得到许多行业领先公司的支持,包括亚马逊、苹果、谷歌、路创、北欧半导体、恩智浦半导体、欧司朗、高通、西门子、芯科科技(Silicon Labs)、三星 SmartThings、尚飞和耶鲁安全。</p> 
+  
+</div>
+            
