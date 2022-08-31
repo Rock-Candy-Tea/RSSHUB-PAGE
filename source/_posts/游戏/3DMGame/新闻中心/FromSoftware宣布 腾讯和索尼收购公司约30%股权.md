@@ -14,7 +14,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220831/1661930855_9047
 
 <div>   
 <p style="text-indent:2em;">
-FromSoftware今日发布公告，索尼和腾讯今日收购公司约30%的股份，腾讯通过旗下子公司Sixjoy收购16.3%的股份（1703股）成为第二大股东，索尼收购后目前持有共计14.1%的股份（1476股），角川集团目前依然是FromSoftware的最大股东，持股69.66%。
+FromSoftware今日发布公告，索尼和腾讯今日收购公司约30%的股份，腾讯通过旗下子公司Sixjoy收购16.25%的股份（1703股）成为第二大股东，索尼收购后目前持有共计14.09%的股份（1476股），角川集团目前依然是FromSoftware的最大股东，持股69.66%。
 </p>
 <p style="text-indent:2em;">
 此外，FromSoftware公告中表示今后会加强公司创造和开发游戏IP的能力，并建立一个框架，扩大FromSoftware在全球市场上自主发行游戏的范围。
@@ -23,7 +23,7 @@ FromSoftware今日发布公告，索尼和腾讯今日收购公司约30%的股�
 <img src="https://img.3dmgame.com/uploads/images/news/20220831/1661930855_904753.png" alt="FromSoftware宣布 腾讯和索尼收购公司约30%股权" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-角川集团主张将“全球媒体与技术相结合”作为其基本战略结合了知识产权(IP)的稳定创造，由各种组合内容主要在出版、视频、游戏、网络服务和教育业务，以及在全球范围内推出这个IP通过技术的广泛运用，力求实现持续增长，提升企业价值中长期展望。FromSoftware一直在推动着游戏业务的发展创作了举世闻名的作品，如《只狼：影逝二度》、《艾尔登法环》等先进的游戏IP开发实力。着眼于游戏业务的进一步扩张，集团认识到增强游戏IP的创造、开发和部署能力为一体是集团的最高优先事项。根据本政策，本公司决定将FromSoftware通过第三方分配方式向Sixjoy和SIE提供资金采购。
+角川集团主张将“全球媒体与技术相结合”作为其基本战略结合了知识产权(IP)的稳定创造，由各种组合内容主要在出版、视频、游戏、网络服务和教育业务，以及在全球范围内推出这个IP通过技术的广泛运用，力求实现持续增长，提升企业价值中长期展望。FromSoftware一直在推动着游戏业务的发展创作了举世闻名的作品，如《只狼：影逝二度》、《艾尔登法环》等，展示了先进的游戏IP开发实力。着眼于游戏业务的进一步扩张，集团认识到增强游戏IP的创造、开发和部署能力为一体是集团的最高优先事项。根据本政策，本公司决定将FromSoftware通过第三方分配方式向Sixjoy和SIE提供资金采购。
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220831/1661930849_383752.jpg" alt="FromSoftware宣布 腾讯和索尼收购公司约30%股权" referrerpolicy="no-referrer"> 
