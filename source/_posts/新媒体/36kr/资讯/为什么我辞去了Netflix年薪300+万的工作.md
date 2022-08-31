@@ -1,0 +1,18 @@
+
+---
+title: '为什么我辞去了Netflix年薪300+万的工作'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=5090'
+author: 36kr
+comments: false
+date: Wed, 31 Aug 2022 07:25:50 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5090'
+---
+
+<div>   
+为什么我辞去了Netflix年薪300+万的工作  
+</div>
+            

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/95/ac3cd706aac4e5e6d9e28b22cf1i0qz5.JPG?v=1661919485974'
 author: 巴哈姆特
 comments: false
-date: 2022-08-31 06:18:46
+date: 2022-08-31 07:31:44
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/95/ac3cd706aac4e5e6d9e28b22cf1i0qz5.JPG?v=1661919485974'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/95/ac3cd706aac4e5e6d9e28b22cf1i0qz5.
 <div>
 <div>
 <div>
-　　遊戲開發商 Half Mermaid 宣布，由《她的故事（<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Her+Story" target="_blank">Her Story</a>）》創作者薩姆·巴洛打造的最新互動電影式遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%82%B3%E4%B8%96%E4%B8%8D%E6%9C%BD" target="_blank">傳世不朽</a>（Immortality，原暫譯《不朽之作》）》今（31）日正式在 PC Steam、PC Steam/Xbox Series X/S 平台上市，並於首日登陸 GAME PASS。</div>
+　　遊戲開發商 Half Mermaid 宣布，由《她的故事（<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Her+Story" target="_blank">Her Story</a>）》創作者薩姆·巴洛打造的最新互動電影式遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%82%B3%E4%B8%96%E4%B8%8D%E6%9C%BD" target="_blank">傳世不朽</a>（Immortality，原暫譯《不朽之作》）》今（31）日正式在 PC Steam/Xbox Series X/S 平台上市，並於首日登陸 GAME PASS。</div>
 <div>
  </div>
 <div>
