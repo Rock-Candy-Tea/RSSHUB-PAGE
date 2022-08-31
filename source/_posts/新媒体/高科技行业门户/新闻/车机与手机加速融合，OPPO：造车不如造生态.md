@@ -1,0 +1,19 @@
+
+---
+title: '车机与手机加速融合，OPPO：造车不如造生态'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member47417/202208/wx_article__40577c2db35d7a1b8f5955adf7d068f1.jpg'
+author: 高科技行业门户
+comments: false
+date: Wed, 31 Aug 2022 03:22:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member47417/202208/wx_article__40577c2db35d7a1b8f5955adf7d068f1.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">撰文 ｜ 吴先之  冷泽林</p><p style="text-indent: 2em; text-align: left;">编辑 ｜ 王   潘</p><p style="text-indent: 2em; text-align: left;">一年前上汽董事长陈虹的“车企灵魂”说还犹言在耳。自从拒绝华为之后，这家国内汽车界的巨擘，却并没有将所有第三方解决方案都拒之门外。</p><p style="text-indent: 2em; text-align: left;">光子星球从知情人处获悉，去年春节后，上汽CTO、总工程师祖似杰曾带队造访OPPO。听闻OPPO方面明确表示目前没有看到任何造车的必要时，他说道：“如果你们不想造车，那有非常多的方法可以和车打通。”很快，上汽与OPPO确定了合作。</p><p style="text-indent: 2em; text-align: left;">8月24日，上汽零束与 OPPO成立“生态域”联合实验室，双方达成共识。六天后的8月30日，OPPO在开发者大会上推出了车机互融解决方案——OPPO Carlink。合作的车企中包括上汽、特斯拉、理想汽车等。据悉，OPPO把与上汽的合作，视为自己车机解决方案的“标杆”。</p><p style="text-indent: 2em; text-align: left;">OPPO绝不是第一家入局汽车行业的手机厂商。前有华为“孤儿院”战术，领着小康与赛力斯，自成一派；后有小米北京工厂动工，同时上海自动驾驶团队已经开始运作。</p><p style="text-indent: 2em; text-align: left;">车机与手机更大范围的融合正如火如荼。上半年，WWDC（苹果开发者大会）上，苹果在CarPlay部分的结尾，展示了14家适配汽车品牌。7月，吉利控股魅族，手机已经在路上。8月，蔚来反向进军智能机，不断有细节曝出。</p><p style="text-indent: 2em; text-align: left;">“车机＋手机”融合的背后，其实是多端融合的表征，各路厂商围绕车机生态，形成截然不同的路径。</p><p style="text-indent: 2em; text-align: left;"><strong>车企与第三方的“中间地带”</strong></p><p style="text-indent: 2em; text-align: left;">在OPPO推出Carlink之前，车机系统主要存在两种截然不同的路线，分别是车企独立设计与第三方研发。</p><p style="text-indent: 2em; text-align: left;">奔驰COMAND、宝马iDrive、奥迪MMI，三家皆有独立设计车机系统的传统，曾经为用户带来了独特的体验。不过随着“三化”浪潮来袭，BBA的车机系统由于缺乏应用和相对封闭，开始失去竞争力。</p><p style="text-align:center"><img width="1280" src="https://mp.ofweek.com/Upload/News/Img/member47417/202208/wx_article__40577c2db35d7a1b8f5955adf7d068f1.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">智能化与数字化显然不是车企擅长的领域。当下，车企需要同时应对产业数字化与产品智能化的挑战，无论组织结构、开发流程、科研投入以及技术能力上，国内厂商很难凭一己之力支撑车机系统的开发。</p><p style="text-indent: 2em; text-align: left;">即便长城这类技术积累较强的车企，还是需要不断引入第三方合作，强化自己的产品力。</p><p style="text-indent: 2em; text-align: left;">长城汽车一位管理人士在解释为何要与腾讯车联合作时，曾告诉光子星球“虽然毫末是长城自动驾驶很有竞争力的子公司，但仍然会引入华为与Momenta；在座舱上虽然已经有了仙豆，仍然会引入安波福以及其它厂家参与竞争；哪怕是偏传统的座椅，长城还是会在诺博科技的基础上引入佛吉亚与李尔。”</p><p style="text-indent: 2em; text-align: left;">此外，车企独立研发车机操作方案存在与其他品牌在生态上互不兼容、车机适配成本高、用户体验差等种种弊端。</p><p style="text-indent: 2em; text-align: left;">腾讯负责上述长城项目的一位经理，在开展业务时曾疲于应付不同合作方给到完全不同的车型，比如档位信号和传输方式的接口存在Linux和安卓的差异。即使都是安卓，有标准接口，有厂商自定义的接口，甚至还有一些找Tier 1做的中间层。</p><p style="text-indent: 2em; text-align: left;">“我们要为同样的问题，做很多定制。”</p><p style="text-indent: 2em; text-align: left;">对于更多厂商而言，接纳第三方，让专业的人做专业的事既符合产业规律，也符合自身利益诉求。于是我们看到，不少传统车企打开了门户，将互联网科技巨头引入到车机系统之中，可落地非常之难。</p><p style="text-indent: 2em; text-align: left;">某车企工程师提到，汽车行业在面对变革时，首先需要考虑安全与成本，涉及到核心数据方面，其内核是封闭的。另一方面，不少跨界而来的科技公司，动辄提供全栈解决方案，不乏忽视制造规律的情况，让车企根本不可能接受。</p><p style="text-indent: 2em; text-align: left;">一汽某悬挂Tier2的研发主管告诉光子星球，车企与科技公司有着截然不同的能力沉淀，是造成双方常常处于相互对峙状态的根本原因。</p><p style="text-indent: 2em; text-align: left;">“车企的经验来自于产业沉淀与行驶，任何Bug都会导致安全隐患，这是人命问题；科技公司的经验来自用户与行为数据，在Bug与解决Bug过程中实现迭代，用‘楚河汉界’来形容双方差异，再恰当不过了。”</p><p style="text-indent: 2em; text-align: left;">车企与科技公司还广泛存在话语权纷争，最典型的案例便是苹果CarPlay。虽然CarPlay有着人机交互、iOS生态以及用户规模上的优势，但是其车载因为无缝显示行驶速度、能源余量、车内温度等诸多参数，势必会获取大量车辆数据，车企将不得不成为该系统的附庸。</p><p style="text-indent: 2em; text-align: left;">不止是苹果这么干，国内不少科技公司所推出的车机系统，为了商业闭环，或者生态考量或多或少会带着“主导”色彩。加之部分科技公司既在明面上主导车机系统，又暗自下场造车，加深了车企“引狼入室”的忧虑。其中，手机厂商与车企彼此侵入对方腹地的情况尤为显著。</p><p style="text-indent: 2em; text-align: left;">所以我们看到，蔚来李斌雄心勃勃地要造一部7000元的安卓机；吉利李书福，用“钞”能力让魅族黄章提前退休。</p><p style="text-indent: 2em; text-align: left;">车企独立设计也好，引入第三方研发也罢，都或多或少偏离了下个时代“融合开放”的本质。以车企和手机厂商为例，车机与手机融合是大势所趋，车机系统缺乏手机系统的生态应用，手机又迫切想要寻找下个时代属于自己的场景。</p><p style="text-indent: 2em; text-align: left;">作为后入局者，OPPO提出了车机与手机二者互融并存的解决方案——OPPO Carlink。确切地说，相比造车，OPPO把重心放在了造生态上。</p> 
+  
+</div>
+            

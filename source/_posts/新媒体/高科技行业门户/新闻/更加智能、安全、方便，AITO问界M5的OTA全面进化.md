@@ -1,0 +1,19 @@
+
+---
+title: '更加智能、安全、方便，AITO问界M5的OTA全面进化'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/31/xihong/1661918343118078767.png'
+author: 高科技行业门户
+comments: false
+date: Wed, 31 Aug 2022 03:58:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/31/xihong/1661918343118078767.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">AITO问界M5将在近日开启最新版本OTA升级，本次升级本着以用户为中的理念，让智慧出行进阶，将带来多项功能的完善与优化，提升用户使用体验。作为赛力斯汽车高端智慧品牌AITO旗下的首款产品，AITO问界M5将通过不断的学习和升级，朝着更智能、更安全、更方便的方向进化。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/31/xihong/1661918343118078767.png" title="1661918343118078767.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">AITO问界M5搭载全新的HarmonyOS智能座舱，拥有系统生态优势和广阔的拓展性，赛力斯凭借自研智造实力以及华为在ICT行业的领先技术，打破传统车机认知，构建了“人－车－家”智慧出行解决方案。从智能交互到娱乐功能，都可以做到能新增，能学习，能优化，为用户带来了智慧出行体验。</p><p style="text-indent: 2em; text-align: left;">首先，新增了一些实用功能，新增的关门锁窗功能，离车上锁之后无需用户自己确认车窗状态，也无需二次操作，车辆会自动检测是否关窗；同时，优化车门与背门开闭锁逻辑，车身控制模块增加对背门关闭后的状态判断，如果其他四门为闭锁状态则背门也会进入闭锁状态。更加符合用户使用习惯，操作起来更便捷。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/31/xihong/1661918355216093187.png" title="1661918355216093187.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">其次，对智能驾驶辅助功能也进行了全面优化，从功能逻辑到使用体验都进行了提升。在全景泊车界面，当车速达到10km／h即可自动退出全景泊车界面，提升了视觉盲区对静止障碍物的判定，进一步确保行车安全同时还减少了泊车耗时。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/31/xihong/1661918363343096603.png" title="1661918363343096603.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">同时，智慧小艺语音控制进行了多项升级与优化。语音导航体验方面，用户可以在选择目的地时，通过“不对、错了”等口语化的指令来纠正，对“关闭运动模式”等口语化指令，小艺会判断用户的需求并进行主动确认，人车交互体验更自然。</p><p style="text-indent: 2em; text-align: left;">可视可说功能的优化，能帮助用户更专注驾驶。升级之后在设置、车辆控制、音乐、视频等界面，用户可根据界面信息，直接说文字或数字角标，就可以代替手动点击，减少用户操作动作提升驾驶专注性，同时可以满足不同用户的说话习惯。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/31/xihong/1661918379605001767.png" title="1661918379605001767.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在导航过程中，“小艺”可以通过语音指令添加“加油站／<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E7%AB%99.HTM" target="_blank" title="充电站">充电站</a></span>”等途经点，而无需更换目的地，符合实际场景化需求。同时，还新增智慧小艺的方言对话功能，未来将识别更多方言。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/31/xihong/1661918386557038081.png" title="1661918386557038081.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">最后是在车机导航方面，新增了重磅彩蛋－无缝流转功能。用户手机与问界M5登录同一个华为帐号，并保持蓝牙连接，用户在高德地图手机端发起导航，上车之后，车机系统会自动将手机端导航任务无缝流转到车内大屏；同时支持华为音乐的流转，包括歌曲、播放列表等。用户可以尽享无缝流转带来的科技体验。</p><p style="text-indent: 2em; text-align: left;">随着不断的升级，HarmonyOS的海量应用资源也将不断释放能量，此次升级将有跟多车内应用上线，包括网易云音乐、雷石KTV，搭配华为SOUND音响和专属麦克风，为用户带来一路K歌的欢乐旅程；同时《王牌竞速》、《元气骑士》、《战魂铭人》等高品质游戏陆续上线，并支持华为游戏手柄；新增的流量一键查询和购买，通过轻点主屏幕上的信号按钮，即可查询当月流量使用统计，点击“购买流量”按钮，即可为爱车补充流量，操作更直观便捷，让爱车随时“在线”。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-08/31/xihong/1661918396275043494.png" title="1661918396275043494.png" alt="image.png" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">了解了AITO问界M5的升级点，是不是更加期待最新版本OTA了。除了以上亮点功能的升级，此次OTA还对诸多功能的细节逻辑进行了优化，如：加强升级提醒显示，应用自动更新功能，增程器里程算法更新等。赛力斯汽车以用户为中心的理念，通过OTA带来更符合用户实际用车习惯，更加人性化的产品，致力于为用户提供更好的产品和服务。</p> 
+  
+</div>
+            
