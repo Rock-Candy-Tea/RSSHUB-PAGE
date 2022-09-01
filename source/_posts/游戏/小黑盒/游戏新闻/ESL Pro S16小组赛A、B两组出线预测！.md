@@ -1,0 +1,18 @@
+
+---
+title: 'ESL Pro S16小组赛A、B两组出线预测！'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/08/30/98d09dfb49e1298c374485692c2326af/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Thu, 01 Sep 2022 09:03:31 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/08/30/98d09dfb49e1298c374485692c2326af/thumb.jpeg'
+---
+
+<div>   
+<p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/08/30/98d09dfb49e1298c374485692c2326af/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">参加小组赛的24支队伍</h4><p>ESL16小组赛比赛时间：8月31日—9月23日</p><p>参赛队伍：24支</p><p>小组赛位于演播厅中参加，季后赛则转为线下形式。</p><h2>A组：</h2><p><img class="lazy" data-height="782" src="https://imgheybox.max-c.com/bbs/2022/08/30/4d886431de4a6d9fe75758c5886e2622/thumb.jpeg" data-width="1375" referrerpolicy="no-referrer"></p><h4 class="img-desc">以上为A组的六支参赛队伍</h4><p><b>A组</b><b>比赛时间为8月31-9月5日</b></p><blockquote><p><b>出线预测：</b></p></blockquote><p>     A组头号种子非navi莫属，继sdy的融入和电子哥转型指挥后队伍也是逐步踏上正轨，两周前随着Major的积分过期，队伍也是以微弱的积分优势领先Faze重回世界第一的宝座，navi也是最有可能以小组第一的身份晋级季后赛。</p><p>     Nip最近的状态中规中矩，进三个月队伍胜率在56%左右，晋级季后赛的可能性还是挺大的，预测小组第三出线。</p><p><img class="lazy" data-height="5464" src="https://imgheybox.max-c.com/bbs/2022/08/30/f8b8bbe64bdc34c9362283f2ef579a84/thumb.jpeg" data-width="8192" referrerpolicy="no-referrer"></p><p>     小蜜蜂在休赛期过后迎来以色列枪男-spinx的加入，队伍正面实力直线上升，虽然最近两场比赛惜败G2和navi，相信经过磨合队伍能达到巅峰，预测小组第二出线。</p><p>     宇宙队Fnatic在迎来火苗双雄的融入，队伍也是在二线比赛风生水起，但重回一线赛事感觉还是差点火候。</p><p>     绿龙在Major期间可谓是让人眼前一亮，但是赛后当家狙击手degster选择离队后 队伍的实力于排名也是直线下降。</p><p>     Endpoint中有我们熟悉的最年轻MajorMVP选手Kjaerbye(抖枪哥)，在退役之后重回二三线职业赛场，但黄金时期已过 难以掀起风浪，预测小组垫底。</p><p><img class="lazy" data-height="5461" src="https://imgheybox.max-c.com/bbs/2022/08/30/447626f2564ad253ea2fe52d5d367e2e/thumb.jpeg" data-width="8192" referrerpolicy="no-referrer"></p><h2>B组：</h2><p><img class="lazy" data-height="793" src="https://imgheybox.max-c.com/bbs/2022/08/30/9d7143e21386dadb35197e215d2a4e0e/thumb.jpeg" data-width="1371" referrerpolicy="no-referrer"></p><h4 class="img-desc">以上为B组的六支参赛队伍</h4><p><b>B组比赛时间为9月7日—9月12日</b></p><p>     B组头名给到世界第二的Faze Clan，上半年成功捧杯esl15，赢得本次比赛后队伍将荣获2022年英特尔大满贯，同时总监也是最有可能冲击双大满贯的业内第一人，队伍势必全力以赴。预测小组第一出线</p><p>     G2在迎来了Hooxi和jks的加入队伍表现一般，指挥Hooxi也诠释了“唯一软蛋指挥”的称号，队伍还剩一个星期左右的时间磨合，相信教练会为其重新制定战术打法，未来可期。预测小组第二出线。</p><p><img class="lazy" data-height="5464" src="https://imgheybox.max-c.com/bbs/2022/08/30/7b72a16ef565b0ce05a722105f4c9432/thumb.jpeg" data-width="8192" referrerpolicy="no-referrer"></p><p>     BIG队员k1to在休赛期后正式回归主队，拆散了长达近五年的德国双人组tiziaN与tabesN，回归后队伍表现并不亮眼，在blast秋季小组赛中仅仅获胜了与EG的一场比赛，队伍状态不稳定 预计和Vp争夺小组第三的名额。</p><p>     VP迎来K23的两位小将加入后并且受到zz制裁，队伍的比赛大量减少，科隆小组赛惨败出局后也是接近一个多月没有比赛了，不知队伍状态与磨合怎样，还是有出线可能的。</p><p><img class="lazy" data-height="5464" src="https://imgheybox.max-c.com/bbs/2022/08/30/e59c216efd12dff45978a60f1ac73f00/thumb.jpeg" data-width="8192" referrerpolicy="no-referrer"></p><p>     MIBR在先前两场比赛中连续输给两支中国战队(RA、TYLOO)被调侃为“中国质检队”。休赛期迎来了HEN1的加入在二线赛事中表现尚可，依旧出线困难。</p><p>     FTW全称"For The Win" "为了胜利" 是葡萄牙的老牌三线队伍，在esl16预选赛的败者组中险胜Illuminar(预选赛中暴虐天禄的队伍，不知大家还有没有印象)队伍赢面不大，预计垫底出局。</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/08/30/c265b23b56f35dd3bbbbf0cf1fec6c2c/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">封面自取</h4><blockquote><p>赛事历时较久，暂时先出一篇。</p><p>以上均为个人预测，并非最终出线情况！</p></blockquote><p><img class="lazy" data-height="undefined" src="https://cdn.max-c.com/stickers/heyboxgirl/1.png" data-width="undefined" referrerpolicy="no-referrer"></p><p>觉得不错的hxd多多点赞充电支持，谢谢谢谢谢！<span data-emoji="cube_喜欢" class="hb-emoji"></span></p>  
+</div>
+            

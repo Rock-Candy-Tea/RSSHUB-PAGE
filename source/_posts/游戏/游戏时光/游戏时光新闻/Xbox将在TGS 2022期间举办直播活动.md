@@ -18,7 +18,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/09/01/220901083254780_u3073
 
 
 <div class="abstract">
-<p>「图片」</p>
+<p>Xbox真是每场游戏展都有活动。</p>
 </div>
 
                 
