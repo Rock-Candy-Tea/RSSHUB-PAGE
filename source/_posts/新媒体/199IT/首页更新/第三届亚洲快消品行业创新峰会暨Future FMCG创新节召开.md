@@ -1,0 +1,18 @@
+
+---
+title: '第三届亚洲快消品行业创新峰会暨Future FMCG创新节召开'
+categories: 
+ - 新媒体
+ - 199IT
+ - 首页更新
+headimg: 'https://picsum.photos/400/300?random=5139'
+author: 199IT
+comments: false
+date: Thu, 01 Sep 2022 10:32:59 GMT
+thumbnail: 'https://picsum.photos/400/300?random=5139'
+---
+
+<div>   
+第三届亚洲快消品行业创新峰会暨Future FMCG创新节召开  
+</div>
+            

@@ -1,0 +1,18 @@
+
+---
+title: '魂类手游竟能难倒PC玩家？《无尽之炼》投稿有礼'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/mobile/app/head/b191bb222a84e0eeadbec7566f0241cb.png'
+author: 小黑盒
+comments: false
+date: 2022-09-01 11:09:06
+thumbnail: 'https://cdn.max-c.com/mobile/app/head/b191bb222a84e0eeadbec7566f0241cb.png'
+---
+
+<div>   
+<p>上周公布了获得版号的消息，大家迫不及待的心情我们已经全部接收到了！</p><p>但距游戏上线还有一些时间，在这段时间内我会发布一些游戏相关的独家消息，也会慢慢为不熟悉我们这款游戏的小伙伴介绍一下游戏内容！</p><p><img data-gameid="99924364" src="https://cdn.max-c.com/mobile/app/head/b191bb222a84e0eeadbec7566f0241cb.png" referrerpolicy="no-referrer"></p><p>如果等不及想先行体验一下“受虐之旅”，可以移步官方玩家群，每个群内都有老包体，虽然时间久远但也可解“燃眉之急”。（群号可见文末）</p><p> </p><h3>活动时间：</h3><p>2022年9月1日 - 2022年9月10日</p><h3>活动形式：</h3><p>为了感谢玩家三年来的支持，使我们的社区更加活跃，我们举办了《无尽之炼》社区投稿活动。投稿不限<b>文字或者视频</b>形式。</p><h3>活动介绍：</h3><p>可以发布文字攻略，职业介绍，技能盘点，也可以发布高燃剪辑，通关视频，也可搬运以前发布在其他平台的老攻略和视频，但需是本人创作，搬运他人创作一经发现会被取消参与资格。最终解释权归本账号所有。</p><p><b>投稿的社区需选择“无尽之炼”如图，我们将综合稿件质量和热度，抽取十名玩家送出礼品</b>。</p><p><img class="lazy" data-height="111" src="https://imgheybox.max-c.com/web/2022/09/01/6a859f60d85b77efb0dffd64b067b8db/thumb.jpeg" data-width="395" referrerpolicy="no-referrer"></p><h3>活动奖品：</h3><p>一等奖：京东卡200元*1</p><p>二等奖：京东卡100元*3</p><p>三等奖：京东卡50元*6</p><p> </p><p>玩过老包的小伙伴们应该知道，如果说其他职业难度为5，无用之人的难度就为15。要是某些玩家对于预设的难度感到不满足，想增加挑战，可以选择放弃属性和装备，正如角色介绍所说——“弱者才需要装备”。（虽然基本人人都无法逃脱被锤的命运，新版我更是用了两个小时才刚摸到第二个boss）<span data-emoji="cube_doge" class="hb-emoji"></span></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/09/01/1be27a71625226d3f00f95c21fe9360e/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p>为了避免有些新玩家不知道如何选择这个职业，在此说明：在游戏的职业选择界面，双击任何一个职业，都可以成为“无用之人”，老版本的选择方法大概率会继续在新版本延用。</p><p>六个职业中我最喜欢的是战士，但除了战士之外，我还有个心头好（亲儿子）——无用之人。作为隐藏职业，除了“一身轻”以外，还有一些自带的“特性”。<b>与其叫“无用之人”，我更想称之为“天选之子”</b>。</p><p> 之前设计这个职业大部分原因是想挑战魂类游戏的难度，但纯为了难而难似乎也不是我的初衷。除了难度以外，我更希望这个职业有一些特色能够吸引小伙伴们上手尝试。</p><p><br></p><p><img class="lazy" data-height="461" src="https://imgheybox.max-c.com/web/2022/09/01/47eed283b327bbb2998444c8154b2ac8.gif" data-width="819" referrerpolicy="no-referrer"></p><h4 class="img-desc">高糊初版普攻</h4><p><br></p><p><img class="lazy" data-height="659" src="https://imgheybox.max-c.com/web/2022/09/01/8a50a92882f4129a59463849455f80dd.gif" data-width="1171" referrerpolicy="no-referrer"></p><h4 class="img-desc">高糊新版普攻一阶</h4><p><img class="lazy" data-height="659" src="https://imgheybox.max-c.com/web/2022/09/01/f57a76898348c0aadebc64a3af44b001.gif" data-width="1171" referrerpolicy="no-referrer"></p><h4 class="img-desc">高糊新版普攻二阶</h4><p><br></p><p>在不断的思考迭代后，我将天选之子进行了升级，除了走路之外，将重点放在了技能优化上。<b>新版本的打击感和普攻特效都进行了优化，并把普攻增加了新的玩法，技能进行了全面升级。</b></p><p>简单来说，每普攻一下敌人，就会积累战意，战意叠满之后可以进入猛攻模式，猛攻有两种形态，第一形态我已经取好了名字：火焰踢，第二种形态就拜托各位玩家姥爷在评论区开动脑筋啦！</p><p contenteditable="false"><iframe allowfullscreen="true" border="0" frameborder="no" framespacing="0" height="270" scrolling="no" src="https://player.bilibili.com/player.html?aid=560052393&bvid=BV1ue4y1Y781&cid=820940747&page=1" width="480"></iframe></p><blockquote><p>值得注意的是，如果战意未满时停止普攻，几秒之后战意便会消失。所以想使出帅气的普攻，请掌握好进攻节奏。</p></blockquote><p> </p><p>最后放出两张个人很喜欢的游戏截图～</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/09/01/eae45da86040d99e27aac1a5ff2261d7/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/09/01/23f162abea295ef12187b94a8e83a432/thumb.jpeg" data-width="2400" referrerpolicy="no-referrer"></p><p>喜欢我们的游戏请点击预约支持我们！更多信息可以加入官方群：</p><p>无尽之炼官方1群：483118657</p><p>无尽之炼官方2群：455042186</p><p>无尽之炼官方３群：384419281</p><p>无尽之炼官方4群：494871076</p><p>无尽之炼官方5群：574623552</p><p>无尽之炼官方6群：391574016</p><p>无尽之炼官方7群：713296745</p><p>无尽之炼官方8群: 858968707</p><p>无尽之炼官方9群: 976527365</p>  
+</div>
+            
