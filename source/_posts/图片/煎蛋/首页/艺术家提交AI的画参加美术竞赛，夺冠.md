@@ -21,6 +21,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/7
 <p>值得注意的是，在1800年代相机的发明引发了与摄影媒介相关的类似批评，因为与努力用刷子或铅笔手工制作艺术品的艺术家相比，相机似乎完成了所有工作。一些人担心随着彩色摄影的出现，画家将成为过去式。在某些应用中，摄影取代了更费力的插图方法(例如雕刻图版)，但人类画家今天还活得好好的。</p>
 <p>当前状态下的图像合成工具需要高度的人工指导和挑选才能取得成果，但该领域正在迅速发展，情况可能并非总是如此。不过，每次出现新的艺术工具，“这是艺术吗？”只要有人发出疑问，辩论就会继续进行。</p>
 <p>midjourney→<a href="https://www.midjourney.com/home/">https://www.midjourney.com/home/</a></p>
-<p>https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/</p>  
+<p>https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/</p>
+<p>补充一点信息 微博上有个著名的海外搬运博主比我这里早5分钟发了一篇同题材的博文，人家确实内容更丰富，还可以大量配图……根据那边的说法，这位名叫Allen的艺术家，不会画画，但是坚持认为自己在绘画或者说图形艺术上才华横溢，而AI的出现弥补了他绘画之路上唯一的短板。</p>  
 </div>
             
