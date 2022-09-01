@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.JPG?v=1662007434398'
 author: 巴哈姆特
 comments: false
-date: 2022-09-01 05:08:47
+date: 2022-09-01 06:21:34
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.JPG?v=1662007434398'
 ---
 
@@ -21,7 +21,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 126.19%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.JPG?v=1662007434398" data-srcset="https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 126.19%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.JPG?v=1662007434398" data-srcset="https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -129,8 +129,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.
 <div>
  </div>
 <div>
- </div>
-<div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
 <figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/07/6561128ee5ea34a4c878a0decd1hzr75.JPG?v=1661830575735" data-srcset="https://p2.bahamut.com.tw/B/2KU/07/6561128ee5ea34a4c878a0decd1hzr75.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/07/6561128ee5ea34a4c878a0decd1hzr75.JPG 2x" title referrerpolicy="no-referrer"></figcaption></li>
@@ -170,8 +168,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.
 對故鄉的未來感到絕望，希望與貝朗傑等人展開第二人生。</div>
 <div style="margin-left: 40px;">
 認為 DUMA 非常危險。</div>
-<div>
- </div>
 <div>
  </div>
 <div>
@@ -229,8 +225,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.
 </div>
 <div>
  </div>
-<div>
- </div>
 <h2>
 角色</h2>
 <div>
@@ -277,7 +271,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/00/3d801118dd439c8e908bba4a601hzr05.
 <div>
  </div>
 <div>
-　　瑪爾琪亞的戰鬥風格為近距離格鬥。她會運用可以自由變化身形的種族特性，將四肢變得有如長鞭般來戰鬥。也可習得將自身 HP 分給周圍夥伴的秘技。</div>
+　　瑪爾琪亞的戰鬥風格為近距離格鬥。她會運用可以自由變化身形的種族特性，將四肢變得如長鞭般戰鬥。也可習得將自身 HP 分給周圍夥伴的秘技。</div>
 <div>
  </div>
 <div>
@@ -371,7 +365,7 @@ DUMA 技能</h3>
 <div>
  </div>
 <div>
-　　培育 DUMA 可讓戰鬥更加有利。使用收集晶紋石所累積的 DP 來培育 DUMA，即可獲得技能或強化功能。</div>
+　　培育 DUMA 可讓戰鬥更加有利。使用收集晶紋石累積的 DP 來培育 DUMA，即可獲得技能或強化功能。</div>
 <div>
  </div>
 <div>
