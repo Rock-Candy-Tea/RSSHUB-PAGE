@@ -1,0 +1,18 @@
+
+---
+title: 'Meta计划为其旗下各大APP提供更多付费功能'
+categories: 
+ - 新媒体
+ - 鸟哥笔记
+ - 今日事
+headimg: 'https://picsum.photos/400/300?random=3302'
+author: 鸟哥笔记
+comments: false
+date: Thu, 01 Sep 2022 00:28:44 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3302'
+---
+
+<div>   
+9月1日消息，根据Meta发给员工的一份内部备忘录，Meta正在组建一个产品部门，为其旗下的Facebook、Instagram和WhatsApp寻找并开发“可能的付费功能”。这个新部门是Meta在其主要的社交软件中建立付费功能的第一次认真尝试，这三款应用软件都拥有数十亿用户。Meta的广告业务因苹果在iOS上的广告跟踪变化和数字广告支出的大范围缩减而受到严重损害。<br><a href="https://www.cls.cn/detail/1118864">原文链接</a>  
+</div>
+            

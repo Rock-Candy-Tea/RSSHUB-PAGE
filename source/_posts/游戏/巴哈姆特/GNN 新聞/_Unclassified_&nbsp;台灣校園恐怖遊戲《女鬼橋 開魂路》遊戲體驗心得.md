@@ -8,7 +8,7 @@ categories:
 headimg: 'https://truth.bahamut.com.tw/s01/202208/a006be8e0f4396c9a81aeb2038d62502.JPG'
 author: 巴哈姆特
 comments: false
-date: 2022-09-01 07:13:28
+date: 2022-09-01 08:14:58
 thumbnail: 'https://truth.bahamut.com.tw/s01/202208/a006be8e0f4396c9a81aeb2038d62502.JPG'
 ---
 
