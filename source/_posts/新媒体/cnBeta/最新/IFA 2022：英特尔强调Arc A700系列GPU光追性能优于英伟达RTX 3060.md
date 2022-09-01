@@ -1,0 +1,19 @@
+
+---
+title: 'IFA 2022：英特尔强调Arc A700系列GPU光追性能优于英伟达RTX 3060'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0901/9bc7951818e1b88.jpg'
+author: cnBeta
+comments: false
+date: Thu, 01 Sep 2022 06:24:46 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0901/9bc7951818e1b88.jpg'
+---
+
+<div>   
+在柏林消费电子展（2022 IFA Berlin）期间，英特尔营销主管 Tom Peterson 和 Ryan Shrout 接受了 PCGamer 高级硬件编辑 Jacob Ridley 的采访。<strong>据其所述，Arc GPU 不仅更具性价比，甚至能够较竞品提供更好的光追性能。</strong>此外英特尔分享了 Alchemist 及后续 Arc GPU 路线图。<br>
+ <p><a href="https://static.cnbetacdn.com/article/2022/0901/9bc7951818e1b88.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0901/9bc7951818e1b88.jpg" alt="0.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">（via <a href="https://wccftech.com/intel-arc-gpus-better-ray-tracing-than-nvidia-rtx-competitive-prices-battlemage-celestial-in-the-works/" target="_self">WCCFTech</a>）</p><p>相较于红队（<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a>），蓝厂（Intel）似乎更倾向于拿绿厂（NVIDIA）来对比。</p><p><a href="https://static.cnbetacdn.com/article/2022/0901/cdc096b35e1ae73.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0901/cdc096b35e1ae73.png" alt="1.png" referrerpolicy="no-referrer"></a></p><p>此前，该公司已向我们展示 Arc A750 台式显卡的 50 款游戏基准测试。可知与 GeForce RTX 3060 相比，Arc A750 平均速度优势在 5% 左右。</p><p><a href="https://static.cnbetacdn.com/article/2022/0901/c5dcec7f48e4ac0.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0901/c5dcec7f48e4ac0.png" alt="2.png" referrerpolicy="no-referrer"></a></p><p>英特尔重申 Arc 独显具有强劲的 DX12 和 Vulkan 性能，但针对 DX11 和更早游戏的支持短板也相当明显。</p><p><a href="https://static.cnbetacdn.com/article/2022/0901/06ce2483e8f2b6d.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0901/06ce2483e8f2b6d.png" alt="3.png" referrerpolicy="no-referrer"></a></p><p>为了帮助英特尔挽回一些颜面，<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/" target="_blank">微软</a>还通过 D3D9on12 封包 API，为其添加了早期 DX9 游戏的支持。</p><p><a href="https://static.cnbetacdn.com/article/2022/0901/b8e7be1d6f22c49.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0901/b8e7be1d6f22c49.png" alt="4.png" referrerpolicy="no-referrer"></a></p><p>从某种意义上来说，英特尔 Arc A750 独显在带有专属优化的 DX12 游戏上，是能够获得显著高于 RTX 3060 的性能的 —— 不同作品的优势在 17% / 14% / 10% 左右。</p><p><a href="https://static.cnbetacdn.com/article/2022/0901/d17a27d1a29b78e.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0901/d17a27d1a29b78e.png" alt="5.png" referrerpolicy="no-referrer"></a></p><p>相较于 Arc A750，Arc A770 的表现要更胜一筹。另一方面，若加入 DX11 横向对比，Alchemist GPU 的劣势又盖过了它的优势。</p><p><a href="https://static.cnbetacdn.com/article/2022/0901/1248f231c2c1599.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0901/1248f231c2c1599.png" alt="6.png" referrerpolicy="no-referrer"></a></p><p>欣慰的是，至少英特尔在以 Arc GPU 的“短板”性能来定价，以在性价比上盖过 RTX 3060 一头。</p><p><a href="https://static.cnbetacdn.com/article/2022/0901/bde4d519d5fdd7a.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0901/bde4d519d5fdd7a.png" alt="7.png" referrerpolicy="no-referrer"></a></p><p>再回到光追性能上，Tom Petersen 重申 Arc GPU 的光追表现可媲美、甚至优于英伟达的 RTX 技术 —— 即便绿厂的二代 RT 方案已经给我们留下了相当深刻的印象、且三代 RT 方案正呼之欲出。</p><p><a href="https://static.cnbetacdn.com/article/2022/0901/c60eb5fe36b0ddc.png" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0901/c60eb5fe36b0ddc.png" alt="8.png" referrerpolicy="no-referrer"></a></p>   
+</div>
+            
