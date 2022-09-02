@@ -1,0 +1,19 @@
+
+---
+title: '苹果与开发商者就App Store拒收和诈骗案达成诉讼和解'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0609/8e556b863210818.jpg'
+author: cnBeta
+comments: false
+date: Fri, 02 Sep 2022 00:23:40 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0609/8e556b863210818.jpg'
+---
+
+<div>   
+<strong>一名应用开发者关于App Store拒绝、诈骗和欺诈的诉讼以和解协议告终，此前法庭文件显示，今年夏天早些时候曾要求驳回该诉讼。</strong>原告、应用开发人员和前Pinterest工程师Kosta Eleftheriou在最近几个月里为自己赢得了名声并强调一些最令人震惊的App Store骗局。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/thumb/article/2022/0609/8e556b863210818.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0609/8e556b863210818.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">后来，他在2021年3月向加州圣克拉拉县高级法院提起了针对<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fmusic%2F" target="_blank">苹果</a>的诉讼，称自己的应用被不公平地从App Store拒绝，并且后来还被骗子盯上，进而导致收入损失。</p><p style="text-align: left;">该案曾是开发者对苹果App Store业务不满的一个高调例子。许多开发者不仅对向Apple Pay自己的销售佣金的要求感到不满--目前Epic Games正在为此提起诉讼--而且对App Store模式本身如何激励骗子从合法开发者的工作中攫取利益感到不满。但很少有人像Eleftheriou那样将这些事情诉诸法庭。</p><p style="text-align: left;">他的投诉称，苹果的App Store不仅将他的FlickType Apple Watch键盘应用拒之门外，而且还批准了竞争对手的键盘应用和其他使用FlickType键盘集成版的应用在App Store中发布。这似乎跟苹果所称的FlickType键盘提供了糟糕的用户体验的说法相矛盾，因为苹果自己的应用审查团队在将同样的技术整合到其他应用中如Reddit的Nano、Twitter的Chirp、WhatsApp的WatchChat和Instagram的Lens时都开了绿灯。</p><p style="text-align: left;">此外，当键盘应用被允许重新进入App Store时，其早期的成功使其成为App Store骗子的目标，这些骗子推出了由虚假评级和评论推动的可用性较差的竞争对手。</p><p style="text-align: left;">结果，FlickType的收入从第一个月的13万美元下降到只有2万美元，因为消费者选择了所谓评价更好的替代品。</p><p style="text-align: left;">法庭记录显示，在去年立案后，双方参加了与法官的通话，包括最近在今年春天。随后，在苹果和Kpaw（Eleftheriou的企业）达成协议后于2022年7月21日提出了驳回诉讼的请求。</p><p style="text-align: left;">Eleftheriou无法对和解的条款发表评论。苹果也未能立即对撤诉发表评论。</p><p style="text-align: left;">由于这位开发者一直在批评苹果的App Store业务和开发者所面临的困难，所以很难想象这位开发者会同意驳回案件--至少在某种程度上是同意的。</p><p style="text-align: left;">如去年，Eleftheriou作为新闻报道的来源报道了App Store的骗局，像一个加密货币钱包应用骗走了一名用户的毕生积蓄（约60万美元）、一个儿童游戏包含有一个隐藏的在线赌场、一个VPN应用每年骗走了500万美元等等。在2021年4月的参议院反垄断听证会上，他的发现也被提了出来，当时苹果首席合规官Kyle Andeer引用了Eleftheriou的工作，他对苹果为何不能自己定位这类骗局提供了质疑--因为这些骗局非常容易识别。</p><p style="text-align: left;">最近，美FTC在本周提起的诉讼中强调了虚假的App Store评论以作为对租赁平台Roomster的更大行动的一部分--这表明如果苹果不采取行动那么它就会采取行动。</p><p style="text-align: left;">尽管App Store的评论仍是一个问题，但在Eleftheriou提起诉讼后的这段时间里，苹果已经就开发者的需求做出了一些让步。</p><p style="text-align: left;">去年秋天，苹果恢复了App Store上的“报告问题(Report a Problem)”按钮，其邀请公众帮助它打击欺诈性的应用。另外，它还在去年6月更新了《应用程序商店指南》以通过承诺将骗子从苹果开发者计划中删除来打击欺诈和诈骗行为。</p><p style="text-align: left;">由于当骗子影响到他们的业务和收入时应用开发者往往只能在Twitter上发帖或联系媒体以让他们的投诉得到回应，所以现在但仍有更多工作要做。最近，Authenticator应用的开发者Kevin Archer就遇到了这种情况，他在Twitter上详细介绍了他如何在App Store上继续面对订阅骗子，这些骗子复制了他的合法应用然后在上线时乞求评论并在首次推出时向消费者推送订阅。</p><p style="text-align: left;">虽然解决像Eleftheriou这样的小型诉讼对苹果这样规模的公司来说可能是例行公事，但它们所受到的关注--不仅在开发者中并且在更广泛的苹果消费者群体中--可能不是苹果目前想要处理的。该公司尤其希望在美国司法部对苹果提起反垄断诉讼的早期阶段避免公众对其业务的负面看法。</p><p style="text-align: left;">至于Eleftheriou，尽管有这些问题但他并没有放弃应用的开发。</p><p style="text-align: left;">这位开发者称，他现在正在开发一个跟<a data-link="1" href="https://apple.pvxt.net/c/1251234/435400/7639?u=https%3A%2F%2Fwww.apple.com%2Fcn%2Fiphone%2F" target="_blank">iPhone</a>键盘有关的项目，但目前没有进一步的细节可以分享。值得注意的是，他的修改后的投诉提到了建立键盘应用的困难，因为苹果从未提供过开发者API来直接从键盘上请求完全访问权限。另外，他还认为，苹果在可用内存、收集数据以进行更好的预测的能力、用于密码字段的能力及在键盘上方显示视觉元素的限制等方面限制了第三方键盘。</p><p style="text-align: left;">Eleftheriou还不能说在这方面有什么变化，如果有的话，他的新应用可能能够解决。</p><p style="text-align: left;">目前他也仍在关注着骗局。Eleftheriou使用他建立的一个软件工具来识别App Store的订阅骗局和欺诈，他意识到还有很多工作需要做。“就在前几天，我重新运行了我的诈骗搜索工具并在五分钟内找到了几个新的诈骗应用，这显然对用户和开发者都有影响，”他说道。</p>   
+</div>
+            

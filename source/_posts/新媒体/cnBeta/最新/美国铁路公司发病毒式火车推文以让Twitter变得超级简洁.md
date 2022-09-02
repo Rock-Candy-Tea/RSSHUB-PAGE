@@ -1,0 +1,20 @@
+
+---
+title: '美国铁路公司发病毒式火车推文以让Twitter变得超级简洁'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/09/ff7825df998c5bc.png'
+author: cnBeta
+comments: false
+date: Fri, 02 Sep 2022 00:01:08 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/09/ff7825df998c5bc.png'
+---
+
+<div>   
+美国铁路公司(Amtrak)的社交媒体团队的某个人可能正处于晋升的快车道上。<strong>当地时间周四，该铁路服务的官方Twitter账户上发出了一条极为简洁的推文--
+“火车(Trains)”。</strong><br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/ff7825df998c5bc.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/ff7825df998c5bc.png" title alt style="width: 540px; height: 234px;" width="540" vspace="0" height="234" border="0" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在该账户发布这条简约信息的四个小时后，它被转发了14,000多次并获得了近85,000个赞和超过1400条评论，这包括来自多个品牌的回应，他们分享了各自对此的描述。</p><p style="text-align: left;">“新闻(News)”，《华盛顿邮报》在Twitter上写道。“广播(Radio)”，NPR写道。万豪邦威酒店则以“酒店(hotels)”作为回应，而Intuit Mailchimp以“电子邮件(emails)”作为回应，而NASA则选择了“宇宙(universe)”这一沉睡的词。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/bf410d4a4c867d1.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/bf410d4a4c867d1.png" title alt style="width: 540px; height: 222px;" width="540" vspace="0" height="222" border="0" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/f8afbe446cdd871.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/f8afbe446cdd871.png" title alt style="width: 540px; height: 241px;" width="540" vspace="0" height="241" border="0" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/bc894e27a6b7aac.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/bc894e27a6b7aac.png" title alt style="width: 540px; height: 247px;" width="540" vspace="0" height="247" border="0" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/932c87de14ce92d.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/932c87de14ce92d.png" title alt style="width: 540px; height: 236px;" width="540" vspace="0" height="236" border="0" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">CNET也顺应了这一趋势--“科技(tech)”，CNET Cars亦是如此--“汽车(cars)”。<br style="text-align: left;"></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/ed2730e96fac642.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/ed2730e96fac642.png" title alt style="width: 540px; height: 238px;" width="540" vspace="0" height="238" border="0" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/809bfaf368d873c.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/809bfaf368d873c.png" title alt style="width: 540px; height: 224px;" width="540" vspace="0" height="224" border="0" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Amtrak对这条推文的评论请求做出了简短的回应，这也引起了铁路迷们的回应，他们分享了从火车窗户拍下的可爱景色，另还有很多讽刺和双关语。<br style="text-align: left;"></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/117f33f7f32f879.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/117f33f7f32f879.png" title alt style="width: 540px; height: 643px;" width="540" vspace="0" height="643" border="0" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/3aaeae50a882da8.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/3aaeae50a882da8.png" title alt style="width: 540px; height: 248px;" width="540" vspace="0" height="248" border="0" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">据悉，Amtrak为美国48个毗连州中的46个州和加拿大的9个城市提供长途和城际铁路服务。<br style="text-align: left;"></p>   
+</div>
+            

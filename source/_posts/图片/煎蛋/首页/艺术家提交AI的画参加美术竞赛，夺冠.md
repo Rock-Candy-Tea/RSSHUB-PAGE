@@ -18,6 +18,8 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/7
 <p>Théåtre D'opéra Spatial和冠军奖章→<a href="https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-800x450.jpg">https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-800x450.jpg</a></p>
 <p>Allen的胜利在 Twitter、Reddit 和 Midjourney Discord上引发了关于艺术本质以及艺术家到底意味着什么的热烈讨论。一些评论者认为，由于人工智能，人类艺术注定要完蛋，所有艺术家都会被机器所取代。其他人认为艺术将随着新技术的出现而发展和适应，就像音乐中的合成器。</p>
 <p>还有一个因素，因为不清楚Allen是否告诉评委他使用了AI，尽管据报道有推特用户联系了评委，发现他们确实不知道。不过如此以来，AI的创作就可以被认为足以愚弄人类艺术家，推特上有人开玩笑说它解决了“人工智能艺术是否属于艺术”的争论。</p>
+<p><img src="https://cors.zfour.workers.dev/?http://tva4.sinaimg.cn/mw600/008nCjvVgy1h5rgzlyarmj30fe0k5wgb.jpg" alt="艺术家提交AI的画参加美术竞赛，夺冠" referrerpolicy="no-referrer"><br>
+来自无聊图</p>
 <p>值得注意的是，在1800年代相机的发明引发了与摄影媒介相关的类似批评，因为与努力用刷子或铅笔手工制作艺术品的艺术家相比，相机似乎完成了所有工作。一些人担心随着彩色摄影的出现，画家将成为过去式。在某些应用中，摄影取代了更费力的插图方法(例如雕刻图版)，但人类画家今天还活得好好的。</p>
 <p>当前状态下的图像合成工具需要高度的人工指导和挑选才能取得成果，但该领域正在迅速发展，情况可能并非总是如此。不过，每次出现新的艺术工具，“这是艺术吗？”只要有人发出疑问，辩论就会继续进行。</p>
 <p>midjourney→<a href="https://www.midjourney.com/home/">https://www.midjourney.com/home/</a></p>
