@@ -5,11 +5,11 @@ categories:
  - 金融
  - 中证网
  - 资讯
-headimg: 'https://picsum.photos/400/300?random=7492'
+headimg: 'https://picsum.photos/400/300?random=7308'
 author: 中证网
 comments: false
 date: Fri, 02 Sep 2022 15:57:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7492'
+thumbnail: 'https://picsum.photos/400/300?random=7308'
 ---
 
 <div>   
