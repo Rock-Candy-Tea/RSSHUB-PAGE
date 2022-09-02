@@ -1,0 +1,18 @@
+
+---
+title: '原神必胜客联动火爆！玩家COS绫人带头喊_社死口号_，气氛太热闹'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/09/02/28a9fb24488a105b3da45de1ee4da0db/thumb.png'
+author: 小黑盒
+comments: false
+date: Fri, 02 Sep 2022 09:14:51 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/09/02/28a9fb24488a105b3da45de1ee4da0db/thumb.png'
+---
+
+<div>   
+<p>说起原神和必胜客的联动，热度简直是难以用文字形容的高。先有周边的线上预售被迅速抢空，后有线下活动开启后引发排队长龙，原神和必胜客这波联动可谓是从线上到线下把玩家拿捏得牢牢的。不过大家都知道，线下活动+社死口号的配置，肯定少不了玩家整活。那么联动期间都发生了什么呢？不得了的原神玩家名场面都有哪些呢？先跟饭饭来看看吧！</p><p> </p><p><img class="lazy" data-height="395" src="https://imgheybox.max-c.com/bbs/2022/09/02/28a9fb24488a105b3da45de1ee4da0db/thumb.png" data-width="831" referrerpolicy="no-referrer"></p><p>先从8月24日原神x必胜客联动开启周边线上预售开始说。因为联动套餐中含有原神限定的鼠标垫和定制餐盘，在物料放出的时候就让玩家们非常期待，预售开启当天更是引起一阵热潮，含周边的套餐几乎是以迅雷不及掩耳之势被抢空。而在后续更是有许多玩家在社交平台晒出了周边开箱视频，不得不说这波真的是玩家们的盛情难却啊！</p><p> </p><p><img class="lazy" data-height="454" src="https://imgheybox.max-c.com/bbs/2022/09/02/600726c66a988f2e78354a4a30a07733/thumb.png" data-width="478" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="530" src="https://imgheybox.max-c.com/bbs/2022/09/02/50708c6515defa45878f7b493cda5cbd/thumb.png" data-width="612" referrerpolicy="no-referrer"></p><p>而在8月29日原神x必胜客联动正式开启线下活动的时候，全国各地的联动门店无一例外都吸引了大量玩家前去购买联动套餐，店内精心布置的原神相关的物料、装潢更是被玩家所喜爱：墙上有阿贝多、温迪等背景图、走廊的安柏优菈立牌可爱又精致、桌面上还有萌萌的“BOSS讨伐集合点”指示牌，许多玩家直接当场合照，更有高颜值COSER现身门店，原神的游戏气氛直接拉满！</p><p> </p><p><img class="lazy" data-height="460" src="https://imgheybox.max-c.com/bbs/2022/09/02/e85126669a5b961dc983d23bd407ff58/thumb.png" data-width="610" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="347" src="https://imgheybox.max-c.com/bbs/2022/09/02/fbbe534aee1609d4ae636c3add996a79/thumb.png" data-width="831" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="415" src="https://imgheybox.max-c.com/bbs/2022/09/02/5eb04bfe9a627c14875c158f3304e780/thumb.png" data-width="828" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="517" src="https://imgheybox.max-c.com/bbs/2022/09/02/69233fddcd48a79222cba0497f5594c5/thumb.png" data-width="828" referrerpolicy="no-referrer"></p><p>线下活动相比线上预售，场面更是惊人，活动的热度和玩家的热情也一度“压制不住”：玩家大排场龙都是“小场面”，各种名场面才是真的节目效果拉满。比如玩家到店喊口号就能获得一张原神x必胜客联动的海报，有许多玩家纷纷开念“风起必胜、应约而来”，更有社牛玩家直接放飞自我，来了一波“终极必杀”，吸引了全场玩家的目光。</p><p> </p><p><img class="lazy" data-height="548" src="https://imgheybox.max-c.com/bbs/2022/09/02/ba73d41624f308b3c3e0ea12cbc6eea8/thumb.png" data-width="630" referrerpolicy="no-referrer"></p><p> 这位名为“宴什”的玩家在联动活动当天COS成了神里绫人，来到必胜客线下门店，戴上了店员的“世界任务小头饰”，直接开始充当提瓦特引路人。不仅不怯场，还暴露了社牛本质，手拿小喇叭，带着在场的原神玩家们一起喊“风起必胜、应约而来”的口号，而且还喊了三遍。不喊不要紧，这一喊全场气氛直接被带动，玩家们也一起“应约而来”，门店中一时充满了快活的空气。</p><p><img class="lazy" data-height="544" src="https://imgheybox.max-c.com/bbs/2022/09/02/0a18337691a51ad55d8d85628f9961b1/thumb.png" data-width="622" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="551" src="https://imgheybox.max-c.com/bbs/2022/09/02/29cdcc3f52ed1c81787568ef577bf5db/thumb.png" data-width="625" referrerpolicy="no-referrer"></p><p>当然，类似于此的名场面并不在少数，大家伙可以在各大社交平台搜索到大量事例。说实话，饭饭看完之后表示非常叹服，好羡慕这些玩家的社牛属性啊！饭饭去联动门店都不好意思念口号，属于是“社死”类型的，不过为了这么好看的联动海报，社死一下也不是不可以的嘛！</p><p> </p><p><img class="lazy" data-height="358" src="https://imgheybox.max-c.com/bbs/2022/09/02/6e0f69a282f51b6dc0258bebb4c1428d/thumb.png" data-width="830" referrerpolicy="no-referrer"></p><p>总而言之，本次原神x必胜客的联动热度是大家公认的高，原神玩家们的热情也是把联动活动变成了“线下友好聚会”，无论是活动本身还是玩家群体之间的氛围都让这次联动成为了暑期结尾的一次美好回忆。可见原神不仅在游戏内给玩家优质的游戏体验，游戏外也能给玩家们带来美妙的快乐与缘分。不知道大家有没有在活动中认识新的小伙伴，或者挖掘出自己的潜在社牛属性呢？<a href="heybox://open_subject" target="_blank">#原神3.0版本创作者征集活动#</a></p>  
+</div>
+            
