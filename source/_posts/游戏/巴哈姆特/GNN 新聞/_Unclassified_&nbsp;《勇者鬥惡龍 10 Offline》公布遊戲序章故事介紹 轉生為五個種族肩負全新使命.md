@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/51/369ec9e47e85d8ea653127a5281i1sn5.JPG?v=1662018869138'
 author: 巴哈姆特
 comments: false
-date: 2022-09-02 07:17:57
+date: 2022-09-02 08:12:27
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/51/369ec9e47e85d8ea653127a5281i1sn5.JPG?v=1662018869138'
 ---
 
@@ -58,7 +58,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/51/369ec9e47e85d8ea653127a5281i1sn5.
  </div>
 <div>
 <p class="caution">
-【以下內容為廠商提供資料原文】</p>
+【以下內容翻譯自廠商提供資料原文】</p>
 </div>
 <div>
  </div>
