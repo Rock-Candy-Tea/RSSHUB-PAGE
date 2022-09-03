@@ -24,6 +24,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://img.jandan.net/news/2018/09/7
 <p>当前状态下的图像合成工具需要高度的人工指导和挑选才能取得成果，但该领域正在迅速发展，情况可能并非总是如此。不过，每次出现新的艺术工具，“这是艺术吗？”只要有人发出疑问，辩论就会继续进行。</p>
 <p>midjourney→<a href="https://www.midjourney.com/home/">https://www.midjourney.com/home/</a></p>
 <p>https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/</p>
-<p>补充一点信息 微博上有个著名的海外搬运博主比我这里早5分钟发了一篇同题材的博文，人家确实内容更丰富，还可以大量配图……根据那边的说法，这位名叫Allen的艺术家，不会画画，但是坚持认为自己在绘画或者说图形艺术上才华横溢，而AI的出现弥补了他绘画之路上唯一的短板。</p>  
+<p>补充一点信息 微博上有个著名的海外搬运博主比我这里早5分钟发了一篇同题材的博文，人家确实内容更丰富，还可以大量配图……根据那边的说法，这位名叫Allen的艺术家，不会画画，但是坚持认为自己在绘画或者说图形艺术上才华横溢，而AI的出现弥补了他绘画之路上唯一的短板。</p>
+<p><strong>有些朋友</strong>想体验一下Midjourney？我从上月26号就一直在用。非常好用。给大家分享一个国内从业者部分汉化的说明文档：<a href="https://p0z4g0xk6d.feishu.cn/wiki/wikcnxFLIp23hu8uvBucmgCXgnm">https://p0z4g0xk6d.feishu.cn/wiki/wikcnxFLIp23hu8uvBucmgCXgnm</a>。基本上公认Midjourney是目前起码能排前三的图形处理AI。</p>  
 </div>
             
