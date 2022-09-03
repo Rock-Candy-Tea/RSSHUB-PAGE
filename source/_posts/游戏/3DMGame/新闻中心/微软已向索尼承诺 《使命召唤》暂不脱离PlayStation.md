@@ -21,7 +21,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220903/1662187361_1259
 Ryan书面保证，在微软对动视暴雪的收购获得监管方批准之后，《使命召唤》不会从PlayStation商店中消失。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220903/1662187361_125997.jpg" alt="微软已向索尼承诺 《使命召唤》暂不脱离PlayStation" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220903/1662187361_125997.jpg" alt="微软已向索尼承诺 《使命召唤》暂不脱离PlayStation" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 而在最近接受采访时，Xbox老大Phil 

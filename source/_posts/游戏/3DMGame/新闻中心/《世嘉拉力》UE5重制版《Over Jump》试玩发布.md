@@ -27,7 +27,7 @@ Schiassi单人制作的游戏作品，目前处于alpha阶段。这个项目的�
 目前，Schiassi计划在基础时间挑战模式中完成森林赛道，预计于10月免费发布。然后，如果世嘉同意这个项目继续下去的话，作者将会把剩余赛道进行重制。
 </p>
 <p style="text-indent:2em;">
-感兴趣的玩家可以点此下载体验试玩版本。
+感兴趣的玩家可以<a href="https://sonicfangameshq.com/forums/showcase/over-jump-rally-sage-22-demo.1424/" target="_blank"><strong><span style="color:#E53333;">点此下载</span></strong></a>体验试玩版本。
 </p>
 <p style="text-indent:2em;">
 演示视频：
