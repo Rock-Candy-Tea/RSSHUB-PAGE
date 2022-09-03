@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic2.zhimg.com/v2-3be9cec540b8e7da359d411dee690100_l.jpg?source=8673f162'
+headimg: 'https://picx.zhimg.com/v2-3be9cec540b8e7da359d411dee690100_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-09-03 03:24:59
-thumbnail: 'https://pic2.zhimg.com/v2-3be9cec540b8e7da359d411dee690100_l.jpg?source=8673f162'
+date: 2022-09-03 04:53:44
+thumbnail: 'https://picx.zhimg.com/v2-3be9cec540b8e7da359d411dee690100_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic2.zhimg.com/v2-3be9cec540b8e7da359d411dee690100_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic2.zhimg.com/v2-3be9cec540b8e7da359d411dee690100_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://picx.zhimg.com/v2-3be9cec540b8e7da359d411dee690100_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">invalid s，</span><span class="bio">我特别喜欢和聪明人交往，因为不用考虑他们的尊严——乔布斯</span>
 <a href="https://www.zhihu.com/question/543850675/answer/2623889639" class="originUrl" hidden>查看知乎原文</a>
 </strong>
