@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/25/98ecde657be375c7cd1cee2edf1i2p95.PNG?v=1662115280275'
 author: 巴哈姆特
 comments: false
-date: 2022-09-03 10:10:44
+date: 2022-09-03 11:08:01
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/98ecde657be375c7cd1cee2edf1i2p95.PNG?v=1662115280275'
 ---
 
@@ -24,6 +24,10 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/25/98ecde657be375c7cd1cee2edf1i2p95.
 <li class="bh-grids-img-box" style="width: 99.74%;">
 <figcaption style="padding-bottom: 63.44%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/98ecde657be375c7cd1cee2edf1i2p95.PNG?v=1662115280275" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/98ecde657be375c7cd1cee2edf1i2p95.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/98ecde657be375c7cd1cee2edf1i2p95.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
+</div>
+<div>
+<p class="caution">
+【以下內容為廠商提供資料原文】</p>
 </div>
 <div>
  </div>
