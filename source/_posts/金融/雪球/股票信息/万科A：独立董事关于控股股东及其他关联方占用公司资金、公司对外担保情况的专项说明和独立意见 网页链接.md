@@ -5,11 +5,11 @@ categories:
  - 金融
  - 雪球
  - 股票信息
-headimg: 'https://picsum.photos/400/300?random=613'
+headimg: 'https://picsum.photos/400/300?random=6014'
 author: 雪球
 comments: false
 date: Tue, 30 Aug 2022 11:11:17 GMT
-thumbnail: 'https://picsum.photos/400/300?random=613'
+thumbnail: 'https://picsum.photos/400/300?random=6014'
 ---
 
 <div>   
