@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.timescale.com/blog/content/images/2022/04/prometheus-metrics-labels-grafana.png'
 author: Dockone
 comments: false
-date: 2022-09-04 07:08:18
+date: 2022-09-04 08:11:34
 thumbnail: 'https://www.timescale.com/blog/content/images/2022/04/prometheus-metrics-labels-grafana.png'
 ---
 

@@ -1,0 +1,20 @@
+
+---
+title: '华为 Mate 50 _ Pro 系列配色曝光：苹果 iPhone 14 同类紫色，玻璃、素皮全都有'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/9/f0f303f8-cbaa-4e06-aaed-f6cc73c968bc.png'
+author: IT 之家
+comments: false
+date: Sun, 04 Sep 2022 03:33:22 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/9/f0f303f8-cbaa-4e06-aaed-f6cc73c968bc.png'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1024664" rel="nofollow">狂奔的︴蜗牛﹌</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1297186" rel="nofollow">肖战割割</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D2002239" rel="nofollow">阿布阿布</a> 的线索投递！</div>
+            <p data-vmark="52f4"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 9 月 4 日消息，华为将于 9 月 6 日下周二举行华为 Mate50 系列及全场景新品秋季发布会，不仅首次搭载华为影像品牌 XMAGE，还将带来续航、通讯等重磅新技术，以及一系列消费电子产品。</p><p data-vmark="d834">从目前已知爆料来看，华为 Mate 50 系列首发机型为 Mate 50、Mate 50 Pro、Mate 50 RS，可能还会有 Mate 50E 版本。除华为 Mate 50e 搭载骁龙 778G 外，华为 Mate 50 系列其他全系搭载 SM8425（骁龙 8 Gen 1 4G 芯片）。</p><p data-vmark="18c8">昨日，数码博主 @旺仔百事通 给出了华为 Mate 50 系列配色的准确情报，五款配色分别为流光紫、冰霜银、曜金黑、昆仑破晓（橙）、昆仑霞光（蓝黑），后盖材质包括玻璃和素皮两种，不出意外的话昆仑色应该是素皮版本，而霞光也就是海报中的橙色。</p><p data-vmark="ff86">此外，从之前爆料者给出的华为 Mate 50 系列图示来看，该机的紫色版本同样十分精致高雅而灵动，相比传闻中的苹果 iPhone 14 系列紫色版本也完全不落下风。</p><p data-vmark="314f">值得一提的是，今年年初的时候，潘通公布了年度流行色 “Very Peri 17-3938”，也就是今年各大厂商争相使用的那个蓝紫相间的色号（#6667AB）。</p><p data-vmark="c537" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/9/f0f303f8-cbaa-4e06-aaed-f6cc73c968bc.png" w="600" h="351" alt="华为Mate 50系列五款配色曝光：玻璃、素皮全都有" title="华为 Mate 50 / Pro 系列配色曝光：苹果 iPhone 14 同类紫色，玻璃、素皮全都有" width="600" height="351" referrerpolicy="no-referrer"></p><p data-vmark="6892" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/9/d9851d4c-1719-480a-a8a7-87f4f5f873bf.jpg" w="102" h="180" title="华为 Mate 50 / Pro 系列配色曝光：苹果 iPhone 14 同类紫色，玻璃、素皮全都有" width="102" height="180" referrerpolicy="no-referrer"></p><p data-vmark="18f0" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/cc5c5325-17b6-4bf0-bf95-8ace97827666.jpg@s_2,w_820,h_1276" w="820" h="1276" alt="华为 Mate50 系列及全场景新品秋季发布会官宣" title="华为 Mate 50 / Pro 系列配色曝光：苹果 iPhone 14 同类紫色，玻璃、素皮全都有" width="820" height="1276" referrerpolicy="no-referrer"></p><p data-vmark="ae31" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/9/30ac7296-0f6d-4b30-9693-ce077c4015a1.jpg" w="600" h="41" alt="华为Mate 50系列五款配色曝光：玻璃、素皮全都有" title="华为 Mate 50 / Pro 系列配色曝光：苹果 iPhone 14 同类紫色，玻璃、素皮全都有" width="600" height="41" referrerpolicy="no-referrer"></p><p data-vmark="a2a5" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/9/cfcf4dd1-37a0-460a-a819-8199eb15d8df.jpg" w="801" h="1000" title="华为 Mate 50 / Pro 系列配色曝光：苹果 iPhone 14 同类紫色，玻璃、素皮全都有" width="801" height="1000" referrerpolicy="no-referrer"></p><p data-vmark="0913" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/9/34812aa4-b1f9-4350-b836-1a9c42166cb4.jpg@s_2,w_820,h_606" w="1280" h="946" title="华为 Mate 50 / Pro 系列配色曝光：苹果 iPhone 14 同类紫色，玻璃、素皮全都有" srcset="https://img.ithome.com/newsuploadfiles/2022/9/34812aa4-b1f9-4350-b836-1a9c42166cb4.jpg 2x" width="1280" height="606" referrerpolicy="no-referrer"></p><p data-vmark="374f">此外，华为经销商 @看山的叔叔 表示，华为 Mate 50 系列现在展台最外侧是黑色的玻璃版本，中间是橙色版本，最内侧则是紫色玻璃版本，主打色应该就是这三个版本，同时，体验台还会展示影像黑科技台卡。</p><p data-vmark="c280" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/9/881cfa95-d563-4229-9e52-bd2e66136043.png" w="588" h="481" title="华为 Mate 50 / Pro 系列配色曝光：苹果 iPhone 14 同类紫色，玻璃、素皮全都有" width="588" height="481" referrerpolicy="no-referrer"></p><p data-vmark="5919">从预热海报来看，一轮金色圆环从山峰之巅升起，结合此前爆料来看，预计华为 Mate 50 系列将延续 Mate 系列经典的背部星环设计，同时带来“向上捅破天”的卫星通讯技术。</p>
+          
+</div>
+            
