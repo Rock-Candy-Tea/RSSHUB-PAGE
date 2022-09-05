@@ -1,0 +1,18 @@
+
+---
+title: '苹果Apple Watch Pro CAD渲染图曝光'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/6315de47b15ec0601b4a9661_1024.jpg'
+author: ZAKER
+comments: false
+date: Mon, 05 Sep 2022 05:10:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/6315de47b15ec0601b4a9661_1024.jpg'
+---
+
+<div>   
+<p>IT 之家 9 月 5 日消息，今年，有爆料称苹果准备推出三款新的 Apple Watch 机型，包括 Apple Watch Series 8、Apple Watch SE 2，以及一款针对运动员的耐用型 Apple Watch Pro。而 Apple Watch Pro 将是高端手表。现在，91mobiles 通过 CAD 渲染呈现了 Apple Watch Pro 的首秀。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202209/6315de47b15ec0601b4a9661_1024.jpg" data-height="630" data-width="1200" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/6315de47b15ec0601b4a9661_1024.jpg" referrerpolicy="no-referrer"></div></div>CAD 渲染图来自行业消息来源，展示了带有更大显示屏的 Apple Watch Pro。它将配备 Apple Watch 上迄今为止最大的显示屏。Apple Watch Pro 尺寸为 49mm，意味着这款设备相当厚实。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202209/6315de47b15ec0601b4a9662_1024.jpg" data-height="636" data-width="696" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/6315de47b15ec0601b4a9662_1024.jpg" referrerpolicy="no-referrer"></div></div>从正面开始，Apple Watch Pro CAD 渲染图显示了带有非常纤薄边框的大显示屏。在框架的右侧可以看到明显的重新设计，包括突出部分，用于容纳数字表冠、麦克风和多任务按钮。目前尚不清楚这种外形尺寸是否也会出现在常规的 Apple Watch Series 8 型号中。由于它是 Apple Watch 的第一款 Pro 型号，我们可能还会看到一些独家表带。<p></p><p>Apple Watch Pro 框架左侧似乎有一个按钮以及一个扬声器口。这个额外按钮用途目前尚不清楚。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202209/6315de47b15ec0601b4a9663_1024.jpg" data-height="636" data-width="696" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/6315de47b15ec0601b4a9663_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202209/6315de47b15ec0601b4a9664_1024.jpg" data-height="636" data-width="696" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/6315de47b15ec0601b4a9664_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202209/6315de47b15ec0601b4a9665_1024.jpg" data-height="636" data-width="696" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/6315de47b15ec0601b4a9665_1024.jpg" referrerpolicy="no-referrer"></div></div>IT 之家获悉，Apple Watch Pro 预计将拥有更大的屏幕（扩大至 1.99 英寸）和电池，使用 S8 芯片，并包括体温传感器。该型号还将采用坚固的钛材料表壳，售价预计 900 美元至 1000 美元。<p></p><p>爆料称，苹果将在 9 月 8 日 " 超前瞻 " 活动中宣布新的 iPhone 14 系列。该系列将包括 6.1 英寸 iPhone 14、6.7 英寸 iPhone 14 Plus（或称 iPhone 14 Max）、6.1 英寸 iPhone 14 Pro 和 6.7 英寸 iPhone 14 Pro Max。新的产品阵容将标志着 5.4 英寸 "mini" 外形尺寸之路的终结，此前只发布了 iPhone 12 mini 和 iPhone 13 mini 两代。</p><p>预计苹果将发布 Apple Watch Series 8、性能更快的 Apple Watch SE 2，以及全新坚固耐用的 Apple Watch Pro。据 Gurman 称，预计 AirPods Pro 2 也将在该活动期间发布。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
