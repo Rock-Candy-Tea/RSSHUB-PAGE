@@ -1,0 +1,19 @@
+
+---
+title: '欧菲光自研车载AR-HUD：投影距离10米远'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0905/1fbeac0a6e96a9c.jpg'
+author: cnBeta
+comments: false
+date: Mon, 05 Sep 2022 09:59:52 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0905/1fbeac0a6e96a9c.jpg'
+---
+
+<div>   
+近日消息，据<a class="f14_link" href="https://mp.weixin.qq.com/s/3JNjIx4tVhjphTRVGFxDRw" target="_blank">欧菲光官方消息</a>，公司基于在光学光电领域发展，结合在仪表、中控、显示屏、电子后视镜等智能座舱产品线，以及智能驾驶、光学开发等，欧菲光自研车载AR-HUD系统解决方案，<strong>布局并形成 AR-HUD（DLP+led）、AR-HUD（双焦场：TFT1.8+4.1）、AR-HUD（LCOS+led）产品体系</strong>。<br>
+ <p>欧菲光提供的AR-HUD抬头<strong>显示投影距离可达10m或更远，FOV(°)实现12x4或更大，体积在12L左右</strong>，灵活搭配三种自研PGU，以较大视野、理想成像距离、更高显示性能，为驾驶员带来“充分信息展示+沉浸式体验”。</p><p><a href="https://img1.mydrivers.com/img/20220905/f9a11d0234e841c981a261de091db190.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0905/1fbeac0a6e96a9c.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0905/1fbeac0a6e96a9c.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0905/1fbeac0a6e96a9c.jpg" referrerpolicy="no-referrer"></a></p><p>根据影像源的硬件与原理的不同，AR-HUD主要有TFT、DLP、LCOS 三种主流技术路线，欧菲光自研车载AR-HUD产品，搭配三种 PGU，覆盖目前市场主流方案。</p><p><a href="https://img1.mydrivers.com/img/20220905/526ed4b2-4f10-42b4-89d4-9dba1adb1aad.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0905/3d4508e096c800e.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0905/3d4508e096c800e.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0905/3d4508e096c800e.jpg" referrerpolicy="no-referrer"></a></p><p>产品外形图</p><p><a href="https://img1.mydrivers.com/img/20220905/cae423f1-d651-448d-b2f6-237a765ca19e.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/0905/19f9063af5c7578.png" referrerpolicy="no-referrer"></a></p><p>产品系统架构</p><p><a href="https://img1.mydrivers.com/img/20220905/18fcf7af-3059-47b8-8f6f-1ad091a25540.jpg" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0905/4836260940f2135.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0905/4836260940f2135.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0905/4836260940f2135.jpg" referrerpolicy="no-referrer"></a></p><p>据了解，HUD(Head Up Display平视显示器)原来是军用战斗机上的显示系统，近些年来运用到汽车上。</p><p>AR技术的出现，让HUD的使用场景有了更多可能：AR-HUD在解决下视角、成像距离问题的同时，结合现在迅猛发展的ADAS、智能座舱技术，将LDWS(车道线偏离)、ACC、前方路障识别、高精导航信息投影到前方实景路上，<strong>可将行车信息和实景融合，提高驾驶安全性</strong>。</p><p><strong>AR-HUD（DLP+led）</strong>能有效解决驾驶信息下视角偏大问题(LDA:-2度)；实现大视野(10° X 4°)，成像距离远10m；结合AR creator，实现显示融合；解决阳光倒灌问题；图像畸变、对比度、均匀性等光学指标均达到业内高水平；体积、重量可根据客户需求进行个性化匹配定制。</p><p><a href="https://img1.mydrivers.com/img/20220905/ae20a060-a2bd-4966-b1da-83287219767a.png" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0905/8fe3a54035bb36c.png"><img data-original="https://static.cnbetacdn.com/article/2022/0905/8fe3a54035bb36c.png" src="https://static.cnbetacdn.com/thumb/article/2022/0905/8fe3a54035bb36c.png" referrerpolicy="no-referrer"></a></p><p>DLP实拍融合效果</p><p><strong>AR-HUD（双焦场:TFT1.8+4.1）</strong>可覆盖到单焦场tft的semi AR-HUD和W-HUD。解决双焦场条件下成像穿越问题。</p><p>当前面目标物太近的情况下用近焦场显示，平时双焦场显示；单焦场条件下，整车体积要求可适配性高，例如W-HUD(体积3-5L，vid:2-3m)，semi AR-HUD(体积5-7L，vid:6-8m)。提供能实现成本较低、体积较小、技术更成熟的AR-HUD产品方案。</p><p><strong>AR-HUD（LCOS+led）</strong>视野大(13°X5°)、成像距离远(10m)；结合AR creator，实现显示融合；图像畸变、对比度、均匀性等光学指标均达到业内高水平；体积、重量可根据客户需求进行个性化匹配定制。LCOS光机根据需求做不同投射比，offset设计(如下图)。</p><p>在AR-HUD DLP方案外，AR-HUD(led+LCOS)提供一个实现更大视野、更高显示性能、融合效果更好的产品方案。</p><p><img src="https://static.cnbetacdn.com/article/2022/0905/be37871897d2e0f.png" referrerpolicy="no-referrer"></p><p>可定制的LCOS光机</p><p>欧菲光自2015年开始进军智能汽车领域，聚焦智能驾驶、车身电子和智能中控三大类产品线，已形成光学镜头、摄像头、毫米波雷达、激光雷达、抬头显示（HUD）等丰富产品矩阵。</p>   
+</div>
+            
