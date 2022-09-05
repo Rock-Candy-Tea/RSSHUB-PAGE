@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://picsum.photos/400/300?random=2904'
+headimg: 'https://picsum.photos/400/300?random=3785'
 author: 巴哈姆特
 comments: false
-date: 2022-09-05 08:13:50
-thumbnail: 'https://picsum.photos/400/300?random=2904'
+date: 2022-09-05 09:10:54
+thumbnail: 'https://picsum.photos/400/300?random=3785'
 ---
 
 <div>   
