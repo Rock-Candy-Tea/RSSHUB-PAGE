@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/28/2d182bae5c9ab35e4e77735d051i30g5.JPG?v=1662350865741'
 author: 巴哈姆特
 comments: false
-date: 2022-09-05 07:24:48
+date: 2022-09-05 08:13:50
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/2d182bae5c9ab35e4e77735d051i30g5.JPG?v=1662350865741'
 ---
 
@@ -48,7 +48,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/28/2d182bae5c9ab35e4e77735d051i30g5.
 <div>
  </div>
 <div>
-　　而在 PCS 2022 夏季冠軍賽結束後，CFO 與 BYG 也將依據賽事結果決定各自代表 PCS 賽區的種子序，共同攜手征戰世界賽；Riot 也於近日公布了《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》世界大賽抽籤規劃，抽籤儀式預定 9 月 12 日在 LCS 賽區決賽打完、誕生北美賽區冠軍戰隊後開始進行，預定分為入圍賽與小組賽抽籤。</div>
+　　而在 PCS 2022 夏季冠軍賽結束後，CFO 與 BYG 也將依據賽事結果決定各自代表 PCS 賽區的種子序，共同攜手征戰世界賽；Riot 於近日公布了《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F" target="_blank">英雄聯盟</a>》世界大賽抽籤規劃，抽籤儀式預定 9 月 12 日在 LCS 賽區決賽打完、誕生北美賽區冠軍戰隊後開始進行，預定分為入圍賽與小組賽抽籤。</div>
 <div>
  </div>
 <div>
