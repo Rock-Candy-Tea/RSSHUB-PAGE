@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/71/a77cb0a3f3a303016c9021947e1i3cr5.JPG?v=1662368364055'
 author: 巴哈姆特
 comments: false
-date: 2022-09-06 00:55:23
+date: 2022-09-06 03:42:36
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/71/a77cb0a3f3a303016c9021947e1i3cr5.JPG?v=1662368364055'
 ---
 
 <div>   
 <div>
 <div>
-　　由 遊戲開發商 Dire Wolf 自製發行、改編自地下城冒險桌遊《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%8F%E7%99%BD%E4%B8%96%E7%B4%80" target="_blank">小白世紀</a>》的動作冒險角色扮演新作《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%8F%E7%99%BD%E4%B8%96%E7%B4%80%20%E6%95%B8%E4%BD%8D%E7%89%88" target="_blank">小白世紀 數位版</a>（暫譯，原名：Munchkin Digital）》正式公開，本作預定在 PC Steam、iOS、Android 等平台推出，發行時間未定。</div>
+　　由遊戲開發商 Dire Wolf 自製發行、改編自地下城冒險桌遊《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%8F%E7%99%BD%E4%B8%96%E7%B4%80" target="_blank">小白世紀</a>》的動作冒險角色扮演新作《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%B0%8F%E7%99%BD%E4%B8%96%E7%B4%80%20%E6%95%B8%E4%BD%8D%E7%89%88" target="_blank">小白世紀 數位版</a>（暫譯，原名：Munchkin Digital）》正式公開，本作預定在 PC Steam、iOS、Android 等平台推出，發行時間未定。</div>
 <div>
  </div>
 <div>
