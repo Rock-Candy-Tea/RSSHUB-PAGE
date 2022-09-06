@@ -18,7 +18,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220906/1662454993_4950
 Chrome 浏览器用户需要尽快安装最新更新，亿保护自己免受目前黑客正在大量利用的严重安全漏洞的侵害。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220906/1662454993_495013.png" alt="赶紧更新你的谷歌浏览器！新重要Chromium漏洞被发现" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220906/1662454993_495013.png" alt="赶紧更新你的谷歌浏览器！新重要Chromium漏洞被发现" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 在近日发表的官方公告中公司表示：“谷歌已经知道有报告称 CVE-2022-3075 的漏洞利用目前已经存在于网上。”一位匿名举报人于 8 月 30 日向谷歌报告了该问题，公司表示预计该更新将在未来几天到几周内向所有用户推出。

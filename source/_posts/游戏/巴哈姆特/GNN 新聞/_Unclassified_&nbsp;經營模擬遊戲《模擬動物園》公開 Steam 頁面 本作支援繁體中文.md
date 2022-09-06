@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/30/e352afa893a2e126be12d2a1421i3sa5.JPG?v=1662453325510'
 author: 巴哈姆特
 comments: false
-date: 2022-09-06 09:10:25
+date: 2022-09-06 10:10:53
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/e352afa893a2e126be12d2a1421i3sa5.JPG?v=1662453325510'
 ---
 
@@ -39,7 +39,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/e352afa893a2e126be12d2a1421i3sa5.
 <div>
  </div>
 <div>
-　　官方表示，玩家在《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%A1%E6%93%AC%E5%8B%95%E7%89%A9%E5%9C%92" target="_blank">模擬動物園</a>》中首先須投入大量精力翻修環境，使用如電焊機和高壓水槍等工具為未來要養的動物們清理不易注意到的小巷和被破壞的地方。此外，在玩家找到合適的動物並為他們打造出獨特的生活區域後，也須時刻關心動物的健康狀況，這樣才能讓動物們更能向遊客展示自己的可愛之處。</div>
+　　官方表示，玩家在《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A8%A1%E6%93%AC%E5%8B%95%E7%89%A9%E5%9C%92" target="_blank">模擬動物園</a>》中首先得投入大量精力翻修環境，使用如電焊機和高壓水槍等工具為未來要養的動物們清理不易注意到的小巷和被破壞的地方。此外，在玩家找到合適的動物並為他們打造出獨特的生活區域後，也要時刻關心動物的健康狀況，這樣才能讓動物們更能向遊客展示自己的可愛之處。</div>
 <div>
  </div>
 <div>
@@ -87,7 +87,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/30/e352afa893a2e126be12d2a1421i3sa5.
 <div>
  </div>
 <div>
-　　而除了動物的照顧與養成外，園區的環境升級也是必不可少的。玩家除了可以設置更多的景點讓遊客遊玩，也須注意建設一定數量的公共廁所及衛生設施，擺設長椅及設置休息區，讓遊客能夠用餐與休息。另外，官方表示玩家也需不定時地引進新的動物品種，才能讓遊客體會到不同的感受。</div>
+　　而除了動物的照顧與養成外，園區的環境升級也是必不可少的。玩家除了可以設置更多的景點讓遊客遊玩，也需注意建設一定數量的公共廁所及衛生設施，擺設長椅及設置休息區，讓遊客能夠用餐與休息。另外，官方表示玩家也要不定時地引進新的動物品種，才能讓遊客體會到不同的感受。</div>
 <div>
  </div>
 <div>
