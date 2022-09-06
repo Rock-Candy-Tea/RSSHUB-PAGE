@@ -1,0 +1,20 @@
+
+---
+title: '华为 Mate 50 Pro 首个跑分现身：有望搭载台积电版骁龙 8+ Gen 1 4G 芯片'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/8/22d8a7bd-f9c8-429e-aeb6-504d75f65416.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExNS5wbmc=,g_3,x_12,y_12,a_0,t_100'
+author: IT 之家
+comments: false
+date: Mon, 05 Sep 2022 13:55:19 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/8/22d8a7bd-f9c8-429e-aeb6-504d75f65416.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExNS5wbmc=,g_3,x_12,y_12,a_0,t_100'
+---
+
+<div>   
+<div class="tougao-user">感谢IT之家网友 <a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D508492" rel="nofollow">太二真人</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1192902" rel="nofollow">求娴若渴</a>、<a href="https://m.ithome.com/html/app/open.html?url=ithome%3A%2F%2Fuserpage%3Fid%3D1822428" rel="nofollow">Mo_Onster</a> 的线索投递！</div>
+            <p data-vmark="a7b8"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 9 月 5 日消息，华为将于 9 月 6 日下午举行华为 Mate 50 系列及全场景新品秋季发布会，不仅首次搭载华为影像品牌 XMAGE，还将带来全新理念设计、续航、通讯等重磅新技术，以及一系列消费电子产品。</p><p data-vmark="c324" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/8/22d8a7bd-f9c8-429e-aeb6-504d75f65416.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExNS5wbmc=,g_3,x_12,y_12,a_0,t_100" w="748" h="1220" title="华为 Mate 50 Pro 首个跑分现身：有望搭载台积电版骁龙 8+ Gen 1 4G 芯片" width="748" height="1220" referrerpolicy="no-referrer"></p><p data-vmark="1f79">据微博博主 @数码闲聊站 称华为 Mate 50 Pro 首个跑分出来了，单核 1266 分，多核 3938 分，CPU 规格为 1*3.19GHz X2+3*2.75GHz A710+4*2.02GHz A510，Adreno730 GPU，预装系统 HarmonyOS 3.0。需要注意的是，<span class="accentTextColor">核心频率规格和骁龙 8+ Gen 1 完全一致</span>。</p><p data-vmark="a49d" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/9/6d5949a5-063a-47c1-b072-896e6e039575.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExNi5wbmc=,g_3,x_12,y_12,a_0,t_100" w="751" h="1134" title="华为 Mate 50 Pro 首个跑分现身：有望搭载台积电版骁龙 8+ Gen 1 4G 芯片" width="751" height="1134" referrerpolicy="no-referrer"></p><p data-vmark="f32b" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/9/73dafe68-e014-4b0f-a8a5-fb603850a302.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExNS5wbmc=,g_3,x_11,y_11,a_0,t_100" w="745" h="1158" title="华为 Mate 50 Pro 首个跑分现身：有望搭载台积电版骁龙 8+ Gen 1 4G 芯片" width="745" height="1158" referrerpolicy="no-referrer"></p><p data-vmark="e1d4">该博主表示，此芯片频率和骁龙 8+ 芯片完全一致，但是工艺仍然不确定，也许是三星版骁龙 8 4G 再超频成骁龙 8 + 频率，但也有可能直接搭载台积电版骁龙 8+ 4G 芯片。</p><p data-vmark="9d71" style="text-align: center;"><img src="https://img.ithome.com/newsuploadfiles/2022/9/95f83046-ff79-408e-b220-bd54631d7210.png?x-bce-process=image/watermark,image_aW1nL3dhdGVybWFyay9xYy9xYzExMy5wbmc=,g_3,x_11,y_11,a_0,t_100" w="734" h="261" title="华为 Mate 50 Pro 首个跑分现身：有望搭载台积电版骁龙 8+ Gen 1 4G 芯片" width="734" height="261" referrerpolicy="no-referrer"></p><p data-vmark="6942">从目前已知爆料来看，华为 Mate 50 系列首发机型为 Mate 50、Mate 50 Pro、Mate 50 RS，可能还会有 Mate 50E 版本。除华为 Mate 50E 搭载骁龙 778G 4G 芯片外，华为 Mate 50 系列其他全系搭载 SM8425（暂称骁龙 8 Gen 1 4G 芯片）。</p><p data-vmark="3cb3">IT之家获悉，爆料显示，在影像方面，华为 Mate 50 Pro 系列将采用 P50 Pro 相机方案的微调升级款，新款手机支持 5000 万像素 IMX766 主摄 + 1300 万像素 IMX688 超广角 + 4000 万像素 IMX600 黑白原色镜头 + 6400 万像素 OV64B 3.5X 潜望镜。Mate 50 Pro 后置星环相机模组，前置支持人脸识别解锁相机。</p><p data-vmark="4fc2">华为 Mate50 系列将搭载鸿蒙 HarmonyOS 3.0 系统。华为 Mate 50 系列标准版采用居中打孔直屏，Mate 50 Pro 采用非四曲刘海曲面屏，但取消了瀑布屏大曲率设计。</p><p data-vmark="eb4a">《<a href="https://www.ithome.com/0/638/961.htm" target="_blank">曝华为 P60 / Pro 将采用台积电工艺芯片，Mate 50/60 系列处理器工艺仍“扑朔迷离”</a>》</p>
+          
+</div>
+            
