@@ -1,0 +1,19 @@
+
+---
+title: '华为ECG App通过欧盟CE医疗器械认证， WATCH GT 3 Pro将在欧洲上线心电图测量功能'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/06/tanghonghui/1662443213575048171.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 06 Sep 2022 05:40:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/06/tanghonghui/1662443213575048171.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">9月1日，华为ECG App（华为心电分析提示软件）获得欧盟CE MDR<span class="hrefStyle"><a href="http://medical.ofweek.com/" target="_blank" title="医疗">医疗</a></span>器械认证，获得了进入欧盟及欧洲贸易自由区国家市场的通行证，目前，华为ECG App已获得欧洲33个国家的市场准入资格。在未来，欧洲地区的消费者将陆续可以在HUAWEI WATCH GT 3 Pro中使用ECG App进行单导联心电图测量。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/06/tanghonghui/1662443213575048171.png" title="华为ECG App通过欧盟CE医疗器械认证， WATCH GT 3 Pro将在欧洲上线心电图测量功能" alt="华为ECG App通过欧盟CE医疗器械认证， WATCH GT 3 Pro将在欧洲上线心电图测量功能" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">针对这一消息，国外科技网站Wareable认为：华为作为智能手表行业的巨头之一，其ECG App获得了CE认证，对华为的发展雄心来说是一次极大提升，使其可以在国际上与苹果、三星相抗衡。</p><p style="text-indent: 2em; text-align: left;"><strong>搭载高性能ECG传感器，心脏健康守护再升级</strong></p><p style="text-indent: 2em; text-align: left;">心电图是临床最常用的检查手段之一，同时也是心脏电生理活动的图形记录，潜藏着有关心脏的微妙变化。在许多健康问题中，心电图监测可以帮助用户识别不规则的心律，起到早发现、早诊断、早治疗的提醒作用。针对心电监测功能，早在2020年，华为就已推出首款可精准记录心电图数据的华为WATCH GT 2 Pro ECG款，后又推出了搭载心电分析提示软件，支持房颤、早博风险筛查的华为WATCH GT 3 Pro智能手表。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/06/tanghonghui/1662443214485024337.png" title="华为ECG App通过欧盟CE医疗器械认证， WATCH GT 3 Pro将在欧洲上线心电图测量功能" alt="华为ECG App通过欧盟CE医疗器械认证， WATCH GT 3 Pro将在欧洲上线心电图测量功能" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">华为WATCH GT 3 Pro心电信号采集技术全新升级，在腕表弧面透镜上的PVD镀膜电极，能与皮肤更好贴合，提升心电信号质量。搭载高性能ECG传感器，与华为ECG App配合运作，指尖轻触腕表侧电极即可采集30秒心电信号，生成的心电图报告，可直接在手表端查看结果。单次测量后，数据可实时同步至手机侧，并提供全国三甲医院医师付费解读服务，给予准确的心电解读结果和保健建议。</p><p style="text-indent: 2em; text-align: left;"><strong>医疗机构深度合作，全方位守护健康</strong></p><p style="text-indent: 2em; text-align: left;">华为在健康领域深耕已久，相继在智能穿戴产品上推出了一系列健康管理功能和监测功能，帮助用户主动管理自己的健康。华为WATCH GT 3 Pro以TruSeen5．0＋全新心率监测技术为核心，带来全新升级的多重健康检测系统，与更多专业医疗机构合作，全面呵护用户健康。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/06/tanghonghui/1662443215175041530.png" title="华为ECG App通过欧盟CE医疗器械认证， WATCH GT 3 Pro将在欧洲上线心电图测量功能" alt="华为ECG App通过欧盟CE医疗器械认证， WATCH GT 3 Pro将在欧洲上线心电图测量功能" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">华为通过与301医院合作，发起心脏健康研究项目与睡眠呼吸暂停研究项目，基于WATCH GT 3 Pro高性能ECG及PPG传感器，可精细化识别房颤、室早及房早等心脏问题，也可智能识别睡眠、HRV、血氧、心率等信息，多参数融合判断，筛查睡眠呼吸暂停风险，并提供分层分级的改善建议。另外，基于华为WATCH GT 3 Pro多种生理参数，华中科技大学同济医学院附属同济医院和301医院联合在呼吸健康领域发起研究，可识别肺部感染风险。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/06/tanghonghui/1662443216009026744.png" title="华为ECG App通过欧盟CE医疗器械认证， WATCH GT 3 Pro将在欧洲上线心电图测量功能" alt="华为ECG App通过欧盟CE医疗器械认证， WATCH GT 3 Pro将在欧洲上线心电图测量功能" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">华为WATCH GT 3 Pro早在国内上市时，华为ECG App就已拿到了国家二级医疗器械认证，取得很好的市场反馈。本次，华为ECG App和HUAWEI WATCH D腕部心电血压记录仪获得欧盟CE MDR医疗器械认证，再一次印证了华为在健康领域的努力和成果。未来，华为将持续不断带来更加精准的健康监测功能，为用户提供全方位的健康管理。</p><p style="text-indent: 2em; text-align: left;">一一一一一一一一一一一一一一一一一一一一一</p><p style="text-indent: 2em; text-align: left;">提示信息仅供参考，不直接作为临床诊断的依据。不适用于未年满 18 周岁及患有其他已知心律失常疾病的用户。请仔细阅读产品说明书或者在医务人员的指导下购买和使用，禁忌内容或者注意事项详见说明书</p> 
+  
+</div>
+            

@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=624'
+headimg: 'https://picsum.photos/400/300?random=6052'
 author: 知乎
 comments: false
-date: Mon, 05 Sep 2022 16:41:40 GMT
-thumbnail: 'https://picsum.photos/400/300?random=624'
+date: Tue, 06 Sep 2022 00:59:49 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6052'
 ---
 
 <div>   
-匿名用户的回答<br><br><p data-pid="82g3NFKz"><b>洗ale的啥成分自己清楚。</b></p><p data-pid="PabguWBW">    自家野区吃干抹净，再去别人家野区，打算在无视野的情况下吃干抹净，无视队友doinb在泉水，Tarzan在上河道，ad和辅助中路清线。</p><p data-pid="ZTSKlckj"><b> 表现真的是极度自私与自大。</b></p><p data-pid="cBs7XT6k">    说你自私，无论优劣势，游戏中后期你都要打红，打石头人，甚至带下路线你还要刷蓝buff和蛤蟆，<b>我也不知道Tarzan怎么会这么信任你，野怪都让你，ad可以不要红，中单可以不要蓝。</b>说你自私你别抱怨。</p><p data-pid="Ex2mIP-3">9月3日lng对阵v5第四局比赛42分钟时，三位解说明确指出ale吃野的经济比打野Tarzan还多，解说cat更是在那天的比赛中戏谑道：ale是真的喜欢吃buff，每次镜头给ale都是在吃buff。真搞不懂s11整个赛季lng的大爹现在野怪都让你，是不是因为你ale没sword能送，所以被感动的。你ale近乎吃掉一半的野区资源，你真是自私加吸血。 </p><p data-pid="LpIfLACk">    说你自大，你无数次在吃干净自家野区后，吃河道资源或跑到对面野区吃资源，压缩对面资源本身是对的，但你面对对方多人不走，省技能暴毙，无视野去对面野区被抓死。简直比那个男人还chun，<b>人家是对线被抓，你是跑去送</b>。</p><p data-pid="htKzLcdo">9月3日lng对阵v5，第四局这么紧张的局势，你打完蓝顶着对面四个人要抢河道蟹暴毙。不止这一个场面，这天比赛后大家怎么说你和富贵的？9月4日lng对阵rng，你仍然是吃干抹净后，第二局Tarzan猴子中路开三人死掉后，你在无视野情况下入对面野区想偷红暴毙，Tarzan死至少是队友都在时尝试开团，但对友没跟上，你无视野去偷红啥意思？？？直接优势无了。第四局天肥凯南17级被妖姬一套带走，有人说你是英雄，在我看来你要不是三打五守住家你就已经成战犯了。第五局doinb在家，Tarzan在上河道，light和lvmao中路清线，又是你在对面野区见人不走，还要锤小明两下，锤两下不要紧，人家皇冠一开，五个人迅速贴上来了，你ale本来还不一定死，但你不愿交金身，也不要缴闪。更暴露了你的自大。</p><p data-pid="uKaBx_Kb">    我是lng粉丝，有时候真庆幸lng有这么强力一个上单，但ale这几天表现真是战犯级。估计大概率lng明年也要无了，Tarzan两年合约到期，doinb退还是转，light应该有好归宿，lvmao和iwandy未知，你50就夏季赛和lng的矛盾，肯定不会留下了，所以你顺便带走了你其他队友一年的努力。你能少点自大吗！！</p><p></p>  
+安屠生童话的回答<br><br><p data-pid="J_bxnFP8">ALE:“希望你们别再遇到我这样的人。”</p><p data-pid="BpNQUgD5">RNG:“不，我们就喜欢遇到你这样的人。”</p>  
 </div>
             
