@@ -5,11 +5,11 @@ categories:
  - 设计
  - Axis Studios
  - Work type
-headimg: 'https://picsum.photos/400/300?random=737'
+headimg: 'https://picsum.photos/400/300?random=1403'
 author: Axis Studios
 comments: false
-date: 2022-09-06 13:37:06
-thumbnail: 'https://picsum.photos/400/300?random=737'
+date: 2022-09-06 14:14:37
+thumbnail: 'https://picsum.photos/400/300?random=1403'
 ---
 
 <div>   
