@@ -1,0 +1,19 @@
+
+---
+title: '高性能DSP音频处理芯片—DU512详细概述'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member44852/202209/06160549161416.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 06 Sep 2022 08:18:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member44852/202209/06160549161416.png'
+---
+
+<div>   
+<p>　　DSP是一类<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%B5%8C%E5%85%A5%E5%BC%8F.HTM" target="_blank" title="嵌入式">嵌入式</a></span>通用可编程<span class="hrefStyle"><a href="http://ee.ofweek.com/tag-%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8.HTM" target="_blank" title="微处理器">微处理器</a></span>，主要用于实现对信号的采集、识别、变换、增强、控制等算法处理，是各类<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F.HTM" target="_blank" title="嵌入式系统">嵌入式系统</a></span>的“大脑”应用十分广泛。</p><p>　　DU562是一款由工采网代理的高性能DSP音频<span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2811-DigitalSignalProcessing.html" target="_blank" title="数字信号处理">数字信号处理</a></span>器芯片，能实现多种音频功能如混响、均衡、滤波、反馈抑制等。适用于便携式<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%93%9D%E7%89%99.HTM" target="_blank" title="蓝牙">蓝牙</a></span>、Wi-Fi 音箱、便携式耳机、汽车和家用音响。</p><p style="text-align: center;"><img src="https://mp.ofweek.com/Upload/News/Img/member44852/202209/06160549161416.png" alt="高性能DSP音频处理芯片—DU512详细概述" referrerpolicy="no-referrer"></p><p>　　<a href="https://www.isweek.cn/2974.html" target="_blank"><strong>DU562芯片</strong></a>支持直驱16Ω或32Ω耳机，最大输出功率为40mW；支持2路模拟麦克风（MIC3, MIC4）；1个S/PDIF输入接口；2个全双工I2S输入，8KHZ-192KHz采样率，最大有效位宽为32Bits；模拟LINEIN支持单端输入或差分输入</p><p>　　4 路 Audio-ADC信噪比（SNR）≥94dB，3路Audio-DAC信噪比≥105dB；采样率支持：8KHz / 11.025KHz /12KHz/16KHz /22.05KHz/24KHz/32KHz/44.1KHz/48KHz</p><p style="text-align: center;"><img src="https://mp.ofweek.com/Upload/News/Img/member44852/202209/06154334664472.png" alt="高性能DSP音频处理芯片—DU512详细概述" referrerpolicy="no-referrer"></p><p>　　音频DSP算法下具备支持:回声、混音、<strong>3D环绕</strong>（MV3D）虚拟低音、电音/变调/变声；<strong>参量均衡器（EQ）</strong>动态范围压缩（DRC）噪声抑制、相位控制、移频（防啸叫）啸叫侦测及抑制。</p><p><strong>　　电源、时钟和复位:</strong></p><p>　　●DC 3.3V~5V 电源供电@LDOIN</p><p>　　●芯片内置 5V 转 3.3V，3.3V 转 1.2V 的 LDO</p><p>　　●支持 12MHz 晶体或者外部 12M 时钟直接输入@ HOSC_XI</p><p>　　●内置 POR（Power on Reset），LVD（低电压检测）和 Watchdog</p><p><strong>　　控制和选择接口:</strong></p><p>　　用于对接主控 <span class="hrefStyle"><a href="http://ee.ofweek.com/CAT-2805-MCUcontrolteChnology.html" target="_blank" title="MCU">MCU</a></span> 的接口：I2C从机接口@max.400KHz，或者UART接口@115200。通过 MOD0选择脚控制或者USB 2.0全速（OTG）接口对接 PC 调试工具。通过 MOD1选择脚控制</p><p style="text-align: center;"><img src="https://mp.ofweek.com/Upload/News/Img/member44852/202209/06154348292004.png" alt="高性能DSP音频处理芯片—DU512详细概述" referrerpolicy="no-referrer"></p><p><strong>　　调音工具:</strong></p><p>　　支持配置数据导出；ACPWorkbench 上位机工具，支持实时地通路配置、音效开关和音效参数调整</p><p style="text-align: center;"><img src="https://mp.ofweek.com/Upload/News/Img/member44852/202209/06154553272166.png" alt="高性能DSP音频处理芯片—DU512详细概述" referrerpolicy="no-referrer"></p><p>　　<strong style="white-space: normal;">ESD:</strong>芯片 HBM 模型 ESD ≥ 4KV</p><p>　<strong>　外设:</strong>2 个 GPIO 口，可被主控 MCU 控制；1个全双工 UART @ max.3Mbps，用于log 输出</p><p style="text-align: center;"><img src="https://mp.ofweek.com/Upload/News/Img/member44852/202209/06161045442769.jpg" alt="高性能DSP音频处理芯片—DU512详细概述" referrerpolicy="no-referrer"></p><p>　　ISweek工采网全球高科技采购平台<strong>代理经销各类<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%85%83%E5%99%A8%E4%BB%B6.HTM" target="_blank" title="元器件">元器件</a></span></strong>；已于国内外多家知名品牌合作代理；为客户提供各类高品质芯片，货源充足，欢迎新老顾客咨询；19168597394（微信同号）获取相关商品、询价单，申请样品；原厂品牌合作推广。</p><p><br></p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 高性能DSP音频处理芯片—DU512详细概述</span></p> 
+  
+</div>
+            
