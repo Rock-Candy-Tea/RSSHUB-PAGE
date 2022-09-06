@@ -1,0 +1,19 @@
+
+---
+title: 'AR头戴计算机结合EPR系统加速企业数字化转型局'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/06/Zyong/1662451406665099260.png'
+author: 高科技行业门户
+comments: false
+date: Tue, 06 Sep 2022 08:02:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/06/Zyong/1662451406665099260.png'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">8月1日，工业和信息化部、国家发展改革委、生态环境部发布《工业领域碳达峰实施方案》（以下简称方案）。方案明确表示：</p><p style="text-indent: 2em; text-align: left;">“主动推进工业领域数字化转型。推动数字赋能工业绿色低碳转型，强化企业需求和信息服务供给对接，加快数字化低碳解决方案应用推广。”</p><p style="text-indent: 2em; text-align: left;">而对于仍在数字化转型“初级阶段”的企业而言，通过AR头戴计算机作为数据采集的端口，并且通过工业软件与企业ERP系统打通，实现订单、物料数据的实时可视化，成为了这些企业的首选。</p><p style="text-indent: 2em; text-align: left;">自公司创办以来，瑞欧威尔一直致力于为全球工业企业客户提供AR数字化解决方案，帮助广大企业走好“数字化转型”的第一步。而与企业ERP系统打通，也是瑞欧威尔为众多企业联手打造的AR数字化转型解决方案的众多模式之一。</p><p style="text-indent: 2em; text-align: left;">通过多年来的行业积累，瑞欧威尔已经为全球数千家客户打造了基于AR头戴计算的数字化协作方案，而这其中，不乏众多海内外领先的头部工业企业。</p><p style="text-indent: 2em; text-align: left;">全球知名风电技术厂商Vestas（维斯塔斯）作为瑞欧威尔在全球的可持续能源解决方案合作伙伴，其业务覆盖风力发电机的设计、制造、安装和服务，并在全球81个国家和地区总计装机逾113吉瓦。Vestas运用大数据分析、预测和利用风力资源，从而向客户交付顶级风电解决方案。</p><p style="text-indent: 2em; text-align: left;">2020年，维斯塔斯通过瑞欧威尔AR头戴计算机改进生产流程，在生产车间部署搭载Transition Technologies物联解决方案，一方面实现了前线工作人员数据采集与后台信息处理体统的双向互联互通；另一方面，通过连接诸如ERP等多个系统提供在线指导来提高一线员工的工作能力，乃至用于新员工培训，而这对于正处在新老员工交替高峰的风电行业而言，至关重要。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/06/Zyong/1662451406665099260.png" title="AR头戴计算机结合EPR系统加速企业数字化转型局" alt="AR头戴计算机结合EPR系统加速企业数字化转型局" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">通过采用HMT－1，技术工人可以将全部注意力集中在工作中。对于我们来说，减少在非增值任务（例如零件登记和工作状态）上花费的时间十分重要，为我们提供了非常可观的竞争优势。</p><p style="text-indent: 2em; text-align: right;">——Vestas物联网和工业4．0战略高级专家Mark Jaxion</p><p style="text-indent: 2em; text-align: left;">作为大家公认的下一代通用计算平台，AR头戴计算机承载了人们对于“元宇宙”世界的太多期盼与想象。但转眼面向当下，面对“方案”中提及的——“到2025年，规模以上工业单位增加值能耗较2020年下降13．5％，单位工业增加值二氧化碳排放下降幅度大于全社会下降幅度，重点行业二氧化碳排放强度明显下降。”——数字指标，瑞欧威尔AR头戴计算机才是真正为广大工业企业指明了方向。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/06/Zyong/1662451407006033775.png" title="AR头戴计算机结合EPR系统加速企业数字化转型局" alt="AR头戴计算机结合EPR系统加速企业数字化转型局" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">moziware cimo是IP66的防护等级，即防水、防尘、抗震，那么三防的工业AR眼镜一定要适配三防的工业平板或三防笔记本电脑才能让工作更加得心应手，助力企业加快实现工业4．0。</p><p style="text-indent: 2em; text-align: left;">北京嘉年华业科技有限公司作为瑞欧威尔的优秀合作伙伴，特推出限时优惠促销活动：</p><p style="text-indent: 2em; text-align: left;"><strong>1、购一台moziware cimo赠送一台松下安卓平板电脑；</strong></p><p style="text-indent: 2em; text-align: left;"><strong>2、购三台moziware cimo赠送一台松下笔记本电脑。</strong></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/06/Zyong/1662451407714042138.png" title="AR头戴计算机结合EPR系统加速企业数字化转型局" alt="AR头戴计算机结合EPR系统加速企业数字化转型局" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">北京嘉年华业科技有限公司成立于2003年，是国内领先的行业用特种计算机供应商，产品涵盖防水、防尘、抗震便携式计算机及头戴式计算机。</p><p style="text-indent: 2em; text-align: left;"><strong>1、松下TOUGHBOOK计算机</strong></p><p style="text-indent: 2em; text-align: left;"><strong>2、神基电脑Getac</strong></p><p style="text-indent: 2em; text-align: left;"><strong>3、Realwear 头戴式AR计算机</strong></p><p style="text-indent: 2em; text-align: left;">近20年以来，专注于三防特种计算机的销售与研发，为客户提供定制改装方案，提高工作效率的同时，也大大降低了成本。</p><p style="text-indent: 2em; text-align: left;">坚固的不仅仅是产品本身，更是我们一如既往的工作热情！</p> 
+  
+</div>
+            

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/workforce-adapted-remote-work/'
 author: Inside Design
 comments: false
-date: 2022-09-06 07:33:48
+date: 2022-09-06 08:14:29
 thumbnail: 'https://www.invisionapp.com/inside-design/workforce-adapted-remote-work/'
 ---
 

@@ -1,0 +1,18 @@
+
+---
+title: 'Web3 資安徵文：失去 1.23 ETH 的慘痛教訓'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/8c341cc1-ae55-4546-a93e-b90c966c86c9.jpeg'
+author: Matters
+comments: false
+date: Thu, 01 Sep 2022 03:41:57 GMT
+thumbnail: 'https://assets.matters.news/embed/8c341cc1-ae55-4546-a93e-b90c966c86c9.jpeg'
+---
+
+<div>   
+<p>某天跟負責 Matters Web3 社群的 <a class="mention" href="https://matters.news/@yuhschang" target="_blank" data-display-name="阿里" data-user-name="yuhschang" data-id="VXNlcjoxNTA">﻿<span>@阿里</span>﻿</a> 說，不如找品牌合作，送出冷錢包和周邊產品，讓站上市民一起來寫「各種被 Hack 的慘痛教訓」、「冷錢包開箱文」、「資安分享」之類的文章。阿里很快找來台灣區塊鏈安全公司 SecuX 贊助，如是便有了「夏日慶之冷錢包巡禮：Web3 資安徵文比賽」。   <a href="https://matters.news/@hi176/321081%EF%BC%89%E3%80%82%E4%B8%80%E8%B5%B7%E6%A3%AE%E5%B7%B4%E8%88%9E%EF%BC%81%E6%8A%93%E4%BD%8F%E5%A4%8F%E6%97%A5%E7%9A%84%E5%B0%BE%E5%B7%B4%EF%BC%81" rel="noopener noreferrer" target="_blank">https://matters.news/@hi176/321081 <br class="smart"><br class="smart"></a>一起森巴舞！抓住夏日的尾巴！<strong><br class="smart"><br class="smart">炎炎夏日，我有冷錢包，你有故事嗎？</strong></p><p>多比作為 Matters 團隊成員，就算投稿，當然也不能入圍甚至獲選，但禮品其次、分享為首，在此分享失去1.23 eth 的慘痛教訓。</p><figure class="image"><img src="https://assets.matters.news/embed/8c341cc1-ae55-4546-a93e-b90c966c86c9.jpeg" data-asset-id="8c341cc1-ae55-4546-a93e-b90c966c86c9" referrerpolicy="no-referrer"><figcaption><span>這是我</span></figcaption></figure><p><strong>失去了其中一個錢包內的所有 ETH</strong></p><p>事情發生在一個多月前，我如常打開訂閱了一年的 NFT 數據平台 ICYTOOLS，看NFT走勢，那晚睡前關了電腦，Chrome 選了無痕模式，沒了記憶，便貪方便去 Google 搜尋，點進了置頂的「廣告」ICYTOOLS 頁面，心想是置頂，還要是廣告，應該是這個了吧，界面長得一模一樣，便又如常地連接錢包以登入 VIP 服務、如常地簽了個名。（後來發現這個簽名很不尋常，是要付 Gas Fee 的！我簽了什麼？ ？）</p><p>簽完第一個名，便彈出十數個窗視，著我不斷付 Gas Fee，便知道出事了，馬上拒絕十多筆交易，呆了幾秒，才懂得回頭去看錢包內的資產，全數 ETH 都沒了，壞蛋好像給我剩下 0.001 之類的銀碼。<br class="smart"><br class="smart">第一個簽名應該是授權它獲取錢包內的加密貨幣。幸好拒絕了後來的簽名，所有 NFT 仍在（不會忘記深呼吸，打開 OpenSea 看數十張 NFT 仍在不在的那個害怕的心跳！！）。<br class="smart"></p><p>其實我不確定發生了什麼事，無痕模式使我無法找回我去的是哪一個網站、事件發生得快又有點不知所措，也記不起第一個簽署的視窗寫的是什麼。</p><p><strong>分享是福</strong><br class="smart"><br class="smart">終於中招了，這是進入 Web3 一年後的第一次 Scam。後來我到 ICYTOOLS 的 Discord 開票，Co-Founder 很有耐性地回應，說不久前都收到同樣回報，當然不是第一人，也不會是最後一人。</p><p>我也有到 Matters Discord 的「NFT討論區」說這件事，得到不少熱心回應，感謝。<br class="smart"><br class="smart">「Web3世界」版主 <a class="mention" href="https://matters.news/@denkeni" target="_blank" data-display-name="觀察者 Denken" data-user-name="denkeni" data-id="VXNlcjo0NTg">﻿<span>@觀察者 Denken</span>﻿</a> 說，Google Search Ads 有不少假網站和 Spam，留意不要去點搜尋結果頂部的廣告。他也提出區塊鏈有不同簽名的分類，我不詳說了，會說錯，想知道的，有機會可以請教他。他大概的意思是：有些合約會索取以太坊上的資產權限，不可不慎。<br class="smart"><br class="smart">而「NFT討論區」版主 ＠<a href="https://matters.news/@crypton3" rel="noopener noreferrer" target="_blank">CrypToN3</a> 則說不會使用 Google Search，會用「書籤」或「紀錄」，打關鍵字就會出現過去瀏覽的網址。他推薦使用 Brave 瀏覽器，會篩選掉一些基本的詐騙網站。</p><p>貼出血淚史截圖，以作警示。<br class="smart"></p><figure class="image"><img src="https://assets.matters.news/embed/2981f79d-e791-4999-bd5e-d77ca381ed3f.jpeg" data-asset-id="2981f79d-e791-4999-bd5e-d77ca381ed3f" referrerpolicy="no-referrer"><figcaption><span>貼堂！</span></figcaption></figure><p>後來我在想，現在才中招，嗯嗯，算了吧，中 scam 不可恥，最重要是分享。</p><p>不要胡亂搜尋網站，去項目方的 Twitter、Discord 等官方渠通去找網址，或者用書籤。在簽署前一定要看清楚授權什麼，要不時把資產放到不同的地方，分散在各交易所、平台、各種錢包。</p><p>最後還得安慰一下自己，幸好被 scam 前的一晚，花了錢買新的 NFT，而它們仍在。留我小圖片！</p><p><strong>你們也有故事嗎？</strong><br class="smart"><br class="smart">歡迎分享心得、標註「#Web3資安徵文」，活動截止日期 9月8日。禮品市價199 USD 冷錢包一組、39 USD 註記詞金屬卡兩組。</p><p>小精靈分享完畢 ～ <br class="smart"><br class="smart"></p>  
+</div>
+            
