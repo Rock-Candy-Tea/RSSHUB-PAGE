@@ -1,0 +1,19 @@
+
+---
+title: '华为联手广东移动完成基于4.9G频段的5G Massive MIMO商用连片部署'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0907/4ab5033d3b81e84.jpg'
+author: cnBeta
+comments: false
+date: Wed, 07 Sep 2022 11:34:54 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0907/4ab5033d3b81e84.jpg'
+---
+
+<div>   
+据华为无线网络消息，<strong>近日，华为携手广东移动，在广东省东莞市完成基于4.9G频段的5G Massive MIMO商用连片部署。</strong>通过4.9G频段和2.6G频段载波聚合，为广东移动5G泛在千兆网络体验再升级打下坚实基础。<br>
+ <p>据了解，5G商用三年以来，广东移动已建成全国最大规模的5G网络。与此同时，5G业务应用的蓬勃发展也给网络基础设施建设带来了新的挑战。</p><p><a href="https://img1.mydrivers.com/img/20220907/62819a04f2f84465afca37f82278bbf5.jpg" style="text-align: -webkit-center;" target="_blank"></a><a target="_blank" href="https://static.cnbetacdn.com/article/2022/0907/4ab5033d3b81e84.jpg"><img data-original="https://static.cnbetacdn.com/article/2022/0907/4ab5033d3b81e84.jpg" src="https://static.cnbetacdn.com/thumb/article/2022/0907/4ab5033d3b81e84.jpg" referrerpolicy="no-referrer"></a></p><p>分析显示，广东移动全省5G流量相比去年同期增长3倍。<strong>在5G网络负荷较重的城市CBD、校园、工业园区和城中村等人流密集、网络负荷高的热点区域，部分5G用户的体验已经开始出现下滑。</strong></p><p>相比2.6G频段，4.9G频段具备100MHz大带宽和规避干扰能力强的优势，<a data-link="1" href="https://c.duomai.com/track.php?k=WP0ZSPklWdlZyN4MTPklWYmYDO5IDNy0DZp9VZ0l2cmYiRyUSbvNmLsxWYtZnL3d3dGJTJGJTJBNTJzBHd0h" target="_blank">华为</a>和广东移动通过Massive MIMO多天线与大带宽的结合，实现2.6G和4.9G频段的载波聚合高低搭配，进一步夯实5G用户千兆体验。</p><p>现场测试分析表明，2.6G和4.9G频段载波聚合增益明显：<strong>现网拉网用户峰值体验速率达1.8Gbps，相比4.9G频段开通前提升126.5%，拉网用户平均吞吐率提升128.3%。</strong></p><p>同时4.9G频段开通后总流量增长超11%、分担业务量超33%，而且对于现网高负荷站点，负荷越高4.9G频段的流量激发能力越强。</p><p><a href="https://img1.mydrivers.com/img/20220907/6070468047354f8cb258476b7612e056.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/0907/9e437ba8296a54f.png" referrerpolicy="no-referrer"></a></p>   
+</div>
+            

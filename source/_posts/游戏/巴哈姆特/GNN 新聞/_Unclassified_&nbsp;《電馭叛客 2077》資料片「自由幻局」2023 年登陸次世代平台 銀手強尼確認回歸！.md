@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/43/8ed10ed55281c8272a01c94b4e1i40z5.JPG?v=1662483026287'
 author: 巴哈姆特
 comments: false
-date: 2022-09-07 11:09:26
+date: 2022-09-07 12:20:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/43/8ed10ed55281c8272a01c94b4e1i40z5.JPG?v=1662483026287'
 ---
 
@@ -22,9 +22,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/43/8ed10ed55281c8272a01c94b4e1i40z5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/8ed10ed55281c8272a01c94b4e1i40z5.JPG?v=1662483026287" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/8ed10ed55281c8272a01c94b4e1i40z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/8ed10ed55281c8272a01c94b4e1i40z5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/8ed10ed55281c8272a01c94b4e1i40z5.JPG?v=1662483026287" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/8ed10ed55281c8272a01c94b4e1i40z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/8ed10ed55281c8272a01c94b4e1i40z5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/44/a701606abc3401a597298f7c2b1i4105.JPG?v=1662483026288" data-srcset="https://p2.bahamut.com.tw/B/2KU/44/a701606abc3401a597298f7c2b1i4105.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/44/a701606abc3401a597298f7c2b1i4105.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/44/a701606abc3401a597298f7c2b1i4105.JPG?v=1662483026288" data-srcset="https://p2.bahamut.com.tw/B/2KU/44/a701606abc3401a597298f7c2b1i4105.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/44/a701606abc3401a597298f7c2b1i4105.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -98,13 +98,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/43/8ed10ed55281c8272a01c94b4e1i40z5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/34/a04f207b2cb013af5ebec0bf911i40q5.JPG?v=1662483008823" data-srcset="https://p2.bahamut.com.tw/B/2KU/34/a04f207b2cb013af5ebec0bf911i40q5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/34/a04f207b2cb013af5ebec0bf911i40q5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/34/a04f207b2cb013af5ebec0bf911i40q5.JPG?v=1662483008823" data-srcset="https://p2.bahamut.com.tw/B/2KU/34/a04f207b2cb013af5ebec0bf911i40q5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/34/a04f207b2cb013af5ebec0bf911i40q5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9B%BB%E9%A6%AD%E5%8F%9B%E5%AE%A2+2077" target="_blank">電馭叛客 2077</a>》最新資料片《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9B%BB%E9%A6%AD%E5%8F%9B%E5%AE%A2+2077" target="_blank">電馭叛客 2077</a>：自由幻局》預計 2023 年登陸 PC、PlayStation 5、Xbox Series X|S、Stadia 等次世代平台，更多內容可參考完整版「夜城快報」，節目中亦有介紹《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9B%BB%E9%A6%AD%E5%8F%9B%E5%AE%A2+2077" target="_blank">電馭叛客 2077</a>》1.6 更新版以及《電馭叛客：邊緣行者》動畫劇集的最新資訊。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9B%BB%E9%A6%AD%E5%8F%9B%E5%AE%A2+2077" target="_blank">電馭叛客 2077</a>》最新資料片《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9B%BB%E9%A6%AD%E5%8F%9B%E5%AE%A2+2077" target="_blank">電馭叛客 2077</a>：自由幻局》預計 2023 年登陸 PC、PlayStation 5、Xbox Series X|S、Stadia 等次世代平台，更多內容可參考完整版「夜城快報」，節目中亦有介紹《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9B%BB%E9%A6%AD%E5%8F%9B%E5%AE%A2+2077" target="_blank">電馭叛客 2077</a>》1.6 更新版以及《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%9B%BB%E9%A6%AD%E5%8F%9B%E5%AE%A2%EF%BC%9A%E9%82%8A%E7%B7%A3%E8%A1%8C%E8%80%85" target="_blank">電馭叛客：邊緣行者</a>》動畫劇集的最新資訊。</div>
 <div>
  </div>
 <div>

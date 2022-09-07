@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/81/09a69318969d59de707b0bdc851i4215.JPG?v=1662487928432'
 author: 巴哈姆特
 comments: false
-date: 2022-09-07 11:09:26
+date: 2022-09-07 12:20:39
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/81/09a69318969d59de707b0bdc851i4215.JPG?v=1662487928432'
 ---
 
 <div>   
 <div>
 <div>
-　　Ubisoft 宣布，中國遊戲廠商騰訊已經以 3 億歐元代價取得其執行長兼共同創辦人 Yves Guillemot 的家族公司 Guillemot Brothers Limited 49.9% 股份以及 5% 投票權，該公司是 Ubisoft 最大的股東。不過 Guillemot 家族仍保留對公司的獨家控制權，騰訊並不會往董事會派駐代表，亦未擁有公司業務的同意權或否決權。</div>
+　　Ubisoft 宣布，中國遊戲廠商騰訊已經以 3 億歐元代價取得其執行長兼共同創辦人 Yves Guillemot 的家族公司 Guillemot Brothers Limited 49.9% 股份以及 5% 投票權，該公司是 Ubisoft 最大的股東。不過 Guillemot 家族仍保留對公司的獨家控制權，騰訊並不會向董事會派駐代表，亦未擁有公司業務的同意權或否決權。</div>
 <div>
  </div>
 <div>
