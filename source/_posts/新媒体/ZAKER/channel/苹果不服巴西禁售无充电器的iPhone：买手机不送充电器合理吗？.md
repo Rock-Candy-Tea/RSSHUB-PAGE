@@ -1,0 +1,18 @@
+
+---
+title: '苹果不服巴西禁售无充电器的iPhone：买手机不送充电器合理吗？'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/63184e7d8e9f0970cf50563b_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 07 Sep 2022 01:50:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/63184e7d8e9f0970cf50563b_1024.jpg'
+---
+
+<div>   
+<p>虽然现在大部分消费者的注意力都放在了即将举行的苹果秋季发布会上，但近日巴西禁售没有充电器的 iPhone 这件事其实也吸引了不少网友的关注。巴西在周二的时候命令停止销售没有送充电器的 iPhone 手机，其原因是 " 苹果向消费者提供的产品不够完整 "。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202209/63184e7d8e9f0970cf50563b_1024.jpg" data-height="485" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/63184e7d8e9f0970cf50563b_1024.jpg" referrerpolicy="no-referrer"></div></div>巴西司法部认为苹果销售不带充电的 iPhone，这个就意味着这款手机缺少了一个必要的配件，是一种 " 蓄意歧视消费者的做法 "，并且对苹果处以 1227.5 万 BRL ( 雷亚尔 ) ，约合 238 万美元的罚款，停止销售 iPhone 12 系列以及之后的机型。而苹果方面表示将继续与巴西消费者保护机构 SENACON 合作，并计划对这一决定提出上诉，因为这样做能减少浪费，对环境有利。同时，苹果还称 " 我们已经在这个话题上在巴西赢得了许多法庭判决，我们相信我们的客户知道各种各样的选择来为他们的设备充电并进行连接 "。<p></p><p>其实在 2020 年 iPhone 12 发布的时候就已经没送充电器和耳机了，苹果官方美名其曰是为了环保，但是价格依旧昂贵，并没有说用降低价格或者其他方式来抵掉没有充电器的 iPhone 12 系列，所以这一点一直不被大家认可。但是非要用 iPhone 的话又不得不另外去买充电器，离谱的是操作是买一个苹果 20W USB-C 的电源适配器就需要 149 元，对，只有一个充电头没有数据线。但凡想让自己的 iPhone 12 以上的机型充电充的快一点的用户，那必须就得另外花 149 元买这个 20W 的适配器，虽然包装内会附赠 USB-C 数据线，但如果以后数据线坏了或是想用原装 2 米长的数据线，你还得再花 145 元 ( 1 米长 ) 去买 USB-C 转闪电连接线，2 米长的则需要 243 元，总结一下你买了 iPhone 之后想再买一套充电器至少还得花 294 元。更离谱的是苹果官网上的 35W 双 USB-C 端口电源适配器售价直接到了 399 元，同样是不附赠充电线。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202209/63184e7d8e9f0970cf50563c_1024.jpg" data-height="666" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/63184e7d8e9f0970cf50563c_1024.jpg" referrerpolicy="no-referrer"></div></div>一套充电器至少还得花 294 元<p></p><p>你以为这个适配器到底有什么不同之处，其实也就是能够让用户同时为两部设备充电，体积较小的一款还采用了折叠式插头，更便于携带与收纳 ; 两款适配器支持 iPhone 8 及以后的所有 iPhone、全系 iPad Pro、第七代后的 iPad、2018 年后的所有 MacBook Air，仅此而已。值得一提的是，适配器的充电线需要单独购买。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202209/63184e7d8e9f0970cf50563d_1024.jpg" data-height="577" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63184e7d8e9f0970cf50563d_1024.jpg" referrerpolicy="no-referrer"></div></div>35W 双 USB-C 端口电源适配器<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202209/63184e7d8e9f0970cf50563e_1024.jpg" data-height="565" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63184e7d8e9f0970cf50563e_1024.jpg" referrerpolicy="no-referrer"></div></div>35W 双 USB-C 端口小型电源适配器<p></p><p>网友调侃这件事也是不留余力，甚至有网友调侃苹果这个操作就像买车不带方向盘一样。不过说到底，现在很多消费者买新款 iPhone 一般都是用着旧的苹果数据线或是第三方数据线，毕竟第三方配件厂商数量庞大，消费者在自行选购配件时有丰富的选项且价格往往比官网更便宜。但是也同样会有很多消费者会选择重新购买一条新的数据线，换句话说是一个愿打一个愿挨，买一款几千上万的手机之后也不在乎多花两三百去买数据线了。</p><p>眼看 iPhone 14 系列也快发布了，新机涨价之后你会选择再多花点钱去购买适配器和充电线吗？</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
