@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=4561'
+headimg: 'https://pic2.zhimg.com/v2-97ccf0d2b2e9a1b2f2ae52ea252a897f_720w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Wed, 07 Sep 2022 13:16:47 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4561'
+date: Wed, 07 Sep 2022 13:57:17 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-97ccf0d2b2e9a1b2f2ae52ea252a897f_720w.jpg?source=b1748391'
 ---
 
 <div>   
-啊璃的回答<br><br><p data-pid="EvLf8TTU">不要首发入手iphone 14因为第一批的iPhone一定会翻车，肯定会有人说我收钱了，黑苹果之类的，但是不得不说第一批上市的iPhone确实在历代iPhone的上市的第一批出来的手机来说，或多或少都出现过问题。</p><p data-pid="R9W-1aOt">其实道理很简单，因为每年的首发像富士康这样的代工厂都会去赶进度，生产出足够多的机器，今年暑期苹果的各大代工厂甚至出现了30块钱的普工时薪，不得不说赶工的进度迫在眉睫，这样的一个赶工的情况下，品控率肯定是要大幅的下降的，而且暑假的这个时间又是很多暑假工在工作，这些临时工对于手机的组装肯定没有那么的熟练，这种情况下生产出来的手机，就容易出现问题。</p><p data-pid="7YPa-I0_">比如说去年的iphone 13拍照会有马赛克、屏幕发红等，前年的iphone 12大范围的屏幕发绿的现象，虽然千金难买我乐意，但是如果是冲动消费的话，最后后悔的还是自己。</p>  
+魔方数码的回答<br><br><p data-pid="WAp83vz0">抢？首发你可以抢一个试试！</p><p data-pid="m58OHnPj">Mate50我钱都没有花出去，京东苹果自营肯定也不好抢，当然是正品。</p><p data-pid="pxMuMnKc">各种黄牛软件都在等着这两天回血，你认为好抢吗？反正我这次不打算抢了，我打算做一回等等党（完全被迫）</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-97ccf0d2b2e9a1b2f2ae52ea252a897f_720w.jpg?source=b1748391" data-rawwidth="301" data-rawheight="263" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-68b98e5b831ab55de4872f2546d5da6c_720w.jpg?source=b1748391" class="content_image" referrerpolicy="no-referrer"></figure><p></p>  
 </div>
             
