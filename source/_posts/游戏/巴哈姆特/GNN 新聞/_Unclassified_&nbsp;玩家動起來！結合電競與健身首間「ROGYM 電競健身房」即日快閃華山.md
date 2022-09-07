@@ -5,15 +5,14 @@ categories:
  - 游戏
  - 巴哈姆特
  - GNN 新聞
-headimg: 'https://p2.bahamut.com.tw/B/2KU/77/53ae1c16affa94a497f6fac6981i4il5.JPG?v=1662542284990'
+headimg: 'https://p2.bahamut.com.tw/B/2KU/92/1feaff3cec17994e31790dd4521i4ok5.JPG?v=1662548815410'
 author: 巴哈姆特
 comments: false
-date: 2022-09-07 10:12:28
-thumbnail: 'https://p2.bahamut.com.tw/B/2KU/77/53ae1c16affa94a497f6fac6981i4il5.JPG?v=1662542284990'
+date: 2022-09-07 11:09:26
+thumbnail: 'https://p2.bahamut.com.tw/B/2KU/92/1feaff3cec17994e31790dd4521i4ok5.JPG?v=1662548815410'
 ---
 
 <div>   
-<div>
 <div>
 <div>
 <div>
@@ -23,11 +22,16 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/77/53ae1c16affa94a497f6fac6981i4il5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/77/53ae1c16affa94a497f6fac6981i4il5.JPG?v=1662542284990" data-srcset="https://p2.bahamut.com.tw/B/2KU/77/53ae1c16affa94a497f6fac6981i4il5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/77/53ae1c16affa94a497f6fac6981i4il5.JPG 2x" style="max-width: unset;" title="ROG 玩家共和國 9 月 7 日至 12 日於台北華山打造「ROGYM 電競健身房」" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%">
+
+
+<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/92/1feaff3cec17994e31790dd4521i4ok5.JPG?v=1662548815410" data-srcset="https://p2.bahamut.com.tw/B/2KU/92/1feaff3cec17994e31790dd4521i4ok5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/92/1feaff3cec17994e31790dd4521i4ok5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></figcaption></li>
+</ul>
+
 <figure class="pic-desc">
 ROG 玩家共和國 9 月 7 日至 12 日於台北華山打造「ROGYM 電競健身房」</figure>
-</li>
-</ul>
+
+
 </div>
 <div>
 　　「ROGYM 電競健身房」設立 5 大關卡 —「成為 G.A.M.E.R.S」以 ROG Strix SCAR 17 SE 隱形噴墨概念打造隱形墨水通道，為闖關揭開序幕；「勝利者擂台」感受 ROG STRIX 系列筆電的強大效能，並在拳擊擂台展現力量與速度，拍攝專屬留念照；「裝備上身」供玩家在潮流衣帽間，盡情以 ROG Slash 電競潮品穿搭自我風格；「漂浮者基地」陳設漂浮滑板場，呼應 ROG Flow 系列的輕巧、多工、可翻轉；最後在「無懼 釋放極限」關卡，玩家將站上滑雪訓練機，藉 ROG Zephyrus Duo 16 大型筆電螢幕，感受滑雪競速快感。</div>
@@ -96,9 +100,7 @@ ROG 玩家共和國 9 月 7 日至 12 日於台北華山打造「ROGYM 電競健
 <li>
 拳擊課程：9 月 9 日至 9 月 11 日 14:00～15:00、16:00 ～17:00</li>
 </ul>
-</div>
-</div>
-<p> </p>
+</div><p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="17743" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;">©ASUSTeK Computer Inc. All rights reserved.</p>
 </div>
