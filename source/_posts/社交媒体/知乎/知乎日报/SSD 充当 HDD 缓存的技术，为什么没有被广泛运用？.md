@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-bac9887ebb075156c30a391d37e393f2_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-bac9887ebb075156c30a391d37e393f2_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-09-08 08:13:04
-thumbnail: 'https://pic3.zhimg.com/v2-bac9887ebb075156c30a391d37e393f2_l.jpg?source=8673f162'
+date: 2022-09-08 09:11:31
+thumbnail: 'https://pic1.zhimg.com/v2-bac9887ebb075156c30a391d37e393f2_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-bac9887ebb075156c30a391d37e393f2_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-bac9887ebb075156c30a391d37e393f2_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-bac9887ebb075156c30a391d37e393f2_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">木头龙，</span><span class="bio">开了个新专栏，收录些老回答</span>
 <a href="https://www.zhihu.com/question/40417425/answer/2660967883" class="originUrl" hidden>查看知乎原文</a>
 </strong>
