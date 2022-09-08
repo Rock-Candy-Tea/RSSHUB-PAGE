@@ -1,0 +1,18 @@
+
+---
+title: '价格差2000元 iPhone 14和iPhone 14 Pro有何区别？ 一文看懂'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63192cecb15ec0750510cba5_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 07 Sep 2022 18:44:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63192cecb15ec0750510cba5_1024.jpg'
+---
+
+<div>   
+<p>北京时间 9 月 8 日凌晨 1 点，备受瞩目的 iPhone 14 系列正式发布，与此前爆料一致，本次 iPhone 14 系列取消 mini 版本，取而代之的是与 Pro Max 尺寸相仿，但配置更接近 iPhone 14 的 iPhone 14 Plus。</p><p>当然，iPhone 14 系列发布后，消费者最关注的还是 iPhone 14 与 iPhone 14 Pro 两款机型，起售价分别为 5999 元和 7999 元，那么差了 2000 元的价格，两款手机有啥区别，接着往下看。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202209/63192cecb15ec0750510cba5_1024.jpg" data-height="625" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63192cecb15ec0750510cba5_1024.jpg" referrerpolicy="no-referrer"></div></div>屏幕上，两款手机均为 6.1 英寸超视网膜 XDR 屏，但 iPhone 14 为刘海屏设计，iPhone 14 Pro 则采用 " 药丸屏 " 设计，官方称之为 " 灵动岛 "，同时支持 120Hz ProMotion 自适应刷新率和全天候显示。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202209/63192cecb15ec0750510cba6_1024.jpg" data-height="703" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63192cecb15ec0750510cba6_1024.jpg" referrerpolicy="no-referrer"></div></div>性能方面，首先来看处理器，iPhone 14 配备 A15 处理器，5nm 制程工艺，采用 6 核 CPU+5 核 GPU+16 核 NPU 组合。<p></p><p>而 iPhone 14 Pro 处理器则升级至 A16，4nm 工艺，集成 160 亿颗晶体管，采用 6 核 CPU+5 核 GPU+16 核 NPU 组合。功耗比 A15 降低了 20％，能效核则号称只有竞品三分之一的功耗。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202209/63192cecb15ec0750510cba7_1024.jpg" data-height="438" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/63192cecb15ec0750510cba7_1024.jpg" referrerpolicy="no-referrer"></div></div>至于影像能力，iPhone 14 Pro 升级至 4800 万像素广角主摄，辅以 1200 万像素超广角和 1200 万像素长焦，升级第二代位移式光学防抖、3 倍光变 +15 倍数码变焦，加入可取代 GoPro 的运动模式等。前摄继承祖传 1200 万像素镜头，不过升级到 F1.9 光圈。<p></p><p>iPhone 14 后置 1200 万像素广角主摄 +1200 万像素超广角双摄组合，照片低光拍摄方面提升 49%，视频低光拍摄提升 38%，支持位移式光学防抖。前摄为 1200 万像素镜头。</p><p>以上就是 iPhone 14 和 iPhone 14 Pro 的主要区别，如果不追求性能，资深够用党的话则可选 iPhone 14，对性能、影像有要求，并且看腻了刘海屏的同学，iPhone 14 Pro 是个不错的选择。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202209/63192cecb15ec0750510cba8_1024.jpg" data-height="776" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63192cecb15ec0750510cba8_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202209/63192cecb15ec0750510cba9_1024.jpg" data-height="407" data-width="600" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/63192cecb15ec0750510cba9_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
