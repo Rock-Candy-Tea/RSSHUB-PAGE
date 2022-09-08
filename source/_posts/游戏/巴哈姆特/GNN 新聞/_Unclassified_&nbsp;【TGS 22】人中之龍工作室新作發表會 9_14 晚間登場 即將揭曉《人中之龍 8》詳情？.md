@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/37/333ed6af81baa903e7049f554d1i5px5.JPG?v=1662637676368'
 author: 巴哈姆特
 comments: false
-date: 2022-09-08 12:19:59
+date: 2022-09-08 13:30:14
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/37/333ed6af81baa903e7049f554d1i5px5.JPG?v=1662637676368'
 ---
 
@@ -30,7 +30,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/37/333ed6af81baa903e7049f554d1i5px5.
 <div>
  </div>
 <div>
-　　目前官方尚未公布本次預定發表的新作為何，不過人中之龍工作室去年 10 月改組時，已經預告正在開發開發描寫春日一番後續故事的《<a href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D" target="_blank">人中之龍</a>》系列最新作《<a href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D%208" target="_blank">人中之龍 8</a>（暫稱）》，而該作至今尚未有任何具體內容公布。因此預料本次的發表有很大機會是以《<a href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D%208" target="_blank">人中之龍 8</a>（暫稱）》為核心。</div>
+　　目前官方尚未公布本次預定發表的新作為何。不過人中之龍工作室去年 10 月改組時，已經預告正在開發開發描寫春日一番後續故事的《<a href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D" target="_blank">人中之龍</a>》系列最新作《<a href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D%208" target="_blank">人中之龍 8</a>（暫稱）》，而該作至今尚未有任何具體內容公布。因此預料本次的發表有很大機會是以《<a href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D%208" target="_blank">人中之龍 8</a>（暫稱）》為核心。</div>
 <div>
  </div>
 <div>
