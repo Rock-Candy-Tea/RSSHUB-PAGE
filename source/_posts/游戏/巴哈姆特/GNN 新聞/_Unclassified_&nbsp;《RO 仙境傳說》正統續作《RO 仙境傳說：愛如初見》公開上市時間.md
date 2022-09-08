@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/19/c4602a51d86112b86ecb2f8c871i55z5.PNG?v=1662612252761'
 author: 巴哈姆特
 comments: false
-date: 2022-09-08 09:11:45
+date: 2022-09-08 10:11:38
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/c4602a51d86112b86ecb2f8c871i55z5.PNG?v=1662612252761'
 ---
 
@@ -30,7 +30,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/c4602a51d86112b86ecb2f8c871i55z5.
 <p style="font-family:">
  </p>
 <h3 style="font-family:">
-代言人應援 25 萬達成！首席冒險官  與 RO 的冒險旅程，9 月 15 日正式展開！</h3>
+代言人應援 25 萬達成！首席冒險官 與 RO 的冒險旅程，9 月 15 日正式展開！</h3>
 <p style="font-family:">
  </p>
 <p style="font-family:">
