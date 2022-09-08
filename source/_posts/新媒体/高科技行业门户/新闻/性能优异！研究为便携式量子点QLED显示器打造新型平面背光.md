@@ -1,0 +1,19 @@
+
+---
+title: '性能优异！研究为便携式量子点QLED显示器打造新型平面背光'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://picsum.photos/400/300?random=3065'
+author: 高科技行业门户
+comments: false
+date: Thu, 08 Sep 2022 09:40:00 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3065'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">近日，研究人员开发出一种封装无光学透镜封装广角(WA)微型发光二极管(mini-LED)器件的方法，从而为便携式量子点发光二极管(QLED)<span class="hrefStyle"><a href="http://display.ofweek.com/CAT-8321305-tv.html" target="_blank" title="显示器">显示器</a></span>创造一种超薄、高效、灵活的平面背光。该成果已发表在《微机械》（Micromachines）杂志期刊上。</p><p style="text-indent: 2em; text-align: left;">白光发光二极管(LED)具有出色的颜色饱和度和延长寿命，这些优势让它得到了越来越广泛的应用。多年来，科学家已经将其开发出用于柔性照明和<span class="hrefStyle"><a href="http://display.ofweek.com/CATList-2300-8300-display.html" target="_blank" title="显示技术">显示技术</a></span>。由于其颜色调节能力、灵活性、高量子效率、窄光谱发射和优越的光致发光性能，胶体量子点(QDs)无疑是下一代照明与<span class="hrefStyle"><a href="http://display.ofweek.com/" target="_blank" title="显示">显示</a></span>技术的有力竞争者，而且它们最终有望取代<span class="hrefStyle"><a href="http://display.ofweek.com/IND-8321321-OLED.html" target="_blank" title="OLED">OLED</a></span>和<span class="hrefStyle"><a href="http://display.ofweek.com/KW-yejingxianshi.html" target="_blank" title="液晶显示">液晶显示</a></span>器(<span class="hrefStyle"><a href="http://display.ofweek.com/IND-8321320-LCD.html" target="_blank" title="LCD">LCD</a></span>)。量子点(QDs)的先进特性，或许会让微型<span class="hrefStyle"><a href="http://display.ofweek.com/CAT-230001-LEDxianshi.html" target="_blank" title="LED显示">LED显示</a></span>器的像素变得越来越小。</p><p style="text-indent: 2em; text-align: left;">白光材料广泛应用于平面和照明光源中，通常使用含有稀土元素的荧光粉作为颜色转换组分。然而，现有的方法是不可持续的，因为开采和使用稀土元素对经济和环境会产生不利影响。</p><p style="text-indent: 2em; text-align: left;">开发具有高柔韧性、稳定性和高效率的无稀土致变色材料，一直是这一领域研究的前沿课题。近年来，柔性灯和显示器已经使用了薄的、柔性的、自发发光的OLED材料，但它们的可靠性不够，低驱动电流带来的挑战又很棘手。最近的研究已经提高了量子点技术的效率、可靠性和颜色可调性。</p><p style="text-indent: 2em; text-align: left;">一些研究人员建议使用胶体量子点片作为柔性平面光源模块的蓝光/UV光芯片设计，因为便携式消费电子产品需要灵活、轻薄和轻量化的照明组件。宽色域显示背光可以很基于钙钛矿量子点(PQDs)的混合型LED。</p><p style="text-indent: 2em; text-align: left;">带有量子点颜色转换器和混合钙钛矿量子点的白色LED，包括具有宽色域的高稳定性介孔二氧化硅纳米复合材料，已经被用作显示应用的背光。而驱动电流算法则被用于微型<span class="hrefStyle"><a href="https://display.ofweek.com/KW-ledxianshiping.html" target="_blank" title="LED显示屏">LED显示屏</a></span>，以增加色域和高动态范围。</p><p style="text-indent: 2em; text-align: left;">在这项研究中，研究人员提出了一种WA微型LED的封装技术，使用量子点薄膜产生一种柔性的、超薄的、平面光源，可以作为便携式QLED显示器的背光，同时与之前的封装规格相比，显著减少相同区域所需的LED数量。</p><p style="text-indent: 2em; text-align: left;">发射波长为450 nm的GaN倒装蓝光LED是广角微型<span class="hrefStyle"><a href="https://lights.ofweek.com/CAT-220008-LEDchip.html" target="_blank" title="LED芯片">LED芯片</a></span>的基础。制作出来的芯片高度为150 μm，宽度为127 μm，长度为228.6 μm。GaN倒装蓝色LED的优点包括：封装较低的热阻，不需要引线框架，能够承载高电流密度，并且不需要线键合。</p><p style="text-indent: 2em; text-align: left;">封装工艺主要有6个步骤，分别是：扩散层膜贴在基材上、导光膜贴在基材上、微芯片染料粘接、成型侧壁、切割、与玻璃分离。</p><p style="text-indent: 2em; text-align: left;">最终，他们制出的成品方形广角迷你LED封装尺寸为800×800×580 <span style="text-indent: 32px;">μm<sup>3</sup></span>。这种方法不仅大大减少了所使用的光源的数量，而且创造了非常薄、灵活和有效的光源。这些结果表明，采用这些技术设计的广角微型LED方形封装为尖端的QLED显示应用提供了良好的背光。</p><p style="text-indent: 2em; text-align: left;">他们制成的一种混合量子点薄膜是将商业红色和绿色量子点与一种紫外聚合物结合而成的。使用自动刀片涂布机，将混合层涂在聚对苯二甲酸乙二醇酯(PET)薄膜上作为覆盖层，以创建三明治状结构。然后将PET/QD-PMMA/PET薄膜层压，在365 nm UV光下照射30秒固化。为了制备ODL/PET/QD-PMMA/PET/ODL薄膜，采用刀片涂布器在PET/QD-PMMA/PET薄膜上涂覆光学扩散层(ODL)。</p><p style="text-indent: 2em; text-align: left;">背光单元的结构由覆盖着量子点、棱镜和光学薄膜的WA迷你LED组成。当这些特性结合在一起时，一种超薄、扁平、均匀的光源就诞生了。光学薄膜层层叠放，彼此之间几乎没有空隙。</p><p style="text-indent: 2em; text-align: left;">实验研究结果显示，WA迷你LED的性能通过独特的封装方法得到了极大的提升。与简单的微型LED相比，其中心强度下降到26.5%，光提取效率提高到96.1%。与相同表面积的未封装微型LED相比，这带来了更宽的发射角、更广泛的照明区域，和更少的LED使用。这些发现，加上104.2%的高色域，表明未来的QLED显示器可能使用这种背光单元技术，并实现更大的颜色范围。</p><p><br></p> 
+  
+</div>
+            
