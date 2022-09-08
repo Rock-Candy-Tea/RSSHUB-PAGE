@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.JPG?v=1662613091419'
 author: 巴哈姆特
 comments: false
-date: 2022-09-08 06:38:38
+date: 2022-09-08 07:25:03
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.JPG?v=1662613091419'
 ---
 
@@ -80,13 +80,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.
 <div>
 <span style="font-size:16px;">1 廳南側</span></div>
 <div>
-<span style="font-size:16px;">3、4 廳北側</span> <span style="font-size:13px;">※部分攤位僅限商務日</span></div>
+<span style="font-size:16px;">3、4 廳北側</span> <span style="font-size:13px;">※ 部分攤位僅商務日</span></div>
 <div>
 <span style="font-size:16px;">3 廳北側</span></div>
 <div>
 <span style="font-size:16px;">7～8 廳南側</span></div>
 <div>
-<span style="font-size:16px;">国際会議場 會議廳</span> <span style="font-size:13px;">※僅限商務日</span></div>
+<span style="font-size:16px;">國際會議場 會議廳</span> <span style="font-size:13px;">※ 僅商務日</span></div>
 </td>
 </tr>
 </tbody>
@@ -249,7 +249,7 @@ Nathie</figure>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/42/31439bccdbe97d465a014c54671i59e5.JPG?v=1662618641350" data-srcset="https://p2.bahamut.com.tw/B/2KU/42/31439bccdbe97d465a014c54671i59e5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/42/31439bccdbe97d465a014c54671i59e5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/42/31439bccdbe97d465a014c54671i59e5.JPG?v=1662618641350" data-srcset="https://p2.bahamut.com.tw/B/2KU/42/31439bccdbe97d465a014c54671i59e5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/42/31439bccdbe97d465a014c54671i59e5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
