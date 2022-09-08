@@ -8,20 +8,20 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.JPG?v=1662613091419'
 author: 巴哈姆特
 comments: false
-date: 2022-09-08 05:15:10
+date: 2022-09-08 06:38:38
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.JPG?v=1662613091419'
 ---
 
 <div>   
 <div>
 <div>
-　　由日本電腦娛樂協會（CESA）、日經 BP 與電通共同舉辦、即將於 9 月 15 日至 18 日（四～日）在日本幕張展覽館舉辦的年度電玩盛會「2022 東京電玩展（TOKYO GAME SHOW 2022）」，於 9 月 7 日公開展出會場地圖與官方直播節目表，預計將在 8 個展廳設置 9 個主題展區，以及帶來 38 場官方直播節目。</div>
+　　由日本電腦娛樂協會（CESA）、日經 BP 與電通共同舉辦、即將於 9 月 15 日至 18 日（四～日）在日本幕張展覽館舉辦的年度電玩盛會「2022 東京電玩展（TOKYO GAME SHOW 2022）」，於 9 月 7 日公開會場地圖與官方直播節目表，預計將在幕張展覽館與國際會議場設置 10 個主題展區，帶來 38 場官方直播節目。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.JPG?v=1662613091419" data-srcset="https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.JPG?v=1662613091419" data-srcset="https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -35,7 +35,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.
 <div>
  </div>
 <div>
-　　根據 8 月底更新的資料，TGS2022 預計會有 605 家海內外公司 / 團體參展，使用 1883 個攤位。預定在幕張展覽館 1～8 廳設置 9 個主題展區，以及在國際會議場會議廳設置商務會談區，詳細資訊如下：</div>
+　　TGS2022 預計會有 605 家海內外公司 / 團體參展，使用 1881 個攤位。首波公開的展出作品達 1409 款，展期中還會陸續增加。預定在幕張展覽館 1～8 廳與國際會議場會議廳設置 10 個主題展區，詳細如下：</div>
 <div>
  </div>
 <div>
@@ -97,7 +97,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 48.19%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/57/368d77c8a81cd7b1dbe4daf4791i5495.PNG?v=1662609843263" data-srcset="https://p2.bahamut.com.tw/B/2KU/57/368d77c8a81cd7b1dbe4daf4791i5495.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/57/368d77c8a81cd7b1dbe4daf4791i5495.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 48.19%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/57/368d77c8a81cd7b1dbe4daf4791i5495.PNG?v=1662609843263" data-srcset="https://p2.bahamut.com.tw/B/2KU/57/368d77c8a81cd7b1dbe4daf4791i5495.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/57/368d77c8a81cd7b1dbe4daf4791i5495.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -106,7 +106,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.
 <li>
 <b>TGS 2022 會場地圖網頁：</b><a href="https://tgs.nikkeibp.co.jp/tgs/2022/jp/display/food.html" target="_blank">https://tgs.nikkeibp.co.jp/tgs/2022/jp/display/food.html</a></li>
 <li>
-<b>TGS 2022 會場地圖：</b><a href="https://bit.ly/tgs2022map" target="_blank">https://bit.ly/tgs2022map</a></li>
+<b>TGS 2022 會場地圖（PDF）：</b><a href="https://bit.ly/tgs2022map" target="_blank">https://bit.ly/tgs2022map</a></li>
 </ul>
 <div>
  </div>
@@ -121,7 +121,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/add1f69126e0988dd9c8f21b021h41t5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 39.53%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/038d8a6a4eb87d691edeeb14121i56u5.JPG?v=1662613130035" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/038d8a6a4eb87d691edeeb14121i56u5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/50/038d8a6a4eb87d691edeeb14121i56u5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 39.53%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/038d8a6a4eb87d691edeeb14121i56u5.JPG?v=1662613130035" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/038d8a6a4eb87d691edeeb14121i56u5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/50/038d8a6a4eb87d691edeeb14121i56u5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -143,7 +143,7 @@ SOWN2022 確認 8 款最終入圍作品</h2>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 65.25%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/03/e3dd77407d1808236992edbfdd1i55j5.PNG?v=1662611518737" data-srcset="https://p2.bahamut.com.tw/B/2KU/03/e3dd77407d1808236992edbfdd1i55j5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/03/e3dd77407d1808236992edbfdd1i55j5.PNG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 65.25%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/03/e3dd77407d1808236992edbfdd1i55j5.PNG?v=1662611518737" data-srcset="https://p2.bahamut.com.tw/B/2KU/03/e3dd77407d1808236992edbfdd1i55j5.PNG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/03/e3dd77407d1808236992edbfdd1i55j5.PNG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -221,12 +221,12 @@ TOKYO GAME SHOW VR 2022 遊戲化登場！</h2>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.36%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/26/135b250eb482a7de202abc3d5f1i5665.JPG?v=1662612877681" data-srcset="https://p2.bahamut.com.tw/B/2KU/26/135b250eb482a7de202abc3d5f1i5665.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/26/135b250eb482a7de202abc3d5f1i5665.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/26/135b250eb482a7de202abc3d5f1i5665.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/26/135b250eb482a7de202abc3d5f1i5665.JPG 4x" style="max-width: unset;" title="Omega Sisters" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/26/135b250eb482a7de202abc3d5f1i5665.JPG?v=1662612877681" data-srcset="https://p2.bahamut.com.tw/B/2KU/26/135b250eb482a7de202abc3d5f1i5665.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/26/135b250eb482a7de202abc3d5f1i5665.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/26/135b250eb482a7de202abc3d5f1i5665.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/26/135b250eb482a7de202abc3d5f1i5665.JPG 4x" style="max-width: unset;" title="Omega Sisters" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 Omega Sisters</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 50.39%;">
-<figcaption style="padding-bottom: 97.95%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/354f8ac00e2714d73517554ec91i5655.JPG?v=1662612877681" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/354f8ac00e2714d73517554ec91i5655.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/354f8ac00e2714d73517554ec91i5655.JPG 2x" style="max-width: unset;" title="Nathie" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 97.95%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/354f8ac00e2714d73517554ec91i5655.JPG?v=1662612877681" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/354f8ac00e2714d73517554ec91i5655.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/354f8ac00e2714d73517554ec91i5655.JPG 2x" style="max-width: unset;" title="Nathie" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 Nathie</figure>
 </li>
@@ -240,6 +240,18 @@ Nathie</figure>
 <li>
 <b>Nathie YouTube 頻道：</b><a href="https://www.youtube.com/nathie" target="_blank">https://www.youtube.com/nathie</a></li>
 </ul>
+<div>
+ </div>
+<div>
+　　展出首日 9 月 15 日 9:00（台灣時間）起，將會在 PlayStation、Nintendo Switch、Xbox、Steam 等平台釋出展出相關作品的免費體驗版。相關資訊後續會在 TGS 2022 官方網站設置一覽頁面，讓未能到場的玩家也有機會體驗這些遊戲。Steam 亦將開設「Steam 會場」專區，除了體驗版之外，還預定舉辦特賣活動。</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/42/31439bccdbe97d465a014c54671i59e5.JPG?v=1662618641350" data-srcset="https://p2.bahamut.com.tw/B/2KU/42/31439bccdbe97d465a014c54671i59e5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/42/31439bccdbe97d465a014c54671i59e5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
 <div>
  </div>
 <h2>
