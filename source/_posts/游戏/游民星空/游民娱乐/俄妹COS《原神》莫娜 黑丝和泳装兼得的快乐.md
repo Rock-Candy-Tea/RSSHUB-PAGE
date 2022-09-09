@@ -38,7 +38,8 @@ thumbnail: 'https://img1.gamersky.com/image2022/09/20220906_zy_red_164_8/1107_S.
                     
             <p></p>
 <p>最近Shirogane-Sama也筹备了不少新作，钟爱胶衣的她依旧有不少是紧身性感的COS，一起来看看吧。</p>
-<p class="GsImageLabel" align="center"><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/09/20220906_zy_red_164_8/1186.jpg"><img class="picact" border="0" alt="游民星空" src="https://img1.gamersky.com/image2022/09/20220906_zy_red_164_8/1186_S.jpg" referrerpolicy="no-referrer"></a></p>
+<p class="GsImageLabel" align="center"><br>
+</p>
 <p class="GsImageLabel" align="center"><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/09/20220906_zy_red_164_8/1188.jpg"><img class="picact" border="0" alt="游民星空" src="https://img1.gamersky.com/image2022/09/20220906_zy_red_164_8/1188_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/09/20220906_zy_red_164_8/1190.jpg"><img class="picact" border="0" alt="游民星空" src="https://img1.gamersky.com/image2022/09/20220906_zy_red_164_8/1190_S.jpg" referrerpolicy="no-referrer"></a></p>
 <p class="GsImageLabel" align="center"><a target="_blank" href="https://www.gamersky.com/showimage/id_gamersky.shtml?https://img1.gamersky.com/image2022/09/20220906_zy_red_164_8/1192.jpg"><img class="picact" border="0" alt="游民星空" src="https://img1.gamersky.com/image2022/09/20220906_zy_red_164_8/1192_S.jpg" referrerpolicy="no-referrer"></a></p>

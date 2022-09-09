@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 游研社
  - 游研社 - 分类文章
-headimg: 'https://picsum.photos/400/300?random=7516'
+headimg: 'https://picsum.photos/400/300?random=9945'
 author: 游研社
 comments: false
 date: Tue, 30 Aug 2022 00:00:00 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7516'
+thumbnail: 'https://picsum.photos/400/300?random=9945'
 ---
 
 <div>   

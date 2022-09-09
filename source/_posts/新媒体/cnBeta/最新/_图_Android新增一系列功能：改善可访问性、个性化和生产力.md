@@ -1,0 +1,19 @@
+
+---
+title: '_图_Android新增一系列功能：改善可访问性、个性化和生产力'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0909/99ec628f3304092.webp'
+author: cnBeta
+comments: false
+date: Fri, 09 Sep 2022 00:45:50 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0909/99ec628f3304092.webp'
+---
+
+<div>   
+Android 即将获得一系列新功能，进一步改善该系列在各种设备上的可访问性、个性化和生产力。本次更新重点值得关注的一项功能就是 Nearby Share，允许用户更轻松地在设备之间收发文件。在启用该功能之后，设备即便处于锁屏状态也能自动接收文件。<br>
+ <p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0909/99ec628f3304092.webp" alt="630wtxis.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>● Nearby Share</strong><br style="text-align: left;"></p><p style="text-align: left;">虽然 Android 用户对 Nearby Share 功能的期待已持续数月时间，该功能也让文件传输变得更加容易，但是有个缺点是该功能目前仅限于 Android 设备之间交互。目前 Google 官方并未宣布该功能的正式上线时间，Google 只是表示该功能会在“未来几周”内上线。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0909/6fe3fa1995c705d.webp" alt="3g6v6c3n.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;"><strong>● 增强辅助功能</strong><br style="text-align: left;"></p><p style="text-align: left;">本次更新同时还改善了各种 Google 服务之间的可访问性。Google Drive 和 Keep 小部件在大屏幕设备上经过了重新设计，能够让 Android 平板用户通过 Google Drive 小部件一键访问 Docs、Slides 和 Sheets 文件；而 Keep 小部件能够增加/减少字体大小，针对视力减弱人群来说更加友好。</p><p style="text-align: left;">Android 的声音通知也有升级——这是一个鲜为人知的功能，可以在设备的辅助功能设置中找到。这些声音通知最初旨在帮助有听力障碍的人。打开它们，您的 Android 设备将监听火灾警报和敲门声等声音，并在听到它们时创建通知。现在，用户可以通过录制特定的噪音来创建自定义警报。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/8f44742c4ebaff0.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/8f44742c4ebaff0.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">因此，例如，您可以录制<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C794%2C880%26ev%3D998_605429%26JL%3D3_%25E4%25BA%25A7%25E5%2593%2581%25E7%25B1%25BB%25E5%259E%258B_%25E6%25BB%259A%25E7%25AD%2592%23J_crumbsBar" target="_blank">洗衣机</a>在完成一个循环后播放的叮当声，然后，只要您的 Android <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>、手表或平板电脑听到该声音，它就会向您发送通知。</p><p style="text-align: left;">对于使用 Google TV 的用户，该服务现在还拥有一个带有音频描述的精选内容库，您可以通过手动搜索服务或使用语音控制的 Google 助理来找到这些内容（尚不清楚该功能的确切启动时间）。</p><p style="text-align: left;"><strong>● Google Meet</strong><br style="text-align: left;"></p><p style="text-align: left;">Google Meet 用户还可以在通话过程中使用多重固定功能，使您能够将注意力集中在大型小组会议中的多个特定人员身上，例如主要发言人和 ASL 口译员。</p><p style="text-align:center"><img src="https://static.cnbetacdn.com/article/2022/0909/b78d85f9943c918.webp" alt="ck3w6g76.webp" referrerpolicy="no-referrer"></p><p style="text-align: left;">Google Meet 还引入了实时共享体验，例如在 Android 移动和平板设备上进行游戏和共同观看。此功能可用于播放 Uno、Kahoot! 和 Heads Up! 等经典歌曲，以及一次最多 100 人观看 YouTube 内容。</p><p style="text-align: left;"><strong>● Gboard</strong><br style="text-align: left;"></p><p style="text-align: left;">Android 设备上的短信也在 Gboard 中获得“智能表情符号建议”更新，Android 将通过为 Emoji Kitchen 发布新的季节性表情符号混搭来增加此功能的可用表情符号，这些混搭将作为贴纸提供。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/1b9ddf928bd88de.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/1b9ddf928bd88de.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>● Wear OS</strong><br></p><p style="text-align: left;">最后，如果你碰巧有一块运行 Wear OS 的智能手表，那么一些额外的功能和乐趣也会随之而来。现在可以将 Keep 磁贴添加到您的手表中，以便随时随地记笔记，并且您的 Bitmoji 可以添加到您的表盘中。这个卡通头像会根据你在做什么、一天中的时间，甚至是天气来改变表情。</p>   
+</div>
+            
