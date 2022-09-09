@@ -1,0 +1,19 @@
+
+---
+title: 'SpaceX与苹果谈合作，手机大厂竞逐卫星通信'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/09/shiqi/1662718815931015999.jpg'
+author: 高科技行业门户
+comments: false
+date: Fri, 09 Sep 2022 10:22:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/09/shiqi/1662718815931015999.jpg'
+---
+
+<div>   
+<p style="text-align: left;">最近，全球多家电信运营商和手机厂商开始把触角延伸到卫星通信技术。</p><p style="text-align: left;">SpaceX CEO埃隆·马斯克近日表示，SpaceX已经与苹果公司就iPhone新卫星服务使用“星链”Starlink连接事项进行了商议。</p><p style="text-align: left;">马斯克在推特上表示，双方已经进行了“有希望的对话”，并称赞苹果的iPhone团队“超级聪明”。</p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/09/shiqi/1662718815931015999.jpg" title="SpaceX与苹果谈合作，手机大厂竞逐卫星通信" alt="SpaceX与苹果谈合作，手机大厂竞逐卫星通信" referrerpolicy="no-referrer"></p><p style="text-align: center;">马斯克透露SpaceX与苹果谈卫星通信合作</p><p>“我们与苹果就星链连接进行了一些有希望的对话。iPhone团队显然超级聪明。可以肯定的是，如果手机软件和硬件适应天基信号，而不是让星链纯粹模拟基站，那么从太空到手机的闭环将会发挥最好的效果。”他写道。</p><p style="text-align: left;">市场人士认为，SpaceX和苹果之间是否合作还有待观察，但值得注意的是，越来越多的科技巨头和电信商开始涉足卫星通信市场，不少科技企业似乎还在发掘低轨卫星的其他商业用途。</p><p style="text-align: left;">事实上，卫星通信并非新鲜技术，已经在某些专用领域广泛应用，但应用于大众智能手机的确新鲜。</p><p style="text-align: left;"><strong>【SpaceX与T-Mobile合作】</strong></p><p style="text-align: left;">今年8月底，SpaceX与美国第三大电讯运营商T-Mobile宣布明年启动一项“手机讯号无死角”计划。希望帮助人们减少在偏远地区接收不到网络的困境，甚至能在紧急时刻时发出求救讯息等待救援。</p><p style="text-align: left;">马斯克表示，希望这项服务能够帮助人们，即使他们身处在荒野中，遇到危险或麻烦时，能够通过手机对外发出求救讯号，避免丧生。</p><p style="text-align: left;">他还表示，基于卫星的服务使得即使未来陆地上所有的网络基站和天线，被天灾或者其它灾难摧毁，手机依然能够正常地接收讯息和对外联络。</p><p style="text-align: left;">最重要的是，“未来这些事情可以通过现有的手机来实现，且无需多购买任何的额外设备，就能搭配SpaceX在地球低轨道的星链（Starlink）卫星进行连网”。</p><p style="text-align: left;">言外之意，卫星将会成为类似于地面上的手机讯号塔，发送和接收手机讯号。</p><p style="text-align: left;">马斯克表示，预计卫星可以给手机提供每秒2MB到4MB的网络下载速度，并且可以发短信、打电话和进行简单的视频传输。</p><p style="text-align: left;"><strong>【苹果iPhone 14增加卫星通信功能】</strong></p><p style="text-align: left;">9月7日，苹果iPhone 14系列新机亮相，并宣布与美国卫星通信商Globalstar合作，向美国与加拿大偏远地区的iPhone 14用户提供紧急通信功能，用户能在信号不良的地区使用卫星SOS紧急服务。</p><p style="text-align: left;">苹果卫星模式和模拟经理 Ashley Williams介绍，用户长途旅行时，可以使用“寻找APP，通过卫星手动分享你的位置，不需要发送信息，就能让亲友知道你在哪里。”</p><p style="text-align: left;">苹果表示，为了加入卫星通信功能，苹果自掏腰包投资了4.5亿美元用于基础设施建设。Globalstar称，兴建新卫星95%的支出由苹果支付。</p><p style="text-align: left;">苹果称，该服务将在11月在美国和加拿大地区推出，前两年免费，之后拓展到其他市场。</p><p style="text-align: left;">值得注意的是，目前iPhone 14系列手机所具备的卫星通信服务功能，仅可以用于向紧急救援人员发送信息。而马斯克SpaceX希望为苹果提供的卫星通信服务，是允许用户之间相互通信。</p><p style="text-align: left;"><strong>【华为Mate50系列新机，支持北斗卫星通讯】</strong></p><p style="text-align: left;">9月6日，华为在秋季新品发布会上，正式宣布推出2022年全新旗舰手机HUAWEI Mate 50系列，公布Mate 50系列将支持北斗卫星通信能力，能够在荒漠、出海或遇上灾害无信号时，通过APP向外发送文字信息与位置资料，与外界保持联系，并可利用生成用户移动轨迹地图。</p><p style="text-align: left;">华为公布的HUAWEI Mate 50系列成为全球首款支持北斗卫星的大众智能手机。</p><p style="text-align: center;"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/09/shiqi/1662718962557099084.jpg" title="SpaceX与苹果谈合作，手机大厂竞逐卫星通信" alt="SpaceX与苹果谈合作，手机大厂竞逐卫星通信" referrerpolicy="no-referrer"></p><p style="text-align: left;">据悉，中国的北斗二代、三代卫星导航系统开发出短信发送能力，具备定位于通信功能，即使没有其他通讯系统支持，都可实现北斗与用户之间的双向通讯。世界上其他卫星导航系统则不具备该功能。</p><p style="text-align: left;">此外，近期谷歌也宣布下一代安卓系统也将支持手机卫星通信功能，Android 14开发者预览版预计在明年3月启动，这或许意味着可以升级Android 14系统的所有安卓手机，都有望支持这项新技术。</p><p style="text-align: left;">业内人士指出，手机厂商和科技巨头纷纷推出的卫星通信，并非是技术上的“新玩意”，反而是一项极其成熟的通信技术，已广泛应用于地质勘探、远洋运输、森林巡护等专用领域。如今纷纷推出面向个人用户的卫星通信服务，体现出该技术进一步商业化的趋势。</p><p style="text-align: left;">有专家表示，手机厂商推出的卫星通信功能，是希望在需求饱和、换机周期延长、行业整体创新节奏放缓的大背景下，找到新的差异化卖点。</p><p style="text-align: left;">未来，一旦以手机为切入点打开整个移动智能终端市场，未来谁的卫星覆盖范围更广，谁就更可能赢得市场，卫星导航板块的企业将获益良多。</p><p><br></p> 
+  
+</div>
+            
