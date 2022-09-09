@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/inside-design-project-kickoff/'
 author: Inside Design
 comments: false
-date: 2022-09-09 05:08:56
+date: 2022-09-09 06:28:34
 thumbnail: 'https://www.invisionapp.com/inside-design/inside-design-project-kickoff/'
 ---
 
