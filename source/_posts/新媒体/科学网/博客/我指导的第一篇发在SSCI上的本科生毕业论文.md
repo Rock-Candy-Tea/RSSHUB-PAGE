@@ -17,7 +17,7 @@ thumbnail: 'https://cors.zfour.workers.dev/?http://image.sciencenet.cn/home/2022
                                         <label style="font-size:13px; color:#ba1413">相关专题：</label><a href="http://news.sciencenet.cn/news/sub18.aspx?id=747" target="_blank" style="font-size:13px; color:#ba1413">论文写作</a>
   <br>
                                         <label style="font-size:13px; color:#850f0f">转载本文请联系原作者获取授权，同时请注明本文来自徐芳科学网博客。<br>链接地址：</label><a href="https://blog.sciencenet.cn/blog-3530069-1354448.html" target="_blank" style="font-size:13px; color:#850f0f">https://blog.sciencenet.cn/blog-3530069-1354448.html </a>
-  <br><br>上一篇：<a href="http://blog.sciencenet.cn/blog-3530069-1354295.html" target="_black">论文的参考文献著录格式你写对了吗</a><br>                    <!--大赛结束-->
+  <br><br>上一篇：<a href="http://blog.sciencenet.cn/blog-3530069-1354295.html" target="_black">论文的参考文献著录格式你写对了吗</a><br>下一篇：<a href="http://blog.sciencenet.cn/blog-3530069-1354596.html" target="_black">停止内耗 学会与自己和解 积极生活 努力工作 !</a>                    <!--大赛结束-->
                                         
   
 </div>

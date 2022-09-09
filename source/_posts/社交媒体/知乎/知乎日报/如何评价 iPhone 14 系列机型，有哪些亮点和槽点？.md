@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://picx.zhimg.com/v2-1e757d41044cfc51cddd39751b0b2102_l.jpg?source=8673f162'
+headimg: 'https://pica.zhimg.com/v2-1e757d41044cfc51cddd39751b0b2102_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-09-09 00:57:53
-thumbnail: 'https://picx.zhimg.com/v2-1e757d41044cfc51cddd39751b0b2102_l.jpg?source=8673f162'
+date: 2022-09-09 03:31:46
+thumbnail: 'https://pica.zhimg.com/v2-1e757d41044cfc51cddd39751b0b2102_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://picx.zhimg.com/v2-1e757d41044cfc51cddd39751b0b2102_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://picx.zhimg.com/v2-1e757d41044cfc51cddd39751b0b2102_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pica.zhimg.com/v2-1e757d41044cfc51cddd39751b0b2102_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">刘昌睿，</span><span class="bio">大学毕业啦</span>
 <a href="https://www.zhihu.com/question/552350316/answer/2664523734" class="originUrl" hidden>查看知乎原文</a>
 </strong>
