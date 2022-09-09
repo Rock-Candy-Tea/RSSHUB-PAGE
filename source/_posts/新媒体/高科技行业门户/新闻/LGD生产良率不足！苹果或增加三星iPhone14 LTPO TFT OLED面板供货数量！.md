@@ -1,0 +1,19 @@
+
+---
+title: 'LGD生产良率不足！苹果或增加三星iPhone14 LTPO TFT OLED面板供货数量！'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/09/shaoxiang/1662715826927037072.jpg'
+author: 高科技行业门户
+comments: false
+date: Fri, 09 Sep 2022 09:28:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/09/shaoxiang/1662715826927037072.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">9月8日，iphone14系列在韩国公开上市，三星<span class="hrefStyle"><a href="http://display.ofweek.com/" target="_blank" title="显示">显示</a></span>预计将为iphone14系列的顶级款式Pro Max增加<span class="hrefStyle"><a href="http://display.ofweek.com/IND-8321321-OLED.html" target="_blank" title="OLED">OLED</a></span>面板供应量。据悉，iphone14顶级款式Pro Max采用了LTPO TFT O<span class="hrefStyle"><a href="http://display.ofweek.com/CAT-230001-LEDxianshi.html" target="_blank" title="LED显示">LED显示</a></span>技术，由于三星的竞争对手LG Display难以提高OLED的生产良率，部分订单嫁接给三星显示的可能性极大。</p><p style="text-indent: 2em; text-align: left;">同日，业界预测三星显示今年向苹果交付的iphone14系列用OLED面板将比原计划扩增一部分，三星显示已向合作公司追加订购了生产设备以消化增长的订单需求。iphone14系列4款机型的OLED面板大部分均由三星显示供应备货。</p><section><section><section><section><p style="text-indent: 2em; text-align: left;"><strong>三星提高LPTO TFT OLED面板出货量</strong></p></section></section></section></section><section></section><p style="text-indent: 2em; text-align: left;">苹果iPhone 14系列面板的首批备货量是3400万块，计划是从韩国三星显示、LG Display和中国京东方在内的供应商采购。据行业数据显示，苹果6月份购买了180万块iPhone 14系列面板，7月份购买了535万块，8月份购买了超过1000万块。预计苹果将在9月再订购1650万块面板。</p><section></section><p style="text-indent: 2em; text-align: left;">在iPhone 14系列的4款机型中，三星显示是苹果的主要面板供应商。在6、7、8月，苹果订购超过了1500万块iPhone 14系列面板。在此期间，三星显示的出货占比高达82％。去年同期三星面板在iPhone 13系列份额中占比为83％。</p><section></section><section><p style="text-align:center"><img alt="LGD生产良率不足！苹果或增加三星iPhone14 LTPO TFT OLED面板供货数量！" src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/09/shaoxiang/1662715826927037072.jpg" title="LGD生产良率不足！苹果或增加三星iPhone14 LTPO TFT OLED面板供货数量！" referrerpolicy="no-referrer"></p></section><section></section><p style="text-indent: 2em; text-align: left;">而在今年，预计三星显示的出货量还会有所提升，因为LG Display的“技术问题”导致iphone14 Pro Max OLED面板生产受到影响，LG Display能否实现今年5500至6000万台的iPhone OLED出货目标尚不清楚。据悉LG Display负责供应iphone14系列6．1英寸通用款与6．7英寸Pro Max顶级款的部分面板。</p><section></section><p style="text-indent: 2em; text-align: left;">据行业消息，LG Display难以稳定生产iPhone 14 Pro Max OLED的原因涉及到了LTPO TFT、开孔显示、薄膜封装（TFE）等多个领域。苹果为提升手机续航在去年首次应用了LTPO OLED，LG Display当时已参与iPhone 13系列LTPO型OLED面板的开发，但LG Display在iPhone 14系列量产LTPO型OLED面板中并没有克服相关的技术问题。</p><section></section><section><section><section><section><p style="text-indent: 2em; text-align: left;"><strong>三星签订设备供应合同以增加产能</strong></p></section></section></section></section><section></section><p style="text-indent: 2em; text-align: left;">自8月底以来，三星显示与合作伙伴AP System、HB Solution和Phil Optics等签订了设备供应合同。供货合同规模为AP System 7151万元、HB Solution 2．5亿元（2件）、Phil Optics 8007万元。这些设备将交付给三星显示的越南工厂，越南工厂拥有OLED后处理模块生产线。这些设备供应合同均于年底到期。</p><section></section><p style="text-indent: 2em; text-align: left;">AP System是喷墨光学透明树脂（OCR）应用设备，HB解决方案是＇ELB＇（Edge Light Blocking）以防止相机镜头周围漏光，Phil Optics是用于实现大厅显示所需的激光蚀刻设备的激光系统． 预计产品将供应给三星显示。</p><section></section><p style="text-indent: 2em; text-align: left;">鉴于去年上市的iPhone13系列产品阵容需求旺盛，去年二季度iPhone13系列OLED面板的销量增加了1000万片左右。若iphone14系列也像13系列一样需求旺盛，那么三星显示或将增大对LTPO TFT OLED面板投入，并降低对<span class="hrefStyle"><a href="http://display.ofweek.com/tag-LTPS.HTM" target="_blank" title="LTPS">LTPS</a></span> TFT OLED面板的投入比重。据悉三星显示今年设立的iphone OLED面板的出货数量为1．3亿片，在上个月已将出货目标增至1．49亿片。</p><p><br></p> 
+  
+</div>
+            

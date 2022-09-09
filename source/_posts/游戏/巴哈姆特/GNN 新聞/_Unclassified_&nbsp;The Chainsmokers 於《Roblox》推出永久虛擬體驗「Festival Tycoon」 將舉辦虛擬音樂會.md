@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/17/8ff8aa1ec159214c1f9361cc281i5h15.JPG?v=1662626564643'
 author: 巴哈姆特
 comments: false
-date: 2022-09-09 09:12:40
+date: 2022-09-09 10:11:46
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/17/8ff8aa1ec159214c1f9361cc281i5h15.JPG?v=1662626564643'
 ---
 

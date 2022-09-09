@@ -1,0 +1,19 @@
+
+---
+title: '真丝滑！iGame Ultra 显卡体验《漫威蜘蛛侠》光追魅力'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/9/1a3ba63c-b7c6-4d2f-b41b-eb2efc925e9f.jpeg'
+author: IT 之家
+comments: false
+date: Fri, 09 Sep 2022 09:41:02 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/9/1a3ba63c-b7c6-4d2f-b41b-eb2efc925e9f.jpeg'
+---
+
+<div>   
+<p data-vmark="ae49">蜘蛛侠作为人气最高的超级英雄，其游戏作品深受玩家喜爱。在《破碎维度》之后便缺乏优秀的作品，直到《漫威蜘蛛侠》的出现让所有蜘蛛爱好者狂喜。如今《漫威蜘蛛侠》登录 PC 平台，让更多玩家可以体验到在城市荡蛛丝的快感。与 PS5 版本相同，PC 版本支持 RTX 光线追踪技术及 DLSS 技术，国创新生代高端硬件品牌 iGame 旗下的 Ultra 系列带玩家爽游蜘蛛新游！</p><p style="text-align: center;" data-vmark="a34e"><img src="https://img.ithome.com/newsuploadfiles/2022/9/1a3ba63c-b7c6-4d2f-b41b-eb2efc925e9f.jpeg" w="1200" h="630" alt="1" title="真丝滑！iGame Ultra 显卡体验《漫威蜘蛛侠》光追魅力" width="1200" height="430" referrerpolicy="no-referrer"></p><p data-vmark="7191">相比起最初的 PS4 版本，PS5 / PC 版本的差别之一为更换了主角“彼得・帕克”的脸模，更贴近于电影荷兰弟的外观。另一个区别自然就是加入了 RTX 光线追踪以及 NVIDIA DLSS 技术，先进图形技术的加入立即让整座城市的光照效果大幅的提升，包括光照、阴影或是反射等效果，让玩家享受光追的无穷魅力。</p><p style="text-align: center;" data-vmark="f05e"><img src="https://img.ithome.com/newsuploadfiles/2022/9/71011426-c204-43c4-8967-318e9b5502aa.jpeg" w="1268" h="712" alt="图片 5" title="真丝滑！iGame Ultra 显卡体验《漫威蜘蛛侠》光追魅力" width="1268" height="460" referrerpolicy="no-referrer"></p><p data-vmark="e98d">RTX 光线追踪技术的加入为高楼耸立的城市增添了诸多光彩，玩家操作的小蜘蛛在楼宇间穿梭的时刻便能体会光线追踪所带来的画质提升。楼体玻璃的反射效果将更加清晰，阴影及反射会随着光线的变化所改变，若你体会过在玻璃楼体攀爬就能够深刻体会到 RTX ON 与 RTX OFF 的巨大区别。</p><p style="text-align: center;" data-vmark="1ea3"><img src="https://img.ithome.com/newsuploadfiles/2022/9/d0e03f75-eef5-44c1-96d8-dadee3d49809.jpeg" w="1268" h="712" alt="图片 6" title="真丝滑！iGame Ultra 显卡体验《漫威蜘蛛侠》光追魅力" width="1268" height="460" referrerpolicy="no-referrer"></p><p data-vmark="98e9">游戏将随着剧情的推进，从白天变成夜晚。光线追踪效果将不夜城的属性发挥到极致，在没开 RTX 之前，地面极少光影反射，肉眼可见的缺少了环境光的反射。而在开启了光线追踪之后，效果截然不同，更真实的将楼体的灯光效果反射在地砖当中，光影表现也更加的还原显示，极大的提升了画质表现力，当然 RTX 光线追踪开启之后游戏帧数会一定程度的降低。</p><p style="text-align: center;" data-vmark="f29f"><img src="https://img.ithome.com/newsuploadfiles/2022/9/587d15f4-0cab-44f1-bcef-8174e7cf01b8.jpeg" w="1267" h="713" alt="图片 8" title="真丝滑！iGame Ultra 显卡体验《漫威蜘蛛侠》光追魅力" width="1267" height="461" referrerpolicy="no-referrer"></p><p data-vmark="109a">iGame 实验室使用高端型号 iGame GeForce RTX 3080 Ultra W OC 10G LHR 进行测试，可以看到在未开启 RTX 之前的 1080P 情况，游戏的平均帧率可达 153 帧，2K 可达 126 帧，就算开到 4K 也能够达到 90 帧。可见 RTX 3080 的惊人性能。即便在开启 RTX 的情况下，1080P 也仍有 94 帧的表现，2K 能达 79 帧，4K 分辨率也能够稳定在 63 帧，这就是高端显卡的硬实力！</p><p data-vmark="1667">若想体验更高帧率的玩家，可以打开 DLSS 选项。其工作原理是利用 NVIDIA 神经图形框架 NGX，在超级计算机中以极低的帧率和每像素 64 个样本对数万张高分辨率的精美图像进行离线渲染，训练出一个深度神经网络。构建高分辨率的精美图像，最终玩家能够获得极度流畅的游戏体验。在这里我们拿出甜品性价显卡 iGame GeForce RTX 3060 Ti Ultra W OC 10G LHR 作为测试装备，这也是目前国创新生代 iGame 的头号人气产品。</p><p style="text-align: center;" data-vmark="b897"><img src="https://img.ithome.com/newsuploadfiles/2022/9/9aed844b-74c2-4be6-a662-f0d088f9a7e4.jpeg" w="1267" h="713" alt="图片 9" title="真丝滑！iGame Ultra 显卡体验《漫威蜘蛛侠》光追魅力" width="1267" height="461" referrerpolicy="no-referrer"></p><p data-vmark="fda8">使用甜品级显卡 RTX 3060 Ti 在 1080P / 2K / 4K，在 RTX ON，DLSS OFF 的状态下帧率为 85/67/38，随着分辨率的提升可见帧率已经在 30 帧徘徊，达不到稳定运行的标准。在一键开启 DLSS 之后，分辨率竟然达到了 89/83/57，即便是 4K 分辨率下，甜品级显卡都能够摸到 60 帧的流畅运行标准，可见 DLSS 的选项将是玩家流畅运行游戏的福音，若有请必须开启。</p><p style="text-align: center;" data-vmark="65ec"><img src="https://img.ithome.com/newsuploadfiles/2022/9/3d4be42a-04a0-4b9e-9f6f-ceb5fbdb6f30.jpeg" w="1267" h="713" alt="6" title="真丝滑！iGame Ultra 显卡体验《漫威蜘蛛侠》光追魅力" width="1267" height="461" referrerpolicy="no-referrer"></p><p data-vmark="ff15">拥有复古流行“蒸汽波”风格的 iGame Ultra 系列是新生代玩家的不二选择，蒸汽波元素的复古与先进图形技术的相互碰撞造就此款艺术产品，是当属年轻人的潮酷装备。即刻起，在「七彩虹京东自营旗舰店」或「镭风（Colorfire）京东自营旗舰店」购买任意型号显卡并晒单，将有高概率赢得 iGame 内存套装或百元京东 E 卡！好机会绝不能错过，快来参与吧！</p>
+          
+</div>
+            
