@@ -1,0 +1,18 @@
+
+---
+title: '田园猫小时候关在家里，长大了还能散养吗_-coyote的回答：首先散养是需要一定条件的，比如，低楼层，楼栋无门禁，有猫咪进出家的门窗，小区没临近闹市，没临近公...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-35870d57f63490a62447e1eada0ff819_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Sat, 10 Sep 2022 07:17:22 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-35870d57f63490a62447e1eada0ff819_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>田园猫小时候关在家里，长大了还能散养吗?</strong><br>coyote的回答<br><p data-pid="3hJTOe_J">首先散养是需要一定条件的，比如，低楼层，楼栋无门禁，有猫咪进出家的门窗，小区没临近闹市，没临近公路，附近没有人投放老鼠药，有草丛绿植可以躲避其他人其他动物。</p><p data-pid="6xCEvfK6">看到这是不是觉得不太可能散养。那是还是乖乖圈养吧。</p><p data-pid="ED2eU_ET">再者，两个月还小，要培养感情，养熟了再让他去探索外面的世界，而且是公猫的话，发情了很可能会外出不归家。早点绝育就好了。</p><p data-pid="zgKHqzBb">我的橘猫，从农村跟我搬到了城市，从半散养到圈养。</p><p data-pid="YV6FknWJ">在农村的时候，玩得可欢了，基本上从傍晚时间会玩到晚上十点多，这个时候如果不回家，我就会下楼找他，渐渐地，我就不用找他，他到点了自己会回家，即便玩上头了我喊几声也能马上回家，非常听话。是积累的感情才能这么乖的，因为是一手带大的哈哈。</p><p data-pid="def9xk0N">现在搬到了城市，基本上就天天呆在屋子里，非常郁闷，非常不习惯，因为没有之前能在草地撒欢的机会。即便栓绳下楼遛弯他也会非常不习惯，一是不能随心所欲跑跳（有的猫栓了绳就不会走路了），二是不熟悉环境放不开。猫是警惕心很强的生物。</p><p data-pid="n-gWJEAb">所以，如果不具备一直半散养的条件，就不要散养，不然猫咪换环境很可能抑郁噢。</p><p data-pid="UmRic5Iq">挂几张橙小橘的图。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-35870d57f63490a62447e1eada0ff819_1440w.jpg?source=1940ef5c" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-202a152ac8e6bfb3f908cf849f7d011d_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-35870d57f63490a62447e1eada0ff819_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-3cca68a5fbfc4a5ee65e041bffb3836f_1440w.jpg?source=1940ef5c" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-b60c09873e51ab929a43681a6b8812ff_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-3cca68a5fbfc4a5ee65e041bffb3836f_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-b597c3ed2aee10f3ae97593cee68e363_1440w.jpg?source=1940ef5c" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://picx.zhimg.com/50/v2-801bcff2f0adcb8c025f13887e76fee3_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-b597c3ed2aee10f3ae97593cee68e363_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-cdb52d12435d72a3df9de610d9a7c155_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://picx.zhimg.com/50/v2-5d122dfb281f751f445db9fc356bbecd_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-cdb52d12435d72a3df9de610d9a7c155_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-311de8d7ca97508d8fd3452618db847e_1440w.jpg?source=1940ef5c" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-401a518606a42fc55225d8e2f74eda21_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-311de8d7ca97508d8fd3452618db847e_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
