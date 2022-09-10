@@ -1,0 +1,34 @@
+
+---
+title: '为了保密iPhone 14 Pro的灵动岛 苹果注册商标不惜代价：怕被抄走'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20220910/640fa3283f5f4318942e214655d7b4ab.gif'
+author: 快科技（原驱动之家）
+comments: false
+date: Sat, 10 Sep 2022 21:07:31 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20220910/640fa3283f5f4318942e214655d7b4ab.gif'
+---
+
+<div>   
+<p>刚刚发布的iPhone 14系列中，Pro机型的“灵动岛”设计惊艳了四方，这一全新的软硬件交互体验，无疑让人眼前一亮。</p>
+<p>而且，苹果也通过“灵动岛（Dynamic Island）”这样悦耳的名字取代了大家习惯的“药丸屏”，颇有创意。</p>
+<p>在发布前，“灵动岛”完全一点风声也没有，不得不佩服苹果的保密工作。</p>
+<p align="center"><img alt="为了保密iPhone 14 Pro的灵动岛 苹果注册商标不惜代价：怕被抄走" h="360" src="https://img1.mydrivers.com/img/20220910/640fa3283f5f4318942e214655d7b4ab.gif" style="border: 1px solid black; height: 281px; width: 500px;" w="640" referrerpolicy="no-referrer"></p>
+<p>对此，苹果名记Mark Gurman曝光了这背后苹果的一番心思。<strong>原来，为了避免注册商标被外界检索到，苹果团队的工作人员在今年7月份专门去了一趟牙买加，在那里首次提交了灵动岛（Dynamic Island）注册申请。</strong></p>
+<p>这里面的逻辑在于，牙买加要求注册商标必须采取线下方式，且不会开放线上查询库，苹果认为这样才能足够保密。</p>
+<p>当然，现在，“灵动岛”的商标已经在多地注册成功，包括新西兰等。</p>
+<p>有观点认为，除了保护自己的知识产权，苹果最怕的是被对手提前获悉，结果抢注或者抄走了……</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220910/1c98917f225445e7b35b70a7befbcc07.png" target="_blank"><img alt="为了保密iPhone 14 Pro的灵动岛 苹果注册商标不惜代价：怕被抄走" h="338" src="https://img1.mydrivers.com/img/20220910/s_1c98917f225445e7b35b70a7befbcc07.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+
+            
+ <div style="overflow: hidden;font-size:14px;padding-top:30px;border-bottom:1px solid #eee;">
+           <p class="zhuanzai">【本文结束】如需转载请务必注明出处：快科技</p>  
+          <p class="url"><span style="color:#666">责任编辑：万南</span></p>
+        </div>
+     
+        
+</div>
+            
