@@ -1,0 +1,18 @@
+
+---
+title: 'Galgame界传说中的_十二神奇_，真的全是雷作吗？（上）'
+categories: 
+ - 游戏
+ - 游研社
+ - 游研社 - 全部文章
+headimg: 'https://picsum.photos/400/300?random=4698'
+author: 游研社
+comments: false
+date: Sat, 10 Sep 2022 02:34:25 GMT
+thumbnail: 'https://picsum.photos/400/300?random=4698'
+---
+
+<div>   
+科普一下Galgame界的“十二神器”。  
+</div>
+            
