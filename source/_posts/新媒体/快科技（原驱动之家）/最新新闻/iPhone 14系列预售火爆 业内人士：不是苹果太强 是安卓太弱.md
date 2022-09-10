@@ -1,0 +1,33 @@
+
+---
+title: 'iPhone 14系列预售火爆 业内人士：不是苹果太强 是安卓太弱'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20220910/s_561e17c13b2c4252b037b849e2b96b9e.jpg'
+author: 快科技（原驱动之家）
+comments: false
+date: Sat, 10 Sep 2022 11:34:27 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20220910/s_561e17c13b2c4252b037b849e2b96b9e.jpg'
+---
+
+<div>   
+<p>昨晚（9月9日），iPhone 14系列新机在各大渠道正式开启预订。</p>
+<p>正如此前所预想的那样，包括中国官网在内，预订导致APP崩溃、结算错误、网页挤爆等情况再度出现，可见这次iPhone 14系列热度依然不减。</p>
+<p>其中iPhone 14 Pro/Pro Max最为火爆，目前下单送货时间已经排到10月中下旬。9月16日的第一批现货，黄牛们更是加价到千元不等。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220910/561e17c13b2c4252b037b849e2b96b9e.jpg" target="_blank"><img alt="iPhone 14系列预售火爆 业内人士：不是苹果太强 是安卓太弱" h="337" src="https://img1.mydrivers.com/img/20220910/s_561e17c13b2c4252b037b849e2b96b9e.jpg" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>对于这一情况，业内人士手机晶片达人在微博上分享观点表示，“<strong>虽然智能手机市场衰退，但iPhone 14系列预购销量目前得到的数据符合预期，不是Apple太强，是安卓手机太弱！”</strong></p>
+<p>他随后还指出，因为汇率原因，iPhone 14系列的起步价在全球多地均有所上调，但国行版却纹丝不动，表明苹果希望继续提升份额的野心。</p>
+<p>值得一提的是，IDC数据显示，今年二季度在中国高端手机市场，苹果份额从前一季度的58%增加到70%，的确是安卓一个能打的都没有。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220910/780f4c5961e54634801f5b7bc61804a4.png" target="_blank"><img alt="iPhone 14系列预售火爆 业内人士：不是苹果太强 是安卓太弱" h="151" src="https://img1.mydrivers.com/img/20220910/s_780f4c5961e54634801f5b7bc61804a4.png" style="border: black 1px solid;" w="582" referrerpolicy="no-referrer"></a></p>
+
+            
+ <div style="overflow: hidden;font-size:14px;padding-top:30px;border-bottom:1px solid #eee;">
+           <p class="zhuanzai">【本文结束】如需转载请务必注明出处：快科技</p>  
+          <p class="url"><span style="color:#666">责任编辑：万南</span></p>
+        </div>
+     
+        
+</div>
+            
