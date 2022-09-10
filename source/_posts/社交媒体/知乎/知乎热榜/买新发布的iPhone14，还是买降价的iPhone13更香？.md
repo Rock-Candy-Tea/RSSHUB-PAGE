@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic3.zhimg.com/v2-eec33611a8b2054b97e748f71fa3e427_1440w.jpg?source=b1748391'
+headimg: 'https://picsum.photos/400/300?random=6725'
 author: 知乎
 comments: false
-date: Fri, 09 Sep 2022 13:31:12 GMT
-thumbnail: 'https://pic3.zhimg.com/v2-eec33611a8b2054b97e748f71fa3e427_1440w.jpg?source=b1748391'
+date: Fri, 09 Sep 2022 16:05:54 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6725'
 ---
 
 <div>   
-新锐数码的回答<br><br><p data-pid="ZJ9BwM6R">还是买降价的iPhone13更香！因为我iPhone抢不到啊，两个手机型号都是非常不错的，所以选择那个都是正常的。</p><p data-pid="VNGC6wt2">两款Pro版本就放一起说了，因为它们的配置一致，只是尺寸不同而已，这次换成新的居中药丸屏，颜值肯定是有提升，主摄变成4800万像素，模组变得更夸张了，拍照水平也有升级，最后是屏幕的改动，达到2000nits峰值亮度，是上代产品的两倍，也是目前智能手机里的No.1，看HDR内容很爽。</p><p data-pid="qfFUbCNO">价格，Pro版本还是7999元/8999元起售，但要注意的一点是，它仍然128G内存起步，往后的内存有小幅度涨价，分别是100元，300元，500元，考虑到安卓厂商的售价，以及美元对人民币的汇率，这波苹果属于明升暗降，对128G够用的朋友是好消息，大内存版本中规中矩，看大家如何选择。</p><p data-pid="-sBFPppH">要是实在抢不到那就选择iPhone13也可以的，要不就是你选择等等。</p><figure data-size="normal"><img src="https://pic3.zhimg.com/v2-eec33611a8b2054b97e748f71fa3e427_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="715" data-rawheight="646" data-default-watermark-src="https://pica.zhimg.com/v2-2e3ed0d79016075c78108b05681a3123_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic3.zhimg.com/v2-eec33611a8b2054b97e748f71fa3e427_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
+听风的回答<br><br><p data-pid="O96xhbOO">去年iPhone 13发布，我抢购到iPhone 13。</p><p data-pid="RV99hSRN">今年iPhone 14发布，我竟然有点后悔。</p><p data-pid="Vm3ZoXag">我后悔，我为什么不今年购买iPhone 13。</p><p data-pid="6_CF1fyL">现在手机真的性能过剩，尤其是高端手机。</p><p data-pid="1FAmSDPy">如果只是一般使用，没有专业用途，其实iPhone 13完全够用。</p><p data-pid="a2A5xrVA">iPhone 14这次没有大升级，内存加了2G，支持卫星通信，碰撞紧急求救，前置摄像头多了自动聚焦等，多了暗紫色可选，其他就没了。</p><p data-pid="xNyve1CN">iPhone 14和iPhone 13一样，都是刘海屏，没有辨识度。</p><p data-pid="3MYemLkY">苹果基础版牙膏挤的太狠，把创新都放在专业版Pro，就是吸引用户去割肉，确实有点不要脸。</p><p data-pid="0u7U905z">我觉得，买降价的iPhone 13，更香。</p><p data-pid="8jUIQ2DX">PS：前提是进一步降价，降价，降价。</p><p></p><p></p>  
 </div>
             

@@ -1,0 +1,18 @@
+
+---
+title: '忠犬（更新至 ED）'
+categories: 
+ - 音视频
+ - 猫耳 FM
+ - 最新广播剧
+headimg: 'https://cors.zfour.workers.dev/?http://static.maoercdn.com/dramacoversmini/202209/09/f3d4a5b44062b82aeaee586f2b83983e141428.jpg'
+author: 猫耳 FM
+comments: false
+date: Fri, 09 Sep 2022 09:29:33 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://static.maoercdn.com/dramacoversmini/202209/09/f3d4a5b44062b82aeaee586f2b83983e141428.jpg'
+---
+
+<div>   
+<img src="https://cors.zfour.workers.dev/?http://static.maoercdn.com/dramacoversmini/202209/09/f3d4a5b44062b82aeaee586f2b83983e141428.jpg" referrerpolicy="no-referrer"><br><p>个人出品，@蛋蛋蛋黄DDDH 蛋蛋蛋黄原著，现代广播剧《忠犬》预告上线～</p><br><br><p>“简明之第一次见到简恕的时候，简恕九岁，骨瘦嶙峋，话也说不利索。”</p><p>“简明之一点点把这只可怜的幼犬喂肥养大，却没有想到简恕的最大夙愿就是将他吃干抹净。”</p><br><br><p>Staff</p><p>策导：尧薇@vvv哎</p><p>预告编剧：菍芢【鯨不惊制作组】@人人就是在写本做剧</p><p>后期：柚七@认真的糖崽超甜</p><p>美工：伍毛【逐声之境工作室】@伍毛超凶</p><p>题字：微凉@·薇凉·</p><p>画师：JinYzp@JinYzp</p><p>字幕：羿清泽【梦启天明】@淮溱Yusu</p><br><p>Cast</p><p>简恕：6熙【水岸聆音】@CV6熙</p><p>简明之：沫生【笙笙入耳】@沫生Impression</p><p>唐禹行：炙舞@大魔丶王炙舞</p><p>少年简恕：胖橘【梦启天明配音工作室】@胖橘sensei</p><p>正太简恕：喵胖@口苗月半</p><p>总裁秘书：七里【瑜熙voice工作室】@CV七里</p><p>总裁夫人：虫小师@CV虫小师</p><p>负责人：琉天星【？？？工作室】@琉天星10199</p><br><p>特别声明：</p><p>本作品中采用的音效、音乐等素材均来源于互联网，著作权归原作者或发行公司所有。</p><p>本作品仅供配音爱好者学习、交流，禁二修、禁商用。</p><p>未经允许，不得二次上传到其他平台，另转载需标明出处和保留完整剧组信息和声明，谢谢！</p><br>  
+</div>
+            
