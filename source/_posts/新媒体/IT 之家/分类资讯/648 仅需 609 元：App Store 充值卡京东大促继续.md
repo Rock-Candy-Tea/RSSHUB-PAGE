@@ -1,0 +1,19 @@
+
+---
+title: '648 仅需 609 元：App Store 充值卡京东大促继续'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/9/c3819c3f-171e-45c3-bf7f-bfa008271619.png'
+author: IT 之家
+comments: false
+date: Sun, 11 Sep 2022 02:15:04 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/9/c3819c3f-171e-45c3-bf7f-bfa008271619.png'
+---
+
+<div>   
+<p data-vmark="353b">京东 App Store 充值卡大促再次开启，售价下方可领满 100-5/300-15/500-30 元优惠券，相当于立打 9.4~9.5 折：<a href="https://union-click.jd.com/jdc?e=&p=JF8BANcJK1olXDYFVl9fDkInRzBQRQQlBENHFRxWFlVVWjFJBAcKBlMdBgABFglOXS4WQgVJCQhADQAccB4bBG0JGV0cbU9eFhgeUQNLY2lAGRtsWl57FltDaCsbD18NGlIdVAMDVVptC0kQAWkMHlgSbWVlOgQZcD5NRwRgK1sQbUdsU1xYCk4TM28LHF8XWA4DXFZtCEwQAGYPGFkRWgULVW5dAEwnXy1aWhklbTYBZG5tC3sUMzFmGggSWA4DXVYzVU1RQjwAWAd7VA4HXFZYD0onAW4JGVklbQ" target="_blank" data-wapurl="https://union-click.jd.com/jdc?e=&p=JF8BAMIJK1olXDYFVl9fDkInRzBQRQQlBENHFRxWFlVHQi5KXgVWCRlZAUEPVhcJMwhxZgFLLgdJMQhHfShSWht1EwYdFGYOWG5fCUsSCm8JE1IlXgQFVlhZDUgQMwxvdQFRJXNYEDU1OEsWMy5mHFkQXwMGZF5ZDU4eAm8AHF0lXQEFV1daC0kTBG0MG2sVVQEyCBwPSQknM18LK2slXjYBZAAzCRgRAW5bTw57AABEFQ1VTRl5CmcNHV8SXwcyVl9cCkknMw" data-iosurl="https://union-click.jd.com/jdc?e=&p=JF8BAMIJK1olXDYFVl9fDkInRzBQRQQlBENHFRxWFlVHQi5KXgVWCRlZAUEPVhcJMzFfcgNKCl59N0ArekxHCygORCITJ3YOWG5YCE4RA2cNE1wlXgQFVlhZDUgQMwxvdQFRJXNYEDU1OEsWMy5mHFkQXwMGZF1cCksWAm4NElwlXQEFV1daC0kTBGoJEmsVVQEyCBwPSQknM18LK2slXjYBZAAzCRgQBmcJElN7AABEFQ1VT0h5CmcNE1MQVAUyVl9cCkknMw" data-androidurl="https://union-click.jd.com/jdc?e=&p=JF8BAMMJK1olXDYFVl9fDkInRzBQRQQlBENHFRxWFlVHQi5KXgVWCRlZAUEPVhcJM25zRhJ9A3AKMR0vcSlLe3FOSyhpBWYOWG5fCUsSCm8JE1IlXgQFVlhZDUgQMwxvdQFRJXNYEDU1OEsWMy5mHFkQXwMGZF5eD08VBmcIG18lXQEFV1daC0kTBGoBG2sVVQEyCBwPSQknM18LK2slXjYBZAAzCRgRC24JGFN7AABEFQ1VTgB5A28NG1sTWAEAZFxcCUkVM18" data-uwpurl="https://union-click.jd.com/jdc?e=&p=JF8BAMMJK1olXDYFVl9fDkInRzBQRQQlBENHFRxWFlVHQi5KXgVWCRlZAUEPVhcJMwRrbFtVP2dKNjgFeitDBBtsSBtyBXYOWG5YCUIfCmoJGl8lXgQFVlhZDUgQMwxvdQFRJXNYEDU1OEsSMy5mHFkQXwMGZF5eD08VAmoOHV8lXQEFV1daC0kTBGgNG2sVVQEyCBwPSQknM18LK2slXjYBZAAzCRgSVGcJGVp7AABEFQ0NCE95A28NGVgSWwYCZFxcCUkVM18" data-wxmpurl="ithome://openmp?appid=wx91d27dbf599dff74&path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252funion-click.jd.com%252fjdc%253fe%253d%2526p%253dJF8BAMQJK1olXDYFVl9fDkInRzBQRQQlBENHFRxWFlVHQi5KXgVWCRlZAUEPVhcJMy12Ti8QXHBqNgg7DTxVU2Zsey8VH0AOWG5eCUkTAm4LGlsSbQUAU1xbDE4UBF9rfDVPGX53Dho2YHsXBl9JdVwXWAQHUG5dC0oVBW8PG1MdbQYFU11UD0gVB2gOGFslXQ4FZAIfWgpVM184GGslbQUyV24DZkpEBj1cH1kSM1sEEh8OWElPbW8IHlkXWgMDXG5fCUoVAV84%26EA_PTAG%3d17078.27.380">点此查看</a>。</p><p data-vmark="88f4">* 500-30 元券为限量券，活动随时结束哦~</p><p data-vmark="2623">售价下方可领券：</p><p style="text-align: center;" data-vmark="c630"><img src="https://img.ithome.com/newsuploadfiles/2022/9/c3819c3f-171e-45c3-bf7f-bfa008271619.png" w="426" h="80" title="648 仅需 609 元：App Store 充值卡京东大促继续" width="426" height="80" referrerpolicy="no-referrer"></p><p data-vmark="7514" style="text-align: justify;">京东的“App Store 充值卡旗舰店”由资和信电子支付有限公司经营：</p><blockquote><p data-vmark="d9a2" style="text-align: justify;">苹果官方充值卡又称 App Store 充值卡，是由<span class="accentTextColor">资和信电子支付有限公司</span>发行和管理（“发行方”），其充值卡的卡号和卡密均为 16 位（中国区），并且提供 50 元、100 元、200 元、500 元等多种面值。用户在购买后的有效期内，可用于兑换苹果账户余额，可在 iPhone、iPad、iPod touch、Mac 或 Apple TV 上的 App Store 中浏览和购买应用以及储存空间等用途。</p><p data-vmark="1712" style="text-align: justify;">其他国家或地区可能会将“苹果充值卡”称为“App Store 与 iTunes 礼品卡”。</p><p data-vmark="9cc2" style="text-align: justify;">苹果充值卡兑换苹果账户余额，每个身份证每天最多可兑换 5000 元，每年最多 60000 元。</p></blockquote><p class="tagging2">本文用于传递优惠信息，节省甄选时间，结果仅供参考。</p><div class="tagging1">【广告】</div>
+          
+</div>
+            
