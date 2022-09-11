@@ -1,0 +1,18 @@
+
+---
+title: '【Parallel Alpha系列NFT近24小时交易额增幅超2000%】金色财经报道，OpenSea数据显示，Parallel Alpha系列NFT近24小时交易额为263ETH，24小时交易额增幅达2668%...'
+categories: 
+ - 新媒体
+ - 金色财经
+ - 快讯
+headimg: 'https://picsum.photos/400/300?random=6121'
+author: 金色财经
+comments: false
+date: Invalid Date
+thumbnail: 'https://picsum.photos/400/300?random=6121'
+---
+
+<div>   
+【Parallel Alpha系列NFT近24小时交易额增幅超2000%】金色财经报道，OpenSea数据显示，Parallel Alpha系列NFT近24小时交易额为263ETH，24小时交易额增幅达2668%，24小时交易额排名位列OpenSea第4。  
+</div>
+            
