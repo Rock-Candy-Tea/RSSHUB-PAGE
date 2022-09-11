@@ -1,0 +1,18 @@
+
+---
+title: '把土狗养成高级犬是一种怎样的体验？-Animus的回答：我妹家的土狗牵出去，很多人看不出这是土狗，经常有人问什么品种。 嘴巴可以尝出包子2块5和2块的区别。永远...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://picx.zhimg.com/v2-720c273cb7584dcea45dfefd1efafdee_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Sun, 11 Sep 2022 12:46:30 GMT
+thumbnail: 'https://picx.zhimg.com/v2-720c273cb7584dcea45dfefd1efafdee_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>把土狗养成高级犬是一种怎样的体验？</strong><br>Animus的回答<br><p data-pid="9wET-8SO">我妹家的土狗牵出去，很多人看不出这是土狗，经常有人问什么品种。</p><p data-pid="tdYM1sG6">嘴巴可以尝出包子2块5和2块的区别。永远只吃贵的。</p><p data-pid="-xh16pn1">不觉得自己是狗，喜欢和小朋友玩，觉得自己是孩子。</p><p data-pid="nfBwlr_s">出去旅游只能自驾，提前和酒店说好是否能带进去住，是我们家不可缺少的成员之一。</p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-720c273cb7584dcea45dfefd1efafdee_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-74bebcf21b9f3002c0fd669d530fa36c_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-720c273cb7584dcea45dfefd1efafdee_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-59e678f00a11682421ec28308cb817bd_1440w.jpg?source=1940ef5c" data-rawwidth="2048" data-rawheight="1892" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-40c97b4d631a4f948c3935087e695942_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-59e678f00a11682421ec28308cb817bd_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-4522dca0183599cc3c8b6e42185c8e2f_1440w.jpg?source=1940ef5c" data-rawwidth="2048" data-rawheight="1536" data-size="normal" data-default-watermark-src="https://picx.zhimg.com/50/v2-b06eae2de27b2ec14ff31eefdfd5209b_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-4522dca0183599cc3c8b6e42185c8e2f_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-dca38068c3b0a79bb3e8578cd670da25_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://picx.zhimg.com/50/v2-2b2cc0cbc6dbc22f4d9148179b832434_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-dca38068c3b0a79bb3e8578cd670da25_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-3e39316963911d8843fea00419ebd159_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-e2d92f26c83c575e65f0c2750ff8ca34_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-3e39316963911d8843fea00419ebd159_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-2fe3a7aee53db6173f7f82d5fbd6ce52_1440w.jpg?source=1940ef5c" data-rawwidth="1536" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/50/v2-aad28ae8ea6ca3c2559516e7cba47fbe_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-2fe3a7aee53db6173f7f82d5fbd6ce52_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
