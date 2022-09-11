@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202209/05/8764da/8c8725c73fb13119.jpg!home320'
 author: 一兜糖
 comments: false
-date: 2022-09-11 05:40:13
+date: 2022-09-11 06:15:30
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202209/05/8764da/8c8725c73fb13119.jpg!home320'
 ---
 
 <div>   
-申请结束时间：2022.09.11                        <br>【GTChair】威达Vida人体工学椅<br>                            数量 ：5<br>                            实际价格 ：1800元<br>                            活动申请中<br>                            379人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202209/05/8764da/8c8725c73fb13119.jpg!home320" referrerpolicy="no-referrer">  
+申请结束时间：2022.09.11                        <br>【GTChair】威达Vida人体工学椅<br>                            数量 ：5<br>                            实际价格 ：1800元<br>                            活动申请中<br>                            382人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202209/05/8764da/8c8725c73fb13119.jpg!home320" referrerpolicy="no-referrer">  
 </div>
             
