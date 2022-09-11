@@ -1,0 +1,19 @@
+
+---
+title: '华为Mate50跑分，对比苹果iPhone14，差距真的很大'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member46034/202209/10120815281461.jpg'
+author: 高科技行业门户
+comments: false
+date: Sun, 11 Sep 2022 02:12:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member46034/202209/10120815281461.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">9月份，机皇争霸赛又再次开启，一款是9月6日发布的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8D%8E%E4%B8%BA.HTM" target="_blank" title="华为">华为</a></span>Mate50系列。一款是9月8日发布的<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E8%8B%B9%E6%9E%9C.HTM" target="_blank" title="苹果">苹果</a></span><span class="hrefStyle"><a href="https://ee.ofweek.com/tag-iPhone.HTM" target="_blank" title="iPhone">iPhone</a></span>14系列。</p><p style="text-indent: 2em; text-align: left;">为何说又再？原因是去年华为没有推出Mate系列，iPhone13没有对手，在国内嚣张得很，创下了一个又一个销售纪录。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202209/10120815281461.jpg" title="华为Mate50跑分，对比苹果iPhone14，差距真的很大" alt="华为Mate50跑分，对比苹果iPhone14，差距真的很大" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">在延迟了一年之后，华为再次发布Mate50，并且时间与iPhone14也差不多，两者算是针锋相对，所以说是再一次了。</p><p style="text-indent: 2em; text-align: left;">那么华为Mate50与iPhone14相比，究竟如何呢？这个还不好说，毕竟现在大家都没拿到手机，只能是凭自己的喜好，进行“云评测”，都不算是公平公正的，非常带有主观性。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202209/10120815961640.jpg" title="华为Mate50跑分，对比苹果iPhone14，差距真的很大" alt="华为Mate50跑分，对比苹果iPhone14，差距真的很大" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">不过有一个数字，那还是可以进行对比的，那就是手机Soc的性能，这个可以通过跑分来进行比较，基于同样的软件，还是有可比性的。</p><p style="text-indent: 2em; text-align: left;">华为Mate50系列，使用的是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E9%AB%98%E9%80%9A.HTM" target="_blank" title="高通">高通</a></span>骁龙8＋芯片，也就是<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%8F%B0%E7%A7%AF%E7%94%B5.HTM" target="_blank" title="台积电">台积电</a></span>的4nm工艺版，8核<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-CPU.HTM" target="_blank" title="CPU">CPU</a></span>，不过屏蔽掉了5G，只有4G功能。</p><p style="text-indent: 2em; text-align: left;">从网上曝光的数据来看，GeekBench 5跑分显示单核1266分，多核3938分，与高通骁龙8＋之前各项测试的跑分成绩相比，基本一致，区别不大。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202209/10120816811295.png" title="华为Mate50跑分，对比苹果iPhone14，差距真的很大" alt="华为Mate50跑分，对比苹果iPhone14，差距真的很大" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">而iPhone14／Plus采用的是满血版的A15。而iPhone14 Pro／Max，采用的是A16芯片。</p><p style="text-indent: 2em; text-align: left;">先说A15满血版本芯片，采用的是台积电的5nm工艺，6核CPU，其GeekBench 5跑分单核得分1728，多核得分4790。</p><p style="text-indent: 2em; text-align: left;">而A16采用的是4nm的工艺，同样是6核心CPU，其GeekBench 5跑分是单核1879分、多核4664分的成绩。</p><p style="text-indent: 2em; text-align: left;">很明显，不管是采用A15的iPhone14两款，还是采用A16的iPhone14 Pro两款，其性能都不是采用骁龙8＋芯片的Mate50能够比的，CPU单核方面，至少高35％左右，多核性能高20％左右。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member46034/202209/10120817148688.png" title="华为Mate50跑分，对比苹果iPhone14，差距真的很大" alt="华为Mate50跑分，对比苹果iPhone14，差距真的很大" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">当然，在智能手机中，Soc的性能很重要，但不是唯一，还包括系统、生态，外观、拍照、快充、屏幕、售后、品牌形象等等方面，CPU性能真的只是参考。</p><p style="text-indent: 2em; text-align: left;">而真正全面的评测对比，等两者上市后，我再给大家仔细评测。另外苹果在芯片上面，一直就碾压<span class="hrefStyle"><a href="https://ee.ofweek.com/tag-%E5%AE%89%E5%8D%93.HTM" target="_blank" title="安卓">安卓</a></span>芯片，所以这个成绩也不必大惊小怪。</p><p>       <span style="color:#999999;font-family:  <span class='hrefStyle'><a href='https://ee.ofweek.com/tag-%E5%BE%AE%E8%BD%AF.HTM' target='_blank' title='微软'>微软</a></span>雅黑;font-size:14px;">原文标题 : 华为Mate50跑分，对比苹果iPhone14，差距真的很大</span></p> 
+  
+</div>
+            
