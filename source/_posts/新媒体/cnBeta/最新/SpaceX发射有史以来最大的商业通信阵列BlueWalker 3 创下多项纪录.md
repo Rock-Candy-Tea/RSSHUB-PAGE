@@ -1,0 +1,20 @@
+
+---
+title: 'SpaceX发射有史以来最大的商业通信阵列BlueWalker 3 创下多项纪录'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/thumb/article/2022/0911/baa868529f0c21b.jpg'
+author: cnBeta
+comments: false
+date: Sun, 11 Sep 2022 07:29:50 GMT
+thumbnail: 'https://static.cnbetacdn.com/thumb/article/2022/0911/baa868529f0c21b.jpg'
+---
+
+<div>   
+SpaceX周六晚些时候将一颗新颖的也是巨大的商业通信卫星送入轨道，同时继续为其猎鹰9号火箭创造新的发射记录。猎鹰9号从佛罗里达州肯尼迪航天中心的39A装置发射入轨，搭载了SpaceX的34颗Starlink互联网卫星和BlueWalker
+3，这是AST SpaceMobile公司建造的一颗原型卫星，被称为有史以来在太空飞行的最大商业通信阵列。<br>
+ <p>升空是在美国东部时间周六（9月10日）晚上9点20分（格林威治时间1点20分）开始的，猎鹰9号助推器在返回地球时创造了一些SpaceX的历史。</p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2022/0911/baa868529f0c21b.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0911/baa868529f0c21b.jpg" title alt="WGw96sVyx7TXcZv48fajn9-970-80.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">"SpaceX生产工程经理杰西-安德森（Jesse Anderson）在现场解说中说："这是该助推器第14次着陆，创下了纪录。</p><p>这次任务还创造了其他一些记录，例如这是SpaceX首次在轨道上部署载荷的五引擎燃烧任务，也是该公司有史以来最重的载荷。BlueWalker 3重达3300磅（1500公斤）。</p><p>"我们最复杂的任务之一，"SpaceX首席执行官埃隆-马斯克在Twitter上这样写道。</p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2022/0911/7ccb92ba1bce3f5.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0911/7ccb92ba1bce3f5.jpg" title alt="vP88iSqrQRgq8Ziwzn9LnU-970-80.jpg" referrerpolicy="no-referrer"></a></p><p>虽然SpaceX周六发射的主要目标是为其不断增长的在轨卫星群增加34颗新的Starlink卫星，但AST SpaceMobile的BlueWalker 3卫星因其尺寸和雄心勃勃的任务而引人注目。</p><p>这颗卫星完全展开后将达到693平方英尺（64平方米），是发射到太空的最大的商业天线阵列。它的任务是：测试旨在从太空直接向用户提供全球蜂窝电话服务的新技术。目标是填补覆盖空白，在服务不足的地区提供无缝高速电话和数据服务。</p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2022/0911/11bbb6381f5d6a2.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0911/11bbb6381f5d6a2.jpg" title alt="5Gzo3W9PdeEPDyUcsMCb65-970-80.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">AST SpaceMobile的BlueWalker 3移动电话服务卫星在轨道上的艺术家插图。 (图片来源：诺基亚/AST SpaceMobile)</p><p>AST SpaceMobile已经与25家<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://shouji.jd.com/" target="_blank">手机</a>服务供应商合作，其中10家将参加该公司计划的为期6个月的BlueWalker 3试运行巡航，以测试其在全球六大洲的能力。Wisniewski说，这些合作伙伴包括沃达丰、乐天移动和Orange等供应商，潜在覆盖面达180万电话用户。今年夏天早些时候，该公司获得了FCC许可，在美国的德克萨斯州和夏威夷测试BlueWalker 3的服务。</p><p>该公司计划在2023年继BlueWalker 3之后再推出五颗运行卫星。它的最终目标是建立一个由至少100颗巨型卫星组成的星座，以提供完整的覆盖。</p><p>AST SpaceMobile并不是唯一追求太空手机覆盖的公司。公司Lynk Global正在进行一个类似的项目，Elon Musk上个月公布了SpaceX正在与T-Mobile合作，用其Starlink卫星提供手机服务。</p><p>根据《新科学家》的报道，由于AST SpaceMobile的卫星尺寸较大，从地面上观察天空的人可能会看到它们，一些天文学家批评该计划可能会影响到地面上的望远镜观测。如果这种抱怨听起来很熟悉，那是因为一旦SpaceX公司开始一次发射几十个星链，它就是一个困扰该公司的星链星座的问题。</p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2022/0911/06736646191d516.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0911/06736646191d516.jpg" title alt="QZhah2q4eBgXuP2Kfwws8b-970-80.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">2022年9月10日，SpaceX飞行次数最多的猎鹰9号火箭助推器在第14次发射和着陆后，出现在大西洋上的无人船"A Shortfall Of Gravitas"上。(图片来源：SpaceX)</p><p>在发射BlueWalker 3和Starlink卫星约8.5分钟后，SpaceX公司的猎鹰9号火箭的第一级返回地球，在该公司的无人机A Shorteship Of Gravitas上精确着陆。这次着陆创造了猎鹰9号助推器发射次数的新纪录。</p><p>当埃隆-马斯克在2018年推出工作母机猎鹰9号Block 5助推器时，他说SpaceX的目标是让它们至少飞行10次。随着随后的每次飞行，该公司已经推动了其火箭可重复使用的界限，作为其降低航天成本努力的一部分。</p><p style="text-align: center;"><a href="https://static.cnbetacdn.com/article/2022/0911/ca58a2619f21ccf.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0911/ca58a2619f21ccf.jpg" title alt="vM2eQhLhjzih2BbGsVUSX-970-80.jpg" referrerpolicy="no-referrer"></a></p><p style="text-align: center;">在2022年9月10日的发射中，SpaceX的猎鹰9号火箭上的34颗星链卫星的视图。</p><p>同样，SpaceX近年来不断扩大其Starlink卫星群的规模，以及覆盖的国家和地区的数量。8月，皇家加勒比宣布，到2023年，它将在其所有游轮上使用Starlink，SpaceX已经为世界各地的房车、船只和家庭提供服务。</p><p>自2019年以来，该公司已经发射了3200多颗卫星，还有数千颗卫星即将发射。SpaceX计划用12000颗在轨的Starlinks完成其初始星座设定，并已申请许可将其提升至30000颗卫星。</p><p>9月11日星期日，SpaceX计划发射另一项星链任务。这次飞行将携带54颗星链卫星，计划于美国东部时间晚上10:53（格林尼治标准时间0253）从佛罗里达州卡纳维拉尔角空军基地的空间发射场40号发射。你将能够在升空时间在Space.com上观看这次发射的实况。</p><p>周六的发射标志着SpaceX今年的第41次发射。这是该公司的第179次发射。</p>   
+</div>
+            

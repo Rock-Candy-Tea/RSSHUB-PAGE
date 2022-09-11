@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.JPG?v=1662862025160'
 author: 巴哈姆特
 comments: false
-date: 2022-09-11 07:10:34
+date: 2022-09-11 08:12:42
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.JPG?v=1662862025160'
 ---
 
@@ -21,7 +21,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.JPG?v=1662862025160" data-srcset="https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.JPG?v=1662862025160" data-srcset="https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -33,7 +33,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/81/40b5197028daa484564dec00221i5zh5.JPG?v=1662862176446" data-srcset="https://p2.bahamut.com.tw/B/2KU/81/40b5197028daa484564dec00221i5zh5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/81/40b5197028daa484564dec00221i5zh5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/81/40b5197028daa484564dec00221i5zh5.JPG?v=1662862176446" data-srcset="https://p2.bahamut.com.tw/B/2KU/81/40b5197028daa484564dec00221i5zh5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/81/40b5197028daa484564dec00221i5zh5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -45,7 +45,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 42.76%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/01/1eb9c110464928f0ff18eb5a441i6015.JPG?v=1662863536521" data-srcset="https://p2.bahamut.com.tw/B/2KU/01/1eb9c110464928f0ff18eb5a441i6015.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/01/1eb9c110464928f0ff18eb5a441i6015.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 42.76%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/01/1eb9c110464928f0ff18eb5a441i6015.JPG?v=1662863536521" data-srcset="https://p2.bahamut.com.tw/B/2KU/01/1eb9c110464928f0ff18eb5a441i6015.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/01/1eb9c110464928f0ff18eb5a441i6015.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -61,7 +61,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img" style="width:80%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 100.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/bff7b74bc47db781b9bbaba06a1i5zi5.JPG?v=1662862269807" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/bff7b74bc47db781b9bbaba06a1i5zi5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/bff7b74bc47db781b9bbaba06a1i5zi5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 100.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/bff7b74bc47db781b9bbaba06a1i5zi5.JPG?v=1662862269807" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/bff7b74bc47db781b9bbaba06a1i5zi5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/bff7b74bc47db781b9bbaba06a1i5zi5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -73,9 +73,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 66.67%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/83/2342bcf0fe75b26b04510fe9011i5zj5.JPG?v=1662862289427" data-srcset="https://p2.bahamut.com.tw/B/2KU/83/2342bcf0fe75b26b04510fe9011i5zj5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/83/2342bcf0fe75b26b04510fe9011i5zj5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/83/2342bcf0fe75b26b04510fe9011i5zj5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/83/2342bcf0fe75b26b04510fe9011i5zj5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.67%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/83/2342bcf0fe75b26b04510fe9011i5zj5.JPG?v=1662862289427" data-srcset="https://p2.bahamut.com.tw/B/2KU/83/2342bcf0fe75b26b04510fe9011i5zj5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/83/2342bcf0fe75b26b04510fe9011i5zj5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/83/2342bcf0fe75b26b04510fe9011i5zj5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/83/2342bcf0fe75b26b04510fe9011i5zj5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 66.84%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/92/f345c4589ddaeabb6035d8b4d71i5zs5.JPG?v=1662862289427" data-srcset="https://p2.bahamut.com.tw/B/2KU/92/f345c4589ddaeabb6035d8b4d71i5zs5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/92/f345c4589ddaeabb6035d8b4d71i5zs5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/92/f345c4589ddaeabb6035d8b4d71i5zs5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/92/f345c4589ddaeabb6035d8b4d71i5zs5.JPG 4x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.84%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/92/f345c4589ddaeabb6035d8b4d71i5zs5.JPG?v=1662862289427" data-srcset="https://p2.bahamut.com.tw/B/2KU/92/f345c4589ddaeabb6035d8b4d71i5zs5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/92/f345c4589ddaeabb6035d8b4d71i5zs5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/92/f345c4589ddaeabb6035d8b4d71i5zs5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/92/f345c4589ddaeabb6035d8b4d71i5zs5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -91,7 +91,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/656be26f99a5a96ad33cf4b3c01i5zp5.JPG?v=1662862306418" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/656be26f99a5a96ad33cf4b3c01i5zp5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/656be26f99a5a96ad33cf4b3c01i5zp5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/89/656be26f99a5a96ad33cf4b3c01i5zp5.JPG?v=1662862306418" data-srcset="https://p2.bahamut.com.tw/B/2KU/89/656be26f99a5a96ad33cf4b3c01i5zp5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/89/656be26f99a5a96ad33cf4b3c01i5zp5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -103,7 +103,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/656c27f976380978df5fda246d1i5zk5.JPG?v=1662862319774" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/656c27f976380978df5fda246d1i5zk5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/656c27f976380978df5fda246d1i5zk5.JPG 2x" style="max-width: unset;" title="《惡靈古堡 極限巔峰＋》可以在大型劇院中玩到" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/656c27f976380978df5fda246d1i5zk5.JPG?v=1662862319774" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/656c27f976380978df5fda246d1i5zk5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/656c27f976380978df5fda246d1i5zk5.JPG 2x" style="max-width: unset;" title="《惡靈古堡 極限巔峰＋》可以在大型劇院中玩到" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1" target="_blank">惡靈古堡</a> <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A5%B5%E9%99%90%E5%B7%94%E5%B3%B0" target="_blank">極限巔峰</a>＋》可以在大型劇院中玩到</figure>
 </li>
@@ -122,7 +122,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/85/0cb33deffae6a66ca1c7aec6cc1i5zl5.JPG?v=1662862420316" data-srcset="https://p2.bahamut.com.tw/B/2KU/85/0cb33deffae6a66ca1c7aec6cc1i5zl5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/85/0cb33deffae6a66ca1c7aec6cc1i5zl5.JPG 2x" style="max-width: unset;" title="芬尼根 燒烤酒吧" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/85/0cb33deffae6a66ca1c7aec6cc1i5zl5.JPG?v=1662862420316" data-srcset="https://p2.bahamut.com.tw/B/2KU/85/0cb33deffae6a66ca1c7aec6cc1i5zl5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/85/0cb33deffae6a66ca1c7aec6cc1i5zl5.JPG 2x" style="max-width: unset;" title="芬尼根 燒烤酒吧" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 芬尼根 燒烤酒吧</figure>
 </li>
@@ -131,7 +131,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img" style="width:75%">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 150.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/96/f30dbd7ec9c765ce525ce2fca91i5zw5.JPG?v=1662862491524" data-srcset="https://p2.bahamut.com.tw/B/2KU/96/f30dbd7ec9c765ce525ce2fca91i5zw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/96/f30dbd7ec9c765ce525ce2fca91i5zw5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 150.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/96/f30dbd7ec9c765ce525ce2fca91i5zw5.JPG?v=1662862491524" data-srcset="https://p2.bahamut.com.tw/B/2KU/96/f30dbd7ec9c765ce525ce2fca91i5zw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/96/f30dbd7ec9c765ce525ce2fca91i5zw5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -145,12 +145,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 66.67%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/86/49aeac5edfa60a063fd4a7395e1i5zm5.JPG?v=1662862520971" data-srcset="https://p2.bahamut.com.tw/B/2KU/86/49aeac5edfa60a063fd4a7395e1i5zm5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/86/49aeac5edfa60a063fd4a7395e1i5zm5.JPG 2x" style="max-width: unset;" title="惡靈古堡餐盤～在拉昆市警察局分配的緊急糧食 含稅 2980 日圓" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.67%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/86/49aeac5edfa60a063fd4a7395e1i5zm5.JPG?v=1662862520971" data-srcset="https://p2.bahamut.com.tw/B/2KU/86/49aeac5edfa60a063fd4a7395e1i5zm5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/86/49aeac5edfa60a063fd4a7395e1i5zm5.JPG 2x" style="max-width: unset;" title="惡靈古堡餐盤～在拉昆市警察局分配的緊急糧食 含稅 2980 日圓" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1" target="_blank">惡靈古堡</a>餐盤～在拉昆市警察局分配的緊急糧食 含稅 2980 日圓</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 66.67%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/87/aa06a532ef99d42e75475ebb9f1i5zn5.JPG?v=1662862520971" data-srcset="https://p2.bahamut.com.tw/B/2KU/87/aa06a532ef99d42e75475ebb9f1i5zn5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/87/aa06a532ef99d42e75475ebb9f1i5zn5.JPG 2x" style="max-width: unset;" title="以綠藥草為主題？的綠色小瓶，本來以為是裝飾，但其實裡面裝著醬汁" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.67%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/87/aa06a532ef99d42e75475ebb9f1i5zn5.JPG?v=1662862520971" data-srcset="https://p2.bahamut.com.tw/B/2KU/87/aa06a532ef99d42e75475ebb9f1i5zn5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/87/aa06a532ef99d42e75475ebb9f1i5zn5.JPG 2x" style="max-width: unset;" title="以綠藥草為主題？的綠色小瓶，本來以為是裝飾，但其實裡面裝著醬汁" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 以綠藥草為主題？的綠色小瓶，本來以為是裝飾，但其實裡面裝著醬汁</figure>
 </li>
@@ -165,7 +165,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/88/17da1254a11f0e3c4cb727c3951i5zo5.JPG?v=1662862700074" data-srcset="https://p2.bahamut.com.tw/B/2KU/88/17da1254a11f0e3c4cb727c3951i5zo5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/88/17da1254a11f0e3c4cb727c3951i5zo5.JPG 2x" style="max-width: unset;" title="獵狼～克里斯‧雷德菲爾率領的精銳部隊（照片左）和利卡～t-病毒的突然變異～（照片右），含酒精版含稅 900 日圓，無酒精版含稅 800 日圓" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/88/17da1254a11f0e3c4cb727c3951i5zo5.JPG?v=1662862700074" data-srcset="https://p2.bahamut.com.tw/B/2KU/88/17da1254a11f0e3c4cb727c3951i5zo5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/88/17da1254a11f0e3c4cb727c3951i5zo5.JPG 2x" style="max-width: unset;" title="獵狼～克里斯‧雷德菲爾率領的精銳部隊（照片左）和利卡～t-病毒的突然變異～（照片右），含酒精版含稅 900 日圓，無酒精版含稅 800 日圓" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 獵狼～克里斯‧雷德菲爾率領的精銳部隊（左）和利卡～t-病毒的突然變異～（右），含酒精版含稅 900 日圓，無酒精版含稅 800 日圓</figure>
 </li>
@@ -180,17 +180,17 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/4bfd8e72650442fe6504c2c6311i5zq5.JPG?v=1662862792061" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/4bfd8e72650442fe6504c2c6311i5zq5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/90/4bfd8e72650442fe6504c2c6311i5zq5.JPG 2x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/90/4bfd8e72650442fe6504c2c6311i5zq5.JPG?v=1662862792061" data-srcset="https://p2.bahamut.com.tw/B/2KU/90/4bfd8e72650442fe6504c2c6311i5zq5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/90/4bfd8e72650442fe6504c2c6311i5zq5.JPG 2x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 50.00%;">
-<figcaption style="padding-bottom: 150.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/97/cae216393011bbb443e650d5361i5zx5.JPG?v=1662862792061" data-srcset="https://p2.bahamut.com.tw/B/2KU/97/cae216393011bbb443e650d5361i5zx5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/97/cae216393011bbb443e650d5361i5zx5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/97/cae216393011bbb443e650d5361i5zx5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/97/cae216393011bbb443e650d5361i5zx5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 150.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/97/cae216393011bbb443e650d5361i5zx5.JPG?v=1662862792061" data-srcset="https://p2.bahamut.com.tw/B/2KU/97/cae216393011bbb443e650d5361i5zx5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/97/cae216393011bbb443e650d5361i5zx5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/97/cae216393011bbb443e650d5361i5zx5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/97/cae216393011bbb443e650d5361i5zx5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 50.00%;">
-<figcaption style="padding-bottom: 150.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/98/d9aec2ecb8441ceb9323c6aee51i5zy5.JPG?v=1662862792061" data-srcset="https://p2.bahamut.com.tw/B/2KU/98/d9aec2ecb8441ceb9323c6aee51i5zy5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/98/d9aec2ecb8441ceb9323c6aee51i5zy5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/98/d9aec2ecb8441ceb9323c6aee51i5zy5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/98/d9aec2ecb8441ceb9323c6aee51i5zy5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 150.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/98/d9aec2ecb8441ceb9323c6aee51i5zy5.JPG?v=1662862792061" data-srcset="https://p2.bahamut.com.tw/B/2KU/98/d9aec2ecb8441ceb9323c6aee51i5zy5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/98/d9aec2ecb8441ceb9323c6aee51i5zy5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/98/d9aec2ecb8441ceb9323c6aee51i5zy5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/98/d9aec2ecb8441ceb9323c6aee51i5zy5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/4c7721462a1353587d8592815d1i5zr5.JPG?v=1662862792061" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/4c7721462a1353587d8592815d1i5zr5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/4c7721462a1353587d8592815d1i5zr5.JPG 2x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 66.71%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/91/4c7721462a1353587d8592815d1i5zr5.JPG?v=1662862792061" data-srcset="https://p2.bahamut.com.tw/B/2KU/91/4c7721462a1353587d8592815d1i5zr5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/91/4c7721462a1353587d8592815d1i5zr5.JPG 2x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -210,12 +210,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 66.67%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/93/6cd879338a6b12c236021918131i5zt5.JPG?v=1662862849500" data-srcset="https://p2.bahamut.com.tw/B/2KU/93/6cd879338a6b12c236021918131i5zt5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/93/6cd879338a6b12c236021918131i5zt5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/93/6cd879338a6b12c236021918131i5zt5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/93/6cd879338a6b12c236021918131i5zt5.JPG 4x" style="max-width: unset;" title="環球怪物～恐怖傳說～" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.67%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/93/6cd879338a6b12c236021918131i5zt5.JPG?v=1662862849500" data-srcset="https://p2.bahamut.com.tw/B/2KU/93/6cd879338a6b12c236021918131i5zt5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/93/6cd879338a6b12c236021918131i5zt5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/93/6cd879338a6b12c236021918131i5zt5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/93/6cd879338a6b12c236021918131i5zt5.JPG 4x" style="max-width: unset;" title="環球怪物～恐怖傳說～" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 環球怪物～恐怖傳說～</figure>
 </li>
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 66.84%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/91a44b9be95a139f8fa5fcd4f11i5zu5.JPG?v=1662862849500" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/91a44b9be95a139f8fa5fcd4f11i5zu5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/94/91a44b9be95a139f8fa5fcd4f11i5zu5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/94/91a44b9be95a139f8fa5fcd4f11i5zu5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/94/91a44b9be95a139f8fa5fcd4f11i5zu5.JPG 4x" style="max-width: unset;" title="恰吉的迷信～恰吉的瘋狂醫院～" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 66.84%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/91a44b9be95a139f8fa5fcd4f11i5zu5.JPG?v=1662862849500" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/91a44b9be95a139f8fa5fcd4f11i5zu5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/94/91a44b9be95a139f8fa5fcd4f11i5zu5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/94/91a44b9be95a139f8fa5fcd4f11i5zu5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/94/91a44b9be95a139f8fa5fcd4f11i5zu5.JPG 4x" style="max-width: unset;" title="恰吉的迷信～恰吉的瘋狂醫院～" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 恰吉的迷信～恰吉的<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%98%8B%E7%8B%82%E9%86%AB%E9%99%A2" target="_blank">瘋狂醫院</a>～</figure>
 </li>
@@ -230,7 +230,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/80/079c21c7c4fefafe7a8b4b38cf1i5zg5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 70.45%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/95/89072e58d60c6e22f98bf9d8621i5zv5.JPG?v=1662862955722" data-srcset="https://p2.bahamut.com.tw/B/2KU/95/89072e58d60c6e22f98bf9d8621i5zv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/95/89072e58d60c6e22f98bf9d8621i5zv5.JPG 2x" style="max-width: unset;" title="在尖叫系設施好萊塢夢幻飛車（HOLLYWOOD DREAM - THE RIDE）中，搭載了第三代 J SOUL BROTHERS 的樂曲「Rat-tat-tat」" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 70.45%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/95/89072e58d60c6e22f98bf9d8621i5zv5.JPG?v=1662862955722" data-srcset="https://p2.bahamut.com.tw/B/2KU/95/89072e58d60c6e22f98bf9d8621i5zv5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/95/89072e58d60c6e22f98bf9d8621i5zv5.JPG 2x" style="max-width: unset;" title="在尖叫系設施好萊塢夢幻飛車（HOLLYWOOD DREAM - THE RIDE）中，搭載了第三代 J SOUL BROTHERS 的樂曲「Rat-tat-tat」" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 在尖叫系設施好萊塢夢幻飛車（HOLLYWOOD DREAM - THE RIDE）中，搭載了第三代 J SOUL BROTHERS 的樂曲「Rat-tat-tat」</figure>
 </li>
