@@ -28,7 +28,7 @@ Infinite全球发行，《阿凡达：清算》是一款以阿凡达世界为背
 这款手游基于虚幻引擎制作，玩家们可在潘多拉星球创建自己的“阿凡达”，与为保卫家园的纳美人并肩作战或单枪匹马同抢夺星球资源的RDA部队交战，其中包含单人故事任务、合作任务和PvP模式，暂未开启国服预约。
 </p>
 <p style="text-indent:2em;">
-<strong>游戏网：</strong> 
+<strong>游戏截图：</strong> 
 </p>
 <p align="center">
 <img src="https://img.3dmgame.com/uploads/images/news/20220911/1662865569_405472.jpg" alt="祖龙开发MMO手游 《阿凡达：清算》公布开发者预告" referrerpolicy="no-referrer"> 
