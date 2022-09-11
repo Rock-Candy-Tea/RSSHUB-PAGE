@@ -1,0 +1,22 @@
+
+---
+title: '多平台
+《刺客教條》公開品牌未來展望 包括以日本為舞台的「代號 RED」及 3A 級手機遊戲
+ 78 個人說推！'
+categories: 
+ - 游戏
+ - GNN.tw 游戏新闻
+ - GNN.tw 游戏新闻
+headimg: 'https://p2.bahamut.com.tw/S/2KU/92/1987eb849d648da88239872ae81i5x05.JPG'
+author: GNN.tw 游戏新闻
+comments: false
+date: Invalid Date
+thumbnail: 'https://p2.bahamut.com.tw/S/2KU/92/1987eb849d648da88239872ae81i5x05.JPG'
+---
+
+<div>   
+Ubisoft 今日舉辦 Ubisoft Forward 發表會，在《刺客教條》展示會環節中提到，自 2007 年第一款《刺客教條》遊戲問世以來，該品牌已在全球售出超過 2 億套遊戲，成為電玩遊戲業界舉足輕重的遊戲系列之一。 &n...
+繼續閱讀
+<img src="https://p2.bahamut.com.tw/S/2KU/92/1987eb849d648da88239872ae81i5x05.JPG" referrerpolicy="no-referrer">  
+</div>
+            

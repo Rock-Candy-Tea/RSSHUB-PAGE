@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-e45861e7d041d43119d911985ca4bebe_1440w.jpg?source=b1748391'
+headimg: 'https://pic2.zhimg.com/v2-713bc0579aa75545f074b1337bdc4954_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Sun, 11 Sep 2022 05:18:13 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-e45861e7d041d43119d911985ca4bebe_1440w.jpg?source=b1748391'
+date: Sun, 11 Sep 2022 06:13:49 GMT
+thumbnail: 'https://pic2.zhimg.com/v2-713bc0579aa75545f074b1337bdc4954_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-平老虎的回答<br><br><p data-pid="Mn9yhPdA">抓紧炒作，主要应该在抖音这样媒体来大张旗鼓地填鸭式不停播放：</p><p data-pid="jBvavlco"><b><i>「灵动岛」被指抄袭，iPhone 14 被指抄袭华为等安卓厂商 5 大创新</i></b></p><p data-pid="e4RsB3fL"><b><i>「灵动岛」被指抄袭，iPhone 14 被指抄袭华为等安卓厂商 5 大创新</i></b></p><p data-pid="A-qFEL2c"><b><i>「灵动岛」被指抄袭，iPhone 14 被指抄袭华为等安卓厂商 5 大创新</i></b></p><p data-pid="Xw24NIYe"><b><i>「灵动岛」被指抄袭，iPhone 14 被指抄袭华为等安卓厂商 5 大创新</i></b></p><p data-pid="C0FTuGhl"><b><i>「灵动岛」被指抄袭，iPhone 14 被指抄袭华为等安卓厂商 5 大创新</i></b></p><p data-pid="KhtMwusr">……</p><p data-pid="S9JPIFUb">因为我现在比较郁闷，iPhone 14 Pro根本没抢上，最惨的结局就是线下加几千元买黄牛，如果这个指责被现在已经订货的主儿看到，有一台iPhone 14 Pro被放弃，我就有机会早点买到便宜的手机了。</p><p data-pid="6uxSq1aS">或者你们印几个横幅，16号那天拿到苹果店去挂着？</p><p data-pid="SAXOWGjd">看看有多少预定的客户、黄牛会因此放弃购买。</p><p data-pid="MkmJH6Es">我给你出钱！</p><p data-pid="dJOSUs6s">图文无关</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-e45861e7d041d43119d911985ca4bebe_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="1920" data-rawheight="1920" data-default-watermark-src="https://picx.zhimg.com/v2-6409d417a7c78359b40993cdca231b55_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-e45861e7d041d43119d911985ca4bebe_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="VHCJW3cv">预计9月16号发布之后，有如下新闻：</p><p data-pid="pl2_IPJm">用户抱怨iPhone 14入手后发热严重</p><p data-pid="lpiYMvgh">用户抱怨iPhone 14 Pro拍照鬼影严重</p><p data-pid="K6IFI1N9">用户用复印纸居然能插进iPhone 14的缝隙</p><p data-pid="jb2CLq_g">……</p>  
+养猫的哈士奇的回答<br><br><p data-pid="c9IA70c0">其实最像的不是问题中提到的几款而是2018年发布的荣耀V20，这个创意肯定不是苹果先有的。当时荣耀采用的是左上角单孔设计，然后UI设计开发了“胶囊”功能。在通话时，前摄会和UI联动成为一个现实通话时间胶囊，还有自拍胶囊，你看PPT上还有灵动俩字。</p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-713bc0579aa75545f074b1337bdc4954_1440w.jpg?source=b1748391" data-rawwidth="600" data-rawheight="112" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-5022ab70ec48f7081d1bc00c0c3f52f3_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-713bc0579aa75545f074b1337bdc4954_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://pic2.zhimg.com/v2-2473b586b29dbe85b28c04b192598aac_1440w.jpg?source=b1748391" data-rawwidth="600" data-rawheight="112" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-f33c4d82848cd3fac94c3e0ba95a7d3c_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic2.zhimg.com/v2-2473b586b29dbe85b28c04b192598aac_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="KTwVR2oC">但是为什么安卓厂商引不起关注呢？一方面是影响力差点，另一方面是因为正面没有那么大的一个挖孔，所以不是特别影响。</p><p></p>  
 </div>
             
