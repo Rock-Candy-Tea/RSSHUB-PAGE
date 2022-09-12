@@ -1,0 +1,32 @@
+
+---
+title: '随便上路没人查！凯迪拉克CT4原神版申报图亮相'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20220912/s_cf3bfef4c0be439f8cefc3363fdece6b.png'
+author: 快科技（原驱动之家）
+comments: false
+date: Mon, 12 Sep 2022 20:09:33 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20220912/s_cf3bfef4c0be439f8cefc3363fdece6b.png'
+---
+
+<div>   
+<p>对于追求个性的车主来说，车身改色和车膜贴图算是性价比较高的改车方案之一，不过，一些贴图改色，往往因为面积、尺寸等不符合规定要求，上路容易被管理部门查处。</p>
+<p>而官方改装则完全规避了此类风险，日前，凯迪拉克CT4和XT4的原神痛车申报图曝光。两款车型以车膜和车身贴纸的形式进行申报，<strong>可见新车与《原神》IP跨次元合作车型将推出，并大概率以车膜的方式进行售卖。</strong></p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220912/cf3bfef4c0be439f8cefc3363fdece6b.png" target="_blank"><img alt="随便上路没人查！凯迪拉克CT4原神版申报图曝光" h="220" src="https://img1.mydrivers.com/img/20220912/s_cf3bfef4c0be439f8cefc3363fdece6b.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+<p>两款凯迪拉克原神痛车均将推出“枫原万叶”和“北斗”两个角色的主题图案，CT4主题颜色分别为白青和白蓝色，而XT4原神痛车的“北斗”主题采用了红蓝色。</p>
+<p>同时，申报车型的痛车图案和车展先前展示的有明显的区别，除了两车采用了全新角色主题，<strong>并且整个角色画像尺寸因考虑到法规要求有所缩小，完全在车身上而并没有延伸至车窗。</strong></p>
+<p>此外，对于凯迪拉克CT4而言，作为“年轻人的第一台豪华车”，和原神联动，在年轻人群体中也更容易引起共鸣。新车上市后，有望受到年轻消费者的青睐。</p>
+<p align="center"><a href="https://img1.mydrivers.com/img/20220912/d35e1581038643b4b4aa3e7b3bb34c51.png" target="_blank"><img alt="随便上路没人查！凯迪拉克CT4原神版申报图曝光" h="651" src="https://img1.mydrivers.com/img/20220912/s_d35e1581038643b4b4aa3e7b3bb34c51.png" style="border: black 1px solid;" w="600" referrerpolicy="no-referrer"></a></p>
+
+            
+ <div style="overflow: hidden;font-size:14px;padding-top:30px;border-bottom:1px solid #eee;">
+           <p class="zhuanzai">【本文结束】如需转载请务必注明出处：快科技</p>  
+          <p class="url"><span style="color:#666">责任编辑：若风</span></p>
+        </div>
+     
+        
+</div>
+            
