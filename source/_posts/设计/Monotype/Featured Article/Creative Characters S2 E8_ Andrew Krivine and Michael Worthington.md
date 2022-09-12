@@ -29,24 +29,13 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
       </div>
                       <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/podcast" hreflang="en">Podcast</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/creative-characters" hreflang="en">Creative Characters</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/media-and-publishing-fonts" hreflang="en">Media and publishing fonts</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/global-branding-fonts" hreflang="en">Global branding fonts</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/podcast" hreflang="en">Podcast</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/creative-characters" hreflang="en">Creative Characters</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/media-and-publishing-fonts" hreflang="en">Media and publishing fonts</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/global-branding-fonts" hreflang="en">Global branding fonts</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -178,24 +167,19 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span>On Creative Characters, </span></span></span><span><span><span>we meet creative people working at the intersection of type and everyday life.</span></span></span> <span><span><span><span><span> You can listen below, or on </span></span><a href="https://podcasts.apple.com/us/podcast/creative-characters/id1554900091"><span><span>Apple</span></span></a><span><span>, </span></span><a href="https://open.spotify.com/show/0YMgdWoS68rPxMautyRgcX"><span><span>Spotify</span></span></a><span><span>, </span></span><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9tb25vdHlwZS5saWJzeW4uY29tL3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwjY9_DH-rzvAhUAAAAAHQAAAAAQAQ&hl=en"><span><span>Google Podcasts</span></span></a><span><span>, and wherever quality podcasts are available.</span></span></span></span></span></p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span>On Creative Characters, </span></span></span><span><span><span>we meet creative people working at the intersection of type and everyday life.</span></span></span> <span><span><span><span><span> You can listen below, or on </span></span><a href="https://podcasts.apple.com/us/podcast/creative-characters/id1554900091"><span><span>Apple</span></span></a><span><span>, </span></span><a href="https://open.spotify.com/show/0YMgdWoS68rPxMautyRgcX"><span><span>Spotify</span></span></a><span><span>, </span></span><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9tb25vdHlwZS5saWJzeW4uY29tL3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwjY9_DH-rzvAhUAAAAAHQAAAAAQAQ&hl=en"><span><span>Google Podcasts</span></span></a><span><span>, and wherever quality podcasts are available.</span></span></span></span></span></p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>This week’s guests are multi-talented. We’re welcoming Andrew Krivine, author and punk rock collector, alongside curator Michael Worthington, founding partner of <a href="https://counterspace.net/">Counterspace</a> and faculty of graphic design at CalArts. The creative duo is here to tell the tale of how they created the newest Pacific Design Center exhibit, <span><span>“<a href="https://www.tornapart.graphics/">Torn Apart</a>,” featuring the largest exhibition of punk and new wave graphics ever shown on the West Coast.</span></span></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>This week’s guests are multi-talented. We’re welcoming Andrew Krivine, author and punk rock collector, alongside curator Michael Worthington, founding partner of <a href="https://counterspace.net/">Counterspace</a> and faculty of graphic design at CalArts. The creative duo is here to tell the tale of how they created the newest Pacific Design Center exhibit, <span><span>“<a href="https://www.tornapart.graphics/">Torn Apart</a>,” featuring the largest exhibition of punk and new wave graphics ever shown on the West Coast.</span></span></p>
 
 <h3><span><span><strong><span><span>Knowing a good thing when you hear it.</span></span></strong></span></span></h3>
 
@@ -205,22 +189,17 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
 <p><span><span><span><span>“The first few times I heard it, I couldn’t understand what the singer was saying. It was really getting on my nerves, but then the fourth time it suddenly hit me: this is the greatest record of all time,” says Andrew.</span></span></span></span></p>
 
-<p><span><span><span><span>He was so attracted to graphic ephemera of British punk music that he started collecting it. Today, he owns one of the largest private collections of punk and post-punk graphic design and memorabilia in the world. His collection contains over 7,000 pieces including posters, flyers, fanzines, and stickers.</span></span></span></span></p>
-            </div>
+<p><span><span><span><span>He was so attracted to graphic ephemera of British punk music that he started collecting it. Today, he owns one of the largest private collections of punk and post-punk graphic design and memorabilia in the world. His collection contains over 7,000 pieces including posters, flyers, fanzines, and stickers.</span></span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2022-06/TornApart_198.webp?itok=6rjWQ5qI 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2022-06/TornApart_198.webp?itok=Q19czK1W 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2022-06/TornApart_198.webp?itok=RPUf-2lV 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -231,22 +210,17 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-
+</div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span><span>Andrew teamed up with Michael to curate this collection of graphics from 1976-1986 into a 1,000-piece showcase: the “Torn Apart” exhibit at the Pacific Design Center. To hear the full co-creation story, listen to the <a href="https://podcasts.apple.com/us/podcast/andrew-krivine-and-michael-worthington/id1554900091?i=1000568024552">podcast</a>. </span></span></span></span></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span><span>Andrew teamed up with Michael to curate this collection of graphics from 1976-1986 into a 1,000-piece showcase: the “Torn Apart” exhibit at the Pacific Design Center. To hear the full co-creation story, listen to the <a href="https://podcasts.apple.com/us/podcast/andrew-krivine-and-michael-worthington/id1554900091?i=1000568024552">podcast</a>. </span></span></span></span></p>
 
 <p><span><span><span><span>On a similar wavelength, Michael has also been drawn to the typography of bands and musicians since childhood.</span></span></span></span></p>
 
@@ -258,22 +232,17 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
 <p><span><span><span><span>“It was like you suddenly got permission to do whatever you wanted to do. I think in England that was also tied into an oppressive class system where the working class always felt like: we can’t do anything or we’re not allowed to do anything. We have to have permission from the upper class,” says Michael.</span></span></span></span></p>
 
-<p><span><span><span><span>He cites Jamie Reid as one of the graphic designers who really put the attitude of punk into design. His typography featured newspaper cut letters that looked like a ransom note for the Sex Pistols’ album <em>Never Mind the Bollocks</em> and the singles “Anarchy in the UK” and “God Save The Queen”.</span></span></span></span></p>
-            </div>
+<p><span><span><span><span>He cites Jamie Reid as one of the graphic designers who really put the attitude of punk into design. His typography featured newspaper cut letters that looked like a ransom note for the Sex Pistols’ album <em>Never Mind the Bollocks</em> and the singles “Anarchy in the UK” and “God Save The Queen”.</span></span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2022-06/TornApart2_196.webp?itok=ZFcDgl4B 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2022-06/TornApart2_196.webp?itok=iFMSlv6R 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2022-06/TornApart2_196.webp?itok=0UcdEEHq 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -284,22 +253,17 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-
+</div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span><span>The do-it-yourself mentality of punk rock translated across album covers and posters, which were often designed by friends of band members who were all in art school together. </span></span></span></span></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span><span>The do-it-yourself mentality of punk rock translated across album covers and posters, which were often designed by friends of band members who were all in art school together. </span></span></span></span></p>
 
 <p><span><span><span><span>“</span></span><span><span>It was this weird constellation, where these amazingly talented people happened to cross paths to a degree,” says Andrew.</span></span></span></span></p>
 
@@ -311,22 +275,17 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
 <p><span><span><span><span>Now that we’ve taken a stroll down punk history lane, it’s time to see how these designs from the 70s and 80s have stood the test of time.</span></span></span></span></p>
 
-<p><span><span><span><span>One of Andrew’s favorite posters is the design Peter Saville created for electronic band Orchestral Manoeuvres in the Dark. The artwork was for their 1983 album Dazzle Ships.</span></span></span></span></p>
-            </div>
+<p><span><span><span><span>One of Andrew’s favorite posters is the design Peter Saville created for electronic band Orchestral Manoeuvres in the Dark. The artwork was for their 1983 album Dazzle Ships.</span></span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2022-06/TornApart3_191.webp?itok=jwMPPskt 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2022-06/TornApart3_191.webp?itok=e6pvGm5G 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2022-06/TornApart3_191.webp?itok=Bj3Pq7lJ 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -337,51 +296,36 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-
+</div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span><span>Andrew also has an appreciation for designer John Angus, who served as the in-house poster designer for University of Lancaster, in North West England. Andrew’s favorite design is the poster for The Adverts, a 1976 English punk band. “The colors are extraordinary and the imagination is pretty wonderful.”</span></span></span></span></p>
-            </div>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span><span>Andrew also has an appreciation for designer John Angus, who served as the in-house poster designer for University of Lancaster, in North West England. Andrew’s favorite design is the poster for The Adverts, a 1976 English punk band. “The colors are extraordinary and the imagination is pretty wonderful.”</span></span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span><span>Among Michael’s standout favorites is Malcolm Garrett’s poster design for the English punk rock band the Buzzcocks. </span></span></span></span></p>
-            </div>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span><span>Among Michael’s standout favorites is Malcolm Garrett’s poster design for the English punk rock band the Buzzcocks. </span></span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2022-06/TornApart4_199.webp?itok=1WgHVf9S 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2022-06/TornApart4_199.webp?itok=Hu32KDH2 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2022-06/TornApart4_199.webp?itok=G04ZftAy 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -392,49 +336,35 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-
+</div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span><span>Michael also enjoys the expressive, novelty typefaces that designer Martin Kaye created for the gigs at the Paradiso in Amsterdam. Kaye used split fountain screen-printing methods, and was the Paradiso’s longest serving in-house designer.</span></span></span></span></p>
-            </div>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span><span>Michael also enjoys the expressive, novelty typefaces that designer Martin Kaye created for the gigs at the Paradiso in Amsterdam. Kaye used split fountain screen-printing methods, and was the Paradiso’s longest serving in-house designer.</span></span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span><span>As these designs get released back into the public eye through the “Torn Apart” art exhibit in West Hollywood, Andrew and Michael are excited to share their passion for design and hopefully inspire the next generation.</span></span></span></span></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span><span>As these designs get released back into the public eye through the “Torn Apart” art exhibit in West Hollywood, Andrew and Michael are excited to share their passion for design and hopefully inspire the next generation.</span></span></span></span></p>
 
 <p><span><span><span><span>“If these designs can trigger an emotional and aesthetic connection with young people, that would be hugely gratifying for me,” says Andrew.</span></span></span></span></p>
 
-<p><span><span><span><span>V</span></span><span><span>isit the “Torn Apart” exhibit at the PDC Design Gallery</span></span><span><span><span> until September 8. For more information, check out the PDC Design Gallery on </span></span></span><a href="https://www.instagram.com/pacificdesigncenter/?hl=en"><span><span>IG</span></span></a> <span><span><span>and the </span></span></span><a href="https://www.tornapart.graphics/"><span><span>exhibit website</span></span></a><span><span><span>. To see more of Andrew’s work, view his collection of </span></span></span><a href="https://www.pavilionbooks.com/contributor/andrew-krivine/"><span><span>published books</span></span></a><span><span><span>.</span></span></span></span></span></p>
-            </div>
+<p><span><span><span><span>V</span></span><span><span>isit the “Torn Apart” exhibit at the PDC Design Gallery</span></span><span><span><span> until September 8. For more information, check out the PDC Design Gallery on </span></span></span><a href="https://www.instagram.com/pacificdesigncenter/?hl=en"><span><span>IG</span></span></a> <span><span><span>and the </span></span></span><a href="https://www.tornapart.graphics/"><span><span>exhibit website</span></span></a><span><span><span>. To see more of Andrew’s work, view his collection of </span></span></span><a href="https://www.pavilionbooks.com/contributor/andrew-krivine/"><span><span>published books</span></span></a><span><span><span>.</span></span></span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
 <div data-block-plugin-id="block_content:4262bc72-36da-4e25-b4f1-31796ed1eaa3" class="block block-block-content block-block-content4262bc72-36da-4e25-b4f1-31796ed1eaa3">
@@ -451,6 +381,7 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
                   </div>
     
   </div>
+
 
 
             

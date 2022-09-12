@@ -29,15 +29,10 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
       </div>
                       <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/studio" hreflang="en">Studio</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/fonts" hreflang="en">Fonts</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/studio" hreflang="en">Studio</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/fonts" hreflang="en">Fonts</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -169,24 +164,19 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p>From alternates to X-height, this list of typography terms and definitions covers just about everything you’d want to know about fonts and typography.</p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p>From alternates to X-height, this list of typography terms and definitions covers just about everything you’d want to know about fonts and typography.</p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr"><strong>Jump to: <a href="https://www.monotype.com/resources/studio/typography-terms#A">A</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#B">B</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#C">C</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#D">D</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#E">E</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#F">F</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#G">G</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#H">H</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#I">I</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#J">J</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#K">K</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#L">L</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#M">M</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#N">N</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#O">O</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#P">P</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#R">R</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#S">S</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#T">T</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#U">U</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#V">V</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#W">W</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#X">X</a>.</strong></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr"><strong>Jump to: <a href="https://www.monotype.com/resources/studio/typography-terms#A">A</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#B">B</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#C">C</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#D">D</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#E">E</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#F">F</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#G">G</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#H">H</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#I">I</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#J">J</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#K">K</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#L">L</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#M">M</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#N">N</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#O">O</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#P">P</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#R">R</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#S">S</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#T">T</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#U">U</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#V">V</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#W">W</a>, <a href="https://www.monotype.com/resources/studio/typography-terms#X">X</a>.</strong></p>
 
 <h3 dir="ltr" id="A">A</h3>
 
@@ -246,22 +236,17 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
 <h4><strong>Baseline.</strong></h4>
 
-<p dir="ltr">The imaginary line upon which the letters in a font appear to rest.</p>
-            </div>
+<p dir="ltr">The imaginary line upon which the letters in a font appear to rest.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2020-01/Baseline_large.webp?itok=ZsweF9hj 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2020-01/Baseline_large.webp?itok=iTKdnl0d 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2020-01/Baseline_large.webp?itok=TfSTNSMT 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -272,27 +257,19 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-    <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Letters appear to sit on the baseline, shown in red, with the exception of letters with a descender, such as the lower-case “p.” Photo credit: Fontshop.com.</p>
-            </div>
-          </div>
-
+</div>
+</div><div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Letters appear to sit on the baseline, shown in red, with the exception of letters with a descender, such as the lower-case “p.” Photo credit: Fontshop.com.</p></div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h4 dir="ltr"><strong>Beak.</strong></h4>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h4 dir="ltr"><strong>Beak.</strong></h4>
 
 <p dir="ltr">A triangular, serif-like protrusion at the end of a stroke in certain serif type designs.</p>
 
@@ -312,22 +289,17 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
 <h4><strong>Cap height.</strong></h4>
 
-<p dir="ltr">The height from the baseline to the top of the uppercase letters (not including diacritics).</p>
-            </div>
+<p dir="ltr">The height from the baseline to the top of the uppercase letters (not including diacritics).</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2020-01/Cap-height_large.webp?itok=2329WmBv 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2020-01/Cap-height_large.webp?itok=1bH5wHwT 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2020-01/Cap-height_large.webp?itok=Gtyn2zlt 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -338,27 +310,19 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-    <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Cap height is the height from the baseline to the top of the uppercase letters. Photo credit: Fontshop.com.</p>
-            </div>
-          </div>
-
+</div>
+</div><div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Cap height is the height from the baseline to the top of the uppercase letters. Photo credit: Fontshop.com.</p></div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h4 dir="ltr"><strong>Case sensitive.</strong></h4>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h4 dir="ltr"><strong>Case sensitive.</strong></h4>
 
 <p dir="ltr">The position of a number of punctuation marks like hyphens, brackets, slashes etc. is centered on the x-height of the lowercase letters. Fonts with case-sensitive punctuation also have slightly raised alternates of these characters that are centered on the cap height (the height of the capital).</p>
 
@@ -394,22 +358,17 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
 <h4><strong>Descender.</strong></h4>
 
-<p dir="ltr">Any part in a lowercase letter that extends below the baseline, found for example in g, j, p, q, y, etc. In italics, f often has a descender. The old-style numerals 3, 4, 5, 7, and 9 also have descenders. Some types of descenders have specific names.</p>
-            </div>
+<p dir="ltr">Any part in a lowercase letter that extends below the baseline, found for example in g, j, p, q, y, etc. In italics, f often has a descender. The old-style numerals 3, 4, 5, 7, and 9 also have descenders. Some types of descenders have specific names.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2020-01/Descender_large.webp?itok=9AtZWIMW 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2020-01/Descender_large.webp?itok=5OIv5zB0 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2020-01/Descender_large.webp?itok=K6D4dHUz 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -420,27 +379,19 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-    <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>The lower-case g, j, p, q, and y are the most common characters with descenders, but some numbers and italicized letters can have them as well. Photo credit: Fontshop.com.</p>
-            </div>
-          </div>
-
+</div>
+</div><div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>The lower-case g, j, p, q, and y are the most common characters with descenders, but some numbers and italicized letters can have them as well. Photo credit: Fontshop.com.</p></div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h4 id="Diacritics"><strong>Diacritics</strong></h4>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h4 id="Diacritics"><strong>Diacritics</strong></h4>
 
 <p dir="ltr">A diacritic is an ancillary mark or sign added to a letter. Accents are one type of diacritics. In the Latin alphabet their function is to change the sound value of the letters to which they are added; in other alphabetical systems like Arabic or Hebrew they may indicate sounds (vowels and tones) which are not conveyed by the basic alphabet.</p>
 
@@ -638,22 +589,17 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
 <h4><strong>Midline.</strong></h4>
 
-<p dir="ltr">The imaginary line that rests on top of the body of the lowercase letters, disregarding ascenders. The distance between the baseline and the midline is the x-height.</p>
-            </div>
+<p dir="ltr">The imaginary line that rests on top of the body of the lowercase letters, disregarding ascenders. The distance between the baseline and the midline is the x-height.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2020-01/Midline_large.webp?itok=rPRA_h3J 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2020-01/Midline_large.webp?itok=8lj3G906 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2020-01/Midline_large.webp?itok=wQjcM0EK 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -664,27 +610,19 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-    <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>The midline rests on top of the body of the lowercase letters. Photo credit: Fontshop.com.</p>
-            </div>
-          </div>
-
+</div>
+</div><div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>The midline rests on top of the body of the lowercase letters. Photo credit: Fontshop.com.</p></div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h4 id="Monospaced"><strong>Monospaced.</strong></h4>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h4 id="Monospaced"><strong>Monospaced.</strong></h4>
 
 <p dir="ltr">Characters designed to all have the same width, ignoring their normal proportions. Wide characters have an unusually narrow design, while narrow characters have lots of white space on both sides. This allows for neatly setting columns of text and tables, for example in programming code, accounting, etc.</p>
 
@@ -956,22 +894,17 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
 <h4><strong>X-height.</strong></h4>
 
-<p dir="ltr">The height of the lowercase letters, disregarding ascenders or descenders, typically exemplified by the letter x. The relationship of the x-height to the body defines the perceived type size. A typeface with a large x-height looks much bigger than a typeface with a small x-height at the same size.</p>
-            </div>
+<p dir="ltr">The height of the lowercase letters, disregarding ascenders or descenders, typically exemplified by the letter x. The relationship of the x-height to the body defines the perceived type size. A typeface with a large x-height looks much bigger than a typeface with a small x-height at the same size.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2020-01/X-height_large.webp?itok=IsYcmQbv 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2020-01/X-height_large.webp?itok=W7KApcji 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2020-01/X-height_large.webp?itok=6Ncpje3D 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -982,22 +915,15 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-    <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>The relationship of the x-height to the body defines the perceived type size. Photo credit: Fontshop.com.</p>
-            </div>
-          </div>
-
+</div>
+</div><div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>The relationship of the x-height to the body defines the perceived type size. Photo credit: Fontshop.com.</p></div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
             

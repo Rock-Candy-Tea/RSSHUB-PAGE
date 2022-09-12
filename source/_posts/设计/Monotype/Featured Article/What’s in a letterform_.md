@@ -29,15 +29,10 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
       </div>
                       <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/studio" hreflang="en">Studio</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/fonts" hreflang="en">Fonts</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/studio" hreflang="en">Studio</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/fonts" hreflang="en">Fonts</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -169,34 +164,27 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p>A letter is more than the sum of its parts, but sometimes it helps to know what those parts are called. And it may not surprise you to learn that in a field as meticulous as typography, every little piece of a letter has a name.</p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p>A letter is more than the sum of its parts, but sometimes it helps to know what those parts are called. And it may not surprise you to learn that in a field as meticulous as typography, every little piece of a letter has a name.</p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
           
           </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.webp?itok=cfBfOtto 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.webp?itok=WQLBmzGc 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2020-06/200121_MT_Infographic_WhatsInALetterform_FINAL_0.webp?itok=N00o7hn0 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -207,17 +195,13 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-
+</div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
             

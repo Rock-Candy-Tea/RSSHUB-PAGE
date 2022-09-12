@@ -41,18 +41,11 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_910/public
 
       </div>
                   <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/creative-matters" hreflang="en">Creative matters</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/type-design" hreflang="en">Type design</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/media-and-publishing-fonts" hreflang="en">Media and publishing fonts</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/creative-matters" hreflang="en">Creative matters</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/type-design" hreflang="en">Type design</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/media-and-publishing-fonts" hreflang="en">Media and publishing fonts</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -184,76 +177,56 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_910/public
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p> It’s a sad reality that typography doesn’t always get the dedicated time or resources it deserves in art school curriculums these days. This is just a sign of the times – less funding, larger class sizes and fewer teaching resources mean that course leaders have to make tough decisions about which subjects to focus on. This reality has motivated our studio to work closely with art schools, sharing our knowledge and experience with budding typographers and design students. We do this regularly, mainly through workshops and project briefs. Working with the design leaders of the future is rewarding and deeply inspiring, and we love it.  </p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p> It’s a sad reality that typography doesn’t always get the dedicated time or resources it deserves in art school curriculums these days. This is just a sign of the times – less funding, larger class sizes and fewer teaching resources mean that course leaders have to make tough decisions about which subjects to focus on. This reality has motivated our studio to work closely with art schools, sharing our knowledge and experience with budding typographers and design students. We do this regularly, mainly through workshops and project briefs. Working with the design leaders of the future is rewarding and deeply inspiring, and we love it.  </p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Over the past four years, we’ve been lucky to forge a close partnership with the Limerick School of Art & Design/TUS in Ireland. The school is Creative Type Director Tom Foley’s alma mater, and since joining Monotype in 2018, Foley and his teammates have worked on several workshops and course modules with the leading fine art, design and creative media school.   </p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Over the past four years, we’ve been lucky to forge a close partnership with the Limerick School of Art & Design/TUS in Ireland. The school is Creative Type Director Tom Foley’s alma mater, and since joining Monotype in 2018, Foley and his teammates have worked on several workshops and course modules with the leading fine art, design and creative media school.   </p>
 
 <p>Pre-COVID, Foley was able to visit the school and provide an interactive, in-person workshop to kick off the curriculum. “Spending time on site with students and educators is so valuable. For them it humanizes the sometimes intimidating subject of typography, and for us it provides context and feedback on what we are teaching and showing to students. Their response to our teaching is as valuable to us as our experience is to them. It’s a two-way street. We were already planning the brief for 2020 when COVID hit. Given that the students had already faced unprecedented disruption, we were determined to find a way to adapt our brief to give them as good an experience as possible via a ‘virtual’ experience,” says Foley.</p>
 
 <p>So in 2020 and 2021, Foley and his teammate Emilios Theofanous worked with Limerick to create a fully virtual offering. It was important that the brief was engaging and worthwhile for the fourth-year students. Eamon Spelman, lecturer on the Graphic Design Communication Course, and our partner in the program, talked of the importance of this type of partnership, <span><span><span><span><span>“</span></span></span></span></span>As educators, we know how important typography and good typographic practice is. We see it as central to what we do as graphic designers. I sometimes say that we own it; that typography is ours. We share so many other areas of design practice with others, like animation or illustration, and we value the importance of putting typography at the centre of what the students learn here on the course.<span><span><span><span><span>”</span></span></span> </span></span></p>
 
-<p>Teaching virtually required us to adjust what we ask of students, and how we support them. Pre-COVID we focused primarily on print and the craft of digital typesetting. These aspects of typography are still vital but did not translate well to the ‘new normal’ that students and teachers were facing. We decided to adapt our brief to incorporate other, equally important aspects of our typographic business that would enrich the experience of learning online.   </p>
-            </div>
+<p>Teaching virtually required us to adjust what we ask of students, and how we support them. Pre-COVID we focused primarily on print and the craft of digital typesetting. These aspects of typography are still vital but did not translate well to the ‘new normal’ that students and teachers were facing. We decided to adapt our brief to incorporate other, equally important aspects of our typographic business that would enrich the experience of learning online.   </p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h3>The Brief. </h3>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h3>The Brief. </h3>
 
-<p>Fourth year students were asked to build a marketing plan for one selected typeface, the goal being to design a piece of digital or print media to promote the typeface. The piece had to showcase important or unique elements of the chosen typeface, and follow a clear concept informed by research and visual exploration. Students were also tasked with writing a message platform for their campaign, which is a key element of typeface releases here at Monotype. Combining commercial requirements with academic learning outcomes creates an interesting opportunity to inform an aspect of their curriculum with industry expectations in mind. </p>
-            </div>
+<p>Fourth year students were asked to build a marketing plan for one selected typeface, the goal being to design a piece of digital or print media to promote the typeface. The piece had to showcase important or unique elements of the chosen typeface, and follow a clear concept informed by research and visual exploration. Students were also tasked with writing a message platform for their campaign, which is a key element of typeface releases here at Monotype. Combining commercial requirements with academic learning outcomes creates an interesting opportunity to inform an aspect of their curriculum with industry expectations in mind. </p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h3>Message Platform. </h3>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h3>Message Platform. </h3>
 
-<p>“The students learned a lot from working with Monotype’s message platform and seeing how it’s used at Monotype,” says Spelman. “They were made aware that companies can have different working practices and means of production.” </p>
-            </div>
+<p>“The students learned a lot from working with Monotype’s message platform and seeing how it’s used at Monotype,” says Spelman. “They were made aware that companies can have different working practices and means of production.” </p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h3>The Typefaces.  </h3>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h3>The Typefaces.  </h3>
 
 <ul>
 <li>FF Attribute Text  </li>
@@ -267,16 +240,12 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_910/public
 <li>Neo Sans  </li>
 <li>Neue Kabel  </li>
 <li>Rockwell Nova </li>
-</ul>
-            </div>
+</ul></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -288,36 +257,26 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_910/public
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Emilios Theofanous, Creative Type Director.</p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Emilios Theofanous, Creative Type Director.</p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h3>The Work.</h3>
-            </div>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h3>The Work.</h3></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--gallery paragraph--view-mode--default">
                               <div id="mainSlider" class="font-carousel">
           <div class="slider-gallery slider">
@@ -389,10 +348,8 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_910/public
       </div>
 
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--gallery paragraph--view-mode--default">
                               <div id="mainSlider" class="font-carousel">
           <div class="slider-gallery slider">
@@ -464,10 +421,8 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_910/public
       </div>
 
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--gallery paragraph--view-mode--default">
                               <div id="mainSlider" class="font-carousel">
           <div class="slider-gallery slider">
@@ -554,10 +509,8 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_910/public
       </div>
 
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--gallery paragraph--view-mode--default">
                               <div id="mainSlider" class="font-carousel">
           <div class="slider-gallery slider">
@@ -644,26 +597,19 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_910/public
       </div>
 
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>It has been a pleasure diving into their young minds and watching them work with so much creativity and pathos. They seem to understand the importance of typography in the graphic design realm. Type is at the centre of today’s branding, type can speak your voice; and the results of the workshop do speak for themselves; with originality, sensitivity and humour; a joy to see them bringing their concepts to life.</p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>It has been a pleasure diving into their young minds and watching them work with so much creativity and pathos. They seem to understand the importance of typography in the graphic design realm. Type is at the centre of today’s branding, type can speak your voice; and the results of the workshop do speak for themselves; with originality, sensitivity and humour; a joy to see them bringing their concepts to life.</p>
 
-<p>For an inspiring discussion with another leading design educator, listen to our Creative Characters podcast episode with <a href="https://ellenlupton.com/">Ellen Lupton</a>, writer, curator, educator, and designer <a href="https://www.monotype.com/resources/expertise/creative-characters-ep-17-ellen-lupton">here</a>.</p>
-            </div>
+<p>For an inspiring discussion with another leading design educator, listen to our Creative Characters podcast episode with <a href="https://ellenlupton.com/">Ellen Lupton</a>, writer, curator, educator, and designer <a href="https://www.monotype.com/resources/expertise/creative-characters-ep-17-ellen-lupton">here</a>.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -675,22 +621,17 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_910/public
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span><span><span>Eamon Spelman, Lecturer at Limerick School of Art and Design / TUS.</span></span></span></span></span></p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span><span><span>Eamon Spelman, Lecturer at Limerick School of Art and Design / TUS.</span></span></span></span></span></p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
             

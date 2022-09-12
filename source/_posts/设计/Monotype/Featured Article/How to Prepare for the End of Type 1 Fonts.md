@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=7608'
+headimg: 'https://picsum.photos/400/300?random=7372'
 author: Monotype
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=7608'
+thumbnail: 'https://picsum.photos/400/300?random=7372'
 ---
 
 <div>   
@@ -29,27 +29,14 @@ thumbnail: 'https://picsum.photos/400/300?random=7608'
 
       </div>
                       <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/creative-matters" hreflang="en">Creative matters</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/fonts" hreflang="en">Fonts</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/global-branding-fonts" hreflang="en">Global branding fonts</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/web-design" hreflang="en">Web design</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/creative-matters" hreflang="en">Creative matters</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/fonts" hreflang="en">Fonts</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/global-branding-fonts" hreflang="en">Global branding fonts</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/web-design" hreflang="en">Web design</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -181,38 +168,28 @@ thumbnail: 'https://picsum.photos/400/300?random=7608'
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p>By the end of this year, you will no longer be able to create new content with Adobe’s Type 1 fonts (also known as PostScript, PS1, T1, and Adobe Type 1 fonts). Read our guide to see if you need to update your font library. </p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p>By the end of this year, you will no longer be able to create new content with Adobe’s Type 1 fonts (also known as PostScript, PS1, T1, and Adobe Type 1 fonts). Read our guide to see if you need to update your font library. </p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Adobe developed the PostScript format in 1984 as a closed (proprietary) specification and released new Type 1 fonts until 1999. While the popularity of Type 1 fonts has declined alongside the rise of more modern font formats, many legacy font libraries still include them. Follow this guide to see if you need to update your font library.</p>
-            </div>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Adobe developed the PostScript format in 1984 as a closed (proprietary) specification and released new Type 1 fonts until 1999. While the popularity of Type 1 fonts has declined alongside the rise of more modern font formats, many legacy font libraries still include them. Follow this guide to see if you need to update your font library.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h3>1. Audit your Type 1 font usage.</h3>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h3>1. Audit your Type 1 font usage.</h3>
 
 <p>The more fonts your organization has in circulation, the harder this will be. As a first step, identify your company’s central font authority; that person will know if any font management software is in use or if there’s a comprehensive list or repository of fonts. If there is no font authority on staff, you can search your computer (and those of every designer in your organization) for Type 1 fonts. Here’s how to do that: </p>
 
@@ -220,68 +197,49 @@ thumbnail: 'https://picsum.photos/400/300?random=7608'
 
 <p>PC users can open the Fonts control panel by right-clicking the <strong>Start</strong> menu, selecting <strong>Run</strong>, typing <strong>c:\windows\fonts</strong>, and pressing <strong>Enter</strong>. There should be a menu bar near the top of the Fonts control panel window; if you don’t see it, click <strong>Organize</strong> and select <strong>Layout > Menu</strong> bar. Select <strong>View > Details</strong>, then <strong>View > Choose details</strong>. In the <strong>Choose Details</strong> window, click the<strong> Font type </strong>box and click the text to highlight it. Click the <strong>Move Up </strong>button until <strong>Font type</strong> appears directly below <strong>Name</strong> in the <strong>Choose Details</strong> window; once it’s positioned, click <strong>OK</strong>. Now you should see a list of your installed fonts that includes both the <strong>Name </strong>and <strong>Font type.</strong> Clicking the <strong>Font type</strong> column header will sort all fonts by type; scroll through to see all your Type 1 fonts clustered together. </p>
 
-<p>If you discover any Type 1 fonts, consider printing a sample of each one for easy reference when researching replacements. Then move on to the next step.  </p>
-            </div>
+<p>If you discover any Type 1 fonts, consider printing a sample of each one for easy reference when researching replacements. Then move on to the next step.  </p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h3>2. Figure out where those Type 1 fonts are still in use. </h3>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h3>2. Figure out where those Type 1 fonts are still in use. </h3>
 
 <p>This can be a tedious DIY process, especially if you have a large font library or long-term projects that are updated only periodically, like book reprints. Adobe Creative Cloud 2022 applications will flag Type 1 fonts for you; theoretically, you <em>could o</em>pen each of your projects to see if any flags pop up, but that would be incredibly time-consuming.  </p>
 
-<p>A better option is to partner with Monotype. Our team has the resources to identify impacted digital assets and simplify the replacement process.  </p>
-            </div>
+<p>A better option is to partner with Monotype. Our team has the resources to identify impacted digital assets and simplify the replacement process.  </p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h3>3. Switch to a supported format.</h3>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h3>3. Switch to a supported format.</h3>
 
 <p>The easiest way to do this is through Monotype Fonts. Our tech tools and expert typographers can make recommendations if you’re looking for something new or if your Type 1 fonts don’t have one-to-one TrueType or OpenType replacements at the ready. Streamlined licensing will cover all upgraded fonts with a single agreement, eliminating the need to license individual fonts from a variety of foundries. One-click sync sends those fonts to everyone who needs them for seamless workstation updates. This transforms a lengthy, painful font replacement exercise into a hands-off process – and it also means you’ll never have to worry about this happening again.  </p>
 
-<p>The next time a font or format is made obsolete, Monotype Fonts can help you replace it before your workflow is ever impacted. </p>
-            </div>
+<p>The next time a font or format is made obsolete, Monotype Fonts can help you replace it before your workflow is ever impacted. </p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h3>4. How can brands prepare for this change?</h3>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h3>4. How can brands prepare for this change?</h3>
 
-<p>Anyone who’s still designing with Type 1 fonts should replace those fonts as soon as possible. Many Type 1 fonts already have OpenType or TrueType alternatives; some foundries offer discounted upgrades to these modern formats. It’s also possible to convert Type 1 fonts to a new format, but this is usually a violation of the end-user license agreement. Look out for more guidance on how to prepare for the retirement of Type 1 fonts in the coming weeks.</p>
-            </div>
+<p>Anyone who’s still designing with Type 1 fonts should replace those fonts as soon as possible. Many Type 1 fonts already have OpenType or TrueType alternatives; some foundries offer discounted upgrades to these modern formats. It’s also possible to convert Type 1 fonts to a new format, but this is usually a violation of the end-user license agreement. Look out for more guidance on how to prepare for the retirement of Type 1 fonts in the coming weeks.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
             

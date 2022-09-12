@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=1212'
+headimg: 'https://picsum.photos/400/300?random=7693'
 author: Monotype
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=1212'
+thumbnail: 'https://picsum.photos/400/300?random=7693'
 ---
 
 <div>   
@@ -29,24 +29,13 @@ thumbnail: 'https://picsum.photos/400/300?random=1212'
 
       </div>
                       <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/font-licensing" hreflang="en">Font licensing</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/fonts" hreflang="en">Fonts</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/creative-collaboration" hreflang="en">Creative collaboration</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/font-licensing" hreflang="en">Font licensing</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/fonts" hreflang="en">Fonts</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/creative-collaboration" hreflang="en">Creative collaboration</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -178,39 +167,30 @@ thumbnail: 'https://picsum.photos/400/300?random=1212'
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p>Modern brands are not static, stationary objects. Today’s brands need to be agile and adaptable, permanently poised to respond to shifts in consumer expectations, emerging technology, and opportunities in other regions and languages.</p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p>Modern brands are not static, stationary objects. Today’s brands need to be agile and adaptable, permanently poised to respond to shifts in consumer expectations, emerging technology, and opportunities in other regions and languages.</p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">In a sense, brands have to exist in two states at once—simultaneously solid and malleable, able to stretch their shape without altering their underlying structure. Perhaps the closest corollary in the natural world is water, which can flow, freeze, or evaporate, find cracks within mountains and fill entire oceans, but nevertheless remains fundamentally itself.</p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">In a sense, brands have to exist in two states at once—simultaneously solid and malleable, able to stretch their shape without altering their underlying structure. Perhaps the closest corollary in the natural world is water, which can flow, freeze, or evaporate, find cracks within mountains and fill entire oceans, but nevertheless remains fundamentally itself.</p>
 
 <p>For brand managers, the goal is a flexible brand that enables individuals and teams to experiment and adapt, built on a strong underlying structure that prevents the brand from falling apart.</p>
 
 <h3>The incredible, expanding brand.</h3>
 
-<p>According to Adobe, 71% of companies report creating 10 times the number of assets today than they did just a few years ago. This remarkable statistic drives home perhaps the single most important aspect of branding today: The customer journey is no longer comprised of just a few paths.</p>
-            </div>
+<p>According to Adobe, 71% of companies report creating 10 times the number of assets today than they did just a few years ago. This remarkable statistic drives home perhaps the single most important aspect of branding today: The customer journey is no longer comprised of just a few paths.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -229,15 +209,12 @@ thumbnail: 'https://picsum.photos/400/300?random=1212'
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">Instead, today’s customer journey is an increasingly fragmented network of divergent streams. Each customer’s journey has unique and sometimes subtle differences, even if they all begin and end in similar places, like a mobile device. But there are countless mobile devices in circulation across the globe, with a wide range of technical capabilities and an even broader range of humans using them. No two journeys are identical.</p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">Instead, today’s customer journey is an increasingly fragmented network of divergent streams. Each customer’s journey has unique and sometimes subtle differences, even if they all begin and end in similar places, like a mobile device. But there are countless mobile devices in circulation across the globe, with a wide range of technical capabilities and an even broader range of humans using them. No two journeys are identical.</p>
 
 <p dir="ltr">“Customers are in more places than ever, from geography to the device or surface they’re using,” says Monotype Creative Director James Fooks-Bale. “And by the time you think you have things set, a new device, platform, or form of content creation has been added to the pile.”</p>
 
@@ -251,16 +228,12 @@ thumbnail: 'https://picsum.photos/400/300?random=1212'
 
 <p dir="ltr">But if the mobile-first era has proven anything, it’s that sometimes brands need to get by with less. Digital properties need to be simplified for mobile devices, with a focus on clarity and usability that doesn’t disconnect from the brand identity. Unlike some branding elements, fonts are an indispensable component in both the maximalist and minimalist expressions of a brand, as well as all points between. </p>
 
-<p dir="ltr">“We’ve already seen a huge acceleration of mobile as the medium for an accessible brand,” says Fooks-Bale. “If it doesn’t work on mobile, it doesn’t work, period. There can be no compromise when it comes to the look, feel, or content strategy of the mobile experience. Fonts will continue to play a critical role in these mediums where real estate is at a premium and the lowest common denominator comes into the foreground.”</p>
-            </div>
+<p dir="ltr">“We’ve already seen a huge acceleration of mobile as the medium for an accessible brand,” says Fooks-Bale. “If it doesn’t work on mobile, it doesn’t work, period. There can be no compromise when it comes to the look, feel, or content strategy of the mobile experience. Fonts will continue to play a critical role in these mediums where real estate is at a premium and the lowest common denominator comes into the foreground.”</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -272,27 +245,21 @@ thumbnail: 'https://picsum.photos/400/300?random=1212'
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>James Fooks-Bale, Monotype Creative Director.</p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>James Fooks-Bale, Monotype Creative Director.</p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">A distinctive, thoughtfully constructed font system can carry a brand’s voice without support from the full suite of branding elements. Using the correct brand font is the simplest way to ensure continuity across touchpoints. On a black and white invoice, for example, simply setting the text in a brand’s font draws an instant connection to the broader brand identity. The same principle applies to a mobile site where a brand’s identity is stripped down to the basics. </p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">A distinctive, thoughtfully constructed font system can carry a brand’s voice without support from the full suite of branding elements. Using the correct brand font is the simplest way to ensure continuity across touchpoints. On a black and white invoice, for example, simply setting the text in a brand’s font draws an instant connection to the broader brand identity. The same principle applies to a mobile site where a brand’s identity is stripped down to the basics. </p>
 
 <p>Often, all a brand is left to work with is fonts, so those fonts better be ready to do some work.</p>
 
@@ -302,16 +269,12 @@ thumbnail: 'https://picsum.photos/400/300?random=1212'
 
 <p>An organization’s ecosystem of branding touchpoints goes well beyond what the public sees:  Sales presentations, emails, invoices, receipts, contract templates, internal communications … the list goes on. Who manages these touchpoints? Who is there to make sure the brand is conveyed as intended? Do they have access to the right brand assets, and know when, where, and how to deploy them?</p>
 
-<p>“Do the people looking after your brand understand they’re contributing to or detracting from the brand?” says Fooks-Bale. “Our aim is to train and trust the relevant teams, rather than prescribe too much or be in a position where we have to approve everything.”</p>
-            </div>
+<p>“Do the people looking after your brand understand they’re contributing to or detracting from the brand?” says Fooks-Bale. “Our aim is to train and trust the relevant teams, rather than prescribe too much or be in a position where we have to approve everything.”</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -330,15 +293,12 @@ thumbnail: 'https://picsum.photos/400/300?random=1212'
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">A lot of branding happens that the brand, marketing, or creative teams never see and realistically can’t actively manage. Instead, modern brands accept a few fundamental truths:</p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">A lot of branding happens that the brand, marketing, or creative teams never see and realistically can’t actively manage. Instead, modern brands accept a few fundamental truths:</p>
 
 <ol>
 <li dir="ltr">
@@ -360,16 +320,12 @@ thumbnail: 'https://picsum.photos/400/300?random=1212'
 
 <p>Brand managers can’t look over everyone’s shoulder all the time and would (probably) prefer not to. But a flexible approach to your brand, centered on a thoughtful font strategy, can provide peace of mind for everyone at your organization.</p>
 
-<p><em>To learn more about Monotype Fonts can help take the guesswork out of font licensing, <a href="https://monotype.com/company/contact/">drop us a line</a> and we’ll get in touch.</em></p>
-            </div>
+<p><em>To learn more about Monotype Fonts can help take the guesswork out of font licensing, <a href="https://monotype.com/company/contact/">drop us a line</a> and we’ll get in touch.</em></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
             

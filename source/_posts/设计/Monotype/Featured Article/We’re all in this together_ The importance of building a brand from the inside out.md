@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=829'
+headimg: 'https://picsum.photos/400/300?random=5916'
 author: Monotype
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=829'
+thumbnail: 'https://picsum.photos/400/300?random=5916'
 ---
 
 <div>   
@@ -29,15 +29,10 @@ thumbnail: 'https://picsum.photos/400/300?random=829'
 
       </div>
                       <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -169,24 +164,19 @@ thumbnail: 'https://picsum.photos/400/300?random=829'
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span><span><span>Everyone knows the saying, “what’s on the inside matters most.” Sure, a person’s character is more important than what they look like, but how does this relate to branding? A brand needs to look and act a certain way to engage with its audience, right? </span></span></span></span></span></p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span><span><span>Everyone knows the saying, “what’s on the inside matters most.” Sure, a person’s character is more important than what they look like, but how does this relate to branding? A brand needs to look and act a certain way to engage with its audience, right? </span></span></span></span></span></p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span><span><span>Well, everything that faces outward has to come from a strong and united front within. The reality is that everyone in your organization is a brand manager, whether they realize it or not. From the executives to the newest hires, each individual should be invested in its initiatives, mission, and overall identity and invested in pushing the vision forward. </span></span></span></span></span></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span><span><span>Well, everything that faces outward has to come from a strong and united front within. The reality is that everyone in your organization is a brand manager, whether they realize it or not. From the executives to the newest hires, each individual should be invested in its initiatives, mission, and overall identity and invested in pushing the vision forward. </span></span></span></span></span></p>
 
 <p><span><span><span><span><span>“When you become a very large organization with a lot of different people doing a lot of different things, it can be hard to know what one’s place is in all of that,” says Britt Cobb, Associate Partner at Pentagram. “Internal branding is meant to give all of the work that everyone’s doing a higher purpose and meaning. The hope is that people have the ability to relate what they’re doing, no matter how small or big, to the overall mission of the company.”</span></span></span></span></span></p>
 
@@ -196,16 +186,12 @@ thumbnail: 'https://picsum.photos/400/300?random=829'
 
 <h3><span><span><span><span><span>Empowering employees</span></span></span></span></span></h3>
 
-<p><span><span><span><span><span>We tend to think of creatives and marketers as the <a href="https://www.monotype.com/resources/expertise/how-brands-can-stand-out-amidst-digital-noise">primary guardians of the brand</a>. But any team member who sends an email, delivers a presentation, or creates an invoice has a role in the upkeep of your identity. </span></span></span></span></span></p>
-            </div>
+<p><span><span><span><span><span>We tend to think of creatives and marketers as the <a href="https://www.monotype.com/resources/expertise/how-brands-can-stand-out-amidst-digital-noise">primary guardians of the brand</a>. But any team member who sends an email, delivers a presentation, or creates an invoice has a role in the upkeep of your identity. </span></span></span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -217,42 +203,32 @@ thumbnail: 'https://picsum.photos/400/300?random=829'
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Britt Cobb, Associate Partner, Pentagram.</p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Britt Cobb, Associate Partner, Pentagram.</p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span><span><span>Even if emails and presentations are internal and the public never sees them, they still live within your brand network. What fonts are people using? Is it the brand font, or something random? Do accountants, customer service reps, and (especially) executives even know what the brand font is? If details matter (and they do), everyone at your organization should feel empowered to be stewards of the brand.</span></span></span></span></span></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span><span><span>Even if emails and presentations are internal and the public never sees them, they still live within your brand network. What fonts are people using? Is it the brand font, or something random? Do accountants, customer service reps, and (especially) executives even know what the brand font is? If details matter (and they do), everyone at your organization should feel empowered to be stewards of the brand.</span></span></span></span></span></p>
 
 <p><span><span><span><span><span>People who care about the details that customers may never see will be more invested in the details customers <em>do</em> see. When your team is familiar with your brand assets and uses them in their own work, they’re more likely to spot inconsistencies at those small but crucial junctures where a customer’s trust can be gained or lost. The operative word in all this, however, is “empower.” It isn’t enough to simply declare that, henceforth, all employees must use XYZ font in their emails and then never speak of it again. Instead, it’s up to the company to foster a shared sense of purpose and, above all else, make it <a href="https://monotype.com/resources/expertise/keep-your-brand-aligned">easy for people to access and use your brand assets</a>.</span></span></span></span></span></p>
 
 <p><span><span><span><span><span>Even though Cobb knows there’s some risk to allowing non-designers to use brand assets, he says it’s the right thing to do. Opening up the brand to participation allows more people to engage, be a part of it, and bring it into their own work. “When we’re designing these things, we want to box it in as much as we can to keep it safe,” he says. “But that’s not how the world really works. We can’t design everything. You just have to hope that you give people the ability to feel like they can run with it.” </span></span></span></span></span></p>
 
-<p><span><span><span><span><span>But even outside of the brand assets, design helps bring people together through a shared visual language. “Sometimes, what’s really nice is when you design something and people who aren’t even related to the work find a connection to it and then want to use it because they’re proud,” Cobb says. “They’re like, ‘I want that new shiny thing. I want to wear that new T-shirt that the CEO is wearing. I want to be a part of it.’ So even if designers want to be precious putting their work </span></span></span></span></span><span><span><span><span><span>in the hands of non-designers, it’s flattering—and a good sign—that people want to take the design and use it because it’s meaningful to them.”</span></span></span></span></span></p>
-            </div>
+<p><span><span><span><span><span>But even outside of the brand assets, design helps bring people together through a shared visual language. “Sometimes, what’s really nice is when you design something and people who aren’t even related to the work find a connection to it and then want to use it because they’re proud,” Cobb says. “They’re like, ‘I want that new shiny thing. I want to wear that new T-shirt that the CEO is wearing. I want to be a part of it.’ So even if designers want to be precious putting their work </span></span></span></span></span><span><span><span><span><span>in the hands of non-designers, it’s flattering—and a good sign—that people want to take the design and use it because it’s meaningful to them.”</span></span></span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -264,27 +240,21 @@ thumbnail: 'https://picsum.photos/400/300?random=829'
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Britt Cobb, Associate Partner, Pentagram.</p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Britt Cobb, Associate Partner, Pentagram.</p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span><span><span>Design touches a lot of parts of an organization. And Cobb is engaging with all sorts of people at brands now that are very involved in the design process—not just marketing teams, but Human Resources, Corporate Social Responsibility, and Research & Development, to name a few. They’ve gone through the presentations and rounds of revisions, and “it feels a bit like it’s their baby,” Cobb says. “What you hope is that in some ways we make manifest their ideas; that they see their mind, their thinking, their thoughts in the design.” </span></span></span></span></span></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span><span><span>Design touches a lot of parts of an organization. And Cobb is engaging with all sorts of people at brands now that are very involved in the design process—not just marketing teams, but Human Resources, Corporate Social Responsibility, and Research & Development, to name a few. They’ve gone through the presentations and rounds of revisions, and “it feels a bit like it’s their baby,” Cobb says. “What you hope is that in some ways we make manifest their ideas; that they see their mind, their thinking, their thoughts in the design.” </span></span></span></span></span></p>
 
 <p><span><span><span><span><span>The success of the project therefore becomes connected to the design. Cobb gives an example: “Let’s say the brand launches a new product and it results in more customers using the service, or in high product sales. The fact that design enabled those results makes the internal team feel like they’re a part of it and have a sense of pride.”</span></span></span></span></span></p>
 
@@ -294,16 +264,12 @@ thumbnail: 'https://picsum.photos/400/300?random=829'
 
 <p><span><span><span><span><span>Internal branding doesn’t just help everyone feel good: according to <a href="https://cdn.wrike.com/ebook/Employee_Engagement_Survey.pdf">a study</a></span></span><span><span> done by Wrike Project Management, it has a positive impact on employee engagement, which leads to </span></span><span><span>better customer engagement, greater productivity, better retention, and 21% higher profitability</span></span><span><span>. The study reports the </span></span><span><span>top three reasons employees gave for staying engaged were enjoying their work (43%), collaborating well (40%), and understanding that their work contributes to overall company goals (26%). Comparatively, the top three reasons employees said they were disengaged include feeling unrecognized or undervalued (45%), being underpaid (32%), and burning out from being overworked (29%). Not only is there an emotional case to rally everyone together, there’s a business case for internal branding initiatives.</span></span></span></span></span></p>
 
-<p><span><span><span>When leadership believes in everyone involved and contributing to shared success (and communicates this), people feel supported and empowered. They want to keep moving forward, acting as brand ambassadors and doing the best work possible. In a way, internal branding is more than design, messaging, and initiatives—it’s about connection, relationships, positive reinforcement, and empathy.</span></span></span></p>
-            </div>
+<p><span><span><span>When leadership believes in everyone involved and contributing to shared success (and communicates this), people feel supported and empowered. They want to keep moving forward, acting as brand ambassadors and doing the best work possible. In a way, internal branding is more than design, messaging, and initiatives—it’s about connection, relationships, positive reinforcement, and empathy.</span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -322,15 +288,12 @@ thumbnail: 'https://picsum.photos/400/300?random=829'
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h3><span><span><span><span><span>Walking the walk.</span></span></span></span></span></h3>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h3><span><span><span><span><span>Walking the walk.</span></span></span></span></span></h3>
 
 <p><span><span><span><span><span>Every choice and statement a brand makes adds up to who it is as a brand and how it’s positioned in its industry and community. Everything the brand does has to be honest and true to its identity—at all levels and in all areas of the business. People won’t care about using the right fonts or making sure the logo has enough padding if in practice, a brand doesn’t stand for what it says it does or support its workforce. For internal branding not to be the sort of “top down” approach Cobb warns against, people have to want to participate. And that means upholding the values it claims it has—just look at any brand’s standard anthem TV spot. </span></span></span></span></span></p>
 
@@ -342,16 +305,12 @@ thumbnail: 'https://picsum.photos/400/300?random=829'
 
 <p><span><span><span><span><span>“Authenticity comes in when a brand talks the talk and then walks the walk,” he says. “For example, a brand can’t say that it has initiatives that support disenfranchised people for the past few years and then not have some response to what’s going on right now in racial justice movements. You can’t say that without acting on it.”</span></span></span></span></span></p>
 
-<p><span><span><span><span><span>On the other hand, brands have to be mindful of <em>where</em> they’re walking the walk. If their brand values don’t back up participation in certain cultural conversations and they just want to capitalize on a moment their audience cares about, consumers will see right through it. You have to get your messaging straight on the inside and get everyone at the organization behind it before it can show up anywhere else. </span></span></span></span></span></p>
-            </div>
+<p><span><span><span><span><span>On the other hand, brands have to be mindful of <em>where</em> they’re walking the walk. If their brand values don’t back up participation in certain cultural conversations and they just want to capitalize on a moment their audience cares about, consumers will see right through it. You have to get your messaging straight on the inside and get everyone at the organization behind it before it can show up anywhere else. </span></span></span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -363,52 +322,37 @@ thumbnail: 'https://picsum.photos/400/300?random=829'
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Britt Cobb, Associate Partner, Pentagram.</p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Britt Cobb, Associate Partner, Pentagram.</p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span><span><span>“It’s like seeing communications from a brand that’s all over the place and thinking ‘Wow, these folks are a mess. This isn’t the way they present themselves to the world or the way that they talk about themselves,’” Cobb says. “</span></span><span><span>As a customer you’re not necessarily making those direct connections, but there is a sense of something that doesn’t sit right or feels kind uncomfortable</span></span><span><span>. It’s maybe opportunistic or not well thought out.”</span></span></span></span></span></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span><span><span>“It’s like seeing communications from a brand that’s all over the place and thinking ‘Wow, these folks are a mess. This isn’t the way they present themselves to the world or the way that they talk about themselves,’” Cobb says. “</span></span><span><span>As a customer you’re not necessarily making those direct connections, but there is a sense of something that doesn’t sit right or feels kind uncomfortable</span></span><span><span>. It’s maybe opportunistic or not well thought out.”</span></span></span></span></span></p>
 
-<p><span><span><span><span><span>What every brand wants to provide to their customers is some level of comfort that someone’s in control and that the service you’re offering them isn’t false and is coming from a good place.”</span></span></span></span></span></p>
-            </div>
+<p><span><span><span><span><span>What every brand wants to provide to their customers is some level of comfort that someone’s in control and that the service you’re offering them isn’t false and is coming from a good place.”</span></span></span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><em>By Allison Rebecca Penn. Allison is a Boston-based freelance creative with experience writing in the design, fashion/retail, real estate, banking, education and consumer products industries. In her free time, you can find her dancing in two local dance companies, riding around the city on her scooter and eating hummus.</em></p>
-            </div>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><em>By Allison Rebecca Penn. Allison is a Boston-based freelance creative with experience writing in the design, fashion/retail, real estate, banking, education and consumer products industries. In her free time, you can find her dancing in two local dance companies, riding around the city on her scooter and eating hummus.</em></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
             

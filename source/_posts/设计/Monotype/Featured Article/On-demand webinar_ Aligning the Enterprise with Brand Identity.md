@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=1592'
+headimg: 'https://picsum.photos/400/300?random=4256'
 author: Monotype
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=1592'
+thumbnail: 'https://picsum.photos/400/300?random=4256'
 ---
 
 <div>   
@@ -29,15 +29,10 @@ thumbnail: 'https://picsum.photos/400/300?random=1592'
 
       </div>
                       <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -169,33 +164,24 @@ thumbnail: 'https://picsum.photos/400/300?random=1592'
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p><span>Modern rebrands aren’t as simple as they used to be. In this webinar, Monotype’s Type Director, Tom Foley, is joined by Rick Sellars, Creative Director at Interbrand London to discuss the ins and outs for a successful rebranding.</span></p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p><span>Modern rebrands aren’t as simple as they used to be. In this webinar, Monotype’s Type Director, Tom Foley, is joined by Rick Sellars, Creative Director at Interbrand London to discuss the ins and outs for a successful rebranding.</span></p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span>In this webinar, Monotype’s Type Director, Tom Foley, is joined by Rick Sellars, Creative Director at Interbrand London to discuss the ins and outs for a successful rebranding. They’ll dissect the intersection of the different stakeholders involved in a rebrand, explore how modern rebranding initiatives involve more than just updating your look and feel, and show how fonts connect your visual identity through every customer touchpoint.</span></p>
-            </div>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span>In this webinar, Monotype’s Type Director, Tom Foley, is joined by Rick Sellars, Creative Director at Interbrand London to discuss the ins and outs for a successful rebranding. They’ll dissect the intersection of the different stakeholders involved in a rebrand, explore how modern rebranding initiatives involve more than just updating your look and feel, and show how fonts connect your visual identity through every customer touchpoint.</span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
             

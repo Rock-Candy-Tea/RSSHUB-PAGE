@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=5776'
+headimg: 'https://picsum.photos/400/300?random=7613'
 author: Monotype
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=5776'
+thumbnail: 'https://picsum.photos/400/300?random=7613'
 ---
 
 <div>   
@@ -29,21 +29,12 @@ thumbnail: 'https://picsum.photos/400/300?random=5776'
 
       </div>
                       <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/creative-matters" hreflang="en">Creative matters</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/creative-collaboration" hreflang="en">Creative collaboration</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/creative-matters" hreflang="en">Creative matters</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/creative-collaboration" hreflang="en">Creative collaboration</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -175,24 +166,19 @@ thumbnail: 'https://picsum.photos/400/300?random=5776'
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">The announcement came around midday on March 12. Effective the following day, all Monotype staff would be required to work from home: Two weeks to start, then we’d take it from there.</p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">The announcement came around midday on March 12. Effective the following day, all Monotype staff would be required to work from home: Two weeks to start, then we’d take it from there.</p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">In our case, the transition was relatively smooth. Monotype is a truly global company, so Zoom calls that covered a dozen time zones, from Los Angeles to Boston to Berlin, were already the norm. Many employees also worked from home prior to the coronavirus pandemic, if not full-time then at least occasionally, so there were systems in place to accommodate remote work (thanks IT!). But like most companies, the first few weeks saw their ups and downs as our 600-person company adjusted to a new way of working. </p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">In our case, the transition was relatively smooth. Monotype is a truly global company, so Zoom calls that covered a dozen time zones, from Los Angeles to Boston to Berlin, were already the norm. Many employees also worked from home prior to the coronavirus pandemic, if not full-time then at least occasionally, so there were systems in place to accommodate remote work (thanks IT!). But like most companies, the first few weeks saw their ups and downs as our 600-person company adjusted to a new way of working. </p>
 
 <p dir="ltr">Now three months in, we’re all wondering what comes next, and specifically what this means for creative work. Design and creativity are not just central to what we do—it is literally what we do. We’ve spent a lot of time thinking about the effect the pandemic has had on the collaborative process that drives creative work at companies everywhere, and have gathered some ideas about where things could be heading. </p>
 
@@ -202,16 +188,12 @@ thumbnail: 'https://picsum.photos/400/300?random=5776'
 
 <p dir="ltr">That latter aspect can be challenging in an office environment, where background chatter, random interruptions, bad lighting, and other factors can disrupt a person’s creative process. (To be fair, some people thrive in office environments!) Walk through any design department and you’ll see a range of coping mechanisms in use: Oversized headphones, zhuzhed-up workspaces, or even people abandoning their desks to work in the privacy of a conference room. Home brings its own set of distractions, but generally offers more control over how you structure your workday.</p>
 
-<p>“Initially, the designers, myself included, enjoyed retreating to our comfy little home design caves and cranking out work undisturbed,” says Mike Mandolese, Design Manager at HP Hood in Boston (and a <a href="https://vimeo.com/427109728">speaker at Brand Talks Connected</a>). “Finding a quiet place to get in your zone and do some in-depth designing is so much easier at home than at the office. And I say that as a parent of a 5- and 7-year old.”</p>
-            </div>
+<p>“Initially, the designers, myself included, enjoyed retreating to our comfy little home design caves and cranking out work undisturbed,” says Mike Mandolese, Design Manager at HP Hood in Boston (and a <a href="https://vimeo.com/427109728">speaker at Brand Talks Connected</a>). “Finding a quiet place to get in your zone and do some in-depth designing is so much easier at home than at the office. And I say that as a parent of a 5- and 7-year old.”</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -230,26 +212,19 @@ thumbnail: 'https://picsum.photos/400/300?random=5776'
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">Gretchen Walker, Senior Designer here at Monotype, concurs. She says working from home has allowed her to balance periods of work with short breaks she didn’t always make time for in the office. “Working from home, I now take a few 15-minute breaks throughout the day to creatively reset and it’s boosted my productivity,” she says. This is good practice regardless of where you’re working, but sometimes the nose-to-the-grindstone social pressure of working in an office deters people from taking breaks.</p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">Gretchen Walker, Senior Designer here at Monotype, concurs. She says working from home has allowed her to balance periods of work with short breaks she didn’t always make time for in the office. “Working from home, I now take a few 15-minute breaks throughout the day to creatively reset and it’s boosted my productivity,” she says. This is good practice regardless of where you’re working, but sometimes the nose-to-the-grindstone social pressure of working in an office deters people from taking breaks.</p>
 
-<p dir="ltr">Not only can working from home offer a quiet place to focus, but it allows creatives to arrange their schedule around the times that they feel most productive. Some people are at their most creative first thing in the morning or late at night, and boxing them into traditional office hours can be a drag on productivity and affect the quality of their work.</p>
-            </div>
+<p dir="ltr">Not only can working from home offer a quiet place to focus, but it allows creatives to arrange their schedule around the times that they feel most productive. Some people are at their most creative first thing in the morning or late at night, and boxing them into traditional office hours can be a drag on productivity and affect the quality of their work.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -261,27 +236,21 @@ thumbnail: 'https://picsum.photos/400/300?random=5776'
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Mike Mandolese, Design Manager, HP Hood.</p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Mike Mandolese, Design Manager, HP Hood.</p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">“I’ve discovered that my mornings are best for any meetings, calls, feedback on projects,” says Walker. “I block off the afternoon and spend that time designing, revising, and addressing any needs from the morning activities. This has resulted in a more efficient delivery schedule, especially when working with teams and co-workers in different time zones.”</p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">“I’ve discovered that my mornings are best for any meetings, calls, feedback on projects,” says Walker. “I block off the afternoon and spend that time designing, revising, and addressing any needs from the morning activities. This has resulted in a more efficient delivery schedule, especially when working with teams and co-workers in different time zones.”</p>
 
 <p dir="ltr">Monotype Creative Director James Fooks-Bale acknowledges that many of today’s creative professionals are used to non-traditional working environments, so they tend to be adaptable when things change. “The temperament and innate soft skills of our teams have played a big role” in a smooth transition to remote work, he says. </p>
 
@@ -289,16 +258,12 @@ thumbnail: 'https://picsum.photos/400/300?random=5776'
 
 <p>Home may be a more comfortable and productive work environment for many designers, but it raises major challenges for the collaborative elements of the job. All creative work is ultimately a team effort, after all, starting with creative briefs and brainstorms and concluding with a cycle of reviews and revision. And while a lot of that can be scheduled, there is an element of spontaneity inherent in creative collaboration that is difficult to replicate from remote workspaces. “Unless you’re careful,” says Fooks-Bale, “those spontaneous corridor moments in the studio or impromptu catch-ups at each other’s desks can disappear altogether.”</p>
 
-<p dir="ltr">Mandolese agrees. “Usually, the feedback and advice we’d give each other would take place off the cuff around the office,” he says. “So as time marched on, and new projects started coming in, attention to detail and awareness of our work as a team started dropping a bit. I think about a month into quarantine, we collectively hit the bottom of the bell curve.”</p>
-            </div>
+<p dir="ltr">Mandolese agrees. “Usually, the feedback and advice we’d give each other would take place off the cuff around the office,” he says. “So as time marched on, and new projects started coming in, attention to detail and awareness of our work as a team started dropping a bit. I think about a month into quarantine, we collectively hit the bottom of the bell curve.”</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -310,40 +275,30 @@ thumbnail: 'https://picsum.photos/400/300?random=5776'
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>James Fooks-Bale, Creative Director, Monotype.</p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>James Fooks-Bale, Creative Director, Monotype.</p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">There’s no substitute for rolling your chair to a teammate’s desk or talking through a challenge over coffee. But creatives today are fortunate to have an array of collaboration software available that facilitates at least some of that spur-of-the-moment interaction. Slack, Zoom, and other platforms are all effective at connecting people across physical distances. </p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">There’s no substitute for rolling your chair to a teammate’s desk or talking through a challenge over coffee. But creatives today are fortunate to have an array of collaboration software available that facilitates at least some of that spur-of-the-moment interaction. Slack, Zoom, and other platforms are all effective at connecting people across physical distances. </p>
 
 <p dir="ltr">But tools are simply that. Pre-COVID-19, most of us used these tools to supplement real-life conversations. Shifting to a workplace where these tools are the only way to communicate requires a fundamental rethinking of their role in our workflow. The desire to stay in touch can lead to an overabundance of video calls and an endless stream of chats that can sink a person’s day, essentially replicating the distractions and background noise of office life. </p>
 
-<p dir="ltr">This constant-contact approach is partially a direct response to keeping department members up-to-date on their teammates’ progress. The lack of face time has led Mandolese, for one, to change the way he runs meetings. “Where in the pre-COVID world a staff meeting might be more of a conversational, high-level report on the preceding week’s work, we now go through our projects one at a time and discuss details a lot more than before,” he says. “But also I’ve found it gives us more opportunities to lean on each other’s experience in the fully digital world we now live in. Going through our jobs at a more granular level allows us more opportunities to advise each other.”</p>
-            </div>
+<p dir="ltr">This constant-contact approach is partially a direct response to keeping department members up-to-date on their teammates’ progress. The lack of face time has led Mandolese, for one, to change the way he runs meetings. “Where in the pre-COVID world a staff meeting might be more of a conversational, high-level report on the preceding week’s work, we now go through our projects one at a time and discuss details a lot more than before,” he says. “But also I’ve found it gives us more opportunities to lean on each other’s experience in the fully digital world we now live in. Going through our jobs at a more granular level allows us more opportunities to advise each other.”</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -363,15 +318,12 @@ thumbnail: 'https://picsum.photos/400/300?random=5776'
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">There are also practical considerations involved in the shift to remote work, too. Many brands still store assets like fonts or graphics on local servers or even individual team members’ computers, which creates a major challenge when teams can’t access them. It’s hard enough to keep track of who purchased what or which asset belongs to which project when everyone is in the office, let alone when they’re scattered across zip codes and time zones. </p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">There are also practical considerations involved in the shift to remote work, too. Many brands still store assets like fonts or graphics on local servers or even individual team members’ computers, which creates a major challenge when teams can’t access them. It’s hard enough to keep track of who purchased what or which asset belongs to which project when everyone is in the office, let alone when they’re scattered across zip codes and time zones. </p>
 
 <p dir="ltr">For companies that weren’t remote-friendly before, scaling up these management systems can be difficult and, in the interim, cause substantial workflow snags and risks to your brand’s visual consistency. Perhaps at first, most of these issues seemed like something to struggle through while the pandemic played out. Why invest in some new cloud-based asset management software if you’ll be back in the office soon? Why rethink your approach to meetings or project reviews? </p>
 
@@ -383,16 +335,12 @@ thumbnail: 'https://picsum.photos/400/300?random=5776'
 
 <p dir="ltr">When Monotype closed our offices, we, like many companies, initially did so for two weeks with a plan to reevaluate when those two weeks were up. That assumption seems laughable today, over three months later and counting. The truth is that many companies may never return to the office full-time or at full capacity, which means it’s time to rethink how creative work gets done in the long term.</p>
 
-<p dir="ltr">“We as individuals and as studios or organizations can’t shape the future of our industry or discipline alone,” says Fooks-Bale. “We have to broaden horizons, open up ourselves and the walls around our cultures, leave our comfort zones, leap into new technologies, understand communities, and question current models—above all, collaborate and listen.”</p>
-            </div>
+<p dir="ltr">“We as individuals and as studios or organizations can’t shape the future of our industry or discipline alone,” says Fooks-Bale. “We have to broaden horizons, open up ourselves and the walls around our cultures, leave our comfort zones, leap into new technologies, understand communities, and question current models—above all, collaborate and listen.”</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -411,30 +359,23 @@ thumbnail: 'https://picsum.photos/400/300?random=5776'
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">This rethinking is as much about mindset as it is about software or systems. “If COVID-19 has taught us anything, it’s that all the hand-wringing companies were doing over remote work was really for naught,” says Mandolese. “It works, and it works well.”</p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">This rethinking is as much about mindset as it is about software or systems. “If COVID-19 has taught us anything, it’s that all the hand-wringing companies were doing over remote work was really for naught,” says Mandolese. “It works, and it works well.”</p>
 
 <p dir="ltr">This doesn’t mean every designer or writer will want to work from home full-time, or that every business will close its office permanently. Some will! But flexibility and balance will be key on both sides, at least once offices can safely reopen. The focus should ultimately be on the quality of the work, and on giving teams the freedom and agency to determine where and when they are at their most creative and productive.</p>
 
 <p dir="ltr">“Before this, I hadn’t had any first-hand experience working from home, but I was always attracted to the possibility of it,” says Mandolese. “Having done it now for a few months, I definitely see it working for most teams and people in the modern office. And I think that goes double for creative workers. Going forward, I hope that we can find a healthy balance between remote and in-person work because there are benefits to both.”</p>
 
-<p dir="ltr">“At some point we’ve probably all questioned whether we’re working from home or living at work,” says Fooks-Bale. “Pulling each other through the mud has become a priority. Burnout, stress, overthinking, and isolation are real, so being there for one another has never been more important. We’re all missing those industry events, exhibitions, or a couple of pints after work with others in the industry too.”</p>
-            </div>
+<p dir="ltr">“At some point we’ve probably all questioned whether we’re working from home or living at work,” says Fooks-Bale. “Pulling each other through the mud has become a priority. Burnout, stress, overthinking, and isolation are real, so being there for one another has never been more important. We’re all missing those industry events, exhibitions, or a couple of pints after work with others in the industry too.”</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -446,40 +387,30 @@ thumbnail: 'https://picsum.photos/400/300?random=5776'
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Mike Mandolese, Design Manager, HP Hood.</p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Mike Mandolese, Design Manager, HP Hood.</p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">Walker agrees there’s a mix of pros and cons. “I miss the social aspect of being in an office and the gratification of collaborating in person,” she says, “though I’m thoroughly enjoying the afternoon chunks of non-interrupted design time. I think a lot of your feelings about remote work depend on what motivates you as a designer.”</p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">Walker agrees there’s a mix of pros and cons. “I miss the social aspect of being in an office and the gratification of collaborating in person,” she says, “though I’m thoroughly enjoying the afternoon chunks of non-interrupted design time. I think a lot of your feelings about remote work depend on what motivates you as a designer.”</p>
 
 <p dir="ltr">Fooks-Bale likens the remote work experience to a theme park ride, each of us riding through the highs and lows on our way to something more stable. “There’s enough going on that you could be forgiven for thinking it’s just destruction, fracturing, and pain,” he says. “It’s easy to forget that the pain is the sign of something new emerging, something we’re working together to create and solve for. It’s about all of us individually and collectively defining what post-normal will look like.</p>
 
-<p dir="ltr">“The most important outcome has been the trust that has been built, in many directions; across teams, within teams, upwards and downwards with management,” Fooks-Bale says. “It shouldn’t just stay, it should grow.”</p>
-            </div>
+<p dir="ltr">“The most important outcome has been the trust that has been built, in many directions; across teams, within teams, upwards and downwards with management,” Fooks-Bale says. “It shouldn’t just stay, it should grow.”</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
             

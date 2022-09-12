@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=7975'
+headimg: 'https://picsum.photos/400/300?random=9264'
 author: Monotype
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=7975'
+thumbnail: 'https://picsum.photos/400/300?random=9264'
 ---
 
 <div>   
@@ -29,24 +29,13 @@ thumbnail: 'https://picsum.photos/400/300?random=7975'
 
       </div>
                       <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/studio" hreflang="en">Studio</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/type-design" hreflang="en">Type design</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/global-branding-fonts" hreflang="en">Global branding fonts</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/brand" hreflang="en">Brand fonts</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/trends" hreflang="en">Type trends.</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/studio" hreflang="en">Studio</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/type-design" hreflang="en">Type design</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/global-branding-fonts" hreflang="en">Global branding fonts</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/brand" hreflang="en">Brand fonts</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/trends" hreflang="en">Type trends.</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -178,26 +167,21 @@ thumbnail: 'https://picsum.photos/400/300?random=7975'
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p>Phil Garnham, Senior Creative Type Director at Monotype Studio explores the evolution of type in digital and celebrates the heritage at the heart of the Burger King rebrand.</p>
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p>Phil Garnham, Senior Creative Type Director at Monotype Studio explores the evolution of type in digital and celebrates the heritage at the heart of the Burger King rebrand.</p>
 
-<p>First published on <a href="https://www.creativebrief.com/bite/trend/guest-trend/burger-king-soft-serve-digital-and-importance-nostalgia-during-crisis">BITE</a></p>
-            </div>
-          </div>
-
+<p>First published on <a href="https://www.creativebrief.com/bite/trend/guest-trend/burger-king-soft-serve-digital-and-importance-nostalgia-during-crisis">BITE</a></p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>In recent years you would be forgiven for thinking ‘digital’ is in itself a visual trend of geometric typography combined with a vaporwave gradient, an interactive logo, sprinkled with primary shapes etc. I’m aware this is quite a sweeping one-dimensional statement. However, it’s true that this idea of ‘digital’ has created a sense of homogeneity. Brands themselves are saying that they operate on a platform of lookalikes; they often share the same space, the same visual flavour and footprint as their fiercest competitors.</p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>In recent years you would be forgiven for thinking ‘digital’ is in itself a visual trend of geometric typography combined with a vaporwave gradient, an interactive logo, sprinkled with primary shapes etc. I’m aware this is quite a sweeping one-dimensional statement. However, it’s true that this idea of ‘digital’ has created a sense of homogeneity. Brands themselves are saying that they operate on a platform of lookalikes; they often share the same space, the same visual flavour and footprint as their fiercest competitors.</p>
 
 <p>Clients are demanding ‘better’ and that ‘better’ is deeper strategic thinking, going the extra mile to generate authenticity, distinction and typographic uniqueness. The accelerated digital transformation of 2020 has initiated a customer centred rethink for visual identity. How should brands look and feel in new-normal 2.0? Can a visual identity convey a genuine care for the world, the environment, us, our futures?</p>
 
@@ -209,36 +193,27 @@ thumbnail: 'https://picsum.photos/400/300?random=7975'
 
 <p>JKR’s deservedly headline grabbing rebrand of Burger King speaks to this emerging type and graphic trend that celebrates a softer service warmth. Going back to the past and re-doing as new; brand heritage reimagined, ethereal wood type classics updated as crisp digital pixels. A nod to the vintage typographic era of playful swashes, fat serifs, quirky letters and vibrant colour schemes. There is comfort to be found when paying homage to the warm and soft edge physicality of these letter shapes.</p>
 
-<p>Burger King’s identity as a whole is conveying warmth in a way that celebrates creativity, and the brands typographic optimism is aligned to its warm bouncy burger iconography. This sense of fun and joy, shares comfort at a time when we most need it. And significantly, the rebrand has reframed brand typography for screen. The brands new typefaces ‘Flame Serif’ and ‘Flame Sans’ by Colophon are born from Burger King’s marketing archives, and as such they feel vintage and speak to the classic soft-service typography of the classic New York burger joint.</p>
-            </div>
+<p>Burger King’s identity as a whole is conveying warmth in a way that celebrates creativity, and the brands typographic optimism is aligned to its warm bouncy burger iconography. This sense of fun and joy, shares comfort at a time when we most need it. And significantly, the rebrand has reframed brand typography for screen. The brands new typefaces ‘Flame Serif’ and ‘Flame Sans’ by Colophon are born from Burger King’s marketing archives, and as such they feel vintage and speak to the classic soft-service typography of the classic New York burger joint.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h2>Nostalgia as a vehicle for empathy.</h2>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h2>Nostalgia as a vehicle for empathy.</h2>
 
 <p>‘Nostalgia’ as a theme is not a driver for change, but it is a vehicle to empathy in a world that seeks familiarity and comfort during difficult times. Designers are obsessed with the <strong>‘</strong>iconicity’ of things, not only of logotypes, but of books, packaging, graphic ephemera. We just love this stuff. Everyone’s a collector of something. Brand leaders understand this too.</p>
 
 <p>Burger King’s logo of 1969 was ripe for modern reinvention and it has been executed perfectly by Newlyn. It’s a no-nonsense logo that plays to all the flat goodness our pixelated screens can offer. It feels akin to a brand looking forward, thinking about sustainability and ‘eco branding’, another trend in its infancy. There’s worthiness about all this.</p>
 
-<p>Typically brands reinvent anew or evolve. JKR jumped back and reworked the logo in the middle. It’s as if they took an eraser to their brand of 20 years and hit refresh. Co-op and North worked a similar strategy with their rework of the 1968 Co-op logo, as did NASA with ‘the worm is back’ last year. But really nostalgia as brand is not really nostalgia at all because these logos have an inherent timelessness about them. Fashions come around and these expressions of brand feel as in-sync now as they once did then.</p>
-            </div>
+<p>Typically brands reinvent anew or evolve. JKR jumped back and reworked the logo in the middle. It’s as if they took an eraser to their brand of 20 years and hit refresh. Co-op and North worked a similar strategy with their rework of the 1968 Co-op logo, as did NASA with ‘the worm is back’ last year. But really nostalgia as brand is not really nostalgia at all because these logos have an inherent timelessness about them. Fashions come around and these expressions of brand feel as in-sync now as they once did then.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -250,61 +225,46 @@ thumbnail: 'https://picsum.photos/400/300?random=7975'
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Phil Garnham</p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Phil Garnham</p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h2>Type lives in culture.</h2>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h2>Type lives in culture.</h2>
 
 <p>That’s not to say we are going backwards. It means brands are going to the heart of who they are, relying on bold and iconic expressions of themselves to affirm a sense of security and trustworthiness. Heritage inspiration as an antidote to the world’s post-truth and brand’s evolving at their core as communication platforms evolve too. Burger King are evolving their heritage, bringing along their distinct visual equity, modernising in line with technology.</p>
 
 <p>Type lives in culture, and what feels like a great idea for one territory doesn’t always translate or feel right in another. In the past brands have been accused of ‘latinising’ eastern writing. I was curious to hear how our creative team in China reacted to the new Burger King logo, but it seems burgers are in themselves their own universal language. “The shape of bun, onion, tomato, juicy beef is conveyed across Burger King’s global typography. Yummy,” said Robin Hui from Monotype Studio, China.</p>
 
-<p>Brands are beginning to re-think. They are breaking away from mis held beliefs around digital aesthetics. Digital just is, and it can be whatever we want it to be. Typography for food, served by humans should look human. Looking back isn’t nostalgic. Looking back is a means to graphic clarity, a one pointedness that builds on the inherent nature of service and product. Burger King is a green shoot amongst a digital landscape of imitation and is further confirmation that distinctive typography is so important today.</p>
-            </div>
+<p>Brands are beginning to re-think. They are breaking away from mis held beliefs around digital aesthetics. Digital just is, and it can be whatever we want it to be. Typography for food, served by humans should look human. Looking back isn’t nostalgic. Looking back is a means to graphic clarity, a one pointedness that builds on the inherent nature of service and product. Burger King is a green shoot amongst a digital landscape of imitation and is further confirmation that distinctive typography is so important today.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><em>Phil Garnham is Senior Creative Type Director at Monotype and a type designer with many years of experience in the design and engineering of fonts for global brands. Working in collaboration with design studios and global clients, Phil understands the creative and business needs of brands looking to build continuity with type.</em></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><em>Phil Garnham is Senior Creative Type Director at Monotype and a type designer with many years of experience in the design and engineering of fonts for global brands. Working in collaboration with design studios and global clients, Phil understands the creative and business needs of brands looking to build continuity with type.</em></p>
 
 <p><strong>Credits</strong><br>
 <em>Brand Identity:</em><strong> </strong>Jones Knowles Ritchie<br>
 <em>Logotype Refinement:</em><strong> </strong>Miles Newlyn<br>
-<em>Custom Type: </em>Colophon</p>
-            </div>
+<em>Custom Type: </em>Colophon</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
             

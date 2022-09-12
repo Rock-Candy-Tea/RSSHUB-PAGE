@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=6759'
+headimg: 'https://picsum.photos/400/300?random=2063'
 author: Monotype
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=6759'
+thumbnail: 'https://picsum.photos/400/300?random=2063'
 ---
 
 <div>   
@@ -29,15 +29,10 @@ thumbnail: 'https://picsum.photos/400/300?random=6759'
 
       </div>
                       <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -169,12 +164,9 @@ thumbnail: 'https://picsum.photos/400/300?random=6759'
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p>Mark Borden, Editor-in-Chief and Head of Creative Strategy, House Industries, shares his perspective on the critical role of type in branding and culture. Learn more about Brand Talks <a href="https://events.monotype.com/brandtalks">here</a>.</p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p>Mark Borden, Editor-in-Chief and Head of Creative Strategy, House Industries, shares his perspective on the critical role of type in branding and culture. Learn more about Brand Talks <a href="https://events.monotype.com/brandtalks">here</a>.</p></div>
+</div>
   </div>
 
             

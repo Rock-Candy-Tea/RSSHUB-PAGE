@@ -29,27 +29,14 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
       </div>
                       <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/podcast" hreflang="en">Podcast</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/creative-characters" hreflang="en">Creative Characters</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/creative-matters" hreflang="en">Creative matters</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/type-design" hreflang="en">Type design</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/typography" hreflang="en">Typography</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/trends" hreflang="en">Type trends.</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/podcast" hreflang="en">Podcast</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/creative-characters" hreflang="en">Creative Characters</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/creative-matters" hreflang="en">Creative matters</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/type-design" hreflang="en">Type design</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/typography" hreflang="en">Typography</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/trends" hreflang="en">Type trends.</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -181,57 +168,42 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p>On Creative Characters, we meet the people and personalities behind the brands, campaigns, and designs we love. You can listen to the podcast on <a href="https://podcasts.apple.com/us/podcast/creative-characters/id1554900091">Apple</a>, <a href="https://open.spotify.com/show/0YMgdWoS68rPxMautyRgcX">Spotify</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9tb25vdHlwZS5saWJzeW4uY29tL3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwjY9_DH-rzvAhUAAAAAHQAAAAAQAQ&hl=en">Google Podcasts</a>, and wherever quality podcasts are available.</p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p>On Creative Characters, we meet the people and personalities behind the brands, campaigns, and designs we love. You can listen to the podcast on <a href="https://podcasts.apple.com/us/podcast/creative-characters/id1554900091">Apple</a>, <a href="https://open.spotify.com/show/0YMgdWoS68rPxMautyRgcX">Spotify</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9tb25vdHlwZS5saWJzeW4uY29tL3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwjY9_DH-rzvAhUAAAAAHQAAAAAQAQ&hl=en">Google Podcasts</a>, and wherever quality podcasts are available.</p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span>In this week’s episode, Monotype Type Director, Terrance Weinzierl has an inspiring conversation with designer, educator, and design thinker, Adam Weiler, who currently leads the social innovation program at Steelcase, a furniture company founded in Grand Rapids, Michigan.</span></span></span></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span>In this week’s episode, Monotype Type Director, Terrance Weinzierl has an inspiring conversation with designer, educator, and design thinker, Adam Weiler, who currently leads the social innovation program at Steelcase, a furniture company founded in Grand Rapids, Michigan.</span></span></span></p>
 
 <p><span><span><span>Weiler shares his perspective on design thinking, strategy, his complicated relationship with the internet, and the meandering it took to find his place in the creative world. </span></span></span></p>
 
-<p><span><span><span>“I would say my college years were spent wandering a bit in the desert. I wanted to be an aerospace engineer, then got really interested in physiology and anthropology and ended up with a degree in visual studies and math. I always loved creative problem solving. That’s the theme that runs through both of those, the qualitative side of an aesthetic experience and the quantitative sort of anchoring and the hard numbers of math were really alluring,” Weiler says. “During my senior year I discovered design and that was like a bowl of cool water in the middle of the desert, it was the language that I had been looking for. We just didn’t have the program at the time to jump into it professionally in college.”</span></span></span></p>
-            </div>
+<p><span><span><span>“I would say my college years were spent wandering a bit in the desert. I wanted to be an aerospace engineer, then got really interested in physiology and anthropology and ended up with a degree in visual studies and math. I always loved creative problem solving. That’s the theme that runs through both of those, the qualitative side of an aesthetic experience and the quantitative sort of anchoring and the hard numbers of math were really alluring,” Weiler says. “During my senior year I discovered design and that was like a bowl of cool water in the middle of the desert, it was the language that I had been looking for. We just didn’t have the program at the time to jump into it professionally in college.”</span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span>That wandering and lack of exposure to design as a possible career option is what inspired Weiler to start Ambrose, an after-school program in downtown Holland, Michigan where students could explore their place in the world through workshops in screen printing, hand lettering, and other avenues.</span></span></span></p>
-            </div>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span>That wandering and lack of exposure to design as a possible career option is what inspired Weiler to start Ambrose, an after-school program in downtown Holland, Michigan where students could explore their place in the world through workshops in screen printing, hand lettering, and other avenues.</span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2021-12/Artboard%204_168_125.webp?itok=s4fPeVnd 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2021-12/Artboard%204_168_125.webp?itok=SsZ8v1qa 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2021-12/Artboard%204_168_125.webp?itok=XZuYTryx 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -242,22 +214,17 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-
+</div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span>Ambrose went a step beyond the internet in that it gave kids a tangible, collaborative way to try new creative outlets and career possibilities together, in-person instead of isolated at home in front of a computer (or more likely smartphone) screen. </span></span></span></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span>Ambrose went a step beyond the internet in that it gave kids a tangible, collaborative way to try new creative outlets and career possibilities together, in-person instead of isolated at home in front of a computer (or more likely smartphone) screen. </span></span></span></p>
 
 <p><span><span><span>“It’s one thing to have a mental connection to a concept or a skill set. It’s another thing to practice, exchange, and to be gritty together as you’re practicing critical making.”</span></span></span></p>
 
@@ -265,16 +232,12 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
 <p><span><span><span>“There’s the potential for the Internet to be this beautiful, vibrant thing that connects and helps build communal health in a really great way. And the flip side of that is it also has the potential to be disconnecting and disassociating of our body or our experience or our geographies.</span> <span>The internet is weirdly both an empathy machine and an apathy machine.”<br>
 <br>
-As a long-time design thinking coach,</span><span> Weiler has a wealth of experience community building, running strategy for social services and using empathy and curiosity as the foundation for creative problem-solving. </span></span></span></p>
-            </div>
+As a long-time design thinking coach,</span><span> Weiler has a wealth of experience community building, running strategy for social services and using empathy and curiosity as the foundation for creative problem-solving. </span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -286,52 +249,37 @@ As a long-time design thinking coach,</span><span> Weiler has a wealth of experi
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Adam Weiler.</p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Adam Weiler.</p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span>Weiler also started a firm in Grand Rapids, Michigan, called </span><a href="https://publicagency.wmcat.org/"><span>Public Agency</span></a><span>, that </span><span>fuses d</span><span>esign thinking and equity frameworks. There, he collaborated with community leaders to develop and run workshops focused on social services such as building compelling library programs for students during the pandemic.</span></span></span></p>
-            </div>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span>Weiler also started a firm in Grand Rapids, Michigan, called </span><a href="https://publicagency.wmcat.org/"><span>Public Agency</span></a><span>, that </span><span>fuses d</span><span>esign thinking and equity frameworks. There, he collaborated with community leaders to develop and run workshops focused on social services such as building compelling library programs for students during the pandemic.</span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span>Now at Steelcase, </span><span>Weiler heads up the</span><span> social innovation team working to identify opportunities that align with their impact to help make our communities better.</span> <span>Last year </span><span>Steelcase </span><span>launched the</span><span>ir</span> <a href="https://www.monotype.com/resources/expertise/undefined"><span>social innovation lab</span></a><span> to proactively</span><span> identify education initiatives that</span><span> address</span><span> issues of </span><span>e</span><span>quity or wellbeing exacerbated by COVID. </span><span>They also ran </span><span>a </span><a href="https://www.steelcase.com/content/uploads/2021/02/2021_AM_SC_Global-Report_Changing-Expectations-and-the-Future-of-Work-2.pdf"><span>global study</span></a> <span>examining the </span><span>benefits</span><span>, </span><span>unseen benefits</span><span>, and setbacks of working remotely. While there are obvious positives, such as eliminating commute times, there are also </span><span>potential loss</span><span>es</span><span> of creativity</span><span> and </span><span>collab</span><span>oration</span> <span>due to</span><span> isolation</span><span>.</span></span></span></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span>Now at Steelcase, </span><span>Weiler heads up the</span><span> social innovation team working to identify opportunities that align with their impact to help make our communities better.</span> <span>Last year </span><span>Steelcase </span><span>launched the</span><span>ir</span> <a href="https://www.monotype.com/resources/expertise/undefined"><span>social innovation lab</span></a><span> to proactively</span><span> identify education initiatives that</span><span> address</span><span> issues of </span><span>e</span><span>quity or wellbeing exacerbated by COVID. </span><span>They also ran </span><span>a </span><a href="https://www.steelcase.com/content/uploads/2021/02/2021_AM_SC_Global-Report_Changing-Expectations-and-the-Future-of-Work-2.pdf"><span>global study</span></a> <span>examining the </span><span>benefits</span><span>, </span><span>unseen benefits</span><span>, and setbacks of working remotely. While there are obvious positives, such as eliminating commute times, there are also </span><span>potential loss</span><span>es</span><span> of creativity</span><span> and </span><span>collab</span><span>oration</span> <span>due to</span><span> isolation</span><span>.</span></span></span></p>
 
-<p><span><span><span>A question we have all been examining over the past 18 months or so, is “</span><span>what is the role of the office?”</span><span> While many companies are settling on hybrid workforces that mix working from home and the office, Weiler (who is working in the office under a strict safety protocol), makes an </span><span>analogy</span><span> to w</span><span>hat makes bees effective pollinators.</span></span></span></p>
-            </div>
+<p><span><span><span>A question we have all been examining over the past 18 months or so, is “</span><span>what is the role of the office?”</span><span> While many companies are settling on hybrid workforces that mix working from home and the office, Weiler (who is working in the office under a strict safety protocol), makes an </span><span>analogy</span><span> to w</span><span>hat makes bees effective pollinators.</span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -343,38 +291,28 @@ As a long-time design thinking coach,</span><span> Weiler has a wealth of experi
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Adam Weiler.</p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Adam Weiler.</p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p><span><span><span>Similarly, being back in the office has allowed Weiler to</span><span> wander and</span><span> meet hundreds of </span><span>colleagues </span><span>he wouldn’t have met otherwise, giving him a broader picture and understanding of the work that Steelcase is doing.</span></span></span></p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p><span><span><span>Similarly, being back in the office has allowed Weiler to</span><span> wander and</span><span> meet hundreds of </span><span>colleagues </span><span>he wouldn’t have met otherwise, giving him a broader picture and understanding of the work that Steelcase is doing.</span></span></span></p>
 
-<p><span><span><span>To learn more about the great work Weiler is doing at Steelcase, visit </span><a href="https://www.steelcase.com/socialinnovationlab/"><span>https://www.steelcase.com/socialinnovationlab/</span></a><span>. </span></span></span></p>
-            </div>
+<p><span><span><span>To learn more about the great work Weiler is doing at Steelcase, visit </span><a href="https://www.steelcase.com/socialinnovationlab/"><span>https://www.steelcase.com/socialinnovationlab/</span></a><span>. </span></span></span></p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
 <div data-block-plugin-id="block_content:264c87fd-97b3-4321-8fb3-ce795d7394bd" class="block block-block-content block-block-content264c87fd-97b3-4321-8fb3-ce795d7394bd">
@@ -391,6 +329,7 @@ As a long-time design thinking coach,</span><span> Weiler has a wealth of experi
                   </div>
     
   </div>
+
 
 
             

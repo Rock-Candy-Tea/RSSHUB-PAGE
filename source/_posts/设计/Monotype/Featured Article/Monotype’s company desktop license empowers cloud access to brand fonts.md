@@ -5,11 +5,11 @@ categories:
  - 设计
  - Monotype
  - Featured Article
-headimg: 'https://picsum.photos/400/300?random=5848'
+headimg: 'https://picsum.photos/400/300?random=7012'
 author: Monotype
 comments: false
 date: Invalid Date
-thumbnail: 'https://picsum.photos/400/300?random=5848'
+thumbnail: 'https://picsum.photos/400/300?random=7012'
 ---
 
 <div>   
@@ -29,27 +29,14 @@ thumbnail: 'https://picsum.photos/400/300?random=5848'
 
       </div>
                       <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/font-licensing" hreflang="en">Font licensing</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/brand" hreflang="en">Brand fonts</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/creative-collaboration" hreflang="en">Creative collaboration</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/fonts" hreflang="en">Fonts</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/font-licensing" hreflang="en">Font licensing</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/digital-branding" hreflang="en">Digital branding</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/brand" hreflang="en">Brand fonts</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/creative-collaboration" hreflang="en">Creative collaboration</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/fonts" hreflang="en">Fonts</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -181,24 +168,19 @@ thumbnail: 'https://picsum.photos/400/300?random=5848'
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p>Long gone are the days of zipping up folders of font files and sharing them across your organization, or even messier, embedding fonts in documents in the cloud in hopes that the design remains intact. We recently announced an expanded set of licensing rights which allows all employees within an organization to access Commercial Production Fonts in their desktop environments. </p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p>Long gone are the days of zipping up folders of font files and sharing them across your organization, or even messier, embedding fonts in documents in the cloud in hopes that the design remains intact. We recently announced an expanded set of licensing rights which allows all employees within an organization to access Commercial Production Fonts in their desktop environments. </p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>The announcement was made following <a href="https://insider.office.com/en-us/blog/make-your-organizations-fonts-available-in-powerpoint-for-the-web">Microsoft’s news that brand fonts will now be enabled within the Microsoft Office 365 cloud ecosystem</a>, offering an immediately valuable use case for this new licensing structure.  </p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>The announcement was made following <a href="https://insider.office.com/en-us/blog/make-your-organizations-fonts-available-in-powerpoint-for-the-web">Microsoft’s news that brand fonts will now be enabled within the Microsoft Office 365 cloud ecosystem</a>, offering an immediately valuable use case for this new licensing structure.  </p>
 
 <h3><strong>What are desktop rights? </strong></h3>
 
@@ -206,21 +188,16 @@ thumbnail: 'https://picsum.photos/400/300?random=5848'
 
 <h3><strong>More access means more consistency.</strong></h3>
 
-<p>Today, many brands aim to manage desktop rights through a more manual process, but large organizations often struggle to scale access to their full employee teams. This causes friction between collaborators who have differing access to font files. It can also lead to missing fonts when projects are shared between team members. Monotype’s Company Desktop license makes it easy for employees and collaborators to create seamlessly while using the right fonts to create on-brand presentations and documents. The more people in your company with consistent access to the right fonts means more brand consistency.  </p>
-            </div>
+<p>Today, many brands aim to manage desktop rights through a more manual process, but large organizations often struggle to scale access to their full employee teams. This causes friction between collaborators who have differing access to font files. It can also lead to missing fonts when projects are shared between team members. Monotype’s Company Desktop license makes it easy for employees and collaborators to create seamlessly while using the right fonts to create on-brand presentations and documents. The more people in your company with consistent access to the right fonts means more brand consistency.  </p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <h3><strong>How to get Company Desktop rights for your organization.</strong></h3>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><h3><strong>How to get Company Desktop rights for your organization.</strong></h3>
 
 <p>Company Desktop rights are being made available within <a href="https://www.monotypefonts.com/">Monotype Fonts</a> subscriptions. Monotype Fonts is the only on-demand font service designed by creatives, for creatives, making it easier for brands and creative teams to create memorable designs. With access to more than 36,000 fonts, including the ability to import your own brand fonts, Monotype Fonts users can share their work in the cloud, allowing them to collaborate and deploy fonts from anywhere.</p>
 
@@ -228,16 +205,12 @@ thumbnail: 'https://picsum.photos/400/300?random=5848'
 
 <p>Covering all employees, as well as affiliates working on behalf of the organization, the license is priced per year and per number of production fonts, scaling based on the total number of employees within an organization.</p>
 
-<p>To learn more about Company Desktop rights, and to view packages that might align with your brand’s needs, <a href="https://www.monotypefonts.com/">visit our website</a>.</p>
-            </div>
+<p>To learn more about Company Desktop rights, and to view packages that might align with your brand’s needs, <a href="https://www.monotypefonts.com/">visit our website</a>.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
             

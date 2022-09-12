@@ -38,18 +38,11 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
       </div>
                   <div class="content-field_tags ">
-            <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
-                <div class="field__item">
-        <a href="https://www.monotype.com/resources/studio" hreflang="en">Studio</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a>
-            </div>
-                  <div class="field__item">
-        <a href="https://www.monotype.com/resources/tags/fonts" hreflang="en">Fonts</a>
-            </div>
-          </div>
-
+        <div class="field field--name-field-tags field--type-entity-reference field--label-hidden field__items">
+      <div class="field__item"><a href="https://www.monotype.com/resources/studio" hreflang="en">Studio</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/brand-design" hreflang="en">Brand design</a></div>
+      <div class="field__item"><a href="https://www.monotype.com/resources/tags/fonts" hreflang="en">Fonts</a></div>
+</div>
       </div>
             <div class="content-social-share-button-field">
       <div data-block-plugin-id="social_sharing_buttons_block" class="block block-better-social-sharing-buttons block-social-sharing-buttons-block">
@@ -181,41 +174,31 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 <div data-block-plugin-id="field_block:node:resource:body" class="block block-layout-builder block-field-blocknoderesourcebody">
   
     
-          <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
-                <div class="field__item">
-        <p>Typefaces have come a long way since the days of the print shop, when having a handful of typefaces was considered a great range of choice. Now, brands and designers need a whole toolbox of type that spans different styles, sizes and languages. This has given rise to a greater need for superfamilies—vast collections of type that can meet a multitude of needs without compromising on consistency. But what defines a superfamily, exactly?</p>
-            </div>
-          </div>
-
+      <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item"><p>Typefaces have come a long way since the days of the print shop, when having a handful of typefaces was considered a great range of choice. Now, brands and designers need a whole toolbox of type that spans different styles, sizes and languages. This has given rise to a greater need for superfamilies—vast collections of type that can meet a multitude of needs without compromising on consistency. But what defines a superfamily, exactly?</p></div>
+</div>
   </div>
 <div data-block-plugin-id="field_block:node:resource:field_left_section" class="block block-layout-builder block-field-blocknoderesourcefield-left-section">
   
     
-          <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
-                <div class="field__item">
-        
+      <div class="field field--name-field-left-section field--type-entity-reference-revisions field--label-hidden field__items">
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">“I usually think of a superfamily as having more than one style, let’s say a sans and serif component, but that’s not set in stone,” explains Monotype Senior Type Designer Terrance Weinzierl. “I think if a typeface has a wide variety of weight and widths, it’s just a big family. What makes it ‘super’ is the ability to shift personalities or voices while remaining in harmony and keeping some of the same system, perhaps vertical metrics and visual weight color.”</p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">“I usually think of a superfamily as having more than one style, let’s say a sans and serif component, but that’s not set in stone,” explains Monotype Senior Type Designer Terrance Weinzierl. “I think if a typeface has a wide variety of weight and widths, it’s just a big family. What makes it ‘super’ is the ability to shift personalities or voices while remaining in harmony and keeping some of the same system, perhaps vertical metrics and visual weight color.”</p>
 
-<p dir="ltr">One useful comparison is analogous colors. While a large typeface family might offer light to dark blue, a superfamily offers a fuller spectrum of that color—from green-blue through to yellowish and purple shades. By relying on the same underlying letter architecture, superfamilies allow designers to pair different styles without creating awkward combinations. </p>
-            </div>
+<p dir="ltr">One useful comparison is analogous colors. While a large typeface family might offer light to dark blue, a superfamily offers a fuller spectrum of that color—from green-blue through to yellowish and purple shades. By relying on the same underlying letter architecture, superfamilies allow designers to pair different styles without creating awkward combinations. </p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=Loliw91r 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=smn56V7s 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2020-05/MT_Macklin_Superfamily_GIF_2880x1440_0.5sec%20%281%29.gif?itok=DTWWs_t3 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -226,43 +209,33 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-
+</div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Malou Verlomme’s <a href="https://www.monotype.com/fonts/macklin">Macklin</a> superfamily is a good example, as it brings several different letter styles into a single family that includes a sans, slab, text and display. Because they share a common skeleton, each of these styles can work alongside one another.</p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Malou Verlomme’s <a href="https://www.monotype.com/fonts/macklin">Macklin</a> superfamily is a good example, as it brings several different letter styles into a single family that includes a sans, slab, text and display. Because they share a common skeleton, each of these styles can work alongside one another.</p>
 
 <h3 dir="ltr">A full toolbox for brands.</h3>
 
 <p dir="ltr">This internal harmony is precisely what makes superfamilies so valuable for brands. They allow companies to invest in one typeface that can address multiple creative needs while giving designers room to experiment in the future.</p>
 
-<p dir="ltr">Superfamilies can be extremely valuable for editorial, where sans and serifs may need to work with one another rather than in contrast, or for companies that need a monospaced font for coding environments. Brands launching new products, expanding the scope of what they do, or establishing themselves on new platforms often require a fresh design approach. A superfamily allows them to do this while keeping branding consistent.</p>
-            </div>
+<p dir="ltr">Superfamilies can be extremely valuable for editorial, where sans and serifs may need to work with one another rather than in contrast, or for companies that need a monospaced font for coding environments. Brands launching new products, expanding the scope of what they do, or establishing themselves on new platforms often require a fresh design approach. A superfamily allows them to do this while keeping branding consistent.</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--image paragraph--view-mode--default">
                                             <article class="media media--type-image media--view-mode-default">
   
-          <div class="field field--name-image field--type-image field--label-hidden field__items">
-                <div class="field__item">
-            <picture>
+      <div class="field field--name-image field--type-image field--label-hidden field__items">
+      <div class="field__item">    <picture>
                   <source srcset="/sites/default/files/styles/width_810/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.webp?itok=MVu7RoVM 1x" media="all and (min-width: 768px)" type="image/webp">
               <source srcset="/sites/default/files/styles/720x360/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.webp?itok=XiC7ywPr 1x" media="all and (min-width: 450px)" type="image/webp">
               <source srcset="/sites/default/files/styles/450x225/public/2020-05/MT_Fonts_Macklin_Blog_Body-4.webp?itok=XAD8gq-a 1x" media="all and (min-width: 320px)" type="image/webp">
@@ -273,38 +246,26 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
   </picture>
 
-
-            </div>
-          </div>
-    <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>This image shows how three styles of Macklin—Slab for the headline, Sans for the subhead, and Text for the body—can be used to lay out a single editorial piece. Superfamilies like this give you the range to distinguish different blocks of text while maintaining a strong visual throughline.</p>
-            </div>
-          </div>
-
+</div>
+</div><div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>This image shows how three styles of Macklin—Slab for the headline, Sans for the subhead, and Text for the body—can be used to lay out a single editorial piece. Superfamilies like this give you the range to distinguish different blocks of text while maintaining a strong visual throughline.</p></div>
+</div>
   </article>
 
                       </div>
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">“You can use a superfamily in your style guide to distinguish a new product line, a different attitude or a different tone of voice that’s similar and recognizable,” says Weinzierl. </p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">“You can use a superfamily in your style guide to distinguish a new product line, a different attitude or a different tone of voice that’s similar and recognizable,” says Weinzierl. </p>
 
-<p dir="ltr">“Imagine a furniture company starts a product line for children,” adds Weinzierl. “The main brand uses the sans, and the kid’s line adopts the rounded version of that typeface. It’s instantly more friendly and safe-looking, while recognizable as being from that brand. This approach is about using a closely neighboring typeface, not a contrasting one.”</p>
-            </div>
+<p dir="ltr">“Imagine a furniture company starts a product line for children,” adds Weinzierl. “The main brand uses the sans, and the kid’s line adopts the rounded version of that typeface. It’s instantly more friendly and safe-looking, while recognizable as being from that brand. This approach is about using a closely neighboring typeface, not a contrasting one.”</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-                  <div class="field__item">
-            <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+</div>
+      <div class="field__item">    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
                     
 <div class="main-wrapper-quotation ">
   
@@ -316,27 +277,21 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
                 <span class="quote-Text-last-letter">”</span>
       </div>
               <div class="citation">
-                      <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p>Terrance Weinzierl.</p>
-            </div>
-          </div>
-
+                  <div class="clearfix text-formatted field field--name-field-quote-by field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p>Terrance Weinzierl.</p></div>
+</div>
               </div>
       </div>
   
 </div>
             </div>
 
-
-            </div>
-                  <div class="field__item">
-        
+</div>
+      <div class="field__item">
   <div class="paragraph paragraph--type--text paragraph--view-mode--default">
         
-              <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
-                <div class="field__item">
-        <p dir="ltr">With such a range of choice, superfamilies can leave designers unsure of where to begin. For designers feeling overwhelmed by what’s on offer, Weinzierl recommends starting small. Investing in just a few weights allows users to ease in and familiarize themselves with the typeface. This also gives designers time to understand what else they need to supplement and contrast. Investing in a limited palette that can be expanded later is also useful for startups, or designers working on the early stages of branding, and reduces some of the initial cost of licensing. </p>
+          <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__items">
+      <div class="field__item"><p dir="ltr">With such a range of choice, superfamilies can leave designers unsure of where to begin. For designers feeling overwhelmed by what’s on offer, Weinzierl recommends starting small. Investing in just a few weights allows users to ease in and familiarize themselves with the typeface. This also gives designers time to understand what else they need to supplement and contrast. Investing in a limited palette that can be expanded later is also useful for startups, or designers working on the early stages of branding, and reduces some of the initial cost of licensing. </p>
 
 <p>“Superfamilies are useful for the beginning stages of a larger project, speculating on what a brand might need in the future,” says Weinzierl. “Let’s say you’re working on a new brand, and you’re not certain what the final deliverables are, but you need to choose something while prototyping. Choosing a superfamily at that stage gives you a starting point with the flexibility to pivot to lighter or heavier tones later on. This may also serve the longevity of a brand just starting out.”</p>
 
@@ -348,16 +303,12 @@ thumbnail: 'https://www.monotype.com/sites/default/files/styles/width_810/public
 
 <p dir="ltr">Superfamilies could become an integral tool for keeping pace with changing technology, and the needs of virtual and three-dimensional environments. They’ll offer the typographic choice needed, allowing companies to flex the mood and style of their brand typeface across platforms, without compromising on communication.</p>
 
-<p dir="ltr">“As our computers, and all of the design and code around them gets more and more complex, the question becomes, how can we change the mood a little within the design?” says Weinzierl. “Why can’t the font be rounded under this circumstance? Why can’t it be a serif under that one?’ Limitations will become opportunities, because everything else is so open.”</p>
-            </div>
+<p dir="ltr">“As our computers, and all of the design and code around them gets more and more complex, the question becomes, how can we change the mood a little within the design?” says Weinzierl. “Why can’t the font be rounded under this circumstance? Why can’t it be a serif under that one?’ Limitations will become opportunities, because everything else is so open.”</p></div>
+</div>
           </div>
 
-          </div>
-
-
-            </div>
-          </div>
-
+</div>
+</div>
   </div>
 
             
