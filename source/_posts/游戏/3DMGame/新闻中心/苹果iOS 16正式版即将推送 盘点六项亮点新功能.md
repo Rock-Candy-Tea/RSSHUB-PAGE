@@ -1,0 +1,89 @@
+
+---
+title: '苹果iOS 16正式版即将推送 盘点六项亮点新功能'
+categories: 
+ - 游戏
+ - 3DMGame
+ - 新闻中心
+headimg: 'https://img.3dmgame.com/uploads/images/news/20220912/1662952641_267846.png'
+author: 3DMGame
+comments: false
+date: Mon, 12 Sep 2022 03:19:00 GMT
+thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220912/1662952641_267846.png'
+---
+
+<div>   
+<p style="text-indent:2em;">
+日前苹果发布了 iPhone 14 系列新款手机，同时宣布 iOS 16 正式版也将在 9 月 13 日凌晨开始推送。 iOS 16 将支持 iPhone 8、iPhone X 或更新机型。
+</p>
+<p style="text-indent:2em;">
+iOS 16 包含大量新功能，从可自定义的锁屏到临时编辑或取消发送 iMessage 的能力等等。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220912/1662952641_267846.png" alt="苹果iOS 16正式版即将推送 盘点六项亮点新功能" referrerpolicy="no-referrer">
+</p>
+<p style="text-indent:2em;">
+<span></span>要在更新发布时安装 iOS 16，请在 iPhone 上打开设置应用程序，然后点击通用 —— 软件更新。将你的 iPhone 更新至 iOS 16 后，可以体验到下面的六项新特性。
+</p>
+<p style="text-indent:2em;">
+<strong>自定义锁定屏幕</strong>
+</p>
+<p style="text-indent:2em;">
+iOS 16 主要新功能是能够使用多层壁纸、小组件、日期和时间的自定义字体等来个性化锁定屏幕。用户还可以选择一组照片全天在锁定屏幕上随机播放。
+</p>
+<p style="text-indent:2em;">
+新的锁定屏幕画廊展示了一系列锁定屏幕选项，包括具有实时天气条件的新天气壁纸和提供地球、月球和太阳系视图的天文学壁纸。iOS 16 包括对多种锁屏设计的支持，允许用户通过滑动在收藏之间切换。
+</p>
+<p style="text-indent:2em;">
+<strong>编辑或取消发送 iMessage</strong>
+</p>
+<p style="text-indent:2em;">
+iOS 16 引入了临时编辑或取消发送 iMessage 的功能，以及在打开 iMessage 对话后将其标记为未读的功能。
+</p>
+<p style="text-indent:2em;">
+苹果允许用户在发送 iMessage 后最多 15 分钟内对其进行编辑，每条消息最多允许进行五次编辑。收件人可以看到对消息所做的编辑记录，并且在运行 iOS 15 或更早版本的设备上，编辑的消息会作为一条新消息接收，上面写着“已编辑为 [新消息]”。
+</p>
+<p style="text-indent:2em;">
+要编辑或取消发送消息，只需点击并按住气泡，然后在出现的菜单中选择适当的选项。已编辑的 iMessage 在消息气泡下方标记为“已编辑”。在运行 iOS 15 或更早版本的设备上，已编辑的消息会作为一条新消息接收，其中显示“已编辑为 [X]”。
+</p>
+<p style="text-indent:2em;">
+<strong>使用全屏音乐播放器</strong>
+</p>
+<p style="text-indent:2em;">
+iOS 16 在锁定屏幕上重新引入了全屏音乐播放器，带有大专辑封面和颜色匹配的壁纸。
+</p>
+<p style="text-indent:2em;">
+苹果上次在 2016 年 iOS 10 的锁定屏幕上提供全屏音乐播放器。如果用户不喜欢该功能，可以点击显示屏底部以最小化音乐播放器并恢复为标准锁定屏幕壁纸。
+</p>
+<p style="text-indent:2em;">
+<strong>支持任天堂 Joy-Cons 游戏手柄</strong>
+</p>
+<p style="text-indent:2em;">
+苹果 iPhone 支持 iOS 16 上的许多其他蓝牙游戏控制器，包括任天堂 Switch 的 Joy-Cons 和 Pro 控制手柄。运行 iOS 16 的 iPhone 可与单个左侧或右侧 Joy-Con 一起使用，或同时用作单个控制器。
+</p>
+<p style="text-indent:2em;">
+这是自去年发布 iOS 14.5 以来 iPhone 与 PS5 DualSense 和 Xbox Series X 控制器手柄的现有兼容性的基础之上做出的改变。
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220912/1662952654_272709.png" alt="苹果iOS 16正式版即将推送 盘点六项亮点新功能" referrerpolicy="no-referrer"> 
+</p>
+<p style="text-indent:2em;">
+<strong>跟踪 Apple Pay 订单</strong>
+</p>
+<p style="text-indent:2em;">
+<span>iOS 16 上的 Apple Pay 在电子钱包应用程序中为通过 Apple Pay 完成的在线订单提供了新的内置订单跟踪信息。跟踪器提供订单的预计交付日期，并指示包裹何时交付。</span>
+</p>
+<p style="text-indent:2em;">
+<span>在没有 Apple Watch 的情况下合上圆环</span>
+</p>
+<p style="text-indent:2em;">
+<span>从 iOS 16 开始，即使没有 Apple Watch，所有用户都可以在 iPhone 上使用健身应用程序。该应用程序具有每日活动圆环，它依靠 iPhone 运动传感器来估计个人每天燃烧的卡路里和步数。</span>
+</p>
+<p style="text-indent:2em;">
+<span>在 iPhone 14 活动期间，苹果宣布其 Fitness+ 服务将于今年晚些时候在提供该服务的 21 个国家 / 地区提供给没有 Apple Watch 的 iPhone 用户。Fitness+ 订阅价格为每月 9.99 美元或每年 79.99 美元。</span>
+</p>
+<p align="center">
+<img src="https://img.3dmgame.com/uploads/images/news/20220912/1662952663_531036.png" alt="苹果iOS 16正式版即将推送 盘点六项亮点新功能" referrerpolicy="no-referrer"> 
+</p>          
+</div>
+            
