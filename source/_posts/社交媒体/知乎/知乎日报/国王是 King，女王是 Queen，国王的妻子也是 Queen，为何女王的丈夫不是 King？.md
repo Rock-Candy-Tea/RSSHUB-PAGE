@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pica.zhimg.com/b16bb61db_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/b16bb61db_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-09-12 05:24:48
-thumbnail: 'https://pica.zhimg.com/b16bb61db_l.jpg?source=8673f162'
+date: 2022-09-12 06:49:41
+thumbnail: 'https://pic1.zhimg.com/b16bb61db_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pica.zhimg.com/b16bb61db_l.jpg?source=8673f162'
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pica.zhimg.com/b16bb61db_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/b16bb61db_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">stevenliuyi，</span><span class="bio">随便玩玩</span>
 <a href="https://www.zhihu.com/question/60320044/answer/629189817" class="originUrl" hidden>查看知乎原文</a>
 </strong>
