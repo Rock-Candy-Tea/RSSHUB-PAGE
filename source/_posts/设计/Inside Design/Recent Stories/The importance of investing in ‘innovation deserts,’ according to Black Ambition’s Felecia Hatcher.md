@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/inside-design-felecia-hatcher-design-better-podcast/'
 author: Inside Design
 comments: false
-date: 2022-09-13 03:44:01
+date: 2022-09-13 05:25:21
 thumbnail: 'https://www.invisionapp.com/inside-design/inside-design-felecia-hatcher-design-better-podcast/'
 ---
 

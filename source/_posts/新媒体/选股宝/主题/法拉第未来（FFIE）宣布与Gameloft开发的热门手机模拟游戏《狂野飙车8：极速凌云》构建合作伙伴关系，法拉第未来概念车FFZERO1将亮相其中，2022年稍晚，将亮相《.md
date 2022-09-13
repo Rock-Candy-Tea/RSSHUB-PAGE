@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 选股宝
  - 主题
-headimg: 'https://picsum.photos/400/300?random=9934'
+headimg: 'https://picsum.photos/400/300?random=2626'
 author: 选股宝
 comments: false
 date: Tue, 20 Jan 1970 05:28:08 GMT
-thumbnail: 'https://picsum.photos/400/300?random=9934'
+thumbnail: 'https://picsum.photos/400/300?random=2626'
 ---
 
 <div>   
