@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.nintendo.com.hk/software/img/bnr/HAC-P-A2CDB.jpg'
 author: Nintendo
 comments: false
-date: 2022-09-13 11:09:46
+date: 2022-09-13 12:21:53
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/HAC-P-A2CDB.jpg'
 ---
 
