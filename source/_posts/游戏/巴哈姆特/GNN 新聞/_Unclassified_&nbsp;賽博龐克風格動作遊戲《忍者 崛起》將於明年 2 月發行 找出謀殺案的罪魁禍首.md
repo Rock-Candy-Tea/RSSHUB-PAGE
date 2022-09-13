@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/37/c44090e530de23ee1bdd1a07211i6hp5.JPG?v=1662977646296'
 author: 巴哈姆特
 comments: false
-date: 2022-09-13 00:57:03
+date: 2022-09-13 03:43:15
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/37/c44090e530de23ee1bdd1a07211i6hp5.JPG?v=1662977646296'
 ---
 
@@ -31,7 +31,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/37/c44090e530de23ee1bdd1a07211i6hp5.
 <div>
  </div>
 <div>
-　　官方表示，玩家在《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%8D%E8%80%85%20%E5%B4%9B%E8%B5%B7" target="_blank">忍者 崛起</a>》中需活用各類武器及忍者技能進行戰鬥，而玩家也可以利用潛行來悄悄潛入及繞過敵人以迴避戰鬥；而關於本作的遊戲預告片和商店頁面則將在 10 月底陸續釋出。</div>
+　　官方表示，玩家在《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%BF%8D%E8%80%85%20%E5%B4%9B%E8%B5%B7" target="_blank">忍者 崛起</a>》中需活用各類武器及忍者技能進行戰鬥，也可以選擇利用潛行來悄悄潛入及繞過敵人以迴避戰鬥；而關於本作的遊戲預告片和商店頁面則將在 10 月底陸續釋出。</div>
 <div>
  </div>
 <div>
