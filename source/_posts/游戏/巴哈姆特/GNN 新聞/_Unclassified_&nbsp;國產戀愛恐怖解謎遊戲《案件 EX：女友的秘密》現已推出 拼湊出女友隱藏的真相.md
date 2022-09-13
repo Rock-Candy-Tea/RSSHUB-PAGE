@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/91/06cc9b1f434e8e4fba76a4ca0b1i6ub5.JPG?v=1663038837463'
 author: 巴哈姆特
 comments: false
-date: 2022-09-13 06:48:47
+date: 2022-09-13 07:31:09
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/91/06cc9b1f434e8e4fba76a4ca0b1i6ub5.JPG?v=1663038837463'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/91/06cc9b1f434e8e4fba76a4ca0b1i6ub5.
 <div>
 <div>
 <div>
-　　臺灣獨立遊戲開發團隊「Sounding <a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=Stone" target="_blank">Stone</a> / 老奉毊」宣布，旗下製作發行的戀愛恐怖解謎遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A1%88%E4%BB%B6%20EX%EF%BC%9A%E5%A5%B3%E5%8F%8B%E7%9A%84%E7%A7%98%E5%AF%86" target="_blank">案件 EX：女友的秘密</a>》現已於 PC Steam 平台發行。</div>
+　　臺灣獨立遊戲開發團隊「Sounding Stone / 老奉毊」宣布，旗下製作發行的戀愛恐怖解謎遊戲《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%A1%88%E4%BB%B6%20EX%EF%BC%9A%E5%A5%B3%E5%8F%8B%E7%9A%84%E7%A7%98%E5%AF%86" target="_blank">案件 EX：女友的秘密</a>》現已於 PC Steam 平台發行。</div>
 <div>
  </div>
 <div>
@@ -39,10 +39,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/91/06cc9b1f434e8e4fba76a4ca0b1i6ub5.
  </div>
 <h3>
 人物</h3>
-<div>
- </div>
-<div>
-<b>小涵／田詩涵</b></div>
 <div>
  </div>
 <div>

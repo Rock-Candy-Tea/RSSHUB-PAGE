@@ -8,14 +8,14 @@ categories:
 headimg: 'https://resource.tanwuapp.com/FovPjPFg9dAn_gHY5q73uGI1dKh8'
 author: 探物
 comments: false
-date: 2022-09-13 06:49:33
+date: 2022-09-13 07:31:51
 thumbnail: 'https://resource.tanwuapp.com/FovPjPFg9dAn_gHY5q73uGI1dKh8'
 ---
 
 <div>   
 <img src="https://resource.tanwuapp.com/FovPjPFg9dAn_gHY5q73uGI1dKh8" referrerpolicy="no-referrer"><br>
           <strong>大疆 御 Air2S 无人机标准双电版</strong><br><br>
-          价格: ￥30.00 / 日<br>
+          价格: ￥27.00 / 日<br>
           评分: 5.0
           
 </div>
