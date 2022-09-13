@@ -1,0 +1,80 @@
+
+---
+title: '拼多多上线Temu，要教美国人_砍一刀_？'
+categories: 
+ - 新媒体
+ - 人人都是产品经理
+ - 最新文章
+headimg: 'https://image.woshipm.com/wp-files/2022/09/wV1nTmvj4Ko9gjtbGP7b.jpg'
+author: 人人都是产品经理
+comments: false
+date: Tue, 13 Sep 2022 00:00:00 GMT
+thumbnail: 'https://image.woshipm.com/wp-files/2022/09/wV1nTmvj4Ko9gjtbGP7b.jpg'
+---
+
+<div>   
+<blockquote><p>巨头瞄准跨境电商领域已经不是新鲜事，比如近几天，拼多多海外电商平台Temu就在美国上线了，APP的下载量也在相应攀升中。那么，Temu的玩法和国内的拼多多有什么相似之处？“低价”可以成为跨境电商玩家们的杀手锏吗？</p>
+</blockquote><p><img data-action="zoom" class="size-full wp-image-5600140 aligncenter" src="https://image.woshipm.com/wp-files/2022/09/wV1nTmvj4Ko9gjtbGP7b.jpg" alt width="900" height="420" referrerpolicy="no-referrer"></p>
+<p>没有预兆、没有宣发，传了很久的拼多多海外电商平台这几天突然就在美国上线了。</p>
+<p>“拼多多的美国电商平台开了，东西也太便宜了而且还免邮，大家快去看看。”这几天，很多北美华人群里都传着类似的信息。</p>
+<p>这个叫Temu的新跨境电商平台，带着一些拼多多的基因，也明显有着Shein的影子，现在已经低调地开启低价大放送的“试用期”。</p>
+<p>截至目前，Temu在苹果商店的购物类App中排名35位。但自从月初悄悄发布以来，这个应用已经凭借着低到令人怀疑人生的商品价格在用户中口口相传，下载量正在不断增长之中。</p>
+<p>Temu的上线也宣告着中国又一巨头正式入局跨境电商领域，推动着已然风起云涌的海外用户争夺战进入白热化阶段。</p>
+<h2 id="toc-1">一、击穿Shein的地板价，将美国物价强势拉回1元时代？</h2>
+<p>在App Store的应用下载页面中，Temu的介绍是“Team Up，Price Down”，和国内拼多多“拼着买，才便宜”的口号一脉相承。从logo的设计上，Temu也沿用了拼多多商品种类图标的设计，但布局上更为简洁，橙色的主题色背景之上，上方是连衣裙、木马、高跟鞋、箱包四个产品品类的图标，下方则为Temu的平台名。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="拼多多跟Shein开打价格战，要教美国人“砍一刀”？" src="https://image.woshipm.com/wp-files/2022/09/wOfZGzjCnv7COzcPV2JN.jpg" alt="拼多多跟Shein开打价格战，要教美国人“砍一刀”？" width="527" height="224" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片截自于App Store</p>
+<p>打开Temu的网页和应用程序，第一感觉就是这就是一个翻版的Shein。欧美风的模特图、醒目的折扣信息、玲琅满目的各种商品…<strong>…除了主题色换成了橘色，从形式上看两个网站几乎是一对“双胞胎”。</strong></p>
+<p>但有着拼多多兜底，目前Temu的折扣力度明显要比Shein要大很多，各种补贴政策极具吸引力。在邮寄时间跟Shein基本持平（1-2周）的情况下，Temu的目前所有商品无门槛免邮费，发起开业大酬宾送给所有人7折优惠券，同时允许90天内无条件退货。</p>
+<p><img data-action="zoom" class=" wp-image-5600129 aligncenter" src="https://image.woshipm.com/wp-files/2022/09/5oykASdq2ls7dZ9yqS4V.png" alt width="839" height="407" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片截自于Temu官网</p>
+<p>从商品价格上来看，虽然此前Shein的很多衣服、小商品价格已经比亚马逊、沃尔玛等主流电商平台低出了不少，<strong>但此次Temu的定价可以说是再次刷新了美国消费者们的认知。</strong></p>
+<p>大量的衣服、鞋子价格都不超过10美元，几毛钱的家居、厨房小商品比比皆是，还能在此基础上叠加7折优惠。更“丧心病狂”的是，此次Temu还开通了一个新用户1分钱商品专区，每个用户都可以用一分钱买到一个商品，连这一分钱商品也可以包邮。</p>
+<p>根据最近很多Temu的晒单，一些网友仅花了10多美元就买了20几样产品。大家都不禁感慨此次拼多多直接把美国的物价水平拉回了80年代，调侃它这怕不是来美国做慈善了。</p>
+<p><img data-action="zoom" class=" wp-image-5600132 aligncenter" src="https://image.woshipm.com/wp-files/2022/09/aJ3DNuoVG23T2tmY08Uz.png" alt width="837" height="501" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">Temu上的1分钱商品专区</p>
+<p>硅星人粗略看了一下，就算是<strong>跟已经是地板价的Shein来比，同样的商品目前在Temu上的到手价算下来也普遍要便宜20-30%左右，有些甚至还便宜了一大半。</strong></p>
+<p>因此，如果只从价格考虑，Temu接下来很可能将会凭借着低价策略对亚马逊和Shein造成很大的威胁，从而吸引大量的存量用户向Temu迁徙。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="拼多多跟Shein开打价格战，要教美国人“砍一刀”？" src="https://image.woshipm.com/wp-files/2022/09/WATBXr69xNybV6icZBQE.jpg" alt="拼多多跟Shein开打价格战，要教美国人“砍一刀”？" width="829" height="562" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">同类小商品的价格对比，左为Shein、右为Temu</p>
+<p>但作为一个刚刚上线的平台，虽然价格便宜不少，但Temu在商品品类和产品分类导航的完善程度上目前还比Shein差了一大截。</p>
+<p><strong>跟Shein起步主打女装再向全品类拓展的路线不同，Temu此次是直接延续了国内拼多多的全品类定位。</strong>目前Temu官方上显示共在售的产品包括家居园艺、女士服装、珠宝饰品、美妆、电子产品、男士服装、童装、鞋包、宠物用品、婴幼儿用品、运动和户外、办公室产品、工业用品等14个品类，主要目标人群定位在海外女性用户。</p>
+<p>但每个品类之下的产品并没有像Shein一样再进行各种细分，大部分产品都还处于一饼粘的状态，筛选条件也只是最基础的按价格高低、按销量排序等，需要用户花大量时间去自己翻看。</p>
+<p>总体来看，目前Temu最大的特点就是价格便宜，也因此吸引了很多用户前来“薅羊毛”。</p>
+<h2 id="toc-2">二、第一批商家集体爆单，“砍一刀”或将成为日后杀手锏</h2>
+<p>除了页面功能还略显单一之外，Temu目前的商品供货量也非常有限，一些商品甚至售完几十个就宣告断货。根据目前一些商家群里爆出的信息，很多第一批入驻的商家销量都超过了千单并已开始着手第二轮补货。</p>
+<p>为了吸引更多优质供货商，拼多多正在疯狂拉人。根据Temu此次发布的商家招募来看，拼多多为此次的 Temu入驻商家提供了0元入驻、0佣金的入驻优惠政策。<strong>对于卖家来说，他们只需要扮演供货商的角色，仅需提供商品和供货价格，其他任何关于推广运营、物流、仓储等环节的工作都由Temu承担，而最后的商品销售价由平台决定。</strong></p>
+<p>这种合作模式几乎跟Shein如出一辙。据第一批卖家爆出的入驻流程来看，卖家在通过平台审核后，需要把样品送到平台做质检，检测通过后，拼多多就会直接上门揽货，比做亚马逊、Shopify等省心不少。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="拼多多跟Shein开打价格战，要教美国人“砍一刀”？" src="https://image.woshipm.com/wp-files/2022/09/M9bu8yiQyHLuPrZ4x24m.jpg" alt="拼多多跟Shein开打价格战，要教美国人“砍一刀”？" width="680" height="460" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">拼多多近期发布的跨境电商招商指南</p>
+<p><strong>但跟国内拼多多参差不齐的供货商资质不同，此次拼多多对供货商的门槛方面也明显高出了不少。</strong></p>
+<p>首先，跟国内拼多多允许个人开设店铺不同，此次Temu仅支持企业公账收款，几乎把个人和小规模供应商排除在外。此外，Temu也对商家的开发设计、生产拍摄、库存保证提出了要求，并优先选择那些在Shein、亚马逊、Shopify等有销售经验的供货商。</p>
+<p>在商品的质量把控上，拼多多此次也显得非常谨慎。消息显示，非质量问题将由平台负责兜底，但一旦产品出现质量问题，平台将对商家处以五倍罚款，一旦发现售卖假货，卖家除了被罚款之外，还将面临保证金追加、资金提现冻结等一系列惩罚措施。</p>
+<p>目前，<strong>虽然Temu仅开放了美国市场的商品销售，但在加拿大等其他地区的App Store上也已经可以下载，应该很快就会在其他地区上线。</strong></p>
+<p>根据卖家入驻的后台信息来看，在Temu后台的商品品类一级类目已经超过了20个，同时很多一级类目下还有二级、三级类目，因此不难推测之后Temu的产品的种类和数量将会快速增长，同时页面导航等功能也将进一步丰富和完善。</p>
+<p>值得注意的是，<strong>虽然目前Temu还并没有上线国内标志性的“拼团砍价”模式，但种种迹象似乎都透露出这或许仍然将是Temu未来的重点营销模式。</strong>一方面因为在Temu的应用介绍中已经强调了“Team up”的概念，另一方面根据目前拼多多跨境电商团队传出的风声来看，Temu已表示未来将继续延续拼多多“社交+电商”的模式。</p>
+<p>因此，或许很快我们将看到“砍一刀”席卷海外的盛况，只是怎么个砍法，还要看Temu这次究竟想怎么玩。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="拼多多跟Shein开打价格战，要教美国人“砍一刀”？" src="https://image.woshipm.com/wp-files/2022/09/ELVFPsFKnU3RYZrk1RdQ.jpg" alt="拼多多跟Shein开打价格战，要教美国人“砍一刀”？" width="444" height="227" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">图片来自于网络</p>
+<h2 id="toc-3">三、电商“烽火”蔓延海外市场，拼多多能靠低价拼出一片天吗？</h2>
+<p>疫情这两年来，以Shein为代表的新型跨境电商平台在海外赚得盆满钵满，让国内的巨头们眼红不已的同时，也看到了跨境电商全新且可复制的成功路径。此次拼多多的Temu上线，也代表着国内电商三巨头全部海外集结完毕。</p>
+<p>相较于阿里巴巴、京东早早就开始布局海外市场，拼多多显然是赶了个晚集。<strong>但从另一个角度来说，这落后的一步，可能反而造就了拼多多弯道超车的机会。</strong></p>
+<p>从此前中国电商巨头们的出海之旅来看，整个历程并不顺利。早在1999年成立之初，阿里巴巴就成立了国际站尝试做跨境B2B 业务，之后十多年里阿里先后通过创立或收购的方式开拓了Aliexpress、服务东南亚本地市场的Lazada、土耳其市场的Trendyol、南亚市场的Daraz等平台，但截至目前其国际业务总体占比也仅7%左右，一直都处于比较缓慢增长的状态。</p>
+<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="拼多多跟Shein开打价格战，要教美国人“砍一刀”？" src="https://image.woshipm.com/wp-files/2022/09/43kybWyOX7zzr9gNIdNJ.jpg" alt="拼多多跟Shein开打价格战，要教美国人“砍一刀”？" width="830" height="451" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">阿里最新一季度财报</p>
+<p>京东2014年上市之后，也一度把跨境业务作为最关键战略方向，上线了Joybuy业务并先后在全球多国开启了服务站点站点，但最后却因管理混乱及效益不佳于2021年正式12月正式宣布停止运营。今年6月，京东又再次推出了专注于跨境B2B的京东全球贸平台，但总体来看，其跨境业务的带来的营收还很小。</p>
+<p>前车之鉴在前，<strong>拼多多此次并没有再走阿里、京东的老路，反而主要从大获成功的Shein上学习经验，尝试从D2C模式上寻找突破口。</strong>要知道阿里搞了超过20年的跨境业务，2021年几个平台加起来的收入也才不过420多亿人民币的营收，而Shein去年的营收已经高达160亿美元。</p>
+<p>不过，是不是拼多多照猫画虎就能大获全胜，现在还要打一个大大的问号。由于Shein模式的技术门槛并不高，同类型的平台正在疯狂涌进海外市场，造成同质化竞争激烈。此外，如何开展本土化运营解决“水土不服”的问题，很多出海平台都难以攻克并应用自如。</p>
+<p>毕竟从目前来看，<strong>就连在海外已经基础深厚的字节跳动也没有摸索出成功的发展路径。</strong>不仅年初关闭了旗下对标Shein的女装跨境出海平台Dmonstudio，去年针对欧洲市场推出的Fanno也传出已被内部淘汰。</p>
+<p><img data-action="zoom" class=" wp-image-5600136 aligncenter" src="https://image.woshipm.com/wp-files/2022/09/GdZ3HBtA37ptwzh1vAUC.png" alt width="832" height="470" referrerpolicy="no-referrer"></p>
+<p style="text-align: center;">此前字节跳动旗下的跨境女装平台Dmonstudio</p>
+<p>总体来看，目前<strong>Temu能激起一些水花的主要原因就是其超低价的商品价格，一旦它的价格回调，那么将和Shein和其他同类平台没有太大差异。</strong>但如何能维持低价的同时保证商品质量和利润空间，这可能是Temu接下来要解决的难题。</p>
+<div class="article--copyright"><p>原文标题：拼多多跟Shein开打价格战，要教美国人“砍一刀”？</p>
+<p>作者：Juny，编辑：VickyXiao；公众号：硅星人（ID：covricuc）</p>
+<p>原文链接：https://mp.weixin.qq.com/s/h_YTzo2dK_9gNWK8Jm5e4w</p>
+<p>本文由 @硅星人 授权发布于人人都是产品经理，未经作者许可，禁止转载</p>
+<p>题图来自 Unsplash，基于 CC0 协议</p>
+<p>该文观点仅代表作者本人，人人都是产品经理平台仅提供信息存储空间服务。</p>
+</div>                      
+</div>
+            
