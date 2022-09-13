@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/108/991/301/322/803/460/original/15530d7d91eb8798.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/108/991/514/777/518/416/original/dbfded9bd24ef30b.jpeg'
 author: Mastodon
 comments: false
-date: Tue, 13 Sep 2022 13:21:23 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/108/991/301/322/803/460/original/15530d7d91eb8798.jpeg'
+date: Tue, 13 Sep 2022 14:15:57 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/108/991/514/777/518/416/original/dbfded9bd24ef30b.jpeg'
 ---
 
 <div>   
-<hr><p>pixivFANBOXで漫画を公開しました！ <a href="https://yurutinkyou.fanbox.cc/posts/4440098?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter" rel="nofollow noopener noreferrer" target="_blank">https://yurutinkyou.fanbox.cc/posts/4440098?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter</a></p><br><img src="https://img.pawoo.net/media_attachments/files/108/991/301/322/803/460/original/15530d7d91eb8798.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>見せ槍アイ</p><br><img src="https://img.pawoo.net/media_attachments/files/108/991/514/777/518/416/original/dbfded9bd24ef30b.jpeg" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/991/515/028/375/902/original/c447a83497957d5f.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/991/515/331/752/948/original/d202caf5b39f2903.png" alt="image " referrerpolicy="no-referrer"><br><img src="https://img.pawoo.net/media_attachments/files/108/991/515/351/367/736/original/ef236b1f6d01f37a.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
