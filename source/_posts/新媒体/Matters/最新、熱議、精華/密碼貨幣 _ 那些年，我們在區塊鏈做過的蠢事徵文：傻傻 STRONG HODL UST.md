@@ -1,0 +1,18 @@
+
+---
+title: '密碼貨幣 _ 那些年，我們在區塊鏈做過的蠢事徵文：傻傻 STRONG HODL UST'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://assets.matters.news/embed/00729ee9-9ee1-4c41-ab71-9fefaa54a270.png'
+author: Matters
+comments: false
+date: Wed, 14 Sep 2022 14:39:56 GMT
+thumbnail: 'https://assets.matters.news/embed/00729ee9-9ee1-4c41-ab71-9fefaa54a270.png'
+---
+
+<div>   
+<p>關於 LUNA 這件事，實在不想提，不消提。</p><p>因為 LUNA 事件令人破產跳樓大有人在，我這些蚊型投資者，算是甚麼？</p><p>不過既然 <a class="mention" href="https://matters.news/@penfarming" target="_blank" data-display-name="閱讀筆耕" data-user-name="penfarming" data-id="VXNlcjo0NTE5NA">﻿<span>@閱讀筆耕</span>﻿</a> <a href="https://matters.news/@penfarming/323383-%E7%A4%BE%E5%8D%80%E6%B4%BB%E5%8B%95%E6%8F%90%E6%A1%88-%E9%82%A3%E4%BA%9B%E5%B9%B4-%E6%88%91%E5%80%91%E5%9C%A8%E5%8D%80%E5%A1%8A%E9%8F%88%E5%81%9A%E9%81%8E%E7%9A%84%E8%A0%A2%E4%BA%8B-bafyreibesv7x5ljilqkkkgrxeoaek54c4iumkufhjpg4s6fsvy7qba3uyi" rel="noopener noreferrer" target="_blank">搞活動</a>，而今日 <a href="https://abmedia.io/20220914-south-korea-seeks-the-arrest-of-do-kwon" rel="noopener noreferrer" target="_blank">LUNA 事件又有所推進</a>，或者是時候作出個人總結。</p><h2>為什麼會持有？</h2><p>當時就是覺得 UST 是「穩定幣」，所以弄到後就放在一邊，以為可以慢慢處理。老實說我從來沒有去想 <a href="https://www.blocktempo.com/anchor-protocol-tutorial/" rel="noopener noreferrer" target="_blank">那些 Anchor 甚麼年賺 16-20% 的方案</a>，因為我根本不熟悉這家機構。而當時據聞 Terra Station 和 Keplr 的 Derivation Path 不同，錢包地址出來又完全不同之類，所以沒有動力去搞也是事實。</p><p>沒錯，人懶就是沒有辦法賺大錢的，這個我清楚明白。而老實說，<strong>如果我性格要賺大錢就不會寫文章，而是去做其他兼職工作抓錢了。</strong></p><h2>為什麼持有了又不放手？</h2><p>除了上面說的懶處理之外，信不信由你，那陣子好像撞邪了一樣，工作一樣接下樣，空下來的時間沒有太多。我也不是沒有看新聞或不同的 Telelgram Group 去關注事態發展。然而每當想搞一搞它賣掉或者 Swap 做別的幣，就被呼叫去忙。到最後看到幣價越來越低就算了，一動不如一靜。</p><p>如果股票跌至零，<strong>人們說把實體股票貼在牆上是「最貴的牆紙」。那麼我的 UST 留在錢包中，就當作是錢包的…裝飾？</strong></p><figure class="image"><img src="https://assets.matters.news/embed/00729ee9-9ee1-4c41-ab71-9fefaa54a270.png" data-asset-id="00729ee9-9ee1-4c41-ab71-9fefaa54a270" referrerpolicy="no-referrer"><figcaption><span></span></figcaption></figure><h2>事情發生時及發生後，心情怎樣？</h2><p>LUNA UST 江河日下直至停鏈時，看著 Twitter、Reddit、Telegram、Discord 每個人在呼叫說他們把身家性命財產都放進去，相比起來我只是一個兒科生而矣，又有甚麼位置可以去叫苦？</p><p>事情不發生都發生了，老實說要怪自己嗎？可能有，不過又未到覺得很慘的階段，人家沒有了百幾的都沒事，我怎麼可能有事？但我覺得自己確實是剛愎自用，明明都寫過兩本人類圖書籍推薦序，卻從來沒有心血來潮為 Do Kwon 看一下圖。</p><p>更扯的就是當時覺得以看相來說 Do Kwon 樣子都不差呀，不過可能韓國人相術和中國人相術不同。我當時認真覺得他是可以東山再起。但現在回想，連自己操作錢包會不會錯都不相信自己，又怎能相信一個遠在外國的人？</p><p>冷靜下來後，我覺得平日感性行先卻不乏理性的我，一直不貪甚麼 free mint NFT 超怕被駭而甚麼都不去搞的我，明明有機會「走」都不走。結論是自己中了邪 + 太忙以外，我對自己這次損失實在沒有也不能提供別的看法。</p><h2>LUNA 事件對我的改變是？</h2><p>你說我阿 Q 精神好還是怎樣也好，我覺得這個是好事來的 ── 先死了一次大的，連最離譜的事情都看過了，心臟大了，以後做甚麼加密操作和決定都會更小心（留意小心不代表不會死掉）。</p><p>還有就是明明自己都懂，<strong>為甚麼玩一個密碼貨幣系統都不占卜一下？下次再投資一定要好好用玄學解構一番。</strong></p><p>至於實際操作而言，除了 ATOM、DSM、LIKE、OSMO、HUAHUA 以外，其他 Cosmos 生態系統的幣都是留少量甚至清空就算了。<strong>甚麼低進高賣，搬磚套利不是我玩得起的</strong>。我極端到甚至持有就好，連 Staking 都不想做，以免有事起來走也走不掉。雖然我依然相信密碼貨幣，卻不可不說我現時是消極得緊要的。</p><p>隨著逮捕令發出，Do Kwon 總要一五一十抖出他做過甚麼，是正經行事或只是時不予他，還是好像許多傳媒寫的早有預謀經已坐擁大手 Terra 2.0 在嘆世界，很快就就會水落石出。無論沒有了的錢是多還是少，最重要還大家一個公道，相信 Netflix 繼《<a href="https://hk.sports.yahoo.com/news/netflix-%E7%9C%9F%E4%BA%BA%E7%9C%9F%E4%BA%8B-%E8%A8%98%E9%8C%84%E7%89%87-%E5%88%A5%E4%BF%A1%E4%BB%BB%E4%BD%95%E4%BA%BA-%E8%99%9B%E6%93%AC%E8%B2%A8%E5%B9%A3%E6%87%B8%E6%A1%88-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3-nft-084759437.html" rel="noopener noreferrer" target="_blank">別信任何人：虛擬貨幣懸案</a>》，又可開展另一力作了。</p><p>最後推介 這篇 <a href="https://matters.news/@penfarming/287160-%E9%96%B1%E8%AE%80%E7%AD%86%E8%80%95-ust-luna-%E6%AD%BB%E4%BA%A1%E8%9E%BA%E6%97%8B%E4%BA%8B%E4%BB%B6-%E6%94%B6%E6%9D%9F%E5%BE%8C%E5%8F%8D%E6%80%9D-bafyreife5oglqsit7jzor3tsfhnmgjghgkfx4pnmcr2u5nz7dvwmjkxfyq" rel="noopener noreferrer" target="_blank">閱讀筆耕｜UST／LUNA 死亡螺旋事件，收束後反思</a>，大家一定要不時拿來細讀，最好 print 出來放在電腦旁邊，並以此為鑑。</p>  
+</div>
+            
