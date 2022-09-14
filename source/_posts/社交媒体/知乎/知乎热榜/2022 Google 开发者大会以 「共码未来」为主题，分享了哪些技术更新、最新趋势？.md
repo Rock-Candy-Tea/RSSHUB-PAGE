@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=5582'
+headimg: 'https://picsum.photos/400/300?random=2221'
 author: 知乎
 comments: false
-date: Wed, 14 Sep 2022 07:44:16 GMT
-thumbnail: 'https://picsum.photos/400/300?random=5582'
+date: Wed, 14 Sep 2022 08:01:08 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2221'
 ---
 
 <div>   
-LanLanChen的回答<br><br><p data-pid="jiKUWdAt">今年大会采用了线下+线上式，现场有少数观众。谷歌CEO皮查伊介绍了包括AR眼镜、平板电脑、降耳机等5款硬件产品，十多个涉及底层技术、AI应用、安卓系统等多个领域的更新，其中有Pixel Watch 智能手表：在去年就有爆料称谷歌将推出一款新的智能手表，而在今年这一款这款Pixel Watch 智能手表正式被谷歌公布了。Pixel Watch采用圆顶圆形设计，可在 Google 的 Wear OS 智能手表系统上运行，用户可直接通过手表控制 Google Home 智能家居、使用 NFC 支付、Google Assistant 交互等多项定制内容，除此之外Pixel Watch还包含了一些来自 Fitbit 的健康追踪功能。通过此次大会的主旨演讲，我们可以了解Google致力于帮助开发者设计开发符合当今和未来趋势的产品。同时为开发者提供免费的学习资料，以确保所有人都能获取需要的知识和资讯。</p>  
+这里是博航的回答<br><br><p data-pid="0I2AfthG">终于盼来了Google 举办的主题为 “共码未来” 的 2022 Google 开发者大会，为期两天：9.14至9.15日，此次继续采用线上+线下和多个分会场联动形式召开。这次大会主要聚焦 Google 在数字创新领域的最新突破，技术更新和发展的最新趋势。围绕构建多样化游戏生态，更丰富的用户场景等主题展开精彩演讲，为本地开发者提供深入的观点洞察和专业支持。</p><p data-pid="DEL5o0xf">Google 大中华区总裁陈俊廷表示Google 一直致力向全世界推广中国博大精深的文化艺术。为此携手 10 家中国合作伙伴开展了艺术互动实验项目。用户通过微信小程序 “观妙悦色”，可以自定义调色板为 17 件来自中国的代表性作品填色，为用户搭建更智能的产品体验，感受科技赋能艺术之美，以全新的视角走进绚丽多姿的中国艺术瑰宝。</p><p data-pid="hHddGKbb">同时推进人才培养也是 Google 持续帮助开发者共同发展的另一重要环节。Google 推出谷歌出海创业加速器项目，汇集了中国头部出海企业创业者、投资人、各领域专家及负责人，提供开源技术、市场、策略、团队建设等多方位支持。通过覆盖全球 29 亿用户的产品和平台，Google 全产品链条的服务支持中国开发者探索全球蓝海机遇。</p><p></p>  
 </div>
             
