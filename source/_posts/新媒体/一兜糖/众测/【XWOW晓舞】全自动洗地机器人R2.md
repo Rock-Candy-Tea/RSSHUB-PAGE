@@ -8,11 +8,11 @@ categories:
 headimg: 'https://aimg.yidoutang.com/prod/common/202209/05/8764da/86f4fc7db9bb011f.png!home320'
 author: 一兜糖
 comments: false
-date: 2022-09-14 07:27:35
+date: 2022-09-14 08:14:21
 thumbnail: 'https://aimg.yidoutang.com/prod/common/202209/05/8764da/86f4fc7db9bb011f.png!home320'
 ---
 
 <div>   
-申请结束时间：2022.09.22                        <br>【XWOW晓舞】全自动洗地机器人R2<br>                            数量 ：5<br>                            实际价格 ：4999元<br>                            活动申请中<br>                            114人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202209/05/8764da/86f4fc7db9bb011f.png!home320" referrerpolicy="no-referrer">  
+申请结束时间：2022.09.22                        <br>【XWOW晓舞】全自动洗地机器人R2<br>                            数量 ：5<br>                            实际价格 ：4999元<br>                            活动申请中<br>                            117人已申请<br><img src="https://aimg.yidoutang.com/prod/common/202209/05/8764da/86f4fc7db9bb011f.png!home320" referrerpolicy="no-referrer">  
 </div>
             
