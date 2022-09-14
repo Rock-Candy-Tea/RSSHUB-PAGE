@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/82/a930487eaec371e24e80de96f01i8ge5.JPG?v=1663149239603'
 author: 巴哈姆特
 comments: false
-date: 2022-09-14 11:09:34
+date: 2022-09-14 12:21:01
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/a930487eaec371e24e80de96f01i8ge5.JPG?v=1663149239603'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/a930487eaec371e24e80de96f01i8ge5.
 <div>
 <div>
 <div>
-　　SQUARE ENIX 今日稍早宣布，旗下戰略 RPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B8%89%E8%A7%92%E6%88%B0%E7%95%A5" target="_blank">三角戰略</a>（TRIANGLE STRATEGY，先前暫名 Project TRIANGLE STRATEGY）》將推出 PC 版，預定於 10 月 14 日登陸 Steam 平台。</div>
+　　SQUARE ENIX 今日稍早宣布，旗下戰略 RPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B8%89%E8%A7%92%E6%88%B0%E7%95%A5" target="_blank">三角戰略</a>（TRIANGLE STRATEGY，先前暫名 Project TRIANGLE STRATEGY）》將推出 PC 版，預定於 10 月 14 日登陸 Steam 平台，遊戲將支援繁體中文。</div>
 <div>
  </div>
 <div>
@@ -106,7 +106,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/a930487eaec371e24e80de96f01i8ge5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B8%89%E8%A7%92%E6%88%B0%E7%95%A5" target="_blank">三角戰略</a>》PC 版預定 10 月 14 日登陸 Steam 平台。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%B8%89%E8%A7%92%E6%88%B0%E7%95%A5" target="_blank">三角戰略</a>》PC 版預定 10 月 14 日登陸 Steam 平台，遊戲將支援繁體中文。</div>
 </div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="21127" data-from="web_gnn"></div>
