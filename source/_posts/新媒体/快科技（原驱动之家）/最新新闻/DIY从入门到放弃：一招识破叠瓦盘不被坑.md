@@ -1,0 +1,39 @@
+
+---
+title: 'DIY从入门到放弃：一招识破叠瓦盘不被坑'
+categories: 
+ - 新媒体
+ - 快科技（原驱动之家）
+ - 最新新闻
+headimg: 'https://img1.mydrivers.com/img/20220914/S107844f6-9676-4080-8452-50714fe38912.jpg'
+author: 快科技（原驱动之家）
+comments: false
+date: Wed, 14 Sep 2022 08:56:28 GMT
+thumbnail: 'https://img1.mydrivers.com/img/20220914/S107844f6-9676-4080-8452-50714fe38912.jpg'
+---
+
+<div>   
+<p>对于小姐姐来说，没有什么比机械硬盘的大house更舒适的了。<strong>（划掉重来）玩家都喜欢大容量的硬盘存放游戏和高清电影，而机械硬盘在容量和价格上的巨大优势使其立于不败之地。</strong></p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220914/107844f6-9676-4080-8452-50714fe38912.jpg" target="_blank"><img alt="DIY从入门到放弃：一招识破叠瓦盘不被坑" h="449" src="https://img1.mydrivers.com/img/20220914/S107844f6-9676-4080-8452-50714fe38912.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>不过很多萌新不知道的是，市面上的机械硬盘有垂直盘（CMR）和叠瓦盘（SMR）之分，表面上看起来虽然都一样，但实际使用却体验不同，买错的后果就是小姐姐找不到啦！</p>
+<p><span style="color:#ff0000;"><strong>那么你应该买垂直盘还是叠瓦盘呢？</strong></span></p>
+<p>如果不懂两者的差异，我建议你直接看垂直盘，多花点钱免去硬盘数据损失的烦恼，同时我也建议你了解一下两者的区别。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220914/93325f3c-c625-4463-9bfb-d59db98d2f1b.jpg" target="_blank"><img alt="DIY从入门到放弃：一招识破叠瓦盘不被坑" h="316" src="https://img1.mydrivers.com/img/20220914/S93325f3c-c625-4463-9bfb-d59db98d2f1b.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>简单来说，CMR垂直盘是磁头和磁道互不干扰，但由于磁道留出了安全距离，使得盘片的容量偏低。SMR叠瓦盘的磁道更近，但当硬盘存放了较多的数据之后，即使是微小的数据改动，也会反复迁移扇区内的数据，这不仅会影响写入速度，同时还会加速盘片和磁头的老化，数据存放的风险也就增加了。</p>
+<p>一般来说，叠瓦盘只适合存放不频繁写入的冷数据，作为仓库盘使用，但也没准你的仓库盘未来有需求要频繁读写，所以干脆一步到位直接买垂直盘是最省事的。那么有什么办法判断硬盘是垂直盘还是叠瓦盘吗？</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220914/8cfb8362-4a1b-44a3-b5a3-c9dc66041532.jpg" target="_blank"><img alt="DIY从入门到放弃：一招识破叠瓦盘不被坑" h="300" src="https://img1.mydrivers.com/img/20220914/S8cfb8362-4a1b-44a3-b5a3-c9dc66041532.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p><strong>典型的垂直盘（左）和典型的叠瓦盘（右）</strong></p>
+<p>一个靠谱的办法就是看读写速度，用软件测试硬盘的读写速度，CMR垂直盘是一条较为平滑的速度逐渐下降的曲线，而SMR叠瓦盘则是一条波动比较有规则但不平滑的曲线。</p>
+<p style="text-align: center"><a href="https://img1.mydrivers.com/img/20220914/c31d1799-a109-4d5f-a4fe-bc7e8d5cd597.jpg" target="_blank"><img alt="DIY从入门到放弃：一招识破叠瓦盘不被坑" h="467" src="https://img1.mydrivers.com/img/20220914/Sc31d1799-a109-4d5f-a4fe-bc7e8d5cd597.jpg" style="border: black 1px solid" w="600" referrerpolicy="no-referrer"></a></p>
+<p>虽然这个办法稳妥，但是需要拆封测试，硬盘就无法退换了，其他的方法也已经被证实无效，包括5900转以上高转速的是CMR，反之转速低的多为SMR；缓存小于等于64M的是CMR硬盘，大于等于128M的是SMR硬盘，都随着产品的升级换代而作废。</p>
+<p>所以建议大家根据评测和网友自己测试的结果，按照具体型号去购买硬盘。不想翻测试数据也可以直接选择笔者推荐的几款型号，不用担心买到叠瓦盘。</p>
+
+            
+ <div style="overflow: hidden;font-size:14px;padding-top:30px;border-bottom:1px solid #eee;">
+             
+          <p class="url"><span style="color:#666">责任编辑：建嘉</span></p>
+        </div>
+     
+        
+</div>
+            

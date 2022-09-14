@@ -1,0 +1,18 @@
+
+---
+title: 'A股收评：沪指缩量微涨0.05%，CXO概念遭遇重挫'
+categories: 
+ - 金融
+ - 格隆汇
+ - 主题文章
+headimg: 'https://img3.gelonghui.com/757a2-e5447624-218d-4b91-95ad-ad273a492a79.png'
+author: 格隆汇
+comments: false
+date: Tue, 13 Sep 2022 00:00:00 GMT
+thumbnail: 'https://img3.gelonghui.com/757a2-e5447624-218d-4b91-95ad-ad273a492a79.png'
+---
+
+<div>   
+<p></p><p>9月13日，A股两市主要指数高开收涨，沪指全天以窄幅震荡为主，收盘微涨0.05%报3263点，深成指涨0.38%，创业板指涨0.09%。两市2575股上涨，2148股下跌，成交量萎缩，成交额7700亿，北上资金净买入39.71亿元。</p><p><img src="https://img3.gelonghui.com/757a2-e5447624-218d-4b91-95ad-ad273a492a79.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>盘面上，行业板块行业板块多数上涨，但幅度不大，且也没有带队上攻主线题材，以猪肉为首的农业股表现相对较强，牧原股份涨3.6%；酒类、旅游、汽车、家电等消费板块涨幅靠前，两架C919飞机飞抵北京首都国际机场，大飞机概念午后拉升，南方精工等多股涨停。地产板块领跌，电力、煤炭等传统能源板块跌幅靠前，医药股走势分化，拜登寻求促进美国生物制造业，CXO概念重挫，康龙化成跌14%，药明康德、凯莱英跌停。</p><p>CRO板块重挫居前。康龙化成跌逾14%，药石科技跌逾10%，凯莱英、药明康德跌停，博腾股份跌逾9%，九洲药业跌逾8%，泰格医药跌逾7%。</p><p><img src="https://img3.gelonghui.com/382f1-1fc4cb88-6e33-464d-bff9-5ec6368fd454.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>消息面上，美国总统拜登当地时间12日签署了一项鼓励美国生物技术生产和研究的行政命令。据悉，该命令旨在促进制药业以及农业、塑料和能源等行业的美国制造。而拜登本人当日在演讲中强调了“抗击癌症”的重要意义。药明康德相关人士今日上午最新表示，公司也关注到上述信息，“公司业务和运营一切正常。”</p><p>周末预期落空，上周五走强的房地产板块全线回调。粤宏远A跌停，京投发展跌逾8%，广汇物流、新华联跌逾7%，滨江集团、中国武夷跌逾6%。</p><p><img src="https://img3.gelonghui.com/cd03d-37d285cc-0833-436b-a50a-36bbbd46c831.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>电力板块走弱。上海电力跌逾8%，文山电力跌逾6%，赣能股份、华电国际、申能股份、京能电力跌逾4%。</p><p><img src="https://img3.gelonghui.com/4f8e3-bc1a509f-6996-4df2-ae29-9ab5fa7836cb.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>消息面上，据市场消息，欧盟委员会将于本周提议，欧盟成员国将根据油气、煤炭和炼油行业的应纳税盈余利润，对这些企业征收一项“特殊和临时”税。</p><p>煤炭板块走低。淮北矿业跌逾3%，晋控煤业、恒源煤电、上海能源、开滦股份、电投能源、陕西煤业跌逾2%。</p><p><img src="https://img3.gelonghui.com/7548e-6221d4df-a43a-46da-a931-a182896992cf.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>消息面上，内蒙古自治区能源局日前发布关于强化落实煤炭保供措施的通知。其中提到，强化生产协调，各盟市不折不扣落实煤矿联合试运转延期、满产达产、产能指标置换承诺、边组织生产边办手续、先行用地等各项增产措施，努力增加煤炭产量。</p><p>农业板块涨幅居前。嘉华股份、祖名股份涨停，先达股份、大北农、北大荒等个股跟涨。</p><p><img src="https://img3.gelonghui.com/e3b72-f5c121f4-84e2-489f-9fa8-2a8dbecaf595.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>消费板块表现活跃。酒店餐饮等板块涨幅明显。同庆楼涨停，锦江酒店、全聚德、西安饮食等个股跟涨。</p><p><img src="https://img3.gelonghui.com/f5256-bd2e8fb5-35e1-472f-97b1-986224c517a7.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>汽车整车板块集体上扬。安凯客、亚星客车涨停，塞力斯涨超6%，金龙汽车涨超5%。</p><p><img src="https://img3.gelonghui.com/0603f-a60d1b86-a3d8-4ce2-98e1-936e2f22d175.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>中信证券研报指出，2022年8月汽车销量实现242万辆，环比-1.5%，同比+32.1%，同比大幅增长，符合预期。预计2022年下半年将是汽车消费明确的高β窗口，行业盈利能力也望明显环比改善，坚定看好汽车板块下半年的投资机会。</p><p>大飞机板块午后拉升。通达股份、润贝航科、立航科技涨停，航亚科技涨超8%，炼石航空涨超6%</p><p><img src="https://img3.gelonghui.com/82f73-e82872d9-3df7-4d06-90d6-c53ff126bed2.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>消息面上，飞常准APP数据显示，9月13日上午，两架C919先后飞往北京首都国际机场。据一财了解，这两架C919客机飞往北京，主要是为取证做准备。目前，C919客机已完成历时五年的取证试飞工作，等待获颁型号合格证，最快本月取证，并计划年内向首个客户东航交付首架飞机。</p><p>北向资金方面，北上资金净流入63.29亿元，沪股通净流入32.64亿元，深股通净流入30.65亿元</p><p><img src="https://img3.gelonghui.com/c6631-4eab35ac-5aef-456b-a0d9-98404257a862.png" style="margin-top: 0px; margin-bottom: 0px;" referrerpolicy="no-referrer"></p><p>展望后市，招商证券认为，<span style="font-weight: 400;">目前全球经济正处在从“滞胀期”向“衰退期”的过渡阶段，全球过度紧缩的货币政策即将迎来拐点，一旦等到全球经济正式进入“衰退”，全球流动性走向宽松，A股很容易出现指数级别的机会。</span><span style="font-weight: 400;">目前尽管波动较大，但正好是低位建仓机遇，推荐配置思路转向均衡配置，在原有景气赛道新机车的基础上加仓银房家（银行、房地产、家电）。</span></p><p></p>  
+</div>
+            
