@@ -1,0 +1,18 @@
+
+---
+title: 'iOS 16正式版_翻车_！潘粤明吐槽：更新 iOS16后打不开微信 解决办法来了'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63213f20b15ec00a3f477b8c_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 13 Sep 2022 19:01:30 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63213f20b15ec00a3f477b8c_1024.jpg'
+---
+
+<div>   
+<p>近日，苹果正式推送了 iOS 16 系统更新，具体版本号为 （20A362）。根据官方介绍，新版本推出了重新设计的锁定屏幕，包括展示个人收藏照片，自定字体样式和显示小组件等。但是据很多网友反映，升级后的微信出现闪退、无法打开的情况。对此，相关话题 # 有用户升级 iOS16 微信打不开 # 也登上微博热搜榜榜单。针对这种情况，有网友尝试用卸载的方法补救，结果导致微信记录全消失。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202209/63213f20b15ec00a3f477b8c_1024.jpg" data-height="407" data-width="653" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63213f20b15ec00a3f477b8c_1024.jpg" referrerpolicy="no-referrer"></div></div>上述问题中招的网友还真不少，其中也包含了明星潘粤明，其凌晨 3 点多发微博求救：" 我的苹果更新为 16.0 最新版本，但是微信怎么也打不开了，我又不敢删了 app 重新下载，担心以前的信息都没了我该咋办？求助窝地妈呀 "。相关话题 # 潘粤明更新 iOS16 后打不开微信 # 也登上微博热搜榜，引发网友们的热议。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202209/63213f20b15ec00a3f477b8e_1024.jpg" data-height="204" data-width="656" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63213f20b15ec00a3f477b8e_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202209/63213f20b15ec00a3f477b8f_1024.jpg" data-height="143" data-width="655" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63213f20b15ec00a3f477b8f_1024.jpg" referrerpolicy="no-referrer"></div></div>对此，不少网友纷纷调侃表示：" 你这个手机坏了用不了了到我这里换个不锈钢铁盆吧 "、" 我的 iPhone 13 Pro 是没遇到，你遇到了吗？感觉多半跟内存容量有关系 "、" 不要的苹果可以来我这换不锈钢脸盆 "、" 听潘老师的，那我不更新了哈哈哈哈哈哈 "、" 如果很多人有这种情况不妨安心等等，app 应该会更新同步 update，先睡觉吧哥哥 "...<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202209/63213f20b15ec00a3f477b92_1024.jpg" data-height="395" data-width="606" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/63213f20b15ec00a3f477b92_1024.jpg" referrerpolicy="no-referrer"></div></div>那么对于这个问题，目前解决的办法已经出炉，具体来说如下：进入 App Store，点击右上角的头像，下拉一下页面，自动刷新了一下待更新的应用，然后往下滑找到微信，点击更新。目前最新版本是 8.0.28，更新后修复了闪退的问题。<p></p><p>如果还是不行，也可以在设置里应用存储空间里，选择蓝色的卸载，不要选择红色的删除，这样可以保留数据的情况下，只把 App 本身卸载掉。然后再去应用商店重下载就可以了。</p><p>值得注意的是，#iOS16 将支持清洁能源充电 #，从 iPhone 12 开始苹果以环保的名义不再赠送充电头，还宣布了碳达峰目标，持续减少碳排放，而在昨日凌晨发布的 iOS16 正式版系统中，未来也会增加清洁能源充电功能。苹果在 iOS 16 的发布稿中确认了这个新功能，称未来的升级中 iOS 16 将支持清洁能源充电，旨在通过优化电网使用清洁能源的充电时间来减少 iPhone 的碳排放。</p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202209/63213f20b15ec00a3f477b93_1024.jpg" data-height="481" data-width="660" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/63213f20b15ec00a3f477b93_1024.jpg" referrerpolicy="no-referrer"></div></div><strong></strong><strong><strong></strong></strong><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

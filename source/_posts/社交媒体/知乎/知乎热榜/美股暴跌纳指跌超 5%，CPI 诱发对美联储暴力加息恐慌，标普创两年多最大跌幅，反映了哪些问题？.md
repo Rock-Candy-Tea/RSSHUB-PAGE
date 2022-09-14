@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=3267'
+headimg: 'https://pic1.zhimg.com/v2-d9bd3e4d9a64d3a04179b7cf3fafb258_1440w.jpg?source=b1748391'
 author: 知乎
 comments: false
-date: Wed, 14 Sep 2022 01:17:06 GMT
-thumbnail: 'https://picsum.photos/400/300?random=3267'
+date: Wed, 14 Sep 2022 03:07:21 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-d9bd3e4d9a64d3a04179b7cf3fafb258_1440w.jpg?source=b1748391'
 ---
 
 <div>   
-斯帕不爱卷的回答<br><br><p data-pid="mGwNDRkl">1、衰退交易恐怕仍是接下来这几个月的主流。昨晚的CPI数据出来之后，连中金都出来说美国将要遭遇股债双杀，美股市场底遥遥无期了。</p><p data-pid="J61L2iIf">2、原本预期的大举加息配合经济衰退，让加息逐渐平缓的预期被打破了。这对美国股市的投资打击是重大的，从昨晚的跌幅就能看得出。</p><p data-pid="dWWMrVnZ">3、最严重的不是CPI微微涨了一点，而是核心CPI的增长在加速，这才是真正让美股，投资者，投行和美联储恐慌的事情。换句话说，前几个月都可以说是油价和食品涨价，带动了CPI的高涨。但是8月油价跌了，CPI和核心CPI依旧在涨，这说明美国经济自身已经陷入了可能的恶行通货膨胀进程之中了。</p><p data-pid="QFw08o4t">4、但是我们不要忘记，美联储加息还是有后果的，因为美国庞大的30万亿+的国债真的不容小觑。加息的上限必然是在GDP足以支付利息的情况，而非想加多少加多少，否则美元信用还是要崩盘。沃尔克那时候美国国债才多大规模？现在呢？</p><p data-pid="6SONu6qk">5、现在看样子欧盟已经醒悟开始对抗美元潮汐，俄罗斯受益于特别军事行动而赚了不少钱，中美两国现在就看谁苟得住。日本可能真的要成为本轮经济周期中第一个被献祭的国家了，难道真的是已经失去了三十年，再失去二十年，又有什么大丈夫呢？日本，顽张！</p><p data-pid="T8FqsxQV">6、美国的加息可能会消灭市场需求，市场需求会逐步传导至目前我们非常倚重的出口。从这点上看，出口项目的萎缩或许即将出现。</p><p data-pid="IzGxBTB1">但是投资和消费拉动起来也非常困难，考虑到居民部门的杠杆已经到了极限，房住不炒仍旧会是主流思想，但保交楼和保证房地产市场平稳发展会成为一个持续政策。同时，政府部门加杠杆或许会进一步实施，各大大项目基建可能会促进落实。同时，大家谈论颇多但是又只闻其声不见其人的房地产税，或许可能被暂时搁置（怕影响经济），又或许可能被加快出台（地方财政收入不足被迫加速）。</p><p data-pid="kVpDPfrb">消费这方面，统一大市场是个非常重要的概念和政策改革，伴随着外部条件的恶化，统一大市场的一系列内容可以预见将会加大规模实施。换句话说，明年的消费板块或许能有所启动。</p>  
+王克丹的回答<br><br><p data-pid="jfal8CVu">推荐两篇文章吧，左眼痛就不写了。</p><p data-pid="GYhopKLT">1）滞胀的形成与应对办法，放水既无法刺激经济，还会加剧通胀，取舍之势很明显，这也是市场应声而跌的主要原因，收紧是必然的，只是收多紧的问题。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-d9bd3e4d9a64d3a04179b7cf3fafb258_1440w.jpg?source=b1748391" data-rawwidth="830" data-rawheight="481" data-size="normal" data-caption data-default-watermark-src="https://pic4.zhimg.com/v2-3432bbb1c5385fa6b4713b3599d215b9_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-d9bd3e4d9a64d3a04179b7cf3fafb258_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="I-j0NfOg"><a href="https://zhuanlan.zhihu.com/p/528044958" class="internal">王克丹：滞胀-鱼与熊掌不可得兼</a></p><p data-pid="dFCeqssL">2）加息怎么加，加到什么程度，很可能是是一个非常软的处理办法，既要加息又不能加的太狠，就看各国金融体系和资产泡沫的抗风险能力有多高了。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-c8be01c7d2ec271b2cbaaf62b9ba2050_1440w.jpg?source=b1748391" data-rawwidth="830" data-rawheight="290" data-size="normal" data-caption data-default-watermark-src="https://picx.zhimg.com/v2-004c832f3e1bc5114182caa6312a814c_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-c8be01c7d2ec271b2cbaaf62b9ba2050_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="nxjSA4tN"><a href="https://zhuanlan.zhihu.com/p/534321224" class="internal">王克丹：全球经济软着陆-旁氏信贷下画的大饼</a></p>  
 </div>
             
