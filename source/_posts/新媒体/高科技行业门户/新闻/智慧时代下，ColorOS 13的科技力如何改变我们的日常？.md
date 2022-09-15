@@ -1,0 +1,19 @@
+
+---
+title: '智慧时代下，ColorOS 13的科技力如何改变我们的日常？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/15/Zyong/1663211796754025740.jpg'
+author: 高科技行业门户
+comments: false
+date: Thu, 15 Sep 2022 03:16:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/15/Zyong/1663211796754025740.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">“用技术改变生活”是近年来互联网巨头们纷纷喊出的口号。18年腾讯提出“科技向善”、字节在十周年谈到“激发创造，丰富生活”、OPPO也在2020年的ODC大会上提出“万物互融”的科技理念。可以看出近几年科技和互联网厂商都在智慧生活领域发力，旨在为用户带来更丰富、更智能的产品体验。其中OPPO在前不久推出了ColorOS 13新系统，从我们普遍关注的办公、健康、出行等方面着手，在带给用户创新体验的同时也突显了自家的科技实力。</p><p style="text-indent: 2em; text-align: left;"><strong>智慧办公</strong></p><p style="text-indent: 2em; text-align: left;">在信息时代，我们可以怎样更好地使用工具提升效率？随着企业纷纷数字化转型，和居家办公的需求逐渐常态化，智能办公设备成为每个职场打工人生产力工具。而互联网协同工具让生产方式从单点变互联，效能提升的同时，也在改变着我们对生活结构的认知——让生活与工作更好的结合。</p><p style="text-indent: 2em; text-align: left;">智慧办公方面的功能升级是每家系统提升自家产品作为生产力工具的卖点，今年ColorOS 13分别在会议场景、跨端、识文等方面进行了升级。新增加的日程管理功能可以一键导入钉钉、飞书等多个app会议日程。智能会议提醒和自动生成会议纪要的功能，也让用户在日常使用时省心省力。ColorOS 13还可以做到对设备的网络带宽进行优化，降低20％会议延时，在开会过程中网络的稳定性也大大增加。同时跨端通话、跨端互传以及识文功能的升级，也让ColorOS 13成为用户心中效率与实用性兼具的生产力利器。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/15/Zyong/1663211796754025740.jpg" alt="智慧时代下，ColorOS 13的科技力如何改变我们的日常？" title="智慧时代下，ColorOS 13的科技力如何改变我们的日常？" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/15/Zyong/1663211796991043058.png" alt="智慧时代下，ColorOS 13的科技力如何改变我们的日常？" title="智慧时代下，ColorOS 13的科技力如何改变我们的日常？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>智慧健康</strong></p><p style="text-indent: 2em; text-align: left;">除了智慧办公领域，智慧健康也是<span class="hrefStyle"><a href="http://znyj.ofweek.com/" target="_blank" title="智能硬件">智能硬件</a></span>厂商和系统研发商们的热门赛道。当下我们是否可以通过技术来保障我们和家人的健康？答案是肯定的，传感器设备的进步使得我们远程监控亲人的身体状况成为可能。ColorOS 13今年同时升级了个人健康管理及家庭健康关怀两方面的功能。配合 OPPO Watch 可以进行健康自检，用60 秒生成含血管健康、心率、心 电图、压力、血氧等健康指标的报告。家庭空间功能可以做到让用户随时查看家人的健康状况，当家人数据异常时会向其他家庭成员发出风险预警。儿童空间可以通过距离检测和坐姿检测纠正孩子的错误用机姿态，保护孩子的用眼及身心健康。看得出来，ColorOS 13在智慧健康方面正在努力向“一家人的健康管家”方向探索，努力使用户的个人工作与家人健康管理可以兼得。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/15/Zyong/1663211797347055806.png" alt="智慧时代下，ColorOS 13的科技力如何改变我们的日常？" title="智慧时代下，ColorOS 13的科技力如何改变我们的日常？" referrerpolicy="no-referrer"></p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/15/Zyong/1663211797578005287.png" alt="智慧时代下，ColorOS 13的科技力如何改变我们的日常？" title="智慧时代下，ColorOS 13的科技力如何改变我们的日常？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;"><strong>智慧出行</strong></p><p style="text-indent: 2em; text-align: left;">当下汽车行业面临大变局，汽车除了是代步工具还可能是多设备连接的超级终端，一辆能主动感知需求，拥有智能座舱的车成为各车厂的未来规划目标。其实早在2020年的 ODC21 开发者大会上，OPPO就公布过跨终端全场景的智行出行解决方案。今年ColorOS 13 又升级了涵盖数字车钥匙、车机投屏、远程车控的全链路智慧出行体验，此次车机互融的升级也成为发布会中用户对ColorOS更具未来性体验布局的期待之一。在此场景展示中ColorOS 13 除了为用户带来更多有创造性的场景体验外，也公布车机互联的部分功能将与上汽、比亚迪、长安、理想、特斯拉、极氪等汽车品牌合作，展示出一定的生态合作伙伴实力。</p><p style="text-align:center"><img src="https://cors.zfour.workers.dev/?http://images.ofweek.com/Upload/News/2022-09/15/Zyong/1663211797721089309.png" alt="智慧时代下，ColorOS 13的科技力如何改变我们的日常？" title="智慧时代下，ColorOS 13的科技力如何改变我们的日常？" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">可以看出，在万物互融的时代浪潮下ColorOS 13在智慧办公、智慧健康、智慧出行三个方面整合发力，以技术实力提升带给用户更有想象力的智慧生活体验。ColorOS 13也逐渐成为国内成长最快的操作系统之一，未来值得期待。</p> 
+  
+</div>
+            

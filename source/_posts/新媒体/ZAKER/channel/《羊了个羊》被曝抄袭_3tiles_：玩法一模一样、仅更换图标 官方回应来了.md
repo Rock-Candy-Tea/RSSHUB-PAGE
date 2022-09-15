@@ -1,0 +1,18 @@
+
+---
+title: '《羊了个羊》被曝抄袭_3tiles_：玩法一模一样、仅更换图标 官方回应来了...'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/632292208e9f091ec72afdca_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 14 Sep 2022 19:18:30 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/632292208e9f091ec72afdca_1024.jpg'
+---
+
+<div>   
+<p>近日，一款名为 "《羊了个羊》" 的小程序游戏火爆全网，打开朋友圈、微博、微信等平台，都能看到它的身影。尤其在朋友圈的 " 画风 " 都是 " 你玩没？通关没？第二关过了没？" 这样的。在微博上，相关话题 # 羊了个羊 #、# 羊了个羊第三关 #、# 羊了个羊崩了 #、# 羊了个羊通关率不到 0.1%# 等霸占了多个热搜话题，冲上微博热搜榜榜单，引发无数网友们参与讨论，甚至因为热度太高，还一度使得游戏出现登录异常，开发商紧急进行了修复。</p><p>据了解，《羊了个羊》是一款卡通背景消除闯关游戏，通过微信小程序搜索就可以找到进行游玩。玩家们需要点击上方卡牌，被选中的卡牌会下移到底部的木框中，框内最多可以储存 7 张卡牌，当有 3 张相同的卡牌同置于框内时，则可达成消除。最终消除这些关卡中的道具陷阱和障碍，就能进行通关。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202209/632292208e9f091ec72afdca_1024.jpg" data-height="2337" data-width="1080" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/632292208e9f091ec72afdca_1024.jpg" referrerpolicy="no-referrer"></div></div>听上去好像很简单，但实际操作到第二关的时候就被全退了 ... 在网络上很多网友都表示 " 难如登天 "。重点是玩家们一边为游戏难度抓狂，一边感慨上头，就不信了 ...<p></p><p>对此，网友们纷纷有话说：" 他明明可以直接让你看广告，但还是送了你一个游戏玩 "、" 这么多年没碰到让我难受一晚上的小游戏，你们明白吗 "、" 没有第三关 一天就两关 "、" 羊了个羊的第二关比甄嬛传的过情关还要难过 "、" 准备辞职了全职玩羊了个羊给广东的家人们争口气 "、" 他明明可以直接让你看广告恰钱 却还是让你玩了个游戏 气自己 "...</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202209/632292208e9f091ec72afdcd_1024.jpg" data-height="458" data-width="616" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632292208e9f091ec72afdcd_1024.jpg" referrerpolicy="no-referrer"></div></div>而就在大家玩的火热的时候，有网友发现这则小游戏疑似抄袭了《3tiles》。从曝光的游戏画面来看，《羊了个羊》与《3tiles》在玩法上简直如出一辙，所不同的是二者图标有异常。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202209/632292208e9f091ec72afdce_1024.jpg" data-height="87" data-width="614" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632292208e9f091ec72afdce_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202209/632292208e9f091ec72afdcf_1024.jpg" data-height="803" data-width="570" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632292208e9f091ec72afdcf_1024.jpg" referrerpolicy="no-referrer"></div></div>那么针对 " 羊了个羊 " 抄袭《3tiles》的质疑，北京简游科技有限公司的相关负责人表示，" 羊了个羊 " 游戏使用的是最基础的游戏玩法，如果 " 连成三个 " 的玩法就算抄袭，那这样的游戏也太多了。并表示公司不会对此理会，用户自然有自己的判断。负责人还透露，" 羊了个羊 " 的独立 APP 正在苹果商店审核阶段，具体上线日期还不清楚，游戏内容方面下一步将有一大波内容更新，包括游戏周边内容都会陆续加入其中。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202209/632292208e9f091ec72afdd0_1024.jpg" data-height="2219" data-width="1024" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632292208e9f091ec72afdd0_1024.jpg" referrerpolicy="no-referrer"></div></div>公开资料显示，《羊了个羊》关联公司北京简游科技有限公司成立于 2021 年 1 月，注册资本约 117 万人民币，由张佳旭、厦门雷霆网络科技股份有限公司、北京乐闪科技有限公司共同持股，目前公司十余项游戏软件著作权已获得登记批准。那么今天你玩了这款 " 比《王者荣耀》还让人生气 " 的游戏了吗 ~<p></p><p><strong></strong><strong></strong></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
