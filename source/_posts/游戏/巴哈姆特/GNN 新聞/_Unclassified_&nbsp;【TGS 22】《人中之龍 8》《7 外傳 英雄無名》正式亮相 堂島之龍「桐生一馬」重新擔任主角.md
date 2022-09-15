@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/94/5b0700ff964da85147fcc8d4e71i8ma5.JPG?v=1663153450089'
 author: 巴哈姆特
 comments: false
-date: 2022-09-15 01:00:12
+date: 2022-09-15 03:48:31
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/5b0700ff964da85147fcc8d4e71i8ma5.JPG?v=1663153450089'
 ---
 
@@ -58,7 +58,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/5b0700ff964da85147fcc8d4e71i8ma5.
 <div>
  </div>
 <div>
-　　此外，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D+%E7%B6%AD%E6%96%B0%EF%BC%81%E6%A5%B5" target="_blank">人中之龍 維新！極</a>》也更新了出演陣容，其中包含過去曾演出《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D" target="_blank">人中之龍</a> 0》的竹內力、小澤仁志、中野英雄以及《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D" target="_blank">人中之龍</a> 7》的登場角色等，加入許多在原版《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D+%E7%B6%AD%E6%96%B0%EF%BC%81" target="_blank">人中之龍 維新！</a>》後推出之系列作角色。</div>
+　　此外，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D+%E7%B6%AD%E6%96%B0%EF%BC%81%E6%A5%B5" target="_blank">人中之龍 維新！極</a>》也更新了出演陣容，其中包含過去曾演出《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D+0+%E8%AA%93%E7%B4%84%E7%9A%84%E5%A0%B4%E6%89%80" target="_blank">人中之龍 0 誓約的場所</a>》的竹內力、小澤仁志、中野英雄以及《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D+7+%E5%85%89%E8%88%87%E9%97%87%E7%9A%84%E5%8E%BB%E5%90%91" target="_blank">人中之龍 7 光與闇的去向</a>》的登場角色等，加入許多在原版《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D+%E7%B6%AD%E6%96%B0%EF%BC%81" target="_blank">人中之龍 維新！</a>》後推出之系列作角色。</div>
 <div>
  </div>
 <div>
@@ -172,7 +172,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/5b0700ff964da85147fcc8d4e71i8ma5.
 <div>
  </div>
 <div>
-　　對於桐生的再次登場橫山表示是故事發展所需，本作將描述背負過去的一切以及背負未來的一切的兩個男人的故事，為此桐生的登場是必要的。</div>
+　　對於桐生的再次登場橫山表示是故事發展所需，本作將描述背負過去的一切以及背負未來的一切的兩個男人的故事，為此桐生的登場是需要的。</div>
 <div>
  </div>
 <div>
@@ -230,7 +230,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/5b0700ff964da85147fcc8d4e71i8ma5.
 <div>
  </div>
 <div>
-　　本作將以桐生一馬的視角描述《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D" target="_blank">人中之龍</a> 6》以後的故事，而遊戲的內容量大約會是過往《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D" target="_blank">人中之龍</a>》系列作品的一半。</div>
+　　本作將以桐生一馬的視角描述《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D+6+%E7%94%9F%E5%91%BD%E8%A9%A9%E7%AF%87%E3%80%82" target="_blank">人中之龍 6 生命詩篇。</a>》以後的故事，而遊戲的內容量大約會是過往《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D" target="_blank">人中之龍</a>》系列作品的一半。</div>
 <div>
  </div>
 </div>
@@ -380,8 +380,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/94/5b0700ff964da85147fcc8d4e71i8ma5.
 </div>
 <div>
  </div>
-<p> </p>
-<div class="article_gamercard lazyload" data-fanspage-id="55923" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>
 </div>
 <!-- 新聞內容結束 -->
