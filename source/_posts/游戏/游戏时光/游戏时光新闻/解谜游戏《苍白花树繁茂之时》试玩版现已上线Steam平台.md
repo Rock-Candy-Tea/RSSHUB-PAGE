@@ -1,0 +1,30 @@
+
+---
+title: '解谜游戏《苍白花树繁茂之时》试玩版现已上线Steam平台'
+categories: 
+ - 游戏
+ - 游戏时光
+ - 游戏时光新闻
+headimg: 'https://img01.vgtime.com/game/cover/2022/09/15/220915155531364_u93176.png'
+author: 游戏时光
+comments: false
+date: Thu, 15 Sep 2022 08:15:20 GMT
+thumbnail: 'https://img01.vgtime.com/game/cover/2022/09/15/220915155531364_u93176.png'
+---
+
+<div>   
+<input type="hidden" id="topicId" value="1178736">
+<input type="hidden" value id="puid">
+
+
+<div class="abstract">
+<p>故事不含恋爱元素。</p>
+</div>
+
+                
+<div class="topicContent front_content"><p>国产单机解谜游戏《苍白花树繁茂之时》的试玩版已上架 Steam，游戏背景横跨现代、清末、千禧年三个时代，通过白殊、白荆、娑罗这三个身处不同年代的女孩子，解开隐藏在天外陨石背后的秘密。【<a href="https://store.steampowered.com/app/2094190/Blood_Flowers/">点此前往Steam商店页面</a>】</p><div class="vg_insert_video"><figure contenteditable="false"><iframe class="vg_insert_video_iframe new_bilibili" frameborder="0" allowfullscreen src="https://player.bilibili.com/player.html?aid=303080365&bvid=BV13P411H7dz&cid=833516415&page=1" height="835.875"></iframe><figcaption contenteditable="true" class="vg_insert_video_notice"></figcaption></figure><div class="vg_insert_video_cover bili_cover bili_cover_new" contenteditable="false" style="height:835.875px"><b class="bili_play"></b><span class="vg_insert_video_del" contenteditable="false"></span></div></div><p style="text-align: right;"><a href="https://www.bilibili.com/video/BV13P411H7dz?spm_id_from=333.999.0.0&vd_source=0ac49f8c2cf8e0de24fa5cf7f91285a5">视频链接</a></p><p>一切都从那颗坠落的星辰开始，通过解谜，在找回童年记忆的同时，逐步解开数百年前“血树之灾”的真相。繁花盛放之处，是温暖的家人怀抱，还是混合了哀恸的记忆废墟？那些天外异星带来活性物质，也带来了贪婪和恐惧。喂养它们的亦是人性，孵化出什么样的怪物，全取决于人类自己。<br></p><hr class="vg_hr" contenteditable="false"><h3 style="text-align: center;">视频截图</h3><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/09/15/220915155531364_u93176.png" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/09/15/220915155551135_u93176.png" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/09/15/220915155609105_u93176.png" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/09/15/220915155619322_u93176.png" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/09/15/220915155631218_u93176.png" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/09/15/220915155641839_u93176.png" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><hr class="vg_hr" contenteditable="false"><h3>福利时间</h3><p>我们将在评论区中抽出 3 位朋友送出游戏激活码。</p></div>
+                
+                
+  
+</div>
+            
