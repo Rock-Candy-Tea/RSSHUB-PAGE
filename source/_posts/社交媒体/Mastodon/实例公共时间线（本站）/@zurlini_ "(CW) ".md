@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/109/001/598/694/250/886/original/a380a8a9a0feb127.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/109/001/834/659/303/249/original/e2941ce14bb5cb37.png'
 author: Mastodon
 comments: false
-date: Thu, 15 Sep 2022 09:00:02 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/109/001/598/694/250/886/original/a380a8a9a0feb127.jpeg'
+date: Thu, 15 Sep 2022 10:00:03 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/109/001/834/659/303/249/original/e2941ce14bb5cb37.png'
 ---
 
 <div>   
-<hr><p>【過去記事】<br>[漫画] ドラゴンクエスト ダイの大冒険 新装彩録版 第10巻（三...<br><a href="https://pawoo.net/tags/Comic" class="mention hashtag" rel="tag">#Comic</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8C" class="mention hashtag" rel="tag">#スティーヌ</a><br><a href="https://pawoo.net/tags/%E3%83%80%E3%82%A4%E3%81%AE%E5%A4%A7%E5%86%92%E9%99%BA" class="mention hashtag" rel="tag">#ダイの大冒険</a><br><a href="https://www.a-legend.net/wordpress/?p=12255" rel="nofollow noopener noreferrer" target="_blank">https://www.a-legend.net/wordpress/?p=12255</a></p><br><img src="https://img.pawoo.net/media_attachments/files/109/001/598/694/250/886/original/a380a8a9a0feb127.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>【過去記事】<br>[漫画] 【R-18】交わりの宿（ビフィダス）<br>投稿日：2021.12.2<br>作品名：...<br><a href="https://pawoo.net/tags/Comic" class="mention hashtag" rel="tag">#Comic</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%83%93%E3%83%95%E3%82%A3%E3%83%80%E3%82%B9" class="mention hashtag" rel="tag">#ビフィダス</a><br><a href="https://www.a-legend.net/wordpress/?p=12197" rel="nofollow noopener noreferrer" target="_blank">https://www.a-legend.net/wordpress/?p=12197</a></p><br><img src="https://img.pawoo.net/media_attachments/files/109/001/834/659/303/249/original/e2941ce14bb5cb37.png" alt="image " referrerpolicy="no-referrer">  
 </div>
             
