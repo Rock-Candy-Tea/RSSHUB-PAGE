@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/52/6cbb7326140d8b0fc4b6aad2411i9ig5.JPG?v=1663235647722'
 author: 巴哈姆特
 comments: false
-date: 2022-09-15 10:11:49
+date: 2022-09-15 11:09:30
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/6cbb7326140d8b0fc4b6aad2411i9ig5.JPG?v=1663235647722'
 ---
 
@@ -92,7 +92,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/6cbb7326140d8b0fc4b6aad2411i9ig5.
  </div>
 <div>
 <div class="video-container">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/1ruElNSuMbY?wmode=transparent" width="100%"></iframe></div>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/wc-Dyzd6LRU?wmode=transparent" width="100%"></iframe></div>
 </div>
 <div>
  </div>

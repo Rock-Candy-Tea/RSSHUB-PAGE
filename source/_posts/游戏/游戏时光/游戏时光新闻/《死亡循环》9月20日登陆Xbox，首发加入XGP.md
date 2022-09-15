@@ -22,7 +22,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/09/15/220915174249420_u2929
 </div>
 
                 
-<div class="topicContent front_content"><p>TGS 发布会上，Xbox 宣布《死亡循环》将于 9 月 20 日登陆 Xbox，首发加入 XGP，现在就可以开始预载。<br></p><p style="text-align: center;"><img style="width: 600px;" src="https://img01.vgtime.com/game/cover/2022/09/15/220915174249420_u292926.jpg" title class referrerpolicy="no-referrer"><br></p></div>
+<div class="topicContent front_content"><p>TGS 发布会上，Xbox 宣布《死亡循环》将于 9 月 20 日登陆 Xbox，首发加入 XGP，现在就可以开始预载。据直播介绍，该版本将包含新武器、新敌人、新升级项目，还有一个拓展结局，支持跨平台匹配。<br></p><p style="text-align: center;"><img style="width: 600px;" src="https://img01.vgtime.com/game/cover/2022/09/15/220915174249420_u292926.jpg" title class referrerpolicy="no-referrer"><br></p></div>
                 
                 
   
