@@ -22,9 +22,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/09/14/220914210111193_u524.
 </div>
 
                 
-<div class="topicContent front_content"><p>世嘉<a href="https://twitter.com/SEGA_OFFICIAL/status/1570029678739750913">宣布</a>，《审判之逝：湮灭的记忆》和《审判之眼：死神的遗言》于今日登陆 Steam 平台。</p><p>购买两作的同捆包，可以免费获得
-
-《审判之逝：湮灭的记忆》的 DLC 「海藤正治事件簿」。</p><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/09/14/220914210111193_u524.jfif" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><p><br></p></div>
+<div class="topicContent front_content"><p>世嘉<a href="https://twitter.com/SEGA_OFFICIAL/status/1570029678739750913">宣布</a>，《审判之逝：湮灭的记忆》和《审判之眼：死神的遗言》于今日登陆 Steam 平台。</p><p>商店地址：<a href="https://store.steampowered.com/app/2058180/_Remastered/">审判之眼</a> <a href="https://store.steampowered.com/app/2058190/_/">审判之逝</a></p><div class="vg_insert_img"><figure contenteditable="false"><img style="width:600px;" src="https://img01.vgtime.com/game/cover/2022/09/14/220914210111193_u524.jfif" referrerpolicy="no-referrer"><figcaption contenteditable="true" class="vg_insert_img_notice"></figcaption></figure></div><p><br></p></div>
                 
                 
   
