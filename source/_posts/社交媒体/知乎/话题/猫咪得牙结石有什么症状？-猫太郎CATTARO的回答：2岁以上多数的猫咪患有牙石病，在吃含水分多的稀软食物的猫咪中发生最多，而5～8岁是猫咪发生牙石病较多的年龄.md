@@ -1,0 +1,18 @@
+
+---
+title: '猫咪得牙结石有什么症状？-猫太郎CATTARO的回答：2岁以上多数的猫咪患有牙石病，在吃含水分多的稀软食物的猫咪中发生最多，而5～8岁是猫咪发生牙石病较多的年龄...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pic1.zhimg.com/v2-fe85e16859c9a27767d25c2896572d54_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Thu, 15 Sep 2022 07:11:00 GMT
+thumbnail: 'https://pic1.zhimg.com/v2-fe85e16859c9a27767d25c2896572d54_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>猫咪得牙结石有什么症状？</strong><br>猫太郎CATTARO的回答<br><p data-pid="w8E5LAjG">2岁以上多数的猫咪患有牙石病，在吃含水分多的稀软食物的猫咪中发生最多，而5～8岁是猫咪发生牙石病较多的年龄段。　</p><p data-pid="FzpYgi5K">猫咪牙齿的毛病通常最先出现牙斑——即牙齿表面有柔软透明或乳白色的黏附物，用手指甲轻轻刮拭就能刮下来;如果不除去牙斑，唾液中的矿物质便会使牙斑转变成牙结石。猫咪长了牙结石，会影响采食和消化吸收，使它们变得消瘦、抵抗力降低。　　</p><p data-pid="lGZOGK_o">牙结石多发生在前臼齿，尤其多见于上前臼齿，而后臼齿、犬齿和门齿发生较少。猫咪长牙结石初期，没有任何行为和吃食习惯上的异常表现，但是如果打开猫咪口腔检查，可以看到上前臼齿或其他牙齿上附有一层米黄色的牙结石。</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-fe85e16859c9a27767d25c2896572d54_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="736" data-rawheight="413" data-default-watermark-src="https://picx.zhimg.com/50/v2-8f23ed7467295d02094951ffa44477e8_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-fe85e16859c9a27767d25c2896572d54_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="4UrG0lK_">随着牙结石逐渐增大，会引起齿龈损伤和牙周炎，这时猫咪在进食的时候就会牙齿疼痛，食量就会减少，不愿意吃硬的食物，甚至会出现进食时从口腔向外掉食物，口腔流涎发臭。</p><p data-pid="IBSP13sd">此时再打开猫咪的口腔，就能发现前臼齿上附有大小不一的牙结石，环绕齿根部的齿龈发红、有点肿，严重附有牙结石的牙齿还会出现不同程度的松动。</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-f0651c70f79f42408f77df96217ff830_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="566" data-rawheight="317" data-default-watermark-src="https://picx.zhimg.com/50/v2-ebc7029dc1ad07414ce345e5ce379feb_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-f0651c70f79f42408f77df96217ff830_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="0owZPYWL">如果牙结石比较多最好洗牙。洗牙需要全身麻醉，注意准备相应的护理。现在有很多的医院有超声波洗压机，洗牙的技术是不成问题。</p><p data-pid="qUQ3RM1R">现在洗牙一般都是超声波震动洗牙机，洗牙同时还会喷水降温清洗，所以再给猫咪洗牙的时候要保持头部低于身体，避免水被吸入肺部造成异物性肺炎。</p><p data-pid="lrqLctcI">一般来说宠物医生会注意到这点，如果宠物医生没有注意的话，主人一定要记住保持将猫咪的头部低于身体。如果猫咪牙结石严重，就会有坏牙和松动的牙齿，对于这种牙齿，主人不要心疼姑息，要将坏牙拔掉，以免感染其他口腔疾病。</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-da88f3f4648bb6c17a96d184277012b8_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="658" data-rawheight="369" data-default-watermark-src="https://pic1.zhimg.com/50/v2-3b6b6c927564b508532dd256a88a11fe_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-da88f3f4648bb6c17a96d184277012b8_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="YUwlSrx2">那么如何预防牙结石呢？</p><p data-pid="3sXji9gv">1、在猫咪小的时候应该让猫咪养成检查口腔和刷牙的习惯。宠物用品店有动物专用的牙膏和牙刷，切不可使用人用的牙膏和牙刷。　　</p><p data-pid="DbPfTw83">2、给猫咪喂食专用的猫粮。</p><p data-pid="s69kRoWK">3、如果买不到猫咪专用的牙刷、牙膏或者猫咪没有用过非常抗拒牙刷牙膏的话，也有一个比较柔和能让猫咪接受的清洁牙齿的方法：用医用纱布缠绕在手指上，沾上茶水或者淡盐水为猫咪轻轻擦拭牙齿，尤其是清洁上前臼齿，纱布的摩擦力也能轻松清除齿垢。</p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-d24210f697b958da63456ae215a814f8_1440w.jpg?source=1940ef5c" data-caption data-size="normal" data-rawwidth="658" data-rawheight="369" data-default-watermark-src="https://pic1.zhimg.com/50/v2-674d2a96a6a1a6b8363bb90a9addd18f_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-d24210f697b958da63456ae215a814f8_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="kQdw-T3o">当你把一条小生命抱回家，你一定要好好爱它！因为在这个世界上它的生命里只有你！请尊重每条生命！</p>  
+</div>
+            
