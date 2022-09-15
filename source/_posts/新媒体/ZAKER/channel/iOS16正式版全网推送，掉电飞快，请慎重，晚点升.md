@@ -1,0 +1,18 @@
+
+---
+title: 'iOS16正式版全网推送，掉电飞快，请慎重，晚点升'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/6321a84b8e9f093fb27fc1df_1024.jpg'
+author: ZAKER
+comments: false
+date: Wed, 14 Sep 2022 23:52:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/6321a84b8e9f093fb27fc1df_1024.jpg'
+---
+
+<div>   
+<p>2 天前已经和大家预告过了，iOS16 正式版会在今天推送给所有能升级的用户，相信到目前为止，已经有不少人正在使用中了，只不过有一个消息可以将 iPhone 14 及 14 Plus 用户确认为冤大头，根据 Xcode（苹果官方开发的工具）测试结果显示，14 及 14 Plus 两款机型设备型号代码和 iPhone 13 系列全部属于 14 一代，只有 14 Pro 和 14 Pro Max 型号代码升级到了 15，我们甚至可以怀疑所谓的 14 其实就是 13，为啥这么说呢？</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202209/6321a84b8e9f093fb27fc1df_1024.jpg" data-height="433" data-width="777" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/6321a84b8e9f093fb27fc1df_1024.jpg" referrerpolicy="no-referrer"></div></div>就设备尺寸来说，14 和 13 一样，14 Plus 和 13 Pro Max 一样，有人怀疑苹果是不是将 13 微调一下后直接当 14 卖了，否则怎么解释设备型号代码被检测出是同一代呢？此事在苹果用户中引起了很大争议，很多人表示新机根本不配叫 14，甚至叫 13s 的资格都没有（s 系列至少还会换个处理器），这种事除了苹果，其他厂商估计真没勇气这么做。<p></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202209/6321a84b8e9f093fb27fc1e0_1024.jpg" data-height="392" data-width="633" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/6321a84b8e9f093fb27fc1e0_1024.jpg" referrerpolicy="no-referrer"></div></div>至于 iOS16 正式版更新内容，只要体验之前测试版的用户应该都清楚，今天就不再详细说，主要和大家做个总结并提醒一些注意事项。<p></p><p>首先就是确认 iPhone 14 全系搭载 6GB 运存，跑分情况，14 及 14 Plus 基本上参考 13 系列跑分成绩就可以了，因为同属一个型号系列，14 Pro 和 14 Pro Max 跑分成绩还是能让人满意的，证明 A16 芯片性能确实有不小提升，而各大跑分软件不提供 14 及 14 Plus 跑分成绩也再次印证了很多人的猜测。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202209/6321a84b8e9f093fb27fc1e1_1024.jpg" data-height="368" data-width="685" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/6321a84b8e9f093fb27fc1e1_1024.jpg" referrerpolicy="no-referrer"></div></div>之前，iOS16 为可以升级设备提供了电池电量百分比显示功能，实际上也不是所有 face id 版 iPhone 都支持该功能，iPhone XR、iPhone 11、iPhone 12 mini 、 iPhone 13 mini 这 4 款机型就不支持，这就有点让人搞不懂，都是同样风格的产品，为何会有不同待遇。<p></p><p>个人认为 iOS16 中有 2 功能是比较实用的，第一个就是个性化锁屏，该功能支持快速启动任意 APP，各位可以用一些第三方开发者提供的个性化锁屏工具来提升使用体验。</p><p>还有就是车祸检测功能对有车一族来说也有很强的实用性。</p><p>大家都知道 iOS16 针对 Pro 机型最直观的变化就是搞出了个 " 灵动岛 "，该功能将原版死板的挖孔屏演变出了众多交互功能，受到了不少好评，但国内某位 UP 主因为提前激活了 iPhone 14 Pro，让人看到了大量 APP 都没有适配 " 灵动岛 " 功能，只不过由于苹果严禁提前激活，该 UP 主可能会面临较为严重的后果，甚至很有可能会连累到提供设备的经销商。</p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202209/6321a84b8e9f093fb27fc1e2_1024.jpg" data-height="227" data-width="437" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/6321a84b8e9f093fb27fc1e2_1024.jpg" referrerpolicy="no-referrer"></div></div>只不过小智还是劝各位，等苹果再更新几个版本后再升级，因为有已经升级的网友反映，虽然感觉很流畅，老旧机型杀后台情况也改善的不错，但电量消耗速度是肉眼可见的快，续航能力不能让人满意，部分游戏玩家也反映更新后游戏帧率不是很稳定，会出现卡顿。<p></p><p>之前更新过 RC 版的用户是收不到更新提示的，因为版号是一样的。</p><p>最后给大家的建议是最好等到 16.2 再升级，届时应该会比较稳定了。</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
