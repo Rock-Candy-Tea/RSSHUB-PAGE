@@ -1,0 +1,19 @@
+
+---
+title: 'AMD游戏营销主管放言_更大不一定更好_暗示RNDA 3 GPU更紧凑高效'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/0915/5381d9b5514f7c7.png'
+author: cnBeta
+comments: false
+date: Thu, 15 Sep 2022 06:21:13 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/0915/5381d9b5514f7c7.png'
+---
+
+<div>   
+<strong>在今天早些时候的一条神秘推文中，AMD 游戏营销高级总监 Sasa Marinkovic 道出了一句暗号 ——“更大，并不一定意味着更好！”</strong>虽然没有披露更多细节，但网友们普遍推测 —— 他应该是在预告即将到来的 Radeon RX 7000 系列 RDNA 3 GPU 会带来一系列惊喜。<br>
+ <p><img src="https://static.cnbetacdn.com/article/2022/0915/5381d9b5514f7c7.png" referrerpolicy="no-referrer"></p><p>鉴于 <a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https://amd-cpu.jd.com/" target="_blank">AMD</a> 已经官宣了 Ryzen 7000 系列 AM5 处理器，所以这番爆料应该与 Zen 4 架构无关。</p><p>与此同时，红队也在“Together We Advance_PCs”活动期间，放出了与 Radeon RX 7000 系列 RDNA 3 GPU 有关的预告。</p><p><img src="https://static.cnbetacdn.com/article/2022/0915/07660495f0f70c4.png" referrerpolicy="no-referrer"></p><p>至于被调侃的“大却不好”的对象，很显然是竞争对手英伟达家的 GeForce RTX 4090 独显 —— 泄露消息称该卡配备了超大的四槽散热解决方案。</p><p>据悉，绿厂 RTX 4090 将用上单个 16-pin 的连接器（12VPWHR），理论可承受的功率上限为 600W 。</p><p><a href="https://static.cnbetacdn.com/article/2022/09/2eb532040c90803.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/2eb532040c90803.jpg" referrerpolicy="no-referrer"></a></p><p>虽然新一代桌面 CPU 的发布较蓝厂 13 代酷睿要早一些，但英伟达或在几天后的 GTC 2022 大会上抢先发布 RTX 40 系列 Ada Lovelace 游戏显卡。</p><p>不过从 AMD 高管的 Twitter 调侃来看，该公司显然更注重于打造对 PC DIY 更友好的显卡与散热设计。</p><p><a href="https://static.cnbetacdn.com/article/2022/09/47913de47e3e623.jpg" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/47913de47e3e623.jpg" referrerpolicy="no-referrer"></a></p><p>早前传闻称，Radeon RX 7000 系列高端 SKU 会用上体型稍大、但高度仍控制在 2.5 槽位的散热器，且外接供电仍为双 8-pin 。</p><p>基于此，AMD 显然也能够推出功耗更低、且无需依赖于大型散热器的 RNDA 3 GPU 型号。</p><p><img src="https://static.cnbetacdn.com/article/2022/0915/63b8e6b8f2ecfba.png" referrerpolicy="no-referrer"></p><p>早前 AMD 曾表示，尽管 RDNA 3 GPU 的功耗变得更高，但实际能效还是较竞争对手更加优秀。</p><p>此外鉴于红队的目标是通过 5nm 工艺实现 50% 的每瓦特性能提升（相较于 RNDA 2），Sasa Marinkovic 指代的可能是另一件事（比如芯片尺寸）。</p><p><a href="https://static.cnbetacdn.com/article/2022/0915/437e1285612ebe7.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0915/437e1285612ebe7.jpg" referrerpolicy="no-referrer"></a></p><p>作为 AMD 旗下首个采用 MCM 多芯片封装工艺的游戏 GPU 产品线，Radeon RX 7000 系列 RNDA 3 GPU 可将各种小芯片（比如 Infinity Cache）移出裸片、从而缩小 GPU 的尺寸。</p><p>同时这一代的图形组件计算方式也迎来了大改，GPU 改成 GCD（全称 Graphics Complex Die）—— 很像是 Zen 架构锐龙 CPU 上的 CCD 模块 —— 且 Infinity Cache 和显存接口也挪到了多个 MCD（Memory-Chiplet Die）上。</p><p><a href="https://static.cnbetacdn.com/article/2022/0915/7febf50856fc1cd.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0915/7febf50856fc1cd.jpg" referrerpolicy="no-referrer"></a></p><p>得益于此，根据 @Kepler_L2 的最新爆料，RDNA 3 GPU 的芯片面积变得更加精简，且台积电 5nm 工艺节点再让芯片尺寸缩减了 40% 。</p><p>据说 Navi 31 只有 533 m㎡（308 m㎡ GCD + 37.5 m㎡ MCD），而采用单芯片封装的英伟达 AD102 GPU，面积达到了夸张的 628 m㎡ 。</p><p><a href="https://static.cnbetacdn.com/article/2022/0915/9fa775879e64f88.jpg" target="_blank"><img src="https://static.cnbetacdn.com/thumb/article/2022/0915/9fa775879e64f88.jpg" referrerpolicy="no-referrer"></a></p><p>最后，由于这代红绿两家选用了相同的 TSMC 工艺节点，所以这轮晶体管密度和能效的对比也将更加容易。</p><p>其中 Navi 31 GPU 的分装尺寸为 308 m㎡、封装密度较 520 m㎡ 的 Navi 21 更高，可容量 268 亿个晶体管（约 5150 万 / ㎡）。</p><div class="article-relation"><p><strong>相关文章:</strong></p><p><a href="https://www.cnbeta.com/articles/tech/1315919.htm" target="_blank">Gigabyte RTX 4090 Gaming OC显卡包装盒曝光 三槽三风扇设计</a></p><p><a href="https://www.cnbeta.com/articles/tech/1316197.htm" target="_blank">定制款NVIDIA RTX 4090散热器拥有惊人的13根6mm铜热管</a></p></div>   
+</div>
+            
