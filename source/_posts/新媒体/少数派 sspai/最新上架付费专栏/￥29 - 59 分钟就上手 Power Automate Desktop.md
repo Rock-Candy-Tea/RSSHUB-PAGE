@@ -8,7 +8,7 @@ categories:
 headimg: 'https://cdn.sspai.com/article/243a7bfc-e80b-a030-7af6-bcc1725af11e.jpg'
 author: 少数派 sspai
 comments: false
-date: 2022-09-16 14:22:10
+date: 2022-09-16 15:11:08
 thumbnail: 'https://cdn.sspai.com/article/243a7bfc-e80b-a030-7af6-bcc1725af11e.jpg'
 ---
 

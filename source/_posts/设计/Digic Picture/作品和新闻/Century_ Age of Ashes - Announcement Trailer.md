@@ -5,11 +5,11 @@ categories:
  - 设计
  - Digic Picture
  - 作品和新闻
-headimg: 'https://digicpictures.com///images/upload/century1.jpeg'
+headimg: 'https://www.digicpictures.com///images/upload/century1.jpeg'
 author: Digic Picture
 comments: false
-date: 2022-09-16 14:22:19
-thumbnail: 'https://digicpictures.com///images/upload/century1.jpeg'
+date: 2022-09-16 15:11:17
+thumbnail: 'https://www.digicpictures.com///images/upload/century1.jpeg'
 ---
 
 <div>   
@@ -20,6 +20,6 @@ We are happy to announce, that we had a hand in the Century: Age of Ashes - Anno
 
 <iframe frameborder="0" height="315" src="https://www.youtube.com/embed/rVO6fAev0w0" width="560"></iframe>
 
-<br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="https://digicpictures.com///images/upload/century1.jpeg" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="https://digicpictures.com///images/upload/century2.png" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="https://digicpictures.com///images/upload/century3.jpeg" referrerpolicy="no-referrer"><br>  
+<br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="https://www.digicpictures.com///images/upload/century1.jpeg" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="https://www.digicpictures.com///images/upload/century2.png" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="https://www.digicpictures.com///images/upload/century3.jpeg" referrerpolicy="no-referrer"><br>  
 </div>
             

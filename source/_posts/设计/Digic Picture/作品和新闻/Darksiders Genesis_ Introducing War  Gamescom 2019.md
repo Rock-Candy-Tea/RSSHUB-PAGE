@@ -5,11 +5,11 @@ categories:
  - 设计
  - Digic Picture
  - 作品和新闻
-headimg: 'https://digicpictures.com///images/upload/DSG_Gamescom_Candiate_Delivery_Update_TIFF748.jpg'
+headimg: 'https://www.digicpictures.com///images/upload/DSG_Gamescom_Candiate_Delivery_Update_TIFF748.jpg'
 author: Digic Picture
 comments: false
-date: 2022-09-16 14:22:19
-thumbnail: 'https://digicpictures.com///images/upload/DSG_Gamescom_Candiate_Delivery_Update_TIFF748.jpg'
+date: 2022-09-16 15:11:17
+thumbnail: 'https://www.digicpictures.com///images/upload/DSG_Gamescom_Candiate_Delivery_Update_TIFF748.jpg'
 ---
 
 <div>   
@@ -20,6 +20,6 @@ We're proud to share with you our latest collaboration with THQ Nordic on Darksi
 
 <iframe frameborder="0" height="315" src="https://www.youtube.com/embed/EFvt_Li0v04" width="560"></iframe>
 
-<br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="https://digicpictures.com///images/upload/DSG_Gamescom_Candiate_Delivery_Update_TIFF748.jpg" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="https://digicpictures.com///images/upload/DSG_Gamescom_Candiate_Delivery_Update_TIFF653.jpg" referrerpolicy="no-referrer"><br>  
+<br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="https://www.digicpictures.com///images/upload/DSG_Gamescom_Candiate_Delivery_Update_TIFF748.jpg" referrerpolicy="no-referrer"><br><img style="max-width: 650px; height: auto; object-fit: contain; flex: 0 0 auto;" src="https://www.digicpictures.com///images/upload/DSG_Gamescom_Candiate_Delivery_Update_TIFF653.jpg" referrerpolicy="no-referrer"><br>  
 </div>
             
