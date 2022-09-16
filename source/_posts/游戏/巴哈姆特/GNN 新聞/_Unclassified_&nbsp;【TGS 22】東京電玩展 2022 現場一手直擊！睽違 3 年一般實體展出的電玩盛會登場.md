@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/11/dc2e59bb8320e1741262761e671i8sb5.JPG?v=1663204782009'
 author: 巴哈姆特
 comments: false
-date: 2022-09-15 15:10:54
+date: 2022-09-16 00:59:14
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/11/dc2e59bb8320e1741262761e671i8sb5.JPG?v=1663204782009'
 ---
 
@@ -135,7 +135,6 @@ TGS 入場前</h3>
 </div>
 <div>
  </div>
-<div>
 <h3>
  KOEI TECMO Games 攤位</h3>
 <div>
@@ -177,7 +176,7 @@ TGS 入場前</h3>
 <div>
  </div>
 <h3>
-SEGA Games 攤位</h3>
+SEGA & ATLUS 攤位</h3>
 <div>
  </div>
 <div>
@@ -193,12 +192,26 @@ SEGA Games 攤位</h3>
 <li class="bh-grids-img-box" style="width: 50.00%;">
 <figcaption style="padding-bottom: 75.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/59/4ef2b10b02edf6edccfa7d4a801i8tn5.JPG?v=1663209076001" data-srcset="https://p2.bahamut.com.tw/B/2KU/59/4ef2b10b02edf6edccfa7d4a801i8tn5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/59/4ef2b10b02edf6edccfa7d4a801i8tn5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/59/4ef2b10b02edf6edccfa7d4a801i8tn5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/59/4ef2b10b02edf6edccfa7d4a801i8tn5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
+</div>
+<div>
 <ul class="bh-grids-img">
-<li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 133.59%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/24/9ba30bbedf2d993423060d97681i8vg5.JPG?v=1663209076001" data-srcset="https://p2.bahamut.com.tw/B/2KU/24/9ba30bbedf2d993423060d97681i8vg5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/24/9ba30bbedf2d993423060d97681i8vg5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/24/9ba30bbedf2d993423060d97681i8vg5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/24/9ba30bbedf2d993423060d97681i8vg5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
-<li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 133.59%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/47aed41afa29ab616c56c569841i8ts5.JPG?v=1663209076001" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/47aed41afa29ab616c56c569841i8ts5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/64/47aed41afa29ab616c56c569841i8ts5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/64/47aed41afa29ab616c56c569841i8ts5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/64/47aed41afa29ab616c56c569841i8ts5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 66.71%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/93/9d245043acf2c65ea382ee2dc31i9up5.JPG?v=1663257868423" data-srcset="https://p2.bahamut.com.tw/B/2KU/93/9d245043acf2c65ea382ee2dc31i9up5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/93/9d245043acf2c65ea382ee2dc31i9up5.JPG 2x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
 </ul>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 50.00%;">
+<figcaption style="padding-bottom: 150.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/94/c2a909d697d4daa4bfb997a8271i9uq5.JPG?v=1663257868423" data-srcset="https://p2.bahamut.com.tw/B/2KU/94/c2a909d697d4daa4bfb997a8271i9uq5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/94/c2a909d697d4daa4bfb997a8271i9uq5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/94/c2a909d697d4daa4bfb997a8271i9uq5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/94/c2a909d697d4daa4bfb997a8271i9uq5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<li class="bh-grids-img-box" style="width: 50.00%;">
+<figcaption style="padding-bottom: 150.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/95/f8b676340811c10417659561f91i9ur5.JPG?v=1663257868423" data-srcset="https://p2.bahamut.com.tw/B/2KU/95/f8b676340811c10417659561f91i9ur5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/95/f8b676340811c10417659561f91i9ur5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/95/f8b676340811c10417659561f91i9ur5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/95/f8b676340811c10417659561f91i9ur5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 50.00%;">
+<figcaption style="padding-bottom: 150.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/96/e94bda514dc53b0709e2d5d48a1i9us5.JPG?v=1663257868423" data-srcset="https://p2.bahamut.com.tw/B/2KU/96/e94bda514dc53b0709e2d5d48a1i9us5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/96/e94bda514dc53b0709e2d5d48a1i9us5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/96/e94bda514dc53b0709e2d5d48a1i9us5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/96/e94bda514dc53b0709e2d5d48a1i9us5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<li class="bh-grids-img-box" style="width: 50.00%;">
+<figcaption style="padding-bottom: 150.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/97/1c0b372560cd463f5b8082ba1b1i9ut5.JPG?v=1663257868423" data-srcset="https://p2.bahamut.com.tw/B/2KU/97/1c0b372560cd463f5b8082ba1b1i9ut5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/97/1c0b372560cd463f5b8082ba1b1i9ut5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/97/1c0b372560cd463f5b8082ba1b1i9ut5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/97/1c0b372560cd463f5b8082ba1b1i9ut5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
+<div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 35.95%;">
 <figcaption style="padding-bottom: 133.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/287254268b39ac8f66274dac621i8tt5.JPG?v=1663209076001" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/287254268b39ac8f66274dac621i8tt5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/65/287254268b39ac8f66274dac621i8tt5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/65/287254268b39ac8f66274dac621i8tt5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/65/287254268b39ac8f66274dac621i8tt5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
@@ -216,7 +229,6 @@ SEGA Games 攤位</h3>
  </div>
 <h3>
 CAPCOM 攤位</h3>
-</div>
 <div>
  </div>
 <div>
@@ -357,10 +369,8 @@ KONAMI 攤位</h3>
 </div>
 <div>
  </div>
-<div>
 <h3>
 THQ Nordic 攤位</h3>
-</div>
 <div>
  </div>
 <div>
@@ -447,7 +457,6 @@ Happinet 攤位</h3>
 </div>
 <div>
  </div>
-<div>
 <h3>
 《RPG TIME：光之傳說》攤位</h3>
 <div>
@@ -469,7 +478,6 @@ Happinet 攤位</h3>
 <li class="bh-grids-img-box" style="width: 50.00%;">
 <figcaption style="padding-bottom: 75.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/3ac2c2cf1a1b0411a1e5f9036e1i9115.JPG?v=1663215462775" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/3ac2c2cf1a1b0411a1e5f9036e1i9115.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/25/3ac2c2cf1a1b0411a1e5f9036e1i9115.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/25/3ac2c2cf1a1b0411a1e5f9036e1i9115.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/25/3ac2c2cf1a1b0411a1e5f9036e1i9115.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
-</div>
 </div>
 <div>
  </div>
@@ -493,7 +501,6 @@ Level Infinite 攤位</h3>
 <figcaption style="padding-bottom: 133.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/06/70c56f29bdeaa934fa8d8cda2c1i8uy5.JPG?v=1663208176747" data-srcset="https://p2.bahamut.com.tw/B/2KU/06/70c56f29bdeaa934fa8d8cda2c1i8uy5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/06/70c56f29bdeaa934fa8d8cda2c1i8uy5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/06/70c56f29bdeaa934fa8d8cda2c1i8uy5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/06/70c56f29bdeaa934fa8d8cda2c1i8uy5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
-<div>
 <div align="center" class="gnn-slick-banner-horizontal-1663216888840" data-imgsb="https://p2.bahamut.com.tw/B/2KU/97/18bd7a8c873e1332274ec543cd1i9315.JPG,https://p2.bahamut.com.tw/B/2KU/98/bd9b4a52c3624e4f08768629e21i9325.JPG,https://p2.bahamut.com.tw/B/2KU/96/f82d20d29d32e092abc57636301i9305.JPG,https://p2.bahamut.com.tw/B/2KU/93/36ec149b48c9d16b556e3b7f461i92x5.JPG,https://p2.bahamut.com.tw/B/2KU/94/d3848adbf9abecd1c7ce01d7f11i92y5.JPG,https://p2.bahamut.com.tw/B/2KU/95/cf0887d5af6f16d1c592565d4c1i92z5.JPG" data-imgss="https://p2.bahamut.com.tw/S/2KU/97/18bd7a8c873e1332274ec543cd1i9315.JPG,https://p2.bahamut.com.tw/S/2KU/98/bd9b4a52c3624e4f08768629e21i9325.JPG,https://p2.bahamut.com.tw/S/2KU/96/f82d20d29d32e092abc57636301i9305.JPG,https://p2.bahamut.com.tw/S/2KU/93/36ec149b48c9d16b556e3b7f461i92x5.JPG,https://p2.bahamut.com.tw/S/2KU/94/d3848adbf9abecd1c7ce01d7f11i92y5.JPG,https://p2.bahamut.com.tw/S/2KU/95/cf0887d5af6f16d1c592565d4c1i92z5.JPG" data-length="6">
 <p>
  </p>
@@ -538,12 +545,10 @@ Level Infinite 攤位</h3>
 </div>
 </div>
 
-<p>
- </p>
 <div>
+ </div>
 <h3>
 Toylogic X Skybound Games 攤位</h3>
-</div>
 <div>
  </div>
 <div>
@@ -583,15 +588,15 @@ Xperia 與第五人格合作攤位</h3>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 50.00%;">
-<figcaption style="padding-bottom: 75.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/26/93b1a576811e7454a5ecbaad5c1i93u5.JPG?v=1663221696058" data-srcset="https://p2.bahamut.com.tw/B/2KU/26/93b1a576811e7454a5ecbaad5c1i93u5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/26/93b1a576811e7454a5ecbaad5c1i93u5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/26/93b1a576811e7454a5ecbaad5c1i93u5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/26/93b1a576811e7454a5ecbaad5c1i93u5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 75.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/26/93b1a576811e7454a5ecbaad5c1i93u5.JPG?v=1663221696058" data-srcset="https://p2.bahamut.com.tw/B/2KU/26/93b1a576811e7454a5ecbaad5c1i93u5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/26/93b1a576811e7454a5ecbaad5c1i93u5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/26/93b1a576811e7454a5ecbaad5c1i93u5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/26/93b1a576811e7454a5ecbaad5c1i93u5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 50.00%;">
-<figcaption style="padding-bottom: 75.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/23/0bc4ff2e68d13d6bd350cc4cad1i93r5.JPG?v=1663221696058" data-srcset="https://p2.bahamut.com.tw/B/2KU/23/0bc4ff2e68d13d6bd350cc4cad1i93r5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/23/0bc4ff2e68d13d6bd350cc4cad1i93r5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/23/0bc4ff2e68d13d6bd350cc4cad1i93r5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/23/0bc4ff2e68d13d6bd350cc4cad1i93r5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 75.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/23/0bc4ff2e68d13d6bd350cc4cad1i93r5.JPG?v=1663221696058" data-srcset="https://p2.bahamut.com.tw/B/2KU/23/0bc4ff2e68d13d6bd350cc4cad1i93r5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/23/0bc4ff2e68d13d6bd350cc4cad1i93r5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/23/0bc4ff2e68d13d6bd350cc4cad1i93r5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/23/0bc4ff2e68d13d6bd350cc4cad1i93r5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 50.00%;">
-<figcaption style="padding-bottom: 75.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/f405adb7eeb286331383483e631i93t5.JPG?v=1663221696058" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/f405adb7eeb286331383483e631i93t5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/25/f405adb7eeb286331383483e631i93t5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/25/f405adb7eeb286331383483e631i93t5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/25/f405adb7eeb286331383483e631i93t5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 75.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/f405adb7eeb286331383483e631i93t5.JPG?v=1663221696058" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/f405adb7eeb286331383483e631i93t5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/25/f405adb7eeb286331383483e631i93t5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/25/f405adb7eeb286331383483e631i93t5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/25/f405adb7eeb286331383483e631i93t5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 50.00%;">
-<figcaption style="padding-bottom: 75.00%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/24/67f8ea97fa2d057ca811c36b261i93s5.JPG?v=1663221696058" data-srcset="https://p2.bahamut.com.tw/B/2KU/24/67f8ea97fa2d057ca811c36b261i93s5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/24/67f8ea97fa2d057ca811c36b261i93s5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/24/67f8ea97fa2d057ca811c36b261i93s5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/24/67f8ea97fa2d057ca811c36b261i93s5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 75.00%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/24/67f8ea97fa2d057ca811c36b261i93s5.JPG?v=1663221696058" data-srcset="https://p2.bahamut.com.tw/B/2KU/24/67f8ea97fa2d057ca811c36b261i93s5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/24/67f8ea97fa2d057ca811c36b261i93s5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/24/67f8ea97fa2d057ca811c36b261i93s5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/24/67f8ea97fa2d057ca811c36b261i93s5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -622,11 +627,6 @@ Xperia 與第五人格合作攤位</h3>
 <li>
 官方網站：<a href="https://tgs.cesa.or.jp/" target="_blank">https://tgs.cesa.or.jp/</a></li>
 </ul>
-<div>
- </div>
-</div>
-<div>
- </div>
 <p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="17761" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;"></p>

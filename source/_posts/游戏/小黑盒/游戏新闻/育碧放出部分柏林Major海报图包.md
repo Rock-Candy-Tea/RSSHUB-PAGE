@@ -1,0 +1,18 @@
+
+---
+title: '育碧放出部分柏林Major海报图包'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://imgheybox.max-c.com/bbs/2022/09/15/144b08333db3574c5d5992ec12a5b08a/thumb.jpeg'
+author: 小黑盒
+comments: false
+date: Fri, 16 Sep 2022 02:37:18 GMT
+thumbnail: 'https://imgheybox.max-c.com/bbs/2022/09/15/144b08333db3574c5d5992ec12a5b08a/thumb.jpeg'
+---
+
+<div>   
+<p>　　R6ESports公开了柏林Major的海报图包，包括干员海报、奖杯预览及主视觉海报等</p><p>　　干员海报包括:</p><p>　　<b>Azami:</b></p><p><img class="lazy" data-height="3150" src="https://imgheybox.max-c.com/bbs/2022/09/15/144b08333db3574c5d5992ec12a5b08a/thumb.jpeg" data-width="2250" referrerpolicy="no-referrer"></p><p>　　<b>Bandit:</b></p><p><img class="lazy" data-height="5224" src="https://imgheybox.max-c.com/bbs/2022/09/15/4e8063f1d7584d5c33089471734fde46/thumb.jpeg" data-width="3306" referrerpolicy="no-referrer"></p><p><b><br></b></p><p>　　<b>Blitz:</b></p><p><img class="lazy" data-height="3150" src="https://imgheybox.max-c.com/bbs/2022/09/15/74d6788147415d442f673b83a0d62c7c/thumb.jpeg" data-width="2250" referrerpolicy="no-referrer"></p><p>　　<b>IQ:</b></p><p><img class="lazy" data-height="3150" src="https://imgheybox.max-c.com/bbs/2022/09/15/abbfd9771bbecde0c1d6dc033a2a2432/thumb.jpeg" data-width="2250" referrerpolicy="no-referrer"></p><p>　　<b>Jager 蓝:</b></p><p><img class="lazy" data-height="1920" src="https://imgheybox.max-c.com/bbs/2022/09/15/9a39eff5a89acffa9010af2dea0e3c50/thumb.jpeg" data-width="1310" referrerpolicy="no-referrer"></p><p>　　<b>Jager 黄:</b></p><p><img class="lazy" data-height="1920" src="https://imgheybox.max-c.com/bbs/2022/09/15/b49cdf648d29a52aa5064113dec6cd3d/thumb.jpeg" data-width="1310" referrerpolicy="no-referrer"></p><p>　　</p><p><b>　　柏林Major logo (png格式) :</b></p><p>　　<b>黑:</b></p><p><img class="lazy" data-height="1980" src="https://imgheybox.max-c.com/bbs/2022/09/15/835c381e4d655c56cc275e83ef73bb10/thumb.png" data-width="1085" referrerpolicy="no-referrer"></p><p>　　<b>白:</b></p><p><img class="lazy" data-height="1980" src="https://imgheybox.max-c.com/bbs/2022/09/15/4d549f9ea6ddab77945da5bc272e1dc9/thumb.png" data-width="1085" referrerpolicy="no-referrer"></p><p>　　</p><h2><b>主视觉海报:</b></h2><p>　　黑:</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/09/15/e1b16eb57af035097d722e8423a723ea/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>　　</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/09/15/c2bc9214164065b113ee8580017bf722/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">纯黑底</h4><p>　　白:</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/09/15/ba762bd5b244091c9165a92af1c6d2ff/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><p>　　</p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/bbs/2022/09/15/82235645bd1dafd78d4ecfcf21e50103/thumb.jpeg" data-width="1920" referrerpolicy="no-referrer"></p><h4 class="img-desc">纯白</h4><p>　　奖杯:</p><p>　　黑:</p><p><img class="lazy" data-height="8268" src="https://imgheybox.max-c.com/bbs/2022/09/15/13db288cb7bf2138effc4c46f200dff3/thumb.jpeg" data-width="4724" referrerpolicy="no-referrer"></p><p>　　白:</p><p><img class="lazy" data-height="8268" src="https://imgheybox.max-c.com/bbs/2022/09/15/d081adc8c9d840e07816856cf7c1cf5a/thumb.jpeg" data-width="4724" referrerpolicy="no-referrer"></p>  
+</div>
+            
