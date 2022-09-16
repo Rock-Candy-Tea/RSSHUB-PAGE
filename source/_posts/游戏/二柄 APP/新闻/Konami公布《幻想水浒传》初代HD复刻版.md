@@ -5,11 +5,11 @@ categories:
  - 游戏
  - 二柄 APP
  - 新闻
-headimg: 'https://erbingeditor.diershoubing.com/6/2022/09/16/1457399693.jpg'
+headimg: 'https://erbingeditor.diershoubing.com/6/2022/09/16/152350111.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-09-16 07:21:48
-thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/09/16/1457399693.jpg'
+date: 2022-09-16 08:13:27
+thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/09/16/152350111.jpg'
 ---
 
 <div>   
@@ -20,6 +20,6 @@ thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/09/16/1457399693.jpg'
 4、战斗音效也因HD声源化更加写实
 5、自动保存
 6、倍速战斗
-7、显示对话履历<br><img src="https://erbingeditor.diershoubing.com/6/2022/09/16/1457399693.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/09/16/1457399812.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/09/16/1457395473.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/09/16/1457396595.jpg" referrerpolicy="no-referrer">  
+7、显示对话履历<br><img src="https://erbingeditor.diershoubing.com/6/2022/09/16/152350111.jpg" referrerpolicy="no-referrer">  
 </div>
             
