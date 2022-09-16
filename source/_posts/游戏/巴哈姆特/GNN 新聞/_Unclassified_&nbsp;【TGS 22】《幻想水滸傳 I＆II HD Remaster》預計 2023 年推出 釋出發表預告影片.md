@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/26/4abe197e3b12613c16f42b5a9d1iakm5.JPG?v=1663313089413'
 author: 巴哈姆特
 comments: false
-date: 2022-09-16 10:11:54
+date: 2022-09-16 11:08:58
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/4abe197e3b12613c16f42b5a9d1iakm5.JPG?v=1663313089413'
 ---
 
@@ -225,6 +225,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/26/4abe197e3b12613c16f42b5a9d1iakm5.
 <li class="bh-grids-img-box" style="width: 49.87%;">
 <figcaption style="padding-bottom: 133.59%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/22/e2551cbd0479ddb6b8892c79441iana5.JPG?v=1663315075743" data-srcset="https://p2.bahamut.com.tw/B/2KU/22/e2551cbd0479ddb6b8892c79441iana5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/22/e2551cbd0479ddb6b8892c79441iana5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/22/e2551cbd0479ddb6b8892c79441iana5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/22/e2551cbd0479ddb6b8892c79441iana5.JPG 4x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
+</div>
+<div>
+ </div>
+<div style="text-align: center;">
+<b>官方直播節目（舞台活動）存檔</b></div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/DAzjwEjnFDs?wmode=transparent" width="100%"></iframe></div>
 </div>
 <div>
  </div>

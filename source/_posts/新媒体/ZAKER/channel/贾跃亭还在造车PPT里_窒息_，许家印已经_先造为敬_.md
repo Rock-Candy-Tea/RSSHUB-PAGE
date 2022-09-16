@@ -1,0 +1,18 @@
+
+---
+title: '贾跃亭还在造车PPT里_窒息_，许家印已经_先造为敬_'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632446a0b15ec034da5eeb89_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 16 Sep 2022 02:22:00 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632446a0b15ec034da5eeb89_1024.jpg'
+---
+
+<div>   
+<p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202209/632446a0b15ec034da5eeb89_1024.jpg" data-height="592" data-width="1062" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632446a0b15ec034da5eeb89_1024.jpg" referrerpolicy="no-referrer"></div></div>跌跌撞撞三年，恒大汽车终于跨过了量产的终点线，顺便还 Cue 了一下法拉第未来。<p></p><p>9 月 16 日，恒大集团官方网站披露消息称，恒驰 5 在天津工厂正式量产。</p><p>另外，恒驰方面还透露，恒驰 6 将于今年底下线，明年上半年量产；恒驰 7 将于明年上半年下线，明年下半年量产，同时加快恒驰 1、恒驰 3 的研发进度。</p><p>也就是说，恒驰 5 打头阵之后，恒驰将进入产品量产加速期，这对生产一度因资金、疫情问题陷入停滞的恒驰汽车来说，无疑是个难得的好消息。</p><p>值得一提的是，在恒驰 5 顺利量产的同一日，恒大还对曾入资的法拉第未来（FF）发起了问责。</p><p>美国当地时间 9 月 15 日，FF 的第二大股东 Sean Smart Limited（恒大汽车的全资子公司）向美国证交会提交 13D 公告，督促 FF 尽快召开特别股东大会和年度股东大会，罢免两位独立董事。无形中又让 FF 的造车进展成为市场的重点关注。</p><p>恒大汽车和 FF 背后的公司都曾陷入债务危机，二者也曾被同时归类于 "PPT 造车 " 阵营，如今恒驰 5 顺利量产，FF 却依旧处于量产的准备阶段，进度一前一后的两大反差，似乎让 FF 头上 "PPT 造车 " 的帽子更显眼了一些。</p><p>在宣布独立造车前，FF 是恒大进军新能源车行业的第一站，彼时许家印希望通过注资推动 FF91 的量产，并获得 FF 的主导权，但此后因与贾跃亭存在一定分歧，最终将重心放在了推出恒大独立的新品牌上。</p><p>截至今年 4 月 30 日，恒大仍通过子公司持有恒大 20.5% 的股份，为第二大股东。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202209/632446a0b15ec034da5eeb8a_1024.jpg" data-height="870" data-width="1574" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/632446a0b15ec034da5eeb8a_1024.jpg" referrerpolicy="no-referrer"></div></div>细看 FF 和恒大汽车的发展路径，其实有许多相似之处。<p></p><p>首先，二者早期都十分高调，且舍得砸钱。</p><p>2019 年，许家印豪气宣布，未来投入 450 亿元造车，并在之后开启了 " 买买买 " 模式，先后入主瑞典超跑公司柯尼塞格、上海卡耐新能源、德国汽车动力工程公司 hofer、轮毂电机公司荷兰 e-Traction 及英国 Protean 等相关企业。</p><p>除了在打通供应链和销售渠道上如此豪气，恒大汽车一口气推出九款车的场面也让当时的新能源车行业 " 虎躯一震 "。</p><p>去年 4 月，恒大汽车带着涵盖 A 级至 D 级别的九款车型亮相上海车展，大有要 " 干翻 " 其他新能源车企的架势。</p><p>FF 同样如此，当年乐视风头正盛时贾跃亭就开始着手造车，截至今年第二季度，FF 已经累计亏损了 32 亿美元（约合 224 亿元）。</p><p>FF 的首款车 FF91 概念车亮相时，也可以用 " 惊艳 " 来形容。例如从三电系统看，FF91 搭载 130kWh 的电池组，EPA 续航里程达到 608km，最大功率达到了 1050 马力，百公里加速最快仅需 2.4 秒左右。这些数据就算放到今天，也依然十分能打。</p><p>第二，产品惊艳市场后，二者都进入了 " 难产期 "。</p><p>随着背后的恒大集团陷入债务危机，前期消耗了太多资金的恒大汽车开始捉襟见肘，甚至一度因拖欠设备供应商款项导致生产线改造工程停滞。</p><p>哪怕是在许家印在今年 3 月喊出 " 大干三个月，6 月 22 日一定要实现恒驰 5 量产 " 的口号后，恒驰 5 的量产依旧一拖再拖。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202209/632446a0b15ec034da5eeb8b_1024.jpg" data-height="812" data-width="1266" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/632446a0b15ec034da5eeb8b_1024.jpg" referrerpolicy="no-referrer"></div></div>FF91 也是一样，去年 7 月成功登陆纳斯达克时，贾跃亭和 FF 还风光无两，很快就宣布一年内开始交付 FF 91 的目标，贾跃亭甚至放出了将颠覆法拉利、宾利等传统超豪华品牌的狠话，给了全世界一种 " 要杀回来了 " 的错觉。<p></p><p>然而距离一年期限已经过去两个月，FF 依旧在推进生产的漫漫长路上苦苦挣扎，量产和交付时间再次被延迟至今年第四季度。</p><p>前期剧本虽然类似，恒驰 5 的率先量产却已经将 FF 甩在身后，从 " 难兄难弟 " 组合单飞了。</p><p>量产并不意味着销量打得过其他品牌，但对于历经多重坎坷的恒驰来说，已经是成立以来最大的一次成功。</p><p>据恒驰方面此前披露，恒驰 5 在 7 月 6 日开启预售后，不到 15 天，订单量已经超过 3.7 万辆，恒驰汽车总裁刘永灼甚至直言，" 恒驰大卖已成定局 "。</p><p>随着产品的量产和交付，恒驰旗下车型将接受更多消费者的检验，能否 " 大卖 " 也会很快有答案。</p><p>ZAKER 新闻出品</p><p>文 / 鲍星娃</p><p>编辑 / 曾宪天</p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
