@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/16/d74cd693982c538a198cbfa2961iac05.JPG?v=1663301954142'
 author: 巴哈姆特
 comments: false
-date: 2022-09-16 11:08:58
+date: 2022-09-16 12:19:11
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/d74cd693982c538a198cbfa2961iac05.JPG?v=1663301954142'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/d74cd693982c538a198cbfa2961iac05.
 <div>
 <div>
 <div>
-　　在 6 月的 XBOX 發表會首次曝光，由《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%A1%80%E6%BA%90%E8%A9%9B%E5%92%92" target="_blank">血源詛咒</a>》製作人山際眞晃和《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BB%81%E7%8E%8B" target="_blank">仁王</a>》製作人安田文彥攜手打造的三國動作遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%87%A5%E9%BE%8D%EF%BC%9A%E8%92%BC%E5%A4%A9%E9%9A%95%E8%90%BD" target="_blank">臥龍：蒼天隕落</a>》，在這次的 TGS 2022 期間，終於釋出了第一次的 DEMO 版。這款作品雖然有著不少《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BB%81%E7%8E%8B" target="_blank">仁王</a>》的影子，但無論是戰鬥體驗還是其他部份的設計，其實都與《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BB%81%E7%8E%8B" target="_blank">仁王</a>》有著相當大不同。本次就讓我們透過實際試玩，來帶各位認識一下這款作品的方方面面吧！另外，<a href="https://gnn.gamer.com.tw/detail.php?sn=238077" target="_blank">遊戲體驗版即日同步開放下載，玩家將可以挑戰呂布關卡</a>。</div>
+　　在 6 月的 XBOX 發表會首次曝光，由《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%A1%80%E6%BA%90%E8%A9%9B%E5%92%92" target="_blank">血源詛咒</a>》製作人山際眞晃和《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BB%81%E7%8E%8B" target="_blank">仁王</a>》製作人安田文彥攜手打造的三國動作遊戲《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%87%A5%E9%BE%8D%EF%BC%9A%E8%92%BC%E5%A4%A9%E9%9A%95%E8%90%BD" target="_blank">臥龍：蒼天隕落</a>》，在這次的 TGS 2022 期間，終於釋出了第一次的 DEMO 版。這款作品雖然有著不少《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BB%81%E7%8E%8B" target="_blank">仁王</a>》的影子，但無論是戰鬥體驗還是其他部份的設計，其實都與《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BB%81%E7%8E%8B" target="_blank">仁王</a>》有著相當大不同。本次就讓我們透過實際試玩，來帶各位認識一下這款作品的方方面面吧！另外，<a href="https://gnn.gamer.com.tw/detail.php?sn=238077" target="_blank">遊戲體驗版即日同步開放玩家下載試玩</a>。</div>
 <div>
  </div>
 <div>
