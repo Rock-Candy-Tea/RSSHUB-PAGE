@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/68/580a8ff290f1a0e22e5ec7005c1ia2c5.JPG?v=1663264377041'
 author: 巴哈姆特
 comments: false
-date: 2022-09-16 03:50:55
+date: 2022-09-16 05:21:38
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/580a8ff290f1a0e22e5ec7005c1ia2c5.JPG?v=1663264377041'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/580a8ff290f1a0e22e5ec7005c1ia2c5.
 <div>
 <div>
 <div>
-　　Activision 今日凌晨在 Call of Duty: Next 系列線上直播發表會揭露《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB%EF%BC%9A%E7%8F%BE%E4%BB%A3%E6%88%B0%E7%88%AD+II+2022" target="_blank">決勝時刻：現代戰爭 II 2022</a>》多人遊戲最新內容與公開測試細節，同時宣布《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域 2.0》將於 11 月 17 日推出。</div>
+　　Activision 今日凌晨在 Call of Duty: Next 系列線上直播發表會揭露《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB%EF%BC%9A%E7%8F%BE%E4%BB%A3%E6%88%B0%E7%88%AD+II+2022" target="_blank">決勝時刻：現代戰爭 II 2022</a>》多人遊戲最新內容與公開測試細節，同時宣布《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域 2.0》將於 11 月 16 日推出。</div>
 <div>
  </div>
 <div>
@@ -29,7 +29,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/68/580a8ff290f1a0e22e5ec7005c1ia2c5.
 </ul>
 </div>
 <div>
-　　Activision 在直播發表會中指出，他們將藉由《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB%EF%BC%9A%E7%8F%BE%E4%BB%A3%E6%88%B0%E7%88%AD+II+2022" target="_blank">決勝時刻：現代戰爭 II 2022</a>》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域2.0》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域 Mobile》把《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>》系列推向另一個高峰，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB%EF%BC%9A%E7%8F%BE%E4%BB%A3%E6%88%B0%E7%88%AD+II+2022" target="_blank">決勝時刻：現代戰爭 II 2022</a>》將在 10 月 28 日率先推出，接著 11 月 17 日全新的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域 2.0》將接續上線，之後還有《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域》首款手機版將與手遊粉絲見面。</div>
+　　Activision 在直播發表會中指出，他們將藉由《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB%EF%BC%9A%E7%8F%BE%E4%BB%A3%E6%88%B0%E7%88%AD+II+2022" target="_blank">決勝時刻：現代戰爭 II 2022</a>》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域2.0》、《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域 Mobile》把《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>》系列推向另一個高峰，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB%EF%BC%9A%E7%8F%BE%E4%BB%A3%E6%88%B0%E7%88%AD+II+2022" target="_blank">決勝時刻：現代戰爭 II 2022</a>》將在 10 月 28 日率先推出，接著 11 月 16 日全新的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域 2.0》將接續上線，之後還有《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域》首款手機版將與手遊粉絲見面。</div>
 <div>
  </div>
 <div>
@@ -127,11 +127,11 @@ BETA 公開測試內容</h3>
 <div>
  </div>
 <h3>
-《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域 2.0》11 月 17 日推出</h3>
+《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域 2.0》11 月 16 日推出</h3>
 <div>
  </div>
 <div>
-　　直播發表會中，研發團隊提到《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域 2.0》將於 11 月 17 日推出，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域 2.0》與《現代戰爭 II》使用相同的引擎，《現代戰域 2.0》的故事背景設定在一個叫做「馬茲拉」的虛構西亞地區。</div>
+　　直播發表會中，研發團隊提到《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域 2.0》將於 11 月 16 日推出，《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%B1%BA%E5%8B%9D%E6%99%82%E5%88%BB" target="_blank">決勝時刻</a>：現代戰域 2.0》與《現代戰爭 II》使用相同的引擎，《現代戰域 2.0》的故事背景設定在一個叫做「馬茲拉」的虛構西亞地區。</div>
 <div>
  </div>
 <div>
