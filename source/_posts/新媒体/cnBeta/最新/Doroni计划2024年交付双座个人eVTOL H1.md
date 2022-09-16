@@ -1,0 +1,19 @@
+
+---
+title: 'Doroni计划2024年交付双座个人eVTOL H1'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/09/f9a5cd27a608260.png'
+author: cnBeta
+comments: false
+date: Fri, 16 Sep 2022 07:12:49 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/09/f9a5cd27a608260.png'
+---
+
+<div>   
+Doroni表示距离其H1双座个人eVTOL设计的全尺寸飞行原型推出只剩下几个月时间。在这个领域中，大多数人都在建造最简单和最便宜的多旋翼飞机式机身，而H1却提供了专用的水平推力。<br>
+<p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/f9a5cd27a608260.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/f9a5cd27a608260.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">H1拥有一个双座的气泡形驾驶舱，夹在巨大的前翼和后翼之间。这些机翼上有巨大的风道，每个风道里都有一对大型、反向旋转的垂直升降螺旋桨，总共有八个。在飞机的后面，还有两个螺旋桨用于水平推力。</p><p style="text-align: left;">跟Air One和SkyFly Axe等直翼多旋翼风格的eVTOL一样，H1的机翼也是向后倾斜的，因此该飞机显然有望会像多旋翼一样向前倾斜移动，而不是完全依靠其后面的双推杆推进器进行前进。</p><p style="text-align: left;">在普通人眼里，这里的空气动力学看起来非常尴尬。虽然机翼很大，但<a data-link="1" href="https://c.duomai.com/track.php?site_id=242986&euid=&t=https%3A%2F%2Flist.jd.com%2Flist.html%3Fcat%3D737%2C738%2C751" target="_blank">风扇</a>管道也很大，这将对每个机翼上方和下方的气流造成混乱同时也会增加阻力。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/3a90ecf18faf2d1.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/3a90ecf18faf2d1.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">而另一方面，虽然管道式推进器可能要付出效率的代价，但它看起来肯定比开放式螺旋桨的切片机要少一点可怕和截肢的感觉。虽然开放式螺旋桨对传统飞机来说还不是什么安全问题，但eVTOL预计最终将在相当程度上接近城市环境中运行。因此，也许风道的想法只是为了让行人放心，这是有它存在的道理。</p><p style="text-align: left;">在性能方面，Doroni称H1的最高速度为140mph（225km/h）--这表明该公司认为跟速度稍快的Air One相比，阻力不会使其减速太多。巡航速度将更像是100mph（160km/h），续航能力将达到60英里（96公里）左右。Doroni的目标是重量约930磅（650公斤），有效载荷能力为500磅（200公斤）。</p><p style="text-align: left;">安全方面，起落架有点弹力，车身显然是为了消减能量。紧急安全气囊将被内置以缓冲真正的粗暴着陆，推进冗余通过每个角落的同轴双升降螺旋桨得到保证，而电池组也将提供多层次的冗余度。还有一个弹道降落伞的计划能在足够高的高度上发生完全故障时将整架飞机合理地缓缓降落。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/49c901eb3cd32f2.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/49c901eb3cd32f2.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">Doroni表示，H1是一款任何人都可以拥有、飞行和停在车库里的电动直升机。关于最后一点，它的尺寸为23×15×5.5英尺（7×4.6×1.7米），这使它比福特F350长一点、宽近两倍。据悉，该公司的目标是获得FAA的轻型运动飞机认证，这将使业主只需经过20多个小时的培训就能驾驶该飞机。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/1496be370d368f3.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/1496be370d368f3.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/ffb751e3ebb3665.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/ffb751e3ebb3665.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/16fbfe8e6da7142.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/16fbfe8e6da7142.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/29b486b6e644e2c.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/29b486b6e644e2c.webp" referrerpolicy="no-referrer"></a></p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/269cee729b14c30.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/269cee729b14c30.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">在已经飞行了几个较小规模的技术示范机之后，该公司表示它希望在今年第四季度的某个时候让一个全规模的飞行陈列室模型在空中飞行，然后在2023年加大生产力度、在2024年初获得FAA的认证并在2024年第四季度交付给第一批客户。<br style="text-align: left;"></p><p style="text-align: center;"><iframe src="//tv.sohu.com/s/sohuplayer/iplay.html?bid=383652421&autoplay=false&disablePlaylist=true" width="640" height="480" frameborder="0"></iframe></p>   
+</div>
+            

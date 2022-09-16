@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=7704'
+headimg: 'https://picsum.photos/400/300?random=6679'
 author: 知乎
 comments: false
-date: Fri, 16 Sep 2022 06:07:35 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7704'
+date: Fri, 16 Sep 2022 05:41:54 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6679'
 ---
 
 <div>   
-Heavenrightme的回答<br><br><p data-pid="qL2MiUkr">本古典乐器学习者全程在感叹</p><p data-pid="gr1KeElV">后面的李斯特真好听（纠正是帕格尼尼）</p><p data-pid="pePC2i3J">这个曲子是《钟》</p><p data-pid="vGlxZs8v">这个是帕格尼尼小提琴版</p><p data-pid="Pnznp_qb">我可能对钢琴版印象比较深所有没太注意不好意思</p><p data-pid="JBlv8I_b">感谢私信我的朋友</p>  
+盒哈哈哈的回答<br><br><p data-pid="PqkaoALh">全专极度没有诚意，严重怀疑要解约了，感觉选了一堆难听的废曲凑数，只用心做了先行曲mv，让粉丝期待值拉满狂冲销量，实际上主打曲粪曲一首，mv拍的简陋的一批一看就没花钱以前的mv场景东拼西凑一下，纯白背景穿几套难看的衣服随便跳两下，连运镜都没多少……整首歌曲平平无奇毫无起伏，专辑里的其他歌曲也巨敷衍。一看就是要解散了，先行曲骗一下粉丝最后割一波韭菜，一首好歌都不愿意拿出来了。解散前在把成员当狗一样时间排序极度紧凑的全球巡演捞金，最后突然解散，感觉大概率就这样了，然后听全专part分布，感觉金珍妮大概率不续约，玫瑰续约了。李霞应该也续约吧，美女大姐感觉也没续约。顺带一说个人认为这次专辑质量这么烂主要因为金珍妮part 太少了，以前墨曲标配就是金珍妮第一句，然后分量较多，这次出了先行曲和主打，主要都是玫瑰和李霞在唱……玫瑰一个人真的撑不住……特别是solo那首平淡的要死，李霞声音更是难听的要死…不得不说金珍妮真的是这团的灵魂，这团没有她不行，但她如果以后都是自己一个人出solo绝对还是牛逼，唱rap音色都还是吊的。</p>  
 </div>
             
