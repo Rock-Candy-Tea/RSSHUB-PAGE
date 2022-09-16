@@ -8,14 +8,14 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/90/b41c971b981cff626e42f644891i9p25.PNG?v=1663254446466'
 author: 巴哈姆特
 comments: false
-date: 2022-09-16 00:59:14
+date: 2022-09-16 03:50:55
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/90/b41c971b981cff626e42f644891i9p25.PNG?v=1663254446466'
 ---
 
 <div>   
 <div>
 <div>
-　　《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1+8%EF%BC%9A%E6%9D%91%E8%8E%8A" target="_blank">惡靈古堡 8：村莊</a>》今日於 2022 東京電玩展期間舉辦的「TGS2022 CAPCOM ONLINE PROGRAM」公開了最新遊戲情報。官方表示，其收錄了三大內容的追加 DLC「溫特斯擴充包」，以及包含本篇和追加 DLC 在內的《Resident Evil Village Gold Edition》將於 2022 年 10 月 28 日登陸 PlayStation 5、Xbox Series X|S、PlayStation 4、Xbox One 及 Steam，現正接受預約。官方指出，這次將會以新故事「蘿絲之影」為首，介紹出現在上公開的最新實機遊玩影片中，三大收錄內容的最新資訊。</div>
+　　《<a href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1+8%EF%BC%9A%E6%9D%91%E8%8E%8A" target="_blank">惡靈古堡 8：村莊</a>》今日於 2022 東京電玩展期間舉辦的「TGS2022 CAPCOM ONLINE PROGRAM」公開了最新遊戲情報。官方表示，其收錄了三大內容的追加 DLC「溫特斯擴充包」，以及包含本篇和追加 DLC 在內的《Resident Evil Village Gold Edition》將於 2022 年 10 月 28 日登陸 PlayStation 5、Xbox Series X|S、PlayStation 4、Xbox One 及 Steam，現正接受預約。官方指出，這次將會以新故事「蘿絲之影」為首，介紹出現在這次公開的最新實機遊玩影片中，三大收錄內容的最新資訊。</div>
 <div>
  </div>
 <div>
