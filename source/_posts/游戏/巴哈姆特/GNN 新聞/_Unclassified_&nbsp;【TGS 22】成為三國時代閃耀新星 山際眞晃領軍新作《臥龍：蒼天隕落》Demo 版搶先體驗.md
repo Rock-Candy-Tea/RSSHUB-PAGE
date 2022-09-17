@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/16/d74cd693982c538a198cbfa2961iac05.JPG?v=1663301954142'
 author: 巴哈姆特
 comments: false
-date: 2022-09-17 09:10:31
+date: 2022-09-17 10:10:38
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/16/d74cd693982c538a198cbfa2961iac05.JPG?v=1663301954142'
 ---
 
@@ -287,7 +287,8 @@ NPC 只要有道具就能持續召喚，真的打不贏就毫不猶豫的召喚�
  </div>
 <div>
 　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%87%A5%E9%BE%8D%EF%BC%9A%E8%92%BC%E5%A4%A9%E9%9A%95%E8%90%BD" target="_blank">臥龍：蒼天隕落</a>》預計 2023 年問世，<a href="https://gnn.gamer.com.tw/detail.php?sn=238077" target="_blank">體驗版即日開放下載</a>。</div>
-</div><p> </p>
+</div>
+<p> </p>
 <div class="article_gamercard lazyload" data-fanspage-id="54733" data-from="web_gnn"></div>
 <p style="font-size: 12px; padding: 10px 0;">© KOEI TECMO GAMES CO., LTD./KOEI TECMO TAIWAN CO., LTD. All rights reserved.</p>
 </div>
