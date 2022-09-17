@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220917/1663394374_7333
 <img src="https://img.3dmgame.com/uploads/images/news/20220917/1663394374_733375.png" alt="《Apex英雄》动态平性步枪皮肤因破坏平衡惨遭“削弱”" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
-改动的是平行步枪的“Heat Skin”动态皮肤，它是游戏第 4 赛季战斗通行证 100 级的奖励。同时改动的还有最新外传活动的“Revelations”皮肤。这两款皮肤原本的设计据称自带机瞄会让玩家在右键瞄准的时候看的更清楚。
+改动的是平行步枪的“Heat Sink”动态皮肤，它是游戏第 4 赛季战斗通行证 100 级的奖励。同时改动的还有最新外传活动的“Revelations”皮肤。这两款皮肤原本的设计据称自带机瞄会让玩家在右键瞄准的时候看的更清楚。
 </p>
 <p style="text-indent:2em;">
 官方在公告中写道：“公平竞争现在和未来都将永远是《Apex英雄》的核心支柱。作为该核心的一部分，我们默认的机瞄设计意在推动玩家寻找更好的瞄具。我们还认为，皮肤也不应该称为瞄具功能的影响因素。在第
