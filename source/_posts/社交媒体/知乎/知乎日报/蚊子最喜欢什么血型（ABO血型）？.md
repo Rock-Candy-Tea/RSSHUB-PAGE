@@ -5,11 +5,11 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎日报
-headimg: 'https://pic3.zhimg.com/v2-bfa0252e8fe0858babb6b1099ce219e8_l.jpg?source=8673f162'
+headimg: 'https://pic1.zhimg.com/v2-bfa0252e8fe0858babb6b1099ce219e8_l.jpg?source=8673f162'
 author: 知乎
 comments: false
-date: 2022-09-17 08:12:41
-thumbnail: 'https://pic3.zhimg.com/v2-bfa0252e8fe0858babb6b1099ce219e8_l.jpg?source=8673f162'
+date: 2022-09-17 09:10:13
+thumbnail: 'https://pic1.zhimg.com/v2-bfa0252e8fe0858babb6b1099ce219e8_l.jpg?source=8673f162'
 ---
 
 <div>   
@@ -33,7 +33,7 @@ thumbnail: 'https://pic3.zhimg.com/v2-bfa0252e8fe0858babb6b1099ce219e8_l.jpg?sou
 <div class="answer">
 
 <strong>
-<img class="avatar" src="https://pic3.zhimg.com/v2-bfa0252e8fe0858babb6b1099ce219e8_l.jpg?source=8673f162" referrerpolicy="no-referrer">
+<img class="avatar" src="https://pic1.zhimg.com/v2-bfa0252e8fe0858babb6b1099ce219e8_l.jpg?source=8673f162" referrerpolicy="no-referrer">
 <span class="author">艾比斯，</span><span class="bio">冷门/热门生物话题搬运工</span>
 <a href="https://www.zhihu.com/question/549248643/answer/2637940284" class="originUrl" hidden>查看知乎原文</a>
 </strong>
