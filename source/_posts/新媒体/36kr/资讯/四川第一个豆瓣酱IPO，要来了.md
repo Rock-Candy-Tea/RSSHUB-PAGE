@@ -1,0 +1,18 @@
+
+---
+title: '四川第一个豆瓣酱IPO，要来了'
+categories: 
+ - 新媒体
+ - 36kr
+ - 资讯
+headimg: 'https://picsum.photos/400/300?random=3468'
+author: 36kr
+comments: false
+date: Sat, 17 Sep 2022 11:56:13 GMT
+thumbnail: 'https://picsum.photos/400/300?random=3468'
+---
+
+<div>   
+四川第一个豆瓣酱IPO，要来了  
+</div>
+            
