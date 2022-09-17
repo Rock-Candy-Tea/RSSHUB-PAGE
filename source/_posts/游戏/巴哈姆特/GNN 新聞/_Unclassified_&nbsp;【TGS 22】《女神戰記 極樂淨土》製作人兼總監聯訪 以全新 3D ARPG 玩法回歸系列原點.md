@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG?v=1663389780933'
 author: 巴哈姆特
 comments: false
-date: 2022-09-17 06:14:09
+date: 2022-09-17 07:10:34
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG?v=1663389780933'
 ---
 
@@ -19,13 +19,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.
 <div>
  </div>
 <div>
-<span style="color:#b22222;"><span style="font-size:13px;">※ Steam 版預計於 2022 年 11 月 12 日（六）發售。</span></span></div>
+<span style="color:#b22222;"><span style="font-size:13px;">※ Steam 版預定</span></span><span style="font-size: 13px; color: rgb(178, 34, 34);"> 11 月 12 日（六）發售。</span></div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 57.55%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG?v=1663389780933" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 57.55%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG?v=1663389780933" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -39,7 +39,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 52.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/e0bd9379431ba44df40d96c05f1iaeb5.JPG?v=1663389810378" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/e0bd9379431ba44df40d96c05f1iaeb5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/e0bd9379431ba44df40d96c05f1iaeb5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 52.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/e0bd9379431ba44df40d96c05f1iaeb5.JPG?v=1663389810378" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/e0bd9379431ba44df40d96c05f1iaeb5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/e0bd9379431ba44df40d96c05f1iaeb5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -57,7 +57,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 100.13%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/60/410b55c3deec5d0fe108648bf01ib7s5.JPG?v=1663389490818" data-srcset="https://p2.bahamut.com.tw/B/2KU/60/410b55c3deec5d0fe108648bf01ib7s5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/60/410b55c3deec5d0fe108648bf01ib7s5.JPG 2x" style="max-width: unset;" title="《女神戰記 極樂淨土》製作人兼總監近藤貴浩" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 100.13%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/60/410b55c3deec5d0fe108648bf01ib7s5.JPG?v=1663389490818" data-srcset="https://p2.bahamut.com.tw/B/2KU/60/410b55c3deec5d0fe108648bf01ib7s5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/60/410b55c3deec5d0fe108648bf01ib7s5.JPG 2x" style="max-width: unset;" title="《女神戰記 極樂淨土》製作人兼總監近藤貴浩" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%A5%B3%E7%A5%9E%E6%88%B0%E8%A8%98+%E6%A5%B5%E6%A8%82%E6%B7%A8%E5%9C%9F" target="_blank">女神戰記 極樂淨土</a>》製作人兼總監近藤貴浩</figure>
 </li>
@@ -130,7 +130,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/a9f9629e7df6fc4194980a465a1ib8g5.JPG?v=1663390111317" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/a9f9629e7df6fc4194980a465a1ib8g5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/a9f9629e7df6fc4194980a465a1ib8g5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/84/a9f9629e7df6fc4194980a465a1ib8g5.JPG?v=1663390111317" data-srcset="https://p2.bahamut.com.tw/B/2KU/84/a9f9629e7df6fc4194980a465a1ib8g5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/84/a9f9629e7df6fc4194980a465a1ib8g5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -150,7 +150,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/83/4354fb766039b6018d0a03cc621ib8f5.JPG?v=1663389986915" data-srcset="https://p2.bahamut.com.tw/B/2KU/83/4354fb766039b6018d0a03cc621ib8f5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/83/4354fb766039b6018d0a03cc621ib8f5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/83/4354fb766039b6018d0a03cc621ib8f5.JPG?v=1663389986915" data-srcset="https://p2.bahamut.com.tw/B/2KU/83/4354fb766039b6018d0a03cc621ib8f5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/83/4354fb766039b6018d0a03cc621ib8f5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -264,7 +264,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/27/2b4918ce0b00265168f26a308d1hx5b5.JPG?v=1663390268825" data-srcset="https://p2.bahamut.com.tw/B/2KU/27/2b4918ce0b00265168f26a308d1hx5b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/27/2b4918ce0b00265168f26a308d1hx5b5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/27/2b4918ce0b00265168f26a308d1hx5b5.JPG?v=1663390268825" data-srcset="https://p2.bahamut.com.tw/B/2KU/27/2b4918ce0b00265168f26a308d1hx5b5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/27/2b4918ce0b00265168f26a308d1hx5b5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
