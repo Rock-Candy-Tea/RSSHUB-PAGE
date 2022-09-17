@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/how-to-build-an-inclusive-team/'
 author: Inside Design
 comments: false
-date: 2022-09-17 04:56:37
+date: 2022-09-17 05:34:50
 thumbnail: 'https://www.invisionapp.com/inside-design/how-to-build-an-inclusive-team/'
 ---
 

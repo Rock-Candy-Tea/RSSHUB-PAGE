@@ -20,7 +20,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220917/1663380447_9007
 EVGA对媒体表示，在经历过与NVIDIA漫长的合作关系之后，他们已经不想再继续生产游戏显卡产品。EVGA还表示这并非出于经济原因，而是原则问题。
 </p>
 <p align="center">
-<img src="https://img.3dmgame.com/uploads/images/news/20220917/1663380447_900738.jpg" alt="EVGA终止与NVIDIA的合作 未来将不再生产显卡" referrerpolicy="no-referrer">
+<img src="https://img.3dmgame.com/uploads/images/news/20220917/1663380447_900738.jpg" alt="EVGA终止与NVIDIA的合作 未来将不再生产显卡" referrerpolicy="no-referrer"> 
 </p>
 <p style="text-indent:2em;">
 与此同时，EVGA并不考虑与AMD或Intel联手，也不考虑将公司出售，甚至不会开拓新产品线。
