@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/77/2625c63873e58b56dd8fe003c51ibgl5.JPG?v=1663482596951'
 author: 巴哈姆特
 comments: false
-date: 2022-09-18 14:08:55
+date: 2022-09-18 15:10:36
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/77/2625c63873e58b56dd8fe003c51ibgl5.JPG?v=1663482596951'
 ---
 
@@ -300,10 +300,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/77/2625c63873e58b56dd8fe003c51ibgl5.
 <div>
  </div>
 <div>
-<div>
 　　至於在《7》轉型成 RPG 之後，粉絲對於 “動作” 與 “RPG” 兩種路線上的一些爭論，對此橫山昌義強調，製作團隊並不會在意這樣的路線之爭，因為出發點並不是要做成動作遊戲或是要做成角色扮演遊戲，而是選擇最適合作品發展的類型來製作。反正想玩的玩家自然會來玩，團隊的首要任務是做出大家想玩的作品。</div>
-<div>
- </div>
 <div>
  </div>
 <div>
@@ -312,7 +309,6 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/77/2625c63873e58b56dd8fe003c51ibgl5.
 </div>
 <div>
  </div>
-</div>
 <h3>
 《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E4%BA%BA%E4%B8%AD%E4%B9%8B%E9%BE%8D" target="_blank">人中之龍</a>》系列新作製作開發</h3>
 <div>
