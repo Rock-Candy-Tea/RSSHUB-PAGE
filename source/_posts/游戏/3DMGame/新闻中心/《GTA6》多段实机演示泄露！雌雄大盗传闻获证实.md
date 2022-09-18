@@ -26,7 +26,7 @@ thumbnail: 'https://img.3dmgame.com/uploads/images/news/20220918/1663489611_3090
 这些片段来自于PC版本，我们可以看到使用的是DX12 API，而且录制视频用的是NVIDIA GeForce GTX1080。
 </p>
 <p style="text-indent:2em;">
-目前Take-Two尚未出手撤下这些视频片段，但它们可以留存多少时间还真不好说。此次泄密的视频共有90段左右，总时长约为52分钟，感兴趣的观众可以前往玩家分享的<a href="https://pan.baidu.com/s/1iNKPqIgoKiKgXnblgyKGNQ?pwd=s8gf" target="_blank"><strong><span style="color:#E53333;">网盘地址</span></strong></a>下载品鉴。
+目前Take-Two尚未出手撤下这些视频片段，但它们可以留存多少时间还真不好说。此次泄密的视频共有90段左右，总时长约为52分钟。
 </p>
 <p style="text-indent:2em;">
 泄露视频1：

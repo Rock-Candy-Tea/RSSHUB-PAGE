@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.JPG?v=1663482490227'
 author: 巴哈姆特
 comments: false
-date: 2022-09-18 09:10:03
+date: 2022-09-18 10:10:49
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.JPG?v=1663482490227'
 ---
 
@@ -22,15 +22,15 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 56.22%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.JPG?v=1663482490227" data-srcset="https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.22%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.JPG?v=1663482490227" data-srcset="https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 56.22%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/ad3fbbb2dff96c2c160754fe781ibgg5.JPG?v=1663482490227" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/ad3fbbb2dff96c2c160754fe781ibgg5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/72/ad3fbbb2dff96c2c160754fe781ibgg5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/72/ad3fbbb2dff96c2c160754fe781ibgg5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/72/ad3fbbb2dff96c2c160754fe781ibgg5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.22%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/72/ad3fbbb2dff96c2c160754fe781ibgg5.JPG?v=1663482490227" data-srcset="https://p2.bahamut.com.tw/B/2KU/72/ad3fbbb2dff96c2c160754fe781ibgg5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/72/ad3fbbb2dff96c2c160754fe781ibgg5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/72/ad3fbbb2dff96c2c160754fe781ibgg5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/72/ad3fbbb2dff96c2c160754fe781ibgg5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 50.00%;">
-<figcaption style="padding-bottom: 56.19%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/f0ef280e1435de77eaaf218f491ibgf5.JPG?v=1663482490227" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/f0ef280e1435de77eaaf218f491ibgf5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/71/f0ef280e1435de77eaaf218f491ibgf5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/71/f0ef280e1435de77eaaf218f491ibgf5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/71/f0ef280e1435de77eaaf218f491ibgf5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.19%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/71/f0ef280e1435de77eaaf218f491ibgf5.JPG?v=1663482490227" data-srcset="https://p2.bahamut.com.tw/B/2KU/71/f0ef280e1435de77eaaf218f491ibgf5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/71/f0ef280e1435de77eaaf218f491ibgf5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/71/f0ef280e1435de77eaaf218f491ibgf5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/71/f0ef280e1435de77eaaf218f491ibgf5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.87%;">
-<figcaption style="padding-bottom: 56.33%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/70/e7af4e00215cf2b6d8965baeba1ibge5.JPG?v=1663482490227" data-srcset="https://p2.bahamut.com.tw/B/2KU/70/e7af4e00215cf2b6d8965baeba1ibge5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/70/e7af4e00215cf2b6d8965baeba1ibge5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/70/e7af4e00215cf2b6d8965baeba1ibge5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/70/e7af4e00215cf2b6d8965baeba1ibge5.JPG 4x" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.33%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/70/e7af4e00215cf2b6d8965baeba1ibge5.JPG?v=1663482490227" data-srcset="https://p2.bahamut.com.tw/B/2KU/70/e7af4e00215cf2b6d8965baeba1ibge5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/70/e7af4e00215cf2b6d8965baeba1ibge5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/70/e7af4e00215cf2b6d8965baeba1ibge5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/70/e7af4e00215cf2b6d8965baeba1ibge5.JPG 4x" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -44,7 +44,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
  </div>
 <div>
-　　節目是從介紹前一天公布參戰的新角色，拳、布蘭卡、E・本田、達爾西姆起揭開序幕。在分別以實機展示他們個別的必殺技後，由松本與中山展開了對戰，但由於在這部分中並沒有新的情報所以就略過不提了。對實機影像有興趣的玩家，不妨可透過回放確認。</div>
+　　節目是從介紹前一天公布參戰的新角色，肯、布蘭卡、E・本田、達爾西姆起揭開序幕。在分別以實機展示他們個別的必殺技後，由松本與中山展開了對戰，但由於在這部分中並沒有新的情報所以就略過不提了。對實機影像有興趣的玩家，不妨可透過回放確認。</div>
 <div>
  </div>
 <div style="text-align: center;">
@@ -70,7 +70,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/69/051def5033d49d9e103182e3231ibgd5.JPG?v=1663482555856" data-srcset="https://p2.bahamut.com.tw/B/2KU/69/051def5033d49d9e103182e3231ibgd5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/69/051def5033d49d9e103182e3231ibgd5.JPG 2x" style="max-width: unset;" title="練習模式的選單。在簡易設定裡根據情景預先設定了虛擬對手的動作。" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/69/051def5033d49d9e103182e3231ibgd5.JPG?v=1663482555856" data-srcset="https://p2.bahamut.com.tw/B/2KU/69/051def5033d49d9e103182e3231ibgd5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/69/051def5033d49d9e103182e3231ibgd5.JPG 2x" style="max-width: unset;" title="練習模式的選單。在簡易設定裡根據情景預先設定了虛擬對手的動作。" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 練習模式的選單。在簡易設定裡根據情景預先設定了虛擬對手的動作</figure>
 </li>
@@ -79,9 +79,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 56.22%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/68/033693485c3f814e4baf686b881ibgc5.JPG?v=1663482675942" data-srcset="https://p2.bahamut.com.tw/B/2KU/68/033693485c3f814e4baf686b881ibgc5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/68/033693485c3f814e4baf686b881ibgc5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/68/033693485c3f814e4baf686b881ibgc5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/68/033693485c3f814e4baf686b881ibgc5.JPG 4x" style="max-width: unset;" title="選擇顯示 Frame 標示計後，就會顯示技巧的發生或硬直等詳細資訊" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.22%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/68/033693485c3f814e4baf686b881ibgc5.JPG?v=1663482675942" data-srcset="https://p2.bahamut.com.tw/B/2KU/68/033693485c3f814e4baf686b881ibgc5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/68/033693485c3f814e4baf686b881ibgc5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/68/033693485c3f814e4baf686b881ibgc5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/68/033693485c3f814e4baf686b881ibgc5.JPG 4x" style="max-width: unset;" title="選擇顯示 Frame 標示計後，就會顯示技巧的發生或硬直等詳細資訊" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 56.22%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/664f049481209058e7ce2e091c1ibgb5.JPG?v=1663482675942" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/664f049481209058e7ce2e091c1ibgb5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/67/664f049481209058e7ce2e091c1ibgb5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/67/664f049481209058e7ce2e091c1ibgb5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/67/664f049481209058e7ce2e091c1ibgb5.JPG 4x" style="max-width: unset;" title="選擇顯示 Frame 標示計後，就會顯示技巧的發生或硬直等詳細資訊" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.22%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/67/664f049481209058e7ce2e091c1ibgb5.JPG?v=1663482675942" data-srcset="https://p2.bahamut.com.tw/B/2KU/67/664f049481209058e7ce2e091c1ibgb5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/67/664f049481209058e7ce2e091c1ibgb5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/67/664f049481209058e7ce2e091c1ibgb5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/67/664f049481209058e7ce2e091c1ibgb5.JPG 4x" style="max-width: unset;" title="選擇顯示 Frame 標示計後，就會顯示技巧的發生或硬直等詳細資訊" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 選擇顯示 Frame 標示計後，就會顯示技巧的發生或硬直等詳細資訊</figure>
@@ -97,7 +97,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/622652334d84a81788242bedba1ibga5.JPG?v=1663482761961" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/622652334d84a81788242bedba1ibga5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/622652334d84a81788242bedba1ibga5.JPG 2x" style="max-width: unset;" title="在極限戰鬥裡，會於回合開始前顯示勝利條件" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/622652334d84a81788242bedba1ibga5.JPG?v=1663482761961" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/622652334d84a81788242bedba1ibga5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/622652334d84a81788242bedba1ibga5.JPG 2x" style="max-width: unset;" title="在極限戰鬥裡，會於回合開始前顯示勝利條件" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 在極限戰鬥裡，會於回合開始前顯示勝利條件</figure>
 </li>
@@ -106,7 +106,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/09380f6437e6506a7b339a8f0d1ibg95.JPG?v=1663482775187" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/09380f6437e6506a7b339a8f0d1ibg95.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/65/09380f6437e6506a7b339a8f0d1ibg95.JPG 2x" style="max-width: unset;" title="這是鬥牛衝進場內的機關。既然算是派對遊戲，這種表現可說是恰到好處" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/65/09380f6437e6506a7b339a8f0d1ibg95.JPG?v=1663482775187" data-srcset="https://p2.bahamut.com.tw/B/2KU/65/09380f6437e6506a7b339a8f0d1ibg95.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/65/09380f6437e6506a7b339a8f0d1ibg95.JPG 2x" style="max-width: unset;" title="這是鬥牛衝進場內的機關。既然算是派對遊戲，這種表現可說是恰到好處" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 這是鬥牛衝進場內的機關。既然算是派對遊戲，這種表現可說是恰到好處</figure>
 </li>
@@ -141,7 +141,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/a3efa8a873d5db24b6b88df9b91ibg85.JPG?v=1663482880771" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/a3efa8a873d5db24b6b88df9b91ibg85.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/a3efa8a873d5db24b6b88df9b91ibg85.JPG 2x" style="max-width: unset;" title="世界巡遊的主角採用了身為在呂克這拜師學藝的徒弟這樣的設定。平時為第三人稱視點，當開始戰鬥後則變為格鬥遊戲的視點" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/64/a3efa8a873d5db24b6b88df9b91ibg85.JPG?v=1663482880771" data-srcset="https://p2.bahamut.com.tw/B/2KU/64/a3efa8a873d5db24b6b88df9b91ibg85.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/64/a3efa8a873d5db24b6b88df9b91ibg85.JPG 2x" style="max-width: unset;" title="世界巡遊的主角採用了身為在呂克這拜師學藝的徒弟這樣的設定。平時為第三人稱視點，當開始戰鬥後則變為格鬥遊戲的視點" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 世界巡遊的主角採用了身為在呂克這拜師學藝的徒弟這樣的設定。平時為第三人稱視點，當開始戰鬥後則變為格鬥遊戲的視點</figure>
 </li>
@@ -150,7 +150,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/38f4e40c9d20a3a7aed6df41941ibg75.JPG?v=1663482893748" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/38f4e40c9d20a3a7aed6df41941ibg75.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/38f4e40c9d20a3a7aed6df41941ibg75.JPG 2x" style="max-width: unset;" title="這是在第三人稱視點下移動的教學" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/38f4e40c9d20a3a7aed6df41941ibg75.JPG?v=1663482893748" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/38f4e40c9d20a3a7aed6df41941ibg75.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/38f4e40c9d20a3a7aed6df41941ibg75.JPG 2x" style="max-width: unset;" title="這是在第三人稱視點下移動的教學" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 這是在第三人稱視點下移動的教學</figure>
 </li>
@@ -159,7 +159,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/62/f6b28b4a4a7b3e4ec2ec153f471ibg65.JPG?v=1663482905293" data-srcset="https://p2.bahamut.com.tw/B/2KU/62/f6b28b4a4a7b3e4ec2ec153f471ibg65.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/62/f6b28b4a4a7b3e4ec2ec153f471ibg65.JPG 2x" style="max-width: unset;" title="在第三人稱視點下也能調整視角" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/62/f6b28b4a4a7b3e4ec2ec153f471ibg65.JPG?v=1663482905293" data-srcset="https://p2.bahamut.com.tw/B/2KU/62/f6b28b4a4a7b3e4ec2ec153f471ibg65.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/62/f6b28b4a4a7b3e4ec2ec153f471ibg65.JPG 2x" style="max-width: unset;" title="在第三人稱視點下也能調整視角" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 在第三人稱視點下也能調整視角</figure>
 </li>
@@ -168,7 +168,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/439e807520591d77d8feb45bb31ibg55.JPG?v=1663482939037" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/439e807520591d77d8feb45bb31ibg55.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/61/439e807520591d77d8feb45bb31ibg55.JPG 2x" style="max-width: unset;" title="也有在平常的對戰畫面下的教學" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/61/439e807520591d77d8feb45bb31ibg55.JPG?v=1663482939037" data-srcset="https://p2.bahamut.com.tw/B/2KU/61/439e807520591d77d8feb45bb31ibg55.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/61/439e807520591d77d8feb45bb31ibg55.JPG 2x" style="max-width: unset;" title="也有在平常的對戰畫面下的教學" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 也有在平常的對戰畫面下的教學</figure>
 </li>
@@ -177,7 +177,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/60/285282ede7a4ce0f5d6a32ddc81ibg45.JPG?v=1663482959959" data-srcset="https://p2.bahamut.com.tw/B/2KU/60/285282ede7a4ce0f5d6a32ddc81ibg45.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/60/285282ede7a4ce0f5d6a32ddc81ibg45.JPG 2x" style="max-width: unset;" title="這次的示範遊玩就到此為止。恐怕從這裡開始就要上演「人中之隆」了" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/60/285282ede7a4ce0f5d6a32ddc81ibg45.JPG?v=1663482959959" data-srcset="https://p2.bahamut.com.tw/B/2KU/60/285282ede7a4ce0f5d6a32ddc81ibg45.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/60/285282ede7a4ce0f5d6a32ddc81ibg45.JPG 2x" style="max-width: unset;" title="這次的示範遊玩就到此為止。恐怕從這裡開始就要上演「人中之隆」了" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 這次的示範遊玩就到此為止。恐怕從這裡開始就要上演「人中之隆」了</figure>
 </li>
@@ -192,7 +192,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/59/e9ae90576cc66d6d0d192251d71ibg35.JPG?v=1663483003015" data-srcset="https://p2.bahamut.com.tw/B/2KU/59/e9ae90576cc66d6d0d192251d71ibg35.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/59/e9ae90576cc66d6d0d192251d71ibg35.JPG 2x" style="max-width: unset;" title="雖然這是種無法將人體構造排除在外的系統，但似乎也能做出非人類的虛擬化身" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/59/e9ae90576cc66d6d0d192251d71ibg35.JPG?v=1663483003015" data-srcset="https://p2.bahamut.com.tw/B/2KU/59/e9ae90576cc66d6d0d192251d71ibg35.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/59/e9ae90576cc66d6d0d192251d71ibg35.JPG 2x" style="max-width: unset;" title="雖然這是種無法將人體構造排除在外的系統，但似乎也能做出非人類的虛擬化身" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 雖然這是種無法將人體構造排除在外的系統，但似乎也能做出非人類的虛擬化身</figure>
 </li>
@@ -211,7 +211,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/58/3c284211e19a6bfaca4bbb2d831ibg25.JPG?v=1663483031277" data-srcset="https://p2.bahamut.com.tw/B/2KU/58/3c284211e19a6bfaca4bbb2d831ibg25.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/58/3c284211e19a6bfaca4bbb2d831ibg25.JPG 2x" style="max-width: unset;" title="連性別認同都採用了合乎現代的設計" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/58/3c284211e19a6bfaca4bbb2d831ibg25.JPG?v=1663483031277" data-srcset="https://p2.bahamut.com.tw/B/2KU/58/3c284211e19a6bfaca4bbb2d831ibg25.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/58/3c284211e19a6bfaca4bbb2d831ibg25.JPG 2x" style="max-width: unset;" title="連性別認同都採用了合乎現代的設計" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 連性別認同都採用了合乎現代的設計</figure>
 </li>
@@ -220,7 +220,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/57/380b1e5fadf7a384238bbb652c1ibg15.JPG?v=1663483050703" data-srcset="https://p2.bahamut.com.tw/B/2KU/57/380b1e5fadf7a384238bbb652c1ibg15.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/57/380b1e5fadf7a384238bbb652c1ibg15.JPG 2x" style="max-width: unset;" title="預設參數準備了全身性預設參數、僅限體型的預設參數、隨機產生、臉部融合整形等項目" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/57/380b1e5fadf7a384238bbb652c1ibg15.JPG?v=1663483050703" data-srcset="https://p2.bahamut.com.tw/B/2KU/57/380b1e5fadf7a384238bbb652c1ibg15.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/57/380b1e5fadf7a384238bbb652c1ibg15.JPG 2x" style="max-width: unset;" title="預設參數準備了全身性預設參數、僅限體型的預設參數、隨機產生、臉部融合整形等項目" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 預設參數準備了全身性預設參數、僅限體型的預設參數、隨機產生、臉部融合整形等項目</figure>
 </li>
@@ -229,7 +229,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/56/e9830de340b2c07f30d721f7911ibg05.JPG?v=1663483067585" data-srcset="https://p2.bahamut.com.tw/B/2KU/56/e9830de340b2c07f30d721f7911ibg05.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/56/e9830de340b2c07f30d721f7911ibg05.JPG 2x" style="max-width: unset;" title="身高與座高。在旁邊的呂克立牌則是為了取得平衡的參考用道具" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/56/e9830de340b2c07f30d721f7911ibg05.JPG?v=1663483067585" data-srcset="https://p2.bahamut.com.tw/B/2KU/56/e9830de340b2c07f30d721f7911ibg05.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/56/e9830de340b2c07f30d721f7911ibg05.JPG 2x" style="max-width: unset;" title="身高與座高。在旁邊的呂克立牌則是為了取得平衡的參考用道具" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 身高與座高。在旁邊的呂克立牌則是為了取得平衡的參考用道具</figure>
 </li>
@@ -238,7 +238,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/b29b660d292bf33ab655230aaa1ibfz5.JPG?v=1663483152408" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/b29b660d292bf33ab655230aaa1ibfz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/b29b660d292bf33ab655230aaa1ibfz5.JPG 2x" style="max-width: unset;" title="以三角圖表來決定肌肉量（脂肪量）。由於在體型的各種部位上皆準備了這種三角圖表，為此挑明了推薦先決定大略範圍，再深入調整細節的作法" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/55/b29b660d292bf33ab655230aaa1ibfz5.JPG?v=1663483152408" data-srcset="https://p2.bahamut.com.tw/B/2KU/55/b29b660d292bf33ab655230aaa1ibfz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/55/b29b660d292bf33ab655230aaa1ibfz5.JPG 2x" style="max-width: unset;" title="以三角圖表來決定肌肉量（脂肪量）。由於在體型的各種部位上皆準備了這種三角圖表，為此挑明了推薦先決定大略範圍，再深入調整細節的作法" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 以三角圖表來決定肌肉量（脂肪量）。由於在體型的各種部位上皆準備了這種三角圖表，<br>
 為此挑明了推薦先決定大略範圍，再深入調整細節的作法</figure>
@@ -248,7 +248,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/54/26e902764cd252f44083420cd51ibfy5.JPG?v=1663483184275" data-srcset="https://p2.bahamut.com.tw/B/2KU/54/26e902764cd252f44083420cd51ibfy5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/54/26e902764cd252f44083420cd51ibfy5.JPG 2x" style="max-width: unset;" title="體毛。可分別針對身體正面與背後設定毛量跟毛質、毛色等三種項目" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/54/26e902764cd252f44083420cd51ibfy5.JPG?v=1663483184275" data-srcset="https://p2.bahamut.com.tw/B/2KU/54/26e902764cd252f44083420cd51ibfy5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/54/26e902764cd252f44083420cd51ibfy5.JPG 2x" style="max-width: unset;" title="體毛。可分別針對身體正面與背後設定毛量跟毛質、毛色等三種項目" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 體毛。可分別針對身體正面與背後設定毛量跟毛質、毛色等三種項目</figure>
 </li>
@@ -257,7 +257,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/52/b6721fade9bf873d3cd48ec6961ibfw5.JPG?v=1663484668723" data-srcset="https://p2.bahamut.com.tw/B/2KU/52/b6721fade9bf873d3cd48ec6961ibfw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/52/b6721fade9bf873d3cd48ec6961ibfw5.JPG 2x" style="max-width: unset;" title="膚色。也準備了光澤、金屬、發光等參數" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/52/b6721fade9bf873d3cd48ec6961ibfw5.JPG?v=1663484668723" data-srcset="https://p2.bahamut.com.tw/B/2KU/52/b6721fade9bf873d3cd48ec6961ibfw5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/52/b6721fade9bf873d3cd48ec6961ibfw5.JPG 2x" style="max-width: unset;" title="膚色。也準備了光澤、金屬、發光等參數" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 膚色。也準備了光澤、金屬、發光等參數</figure>
 </li>
@@ -272,9 +272,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 56.22%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/51/b1dbafa4227a99e4d61080e2531ibfv5.JPG?v=1663484703619" data-srcset="https://p2.bahamut.com.tw/B/2KU/51/b1dbafa4227a99e4d61080e2531ibfv5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/51/b1dbafa4227a99e4d61080e2531ibfv5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/51/b1dbafa4227a99e4d61080e2531ibfv5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/51/b1dbafa4227a99e4d61080e2531ibfv5.JPG 4x" style="max-width: unset;" title="在脖子以上的項目當然也很講究。從眉毛部分的案例中，就可察覺到製作團隊的那份認真之處" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.22%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/51/b1dbafa4227a99e4d61080e2531ibfv5.JPG?v=1663484703619" data-srcset="https://p2.bahamut.com.tw/B/2KU/51/b1dbafa4227a99e4d61080e2531ibfv5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/51/b1dbafa4227a99e4d61080e2531ibfv5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/51/b1dbafa4227a99e4d61080e2531ibfv5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/51/b1dbafa4227a99e4d61080e2531ibfv5.JPG 4x" style="max-width: unset;" title="在脖子以上的項目當然也很講究。從眉毛部分的案例中，就可察覺到製作團隊的那份認真之處" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 56.22%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/5ae363086d62da6bf7030bf05f1ibfu5.JPG?v=1663484703619" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/5ae363086d62da6bf7030bf05f1ibfu5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/50/5ae363086d62da6bf7030bf05f1ibfu5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/50/5ae363086d62da6bf7030bf05f1ibfu5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/50/5ae363086d62da6bf7030bf05f1ibfu5.JPG 4x" style="max-width: unset;" title="在脖子以上的項目當然也很講究。從眉毛部分的案例中，就可察覺到製作團隊的那份認真之處" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.22%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/50/5ae363086d62da6bf7030bf05f1ibfu5.JPG?v=1663484703619" data-srcset="https://p2.bahamut.com.tw/B/2KU/50/5ae363086d62da6bf7030bf05f1ibfu5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/50/5ae363086d62da6bf7030bf05f1ibfu5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/50/5ae363086d62da6bf7030bf05f1ibfu5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/50/5ae363086d62da6bf7030bf05f1ibfu5.JPG 4x" style="max-width: unset;" title="在脖子以上的項目當然也很講究。從眉毛部分的案例中，就可察覺到製作團隊的那份認真之處" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 在脖子以上的項目當然也很講究。從眉毛部分的案例中，就可察覺到製作團隊的那份認真之處</figure>
@@ -284,9 +284,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 56.22%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/49/6de191b4df22aaf0b9bdaf15621ibft5.JPG?v=1663484730411" data-srcset="https://p2.bahamut.com.tw/B/2KU/49/6de191b4df22aaf0b9bdaf15621ibft5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/49/6de191b4df22aaf0b9bdaf15621ibft5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/49/6de191b4df22aaf0b9bdaf15621ibft5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/49/6de191b4df22aaf0b9bdaf15621ibft5.JPG 4x" style="max-width: unset;" title="當然也能設置刺青跟語音設定" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.22%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/49/6de191b4df22aaf0b9bdaf15621ibft5.JPG?v=1663484730411" data-srcset="https://p2.bahamut.com.tw/B/2KU/49/6de191b4df22aaf0b9bdaf15621ibft5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/49/6de191b4df22aaf0b9bdaf15621ibft5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/49/6de191b4df22aaf0b9bdaf15621ibft5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/49/6de191b4df22aaf0b9bdaf15621ibft5.JPG 4x" style="max-width: unset;" title="當然也能設置刺青跟語音設定" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 49.74%;">
-<figcaption style="padding-bottom: 56.22%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/a7c1402efa44f4cb5ecad72ad61ibfs5.JPG?v=1663484730411" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/a7c1402efa44f4cb5ecad72ad61ibfs5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/48/a7c1402efa44f4cb5ecad72ad61ibfs5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/48/a7c1402efa44f4cb5ecad72ad61ibfs5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/48/a7c1402efa44f4cb5ecad72ad61ibfs5.JPG 4x" style="max-width: unset;" title="當然也能設置刺青跟語音設定" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.22%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/48/a7c1402efa44f4cb5ecad72ad61ibfs5.JPG?v=1663484730411" data-srcset="https://p2.bahamut.com.tw/B/2KU/48/a7c1402efa44f4cb5ecad72ad61ibfs5.JPG?w=500 1x,https://p2.bahamut.com.tw/B/2KU/48/a7c1402efa44f4cb5ecad72ad61ibfs5.JPG?w=1000 2x,https://p2.bahamut.com.tw/B/2KU/48/a7c1402efa44f4cb5ecad72ad61ibfs5.JPG?w=1500 3x,https://p2.bahamut.com.tw/B/2KU/48/a7c1402efa44f4cb5ecad72ad61ibfs5.JPG 4x" style="max-width: unset;" title="當然也能設置刺青跟語音設定" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 當然也能設置刺青跟語音設定</figure>
@@ -314,11 +314,11 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/bc5762790f26f58c4760dac7df1ibfr5.JPG?v=1663484769771" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/bc5762790f26f58c4760dac7df1ibfr5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/bc5762790f26f58c4760dac7df1ibfr5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/47/bc5762790f26f58c4760dac7df1ibfr5.JPG?v=1663484769771" data-srcset="https://p2.bahamut.com.tw/B/2KU/47/bc5762790f26f58c4760dac7df1ibfr5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/47/bc5762790f26f58c4760dac7df1ibfr5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/08709884e362ec11ffe1aab0a71ibfq5.JPG?v=1663484769771" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/08709884e362ec11ffe1aab0a71ibfq5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/08709884e362ec11ffe1aab0a71ibfq5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/46/08709884e362ec11ffe1aab0a71ibfq5.JPG?v=1663484769771" data-srcset="https://p2.bahamut.com.tw/B/2KU/46/08709884e362ec11ffe1aab0a71ibfq5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/46/08709884e362ec11ffe1aab0a71ibfq5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/fd7a8a4312b5251ea0771c6f901ibfp5.JPG?v=1663484769771" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/fd7a8a4312b5251ea0771c6f901ibfp5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/45/fd7a8a4312b5251ea0771c6f901ibfp5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/45/fd7a8a4312b5251ea0771c6f901ibfp5.JPG?v=1663484769771" data-srcset="https://p2.bahamut.com.tw/B/2KU/45/fd7a8a4312b5251ea0771c6f901ibfp5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/45/fd7a8a4312b5251ea0771c6f901ibfp5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -330,9 +330,9 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.22%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/44/a99de3673b82b795ddd769fb481ibfo5.JPG?v=1663484794311" data-srcset="https://p2.bahamut.com.tw/B/2KU/44/a99de3673b82b795ddd769fb481ibfo5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/44/a99de3673b82b795ddd769fb481ibfo5.JPG 2x" style="max-width: unset;" title="也介紹了地板舞在動作捕捉時的情況" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.22%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/44/a99de3673b82b795ddd769fb481ibfo5.JPG?v=1663484794311" data-srcset="https://p2.bahamut.com.tw/B/2KU/44/a99de3673b82b795ddd769fb481ibfo5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/44/a99de3673b82b795ddd769fb481ibfo5.JPG 2x" style="max-width: unset;" title="也介紹了地板舞在動作捕捉時的情況" referrerpolicy="no-referrer"></figcaption></li>
 <li class="bh-grids-img-box" style="width: 100.00%;">
-<figcaption style="padding-bottom: 56.22%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/36bd5c1aa84941fb3bb12d40151ibfn5.JPG?v=1663484794311" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/36bd5c1aa84941fb3bb12d40151ibfn5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/36bd5c1aa84941fb3bb12d40151ibfn5.JPG 2x" style="max-width: unset;" title="也介紹了地板舞在動作捕捉時的情況" alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.22%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/43/36bd5c1aa84941fb3bb12d40151ibfn5.JPG?v=1663484794311" data-srcset="https://p2.bahamut.com.tw/B/2KU/43/36bd5c1aa84941fb3bb12d40151ibfn5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/43/36bd5c1aa84941fb3bb12d40151ibfn5.JPG 2x" style="max-width: unset;" title="也介紹了地板舞在動作捕捉時的情況" referrerpolicy="no-referrer"></figcaption></li>
 <li style="width: 100%">
 <figure class="common-desc">
 也介紹了地板舞在動作捕捉時的情況</figure>
@@ -342,7 +342,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/73/3602ea47054f614067cc77e41a1ibgh5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.74%;">
-<figcaption style="padding-bottom: 56.20%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/42/41e5578aae3a8bfd20d1ffb8111ibfm5.JPG?v=1663484807909" data-srcset="https://p2.bahamut.com.tw/B/2KU/42/41e5578aae3a8bfd20d1ffb8111ibfm5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/42/41e5578aae3a8bfd20d1ffb8111ibfm5.JPG 2x" style="max-width: unset;" title="雖然簡單帶過了關於老角色的說明，但也希望能夠有深入探究這些角色的機會" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.20%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/42/41e5578aae3a8bfd20d1ffb8111ibfm5.JPG?v=1663484807909" data-srcset="https://p2.bahamut.com.tw/B/2KU/42/41e5578aae3a8bfd20d1ffb8111ibfm5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/42/41e5578aae3a8bfd20d1ffb8111ibfm5.JPG 2x" style="max-width: unset;" title="雖然簡單帶過了關於老角色的說明，但也希望能夠有深入探究這些角色的機會" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 雖然簡單帶過了關於老角色的說明，但也希望能夠有深入探究這些角色的機會</figure>
 </li>
