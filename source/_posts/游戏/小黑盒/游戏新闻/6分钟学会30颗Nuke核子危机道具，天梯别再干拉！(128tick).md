@@ -1,0 +1,23 @@
+
+---
+title: '6分钟学会30颗Nuke核子危机道具，天梯别再干拉！(128tick)'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://picsum.photos/400/300?random=6859'
+author: 小黑盒
+comments: false
+date: Sat, 17 Sep 2022 23:49:10 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6859'
+---
+
+<div>   
+<p>跳投指令：
+alias +jumpthrow"+jump;-attack;-attack2";
+
+alias -jumpthrow -jump;
+
+bind "要绑定的按键" +jumpthrow;#steam游戏##pc游戏#</p>  
+</div>
+            

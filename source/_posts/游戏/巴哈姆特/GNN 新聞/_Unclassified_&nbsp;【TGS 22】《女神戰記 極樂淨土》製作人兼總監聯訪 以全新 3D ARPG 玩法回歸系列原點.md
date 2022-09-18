@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG?v=1663389780933'
 author: 巴哈姆特
 comments: false
-date: 2022-09-17 15:10:29
+date: 2022-09-18 00:58:24
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG?v=1663389780933'
 ---
 
@@ -28,6 +28,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.
 <figcaption style="padding-bottom: 57.55%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG?v=1663389780933" data-srcset="https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/66/f655fa5f285229b9a8176260091fj2e5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
+<div>
+ </div>
+<ul>
+<li>
+<b>相關報導：</b><a href="https://gnn.gamer.com.tw/detail.php?sn=238026" target="_blank">《女神戰記 極樂淨土》體驗版已於 PlayStation 平台開放下載</a></li>
+</ul>
 <div>
  </div>
 <div>
