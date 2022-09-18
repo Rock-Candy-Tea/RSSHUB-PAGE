@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/97/ee5b4fdffffd82548727e345df1ibjx5.JPG?v=1663489450055'
 author: 巴哈姆特
 comments: false
-date: 2022-09-18 13:29:29
+date: 2022-09-18 14:08:55
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/97/ee5b4fdffffd82548727e345df1ibjx5.JPG?v=1663489450055'
 ---
 
@@ -107,6 +107,12 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/97/ee5b4fdffffd82548727e345df1ibjx5.
  </div>
 <div>
 　　官方於直播上帶來了《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F+%E7%81%AB%E7%B7%9A%E7%88%AD%E6%88%B0" target="_blank">刀劍神域 火線爭戰</a>》的遊戲特色及本作原創角色「萊拉」的設定，並舉辦 TGS 2022 特別企劃，由飾演「萊拉」的上板堇決定該角色的生日，且會正式採用這個決定做為官方設定，最後萊拉的生日決定為「咖哩之日」的 1 月 22 日。</div>
+<div>
+ </div>
+<div>
+<div class="video-container">
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="auto" class="lazyload" data-sizes="auto" src="https://www.youtube.com/embed/1Gbvx2QVw50?wmode=transparent" width="100%"></iframe></div>
+</div>
 <div>
  </div>
 <div>
