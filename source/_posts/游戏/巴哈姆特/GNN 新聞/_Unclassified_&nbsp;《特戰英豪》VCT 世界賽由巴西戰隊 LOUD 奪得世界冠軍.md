@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/05/b36a2885c97865f0dfe164efa31ic3l5.JPG?v=1663582187692'
 author: 巴哈姆特
 comments: false
-date: 2022-09-19 10:12:03
+date: 2022-09-19 11:09:12
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/05/b36a2885c97865f0dfe164efa31ic3l5.JPG?v=1663582187692'
 ---
 
@@ -16,13 +16,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/05/b36a2885c97865f0dfe164efa31ic3l5.
 <div>
 <div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%89%B9%E6%88%B0%E8%8B%B1%E8%B1%AA" target="_blank">特戰英豪</a>》週日在伊斯坦堡舉辦 VCT 世界冠軍賽總決賽，由巴西隊伍 LOUD 與北美戰隊 OPTIC GAMING 對決，結果 LOUD 將士用命、順利擊敗 OPTIC GAMING，成功拿下 2022《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%89%B9%E6%88%B0%E8%8B%B1%E8%B1%AA" target="_blank">特戰英豪</a>》世界冠軍。</div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%89%B9%E6%88%B0%E8%8B%B1%E8%B1%AA" target="_blank">特戰英豪</a>》週日在伊斯坦堡舉辦 VCT 世界冠軍賽總決賽，由巴西隊伍 LOUD 與北美戰隊 OPTIC GAMING 對決，結果 LOUD 將士用命、順利擊敗 <span style="font-family:">OpTic Gaming</span>，成功拿下 2022《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%89%B9%E6%88%B0%E8%8B%B1%E8%B1%AA" target="_blank">特戰英豪</a>》世界冠軍。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/b36a2885c97865f0dfe164efa31ic3l5.JPG?v=1663582187692" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/b36a2885c97865f0dfe164efa31ic3l5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/05/b36a2885c97865f0dfe164efa31ic3l5.JPG 2x" style="max-width: unset;" title="巴西戰隊 LOUD 獲得《特戰英豪》2022 世界冠軍（照片來源：Riot Games）" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/05/b36a2885c97865f0dfe164efa31ic3l5.JPG?v=1663582187692" data-srcset="https://p2.bahamut.com.tw/B/2KU/05/b36a2885c97865f0dfe164efa31ic3l5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/05/b36a2885c97865f0dfe164efa31ic3l5.JPG 2x" style="max-width: unset;" title="巴西戰隊 LOUD 獲得《特戰英豪》2022 世界冠軍（照片來源：Riot Games）" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 巴西戰隊 LOUD 獲得《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E7%89%B9%E6%88%B0%E8%8B%B1%E8%B1%AA" target="_blank">特戰英豪</a>》2022 世界冠軍（照片來源：Riot Games）</figure>
 </li>
