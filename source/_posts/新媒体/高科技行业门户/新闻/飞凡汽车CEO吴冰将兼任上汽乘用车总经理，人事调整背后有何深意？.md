@@ -1,0 +1,19 @@
+
+---
+title: '飞凡汽车CEO吴冰将兼任上汽乘用车总经理，人事调整背后有何深意？'
+categories: 
+ - 新媒体
+ - 高科技行业门户
+ - 新闻
+headimg: 'https://mp.ofweek.com/Upload/News/Img/member51657/202209/wx_article__dca895e2b67a966a315cb9371f6d858a.jpg'
+author: 高科技行业门户
+comments: false
+date: Mon, 19 Sep 2022 03:33:00 GMT
+thumbnail: 'https://mp.ofweek.com/Upload/News/Img/member51657/202209/wx_article__dca895e2b67a966a315cb9371f6d858a.jpg'
+---
+
+<div>   
+<p style="text-indent: 2em; text-align: left;">就在9．14日MG MULAN上市之后，有消息称上汽集团副总裁兼上汽<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E4%B9%98%E7%94%A8%E8%BD%A6.HTM" target="_blank" title="乘用车">乘用车</a></span>总经理杨晓东将会不再任上汽乘用车总经理一职，飞凡汽车的CEO吴冰将会成为接任者，兼任此职位。虽然此消息并未官宣，但是经“汽扯扒谈”多方了解，不少内部人士对此不置可否。</p><p style="text-indent: 2em; text-align: left;">杨晓东自2019年成为上汽乘用车总经理一职之后，一手确立了现在三品牌独立发展运营的体系架构，事实证明这种多品牌并行发展的模式是成功的，也是目前中国车企发展的主流架构。吴冰接手之后，飞凡汽车将会继续保持独立运营。有分析人士称，此次人士调动必将代表着上汽乘用车即将开启一场巨大变革。随着人事方面调整，接下来上汽乘用车三大板块也应该变动，“汽扯扒谈”独家获悉，MG品牌被划归到哪儿的问题，也在讨论中。</p><p style="text-indent: 2em; text-align: left;"><strong>01</strong></p><p style="text-indent: 2em; text-align: left;"><strong>面向未来市场竞争的话语权</strong></p><p style="text-indent: 2em; text-align: left;">根据官方数据显示，上汽乘用车在2021年，全年总<span class="hrefStyle"><a href="https://nev.ofweek.com/tag-%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F.HTM" target="_blank" title="销量">销量</a></span>达到了800767辆，相比2020年增长了22％，值得一提的是，这也是上汽乘用车全年销量首次突破80万辆。上汽乘用车在2022年继续保持强势，今年上半年总销量达36．6万辆，同比增长22．2％。</p><p style="text-indent: 2em; text-align: left;">当下中国国内市场的竞争环境面临空前的压力。因为造车新势力模式的崛起，年轻消费者都已经被逐渐驯化。就连合资品牌也受到了挤压，在刚刚的八月份连日系的市场份额都首次跌破20％。</p><p style="text-indent: 2em; text-align: left;">目前MG、荣威、飞凡汽车这三个品牌在独立发展的同时，在定位上非常明确。MG的年轻人标签很鲜明，荣威的新国潮也很深入人心。而飞凡汽车可以说是上汽乘用车最前沿化的“创业”项目，从线下的商超展示店到直营模式，上汽乘用车都投入了大量的心血。虽然飞凡现在飞凡汽车并未在销量上展现出其威力，但正是有了飞凡在新势力模式上的探索，才有了智己汽车做更深一步的摸索。</p><p style="text-indent: 2em; text-align: left;">所以上汽乘用车想要在未来市场竞争中占据更多的市场份额，那么现阶段的销量数字仅仅只是衡量功绩中的一个维度，各个品牌在经营模式、产品能力以及销售渠道上的革新更为重要。因为这三项代表了面向未来市场竞争的话语权。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member51657/202209/wx_article__dca895e2b67a966a315cb9371f6d858a.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">飞凡汽车绝对是在模式、渠道和产品思路上最领先的，其定价也是目前最高端的。尤其是现在自主品牌都不甘只占据中下价格区间的情况下，与合资竞争，增加品牌溢价率更加是上汽乘用车未来的一个大命题。</p><p style="text-indent: 2em; text-align: left;">所以杨晓东是确立了三品牌并立发展，飞凡汽车以造车新势力模式完成独立运营的整体战略思路，完成了上汽乘用车面向未来竞争力的基础架构打造。而现在吴冰的任务则是带领上汽乘用车在这个竞争越来越激烈的国内汽车市场，正式完成面向未来的蜕变。</p><p style="text-indent: 2em; text-align: left;">所以新的人事调任背后，其所代表的可能是上汽乘用车对于未来市场竞争的深度思考。从根基上向造车新势力模式靠拢，将会是未来国内市场高端化竞争中几乎唯一的赛道。而国际市场的竞争，则可能又是另一种情况了。</p><p style="text-indent: 2em; text-align: left;"><strong>02</strong></p><p style="text-indent: 2em; text-align: left;"><strong>MG将归海外事业部管理？</strong></p><p style="text-indent: 2em; text-align: left;">毋庸置疑，刚刚上市的MG MULAN是第一款真正意义上的全球车。甚至MG MULAN在郑州工厂第一批生产的产品都是右舵车型，这款车型正是为了目前欧洲市场对于新能源庞大的胃口而来。</p><p style="text-indent: 2em; text-align: left;">因为MG在海外市场出色的表现，根据“汽扯扒谈”了解，上汽集团可能对MG品牌的定位有所调整。MG品牌有可能脱离上汽乘用车划归给上汽海外部门管理。如果此番操作成功，那么未来MG将可能会有越来越多的全球车推出。</p><p style="text-align:center"><img src="https://mp.ofweek.com/Upload/News/Img/member51657/202209/wx_article__0a41fb53df999c73d5cb88436915498b.jpg" referrerpolicy="no-referrer"></p><p style="text-indent: 2em; text-align: left;">MG品牌在全球市场持续刷新销量纪录，连续三年蝉联“中国单一品牌海外销量冠军”。2021年MG海外销量达到了35．4万台，这个数字在今年还在持续攀升，今年1－6月，MG海外销量就已经达到了20．8万台，同比增长68％。目前MG品牌的主要市场已经在海外，海外销量已经比国内销量多近一倍。</p><p style="text-indent: 2em; text-align: left;">如若传言成真，那么MG此调整的思路，就是把其在海外市场的优势发挥到最极致。与此同时很可能MG在海外全球车热销的国际影响力，还会反哺中国市场，进一步提升国内的竞争差异化，让MG的国际大牌形象更深入人心。以MG在海外目前布局的渠道和品牌影响力，这样MG品牌未来可能在海外还会有一个更大的销量飞跃。</p><p style="text-indent: 2em; text-align: left;">所以从目前的情况来看，上汽如若真的官宣完成调整，那么这将会对未来上汽乘用的整体格局产生巨大的冲击和变化。未来可能将会彻底在人事任命和品牌定位等多方面产生巨震。</p><p>       <span style="color:#999999;font-family:  微软雅黑;font-size:14px;">原文标题 : 飞凡汽车CEO吴冰将兼任上汽乘用车总经理，人事调整背后有何深意？</span></p> 
+  
+</div>
+            
