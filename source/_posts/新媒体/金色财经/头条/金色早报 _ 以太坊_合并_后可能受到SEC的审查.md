@@ -1,0 +1,18 @@
+
+---
+title: '金色早报 _ 以太坊_合并_后可能受到SEC的审查'
+categories: 
+ - 新媒体
+ - 金色财经
+ - 头条
+headimg: 'https://picsum.photos/400/300?random=1729'
+author: 金色财经
+comments: false
+date: Tue, 20 Sep 2022 00:00:10 GMT
+thumbnail: 'https://picsum.photos/400/300?random=1729'
+---
+
+<div>   
+金色财经推出加密货币和区块链行业早报《金色早8点》第1742期，为您提供最新、最快的数字货币和区块链行业新闻。  
+</div>
+            
