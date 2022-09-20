@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14206/axisstudios_wildrift_6-1.-full.jpg'
 author: Axis Studios
 comments: false
-date: 2022-09-20 08:16:10
+date: 2022-09-20 09:17:09
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14206/axisstudios_wildrift_6-1.-full.jpg'
 ---
 

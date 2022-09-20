@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/52/a99063a735dd6ff0e86cf92c9f1icg05.JPG?v=1663656168374'
 author: 巴哈姆特
 comments: false
-date: 2022-09-20 08:15:18
+date: 2022-09-20 09:16:22
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/a99063a735dd6ff0e86cf92c9f1icg05.JPG?v=1663656168374'
 ---
 
@@ -16,7 +16,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/52/a99063a735dd6ff0e86cf92c9f1icg05.
 <div>
 <div>
 <div>
-　　由 NEXON TAIWAN 營運的經典 ARPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%96%B0%E7%91%AA%E5%A5%87%E8%8B%B1%E9%9B%84%E5%82%B3" target="_blank">新瑪奇英雄傳</a>》於今（21）日開放第 21 位英雄、野性覺醒的黑豹騎士「拉緹雅」，玩家將跟著她手上的騎槍與鉤爪一探全新的故事篇章。</div>
+　　由 NEXON TAIWAN 營運的經典 ARPG《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%96%B0%E7%91%AA%E5%A5%87%E8%8B%B1%E9%9B%84%E5%82%B3" target="_blank">新瑪奇英雄傳</a>》於今（20）日開放第 21 位英雄、野性覺醒的黑豹騎士「拉緹雅」，玩家將跟著她手上的騎槍與鉤爪一探全新的故事篇章。</div>
 <div>
  </div>
 <div>

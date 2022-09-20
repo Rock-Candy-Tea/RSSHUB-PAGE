@@ -1,0 +1,18 @@
+
+---
+title: 'iPhone 14高分通过JerryRigEverything的暴力耐用性测试'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63295d358e9f090ac95f023c_1024.jpg'
+author: ZAKER
+comments: false
+date: Tue, 20 Sep 2022 00:16:35 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63295d358e9f090ac95f023c_1024.jpg'
+---
+
+<div>   
+<p>在三星 Galaxy Z Flip4 和 Galaxy Z Fold4 折叠屏新机后，<strong>油管知名毁机频道 JerryRigEverything，又分享了针对新上市的苹果 iPhone 14 智能机的暴力测试结果。</strong>可知作为 iPhone 13 的衍生 SKU，苹果仅针对 iPhone 14 加以微小的改进，所以我们对新机的耐刮擦、抗热和抵御弯折的性能表现也并不感到意外。</p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres1.myzaker.com/202209/63295d358e9f090ac95f023c_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63295d358e9f090ac95f023c_1024.jpg" referrerpolicy="no-referrer"></div></div>不过一项显著的硬件差异，就是 iPhone 14 的玻璃后盖变得更易拆卸、且维修成本显著降低。<p></p><p>iPhone 14 Durability Test - APPLE FINALLY FIXED IT（via）</p><p>一如既往，本次耐用性测试依然从屏幕划痕开始上手，选用的配色版本为午夜黑。</p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres1.myzaker.com/202209/63295d358e9f090ac95f023d_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63295d358e9f090ac95f023d_1024.jpg" referrerpolicy="no-referrer"></div></div>可知 iPhone 14 会在 6 级莫氏硬度下产生轻微划痕，且 7 级就会产生较深的刮槽。<p></p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres1.myzaker.com/202209/63295d358e9f090ac95f023e_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63295d358e9f090ac95f023e_1024.jpg" referrerpolicy="no-referrer"></div></div>铝制中框能够应付几次尖锐的刀刮，但后摄的所谓蓝宝石镜头盖竟然在 6 级硬度下就开始产生了刮痕。<p></p><p></p><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres2.myzaker.com/202209/63295d358e9f090ac95f023f_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/63295d358e9f090ac95f023f_1024.jpg" referrerpolicy="no-referrer"></div></div>接下来是 " 屏幕老化 " 测试，长时间火烤不出意料地导致了不可逆的坏点。<p></p><p></p><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres1.myzaker.com/202209/63295d358e9f090ac95f0240_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/63295d358e9f090ac95f0240_1024.jpg" referrerpolicy="no-referrer"></div></div>最后是暴力弯折测试，iPhone 14 并未在此项测试过后出现显著的弯曲。<p></p><p></p><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202209/63295d358e9f090ac95f0241_1024.jpg" data-height="394" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/63295d358e9f090ac95f0241_1024.jpg" referrerpolicy="no-referrer"></div></div>综上所述，Zach 对 iPhone 14 的总体评价还是相当之高的。<p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            

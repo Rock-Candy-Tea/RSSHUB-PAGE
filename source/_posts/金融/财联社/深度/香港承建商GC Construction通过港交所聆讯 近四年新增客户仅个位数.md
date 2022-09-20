@@ -22,6 +22,7 @@ thumbnail: 'https://img.cls.cn/images/20220920/YmB61z6FCY.jpeg'
 <p><img src="https://img.cls.cn/images/20220920/4jS5B98i6q.jpeg" alt="image" referrerpolicy="no-referrer"></p>
 <p><strong>值得注意的是，公司的客户主要为香港的建筑承建商，并且客户数量稀少且收入集中于少数客户，此外新客户占比也较少。</strong>数据显示，公司2018-2021财年的收入分别来自13、14、14及17名客户。2019-2021财年分别获得两名、三名及五名新客户。同期最大客户收入占比为35.4%、56.3%、37.9%及42.9%，前五大客户的收入占比为90.5%、91.6%、79.8%及89.5%。</p>
 <p><strong>而公司也特别提示称，公司收入主要来自非经常性项目，无法保证原有客户能够提供新业务，未来业务量难以预测。</strong>而公司通过招标获取的新业务，过去四个完整财年的中标率为14.0%、21.6%、12.6%及18.0%。此外，由于工程项目规模较大，公司项目成本超支、应收账款等风险也提请投资者注意。</p>
+<p><img src="https://img.cls.cn/images/20220920/zBe366OfZ6.jpeg" alt="image" referrerpolicy="no-referrer"></p>
 <p><img src="https://img.cls.cn/images/20220920/31JioTQ7hv.jpeg" alt="image" referrerpolicy="no-referrer"></p></div>  
 </div>
             
