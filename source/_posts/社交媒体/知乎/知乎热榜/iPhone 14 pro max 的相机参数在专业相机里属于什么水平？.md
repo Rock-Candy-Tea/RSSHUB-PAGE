@@ -1,0 +1,18 @@
+
+---
+title: 'iPhone 14 pro max 的相机参数在专业相机里属于什么水平？'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 知乎热榜
+headimg: 'https://picx.zhimg.com/v2-14a6b57c5125b49ea830c415a6c62df3_1440w.jpg?source=b1748391'
+author: 知乎
+comments: false
+date: Tue, 20 Sep 2022 12:05:39 GMT
+thumbnail: 'https://picx.zhimg.com/v2-14a6b57c5125b49ea830c415a6c62df3_1440w.jpg?source=b1748391'
+---
+
+<div>   
+平老虎的回答<br><br><p data-pid="xY5J795P">五万元专业相机的效果不是六七台七八千手机能比，五十万的专业相机放在新手手里，不如手机拍的好，所以没法比。</p><p data-pid="A67p95kP">今天早上用iPhone 14 Pro实际拍摄的表现。大家来评价一下吧。</p><p data-pid="UeGV1_ua">看到今早朝霞预告范围概率高达66-90%，范围质量高达58-100%，不能不出洞啊！还是四点起床，不到五点就到了黄岛九龙山路木栈道的始端破损的观景台</p><p data-pid="-QVocupW">感觉日出大光比情况下表现还是不错</p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-14a6b57c5125b49ea830c415a6c62df3_1440w.jpg?source=b1748391" data-rawwidth="4032" data-rawheight="3024" data-size="normal" data-default-watermark-src="https://picx.zhimg.com/v2-cca8593f84867c0c4fe698e4bdc340c1_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-14a6b57c5125b49ea830c415a6c62df3_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="lb6jQMPr">其实今天主力是三台微单。</p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-a40f7ebfb8420db067f07ed474fbaffc_1440w.jpg?source=b1748391" data-rawwidth="3024" data-rawheight="4032" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-57a64cfa133b9723053c81393f8bb819_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-a40f7ebfb8420db067f07ed474fbaffc_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p><br></p><p data-pid="xSy32lE9">3X长焦拍摄</p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-55defbe06489c637738e16a0ef036535_1440w.jpg?source=b1748391" data-rawwidth="2268" data-rawheight="3024" data-size="normal" data-default-watermark-src="https://picx.zhimg.com/v2-c2effff47ab70bf61b832ea40f40925a_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-55defbe06489c637738e16a0ef036535_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="0TNHestO">3X长焦的炫光比较温柔大只，比以前小绿点好看，手动狗头</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-b977f4d5f9540d7660ebeb365da2011b_1440w.jpg?source=b1748391" data-rawwidth="3870" data-rawheight="2177" data-size="normal" data-default-watermark-src="https://pic4.zhimg.com/v2-fc124d049585185a96478404d01b4233_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-b977f4d5f9540d7660ebeb365da2011b_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p><br></p><p><br></p><p data-pid="fG4kHr3D">超广角感觉在暗光下表现更扎实</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-c8c87fde79ab963ad502c437dcde5fab_1440w.jpg?source=b1748391" data-rawwidth="8064" data-rawheight="6048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/v2-32c8501e0b0e70c8a4ef08c98c59a75a_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-c8c87fde79ab963ad502c437dcde5fab_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p><br></p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-b829164628116f2a827141ec42d9c0e2_1440w.jpg?source=b1748391" data-rawwidth="6048" data-rawheight="8064" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/v2-57ae13a129ee301aaf2fafd9fa3996e0_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-b829164628116f2a827141ec42d9c0e2_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p data-pid="dMNncPCO">未完待续，先看电影了</p>  
+</div>
+            

@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/6/2022/09/20/2141326305.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-09-20 13:43:52
+date: 2022-09-20 14:22:47
 thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/09/20/2141326305.jpg'
 ---
 
@@ -26,7 +26,7 @@ thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/09/20/2141326305.jpg'
 
 9月27日
 《Moonscars》（云端/主机/PC）
-《禁闭求生》（云端/主机/PC）
+《禁闭求生 正式版》（云端/主机/PC）
 
 9月29日
 《英灵神殿》（PC）
@@ -35,7 +35,7 @@ thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/09/20/2141326305.jpg'
 9月30日
 《汪汪队立大功：锦标赛》（云端/主机/PC）
 
-9月31日即将退出游戏：
+9月30日即将退出游戏：
 《AI  梦境档案》（云端/主机/PC）
 《星位继承者》（云端/主机/PC）
 《卡牌艾斯》（云端/主机/PC）
