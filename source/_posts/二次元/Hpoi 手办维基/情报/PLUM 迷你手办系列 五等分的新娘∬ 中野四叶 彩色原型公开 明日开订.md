@@ -1,0 +1,42 @@
+
+---
+title: 'PLUM 迷你手办系列 五等分的新娘∬ 中野四叶 彩色原型公开 明日开订'
+categories: 
+ - 二次元
+ - Hpoi 手办维基
+ - 情报
+headimg: 'https://r3.hpoi.net.cn/gk/cover/n/2022/09/59bc765fffba44fc83a8292311916422.jpg?date=1663739861'
+author: Hpoi 手办维基
+comments: false
+date: Wed, 21 Sep 2022 06:01:00 GMT
+thumbnail: 'https://r3.hpoi.net.cn/gk/cover/n/2022/09/59bc765fffba44fc83a8292311916422.jpg?date=1663739861'
+---
+
+<div>   
+类型:
+                    
+                        
+                            手办
+                        
+                        
+                        
+                        
+                        
+                        
+                    
+                <br>PLUM 迷你手办系列 五等分的新娘∬ 中野四叶 彩色原型公开 明日开订<br>更新内容: 
+                
+                    
+                    
+                    
+                    
+                    
+                        官图更新
+                    
+                    
+                    
+                
+                    
+                <br><img src="https://r3.hpoi.net.cn/gk/cover/n/2022/09/59bc765fffba44fc83a8292311916422.jpg?date=1663739861" referrerpolicy="no-referrer">  
+</div>
+            
