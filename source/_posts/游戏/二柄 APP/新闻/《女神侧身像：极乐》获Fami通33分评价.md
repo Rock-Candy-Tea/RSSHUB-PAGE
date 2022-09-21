@@ -8,7 +8,7 @@ categories:
 headimg: 'https://erbingeditor.diershoubing.com/6/2022/09/21/1352405574.jpg'
 author: 二柄 APP
 comments: false
-date: 2022-09-21 10:11:29
+date: 2022-09-21 11:10:01
 thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/09/21/1352405574.jpg'
 ---
 
@@ -20,6 +20,6 @@ thumbnail: 'https://erbingeditor.diershoubing.com/6/2022/09/21/1352405574.jpg'
 4、但在技能的解放和武器熟练度上存在些问题。
 5、在解说剧情时会附带一些不错的视觉图。
 6、虽然系统上新颖的地方不多，不过稳妥的作法显然更适合本作。
-7、通过需要20个小时，各种要素都收集的话需25个小时。<br><img src="https://erbingeditor.diershoubing.com/6/2022/09/21/1352405574.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/09/21/1352400585.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/09/21/1352401757.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/09/21/1352401147.jpg" referrerpolicy="no-referrer">  
+7、通关需要20个小时，各种要素都收集的话需25个小时。<br><img src="https://erbingeditor.diershoubing.com/6/2022/09/21/1352405574.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/09/21/1352400585.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/09/21/1352401757.jpg" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/6/2022/09/21/1352401147.jpg" referrerpolicy="no-referrer">  
 </div>
             

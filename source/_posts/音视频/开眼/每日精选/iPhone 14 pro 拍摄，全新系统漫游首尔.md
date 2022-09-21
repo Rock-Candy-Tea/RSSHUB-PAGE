@@ -1,0 +1,18 @@
+
+---
+title: 'iPhone 14 pro 拍摄，全新系统漫游首尔'
+categories: 
+ - 音视频
+ - 开眼
+ - 每日精选
+headimg: 'https://cors.zfour.workers.dev/?http://img.kaiyanapp.com/c84322770a2efcb88ee7b9387512b5fb.jpeg?imageMogr2/quality/60/format/jpg'
+author: 开眼
+comments: false
+date: Wed, 21 Sep 2022 01:00:16 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://img.kaiyanapp.com/c84322770a2efcb88ee7b9387512b5fb.jpeg?imageMogr2/quality/60/format/jpg'
+---
+
+<div>   
+Andy To 带着新的 iPhone 14 Pro 去首尔进行测试。iPhone 14 是苹果公司于 2022 年 9 月 8 日发布的手机产品。iPhone 14 搭载 6.1 英寸 OLED 屏幕材质，长度约 146.7mm、宽度约 71.5mm、厚度约 7.8mm、重量约 172g。iPhone 14 搭载苹果 A15 六核处理器，后置摄像头为 1200 万像素主镜头和 1200 万像素超广角镜头，前置摄像头为 1200 万像素，支持光像引擎、深度融合技术、智能 HDR4、人像模式等功能。From Andy To<br><img src="https://cors.zfour.workers.dev/?http://img.kaiyanapp.com/c84322770a2efcb88ee7b9387512b5fb.jpeg?imageMogr2/quality/60/format/jpg" referrerpolicy="no-referrer"><br><video src="https://cors.zfour.workers.dev/?http://baobab.kaiyanapp.com/api/v1/playUrl?vid=313879&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=" controls="controls"></video>  
+</div>
+            
