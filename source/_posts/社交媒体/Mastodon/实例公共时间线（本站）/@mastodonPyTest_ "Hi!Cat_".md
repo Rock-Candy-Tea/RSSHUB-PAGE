@@ -8,14 +8,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/109/033/538/284/092/550/original/8fb126545c901d36.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/109/034/305/755/143/203/original/2b4c4c5258b411f2.jpeg'
 author: Mastodon
 comments: false
-date: Wed, 21 Sep 2022 00:22:41 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/109/033/538/284/092/550/original/8fb126545c901d36.jpeg'
+date: Wed, 21 Sep 2022 03:37:52 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/109/034/305/755/143/203/original/2b4c4c5258b411f2.jpeg'
 ---
 
 <div>   
-<hr><p>Hi!<br>Cat:</p><br><img src="https://img.pawoo.net/media_attachments/files/109/033/538/284/092/550/original/8fb126545c901d36.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>Hi!<br>Cat:</p><br><img src="https://img.pawoo.net/media_attachments/files/109/034/305/755/143/203/original/2b4c4c5258b411f2.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
