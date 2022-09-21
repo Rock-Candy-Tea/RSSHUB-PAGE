@@ -5,11 +5,11 @@ categories:
  - 编程
  - Go 语言中文网
  - 周刊
-headimg: 'https://picsum.photos/400/300?random=2142'
+headimg: 'https://picsum.photos/400/300?random=126'
 author: Go 语言中文网
 comments: false
-date: 2022-09-21 03:50:16
-thumbnail: 'https://picsum.photos/400/300?random=2142'
+date: 2022-09-21 05:21:15
+thumbnail: 'https://picsum.photos/400/300?random=126'
 ---
 
 <div>   
