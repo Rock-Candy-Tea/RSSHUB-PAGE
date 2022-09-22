@@ -8,15 +8,13 @@ categories:
 headimg: 'https://www.nintendo.com.hk/software/img/bnr/HAC-P-A2CDB.jpg'
 author: Nintendo
 comments: false
-date: 2022-09-21 15:10:51
+date: 2022-09-22 00:57:25
 thumbnail: 'https://www.nintendo.com.hk/software/img/bnr/HAC-P-A2CDB.jpg'
 ---
 
 <div>   
 <img src="https://www.nintendo.com.hk/software/img/bnr/HAC-P-A2CDB.jpg" referrerpolicy="no-referrer"><br><strong>发售日期：</strong>2022.11.8<br><strong>价格：</strong>港币<br><strong>支持中文：</strong>是<br><strong>发行商：</strong>BANDAI NAMCO Entertainment<br>
-        <div class="value"><p><span style="color: #ff0000;"><strong>此為預購商品，可於2022年9月17日開始兌換及下載，並於2022年9月22日起開始遊玩。</strong></span></p>
-<p><span style="color: #ff0000;"><strong>(請注意 : 購買完成後會即時發出遊戲軟體下載序號，最早可於遊戲發售日5日前開始兌換及下載。)</strong></span></p>
-<p><span style="color: #ff0000;"><strong>※本產品為遊戲本篇與「太鼓 Music Pass 90天使用券」的組合包。另有販售一般版。</strong></span></p>
+        <div class="value"><p><span style="color: #ff0000;"><strong>※本產品為遊戲本篇與「太鼓 Music Pass 90天使用券」的組合包。另有販售一般版。</strong></span></p>
 <p> </p>
 <p>不僅獨樂樂！更可眾樂樂！齊打太鼓盡情暢玩！</p>
 <p> </p>
