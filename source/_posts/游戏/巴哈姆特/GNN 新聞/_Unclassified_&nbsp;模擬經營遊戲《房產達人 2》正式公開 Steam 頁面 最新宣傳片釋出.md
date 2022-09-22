@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/06/f48edccbd5826e0cf54003e97a1ie6m5.JPG?v=1663831537641'
 author: 巴哈姆特
 comments: false
-date: 2022-09-22 10:11:34
+date: 2022-09-22 11:09:21
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/06/f48edccbd5826e0cf54003e97a1ie6m5.JPG?v=1663831537641'
 ---
 
@@ -37,9 +37,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/06/f48edccbd5826e0cf54003e97a1ie6m5.
 <div>
  </div>
 <div>
-　　官方表示，做為《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%BF%E7%94%A2%E9%81%94%E4%BA%BA" target="_blank">房產達人</a>》續作的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%BF%E7%94%A2%E9%81%94%E4%BA%BA+2" target="_blank">房產達人 2</a>》將帶來新的遊戲機制並且改進原作已有的遊戲體驗</div>
-<div>
-。在本作中玩家除了可以在故事模式中於「荓納客福鎮」幫助當地居民完成修繕老舊房屋的任務外，也能在新增的沙盒模式中從頭開始建造屬於自己的房子。</div>
+　　官方表示，做為《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%BF%E7%94%A2%E9%81%94%E4%BA%BA" target="_blank">房產達人</a>》續作的《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%BF%E7%94%A2%E9%81%94%E4%BA%BA+2" target="_blank">房產達人 2</a>》將帶來新的遊戲機制並且改進原作已有的遊戲體驗。在本作中玩家除了可以在故事模式中於「荓納客福鎮」幫助當地居民完成修繕老舊房屋的任務外，也能在新增的沙盒模式中從頭開始建造屬於自己的房子。</div>
 <div>
  </div>
 <div>
