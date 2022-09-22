@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/01/9e950122b788d80eece60cdb231idvd5.JPG?v=1663812114354'
 author: 巴哈姆特
 comments: false
-date: 2022-09-22 03:34:55
+date: 2022-09-22 05:17:33
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/9e950122b788d80eece60cdb231idvd5.JPG?v=1663812114354'
 ---
 
@@ -27,7 +27,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/01/9e950122b788d80eece60cdb231idvd5.
 <div>
  </div>
 <div>
-　　Logitech G CLOUD 採用 Android 11 系統，配備高通驍龍 720G 處理器（最高 2.3GHz）。7 吋 1080p 16:9 IPS 液晶多點觸碰螢幕（亮度 450nits / 更新率 60Hz）。配備立體聲喇叭，3.5mm 耳機麥克風接頭，支援藍牙 5.1 aptX Adaptive 與 USB Type-C 耳機麥克風。提供標準遊戲控制器輸入，線性震動與 6 軸動態感測。支援Wi-Fi 5 2.4GHz / 5GHz 雙頻 2×2 MIMO 與藍牙 5.1 無線連線。內建 23.1Wh 鋰聚合物充電電池，續航力超過 12 小時。可透過 TF Card 插槽擴充儲存容量。本體長寬高 256.84 × 117.21 × 32.95mm，重 463g。</div>
+　　Logitech G CLOUD 採用 Android 11 系統，配備高通驍龍 720G 處理器（最高 2.3GHz）。7 吋 1080p 16:9 IPS 液晶多點觸碰螢幕（亮度 450nits / 更新率 60Hz）。配備立體聲喇叭，3.5mm 耳機麥克風接頭，支援藍牙 5.1 aptX Adaptive 與 USB Type-C 耳機麥克風。提供標準遊戲控制器輸入，線性震動與 6 軸動態感測。支援 Wi-Fi 5 2.4GHz / 5GHz 雙頻 2×2 MIMO 與藍牙 5.1 無線連線。內建 23.1Wh 鋰聚合物充電電池，續航力超過 12 小時。可透過 TF Card 插槽擴充儲存容量。本體長寬高 256.84 × 117.21 × 32.95mm，重 463g。</div>
 <div>
  </div>
 <div>
