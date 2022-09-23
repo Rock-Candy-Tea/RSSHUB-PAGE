@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/43/ead7921ecc3943cf1a958f46641iezf5.JPG?v=1663926538493'
 author: 巴哈姆特
 comments: false
-date: 2022-09-23 10:11:32
+date: 2022-09-23 11:09:32
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/43/ead7921ecc3943cf1a958f46641iezf5.JPG?v=1663926538493'
 ---
 
@@ -32,13 +32,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/43/ead7921ecc3943cf1a958f46641iezf5.
 <div>
  </div>
 <div>
-　　此外，Valve 還為遊戲登上排行榜增加更多標示，讓玩家可以更深入瞭解這款遊戲的狀況，例如遊戲登上暢銷排行榜榜單的週數、這週排名與上週的差異，甚至遊戲是否正在打折等。如果玩家在每週榜單持續往前探索，也可以感受到 Steam 的成長歷程，從 2004 年 3 月只有《戰慄時空：絕對武力》一款遊戲，到越來越多遊戲在 Steam 平台上發行、讓排行榜名單越來越豐富。</div>
+　　此外，Valve 還為遊戲登上排行榜增加更多標示，讓玩家可以更深入瞭解這款遊戲的狀況，例如遊戲登上暢銷排行榜榜單的週數、這週排名與上週的差異，甚至遊戲是否正在打折等。如果玩家在每週榜單持續往過去探索，也可以感受到 Steam 平台的成長歷程，從 2004 年 3 月只有《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E6%85%84%E6%99%82%E7%A9%BA%EF%BC%9A%E7%B5%95%E5%B0%8D%E6%AD%A6%E5%8A%9B" target="_blank">戰慄時空：絕對武力</a>》一款遊戲，到越來越多遊戲在 Steam 平台上發行、讓排行榜名單越來越豐富。</div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 31.35%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/04/e2d069e48f2641e0cc326b9b8c1if145.JPG?v=1663927743226" data-srcset="https://p2.bahamut.com.tw/B/2KU/04/e2d069e48f2641e0cc326b9b8c1if145.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/04/e2d069e48f2641e0cc326b9b8c1if145.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 31.35%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/04/e2d069e48f2641e0cc326b9b8c1if145.JPG?v=1663927743226" data-srcset="https://p2.bahamut.com.tw/B/2KU/04/e2d069e48f2641e0cc326b9b8c1if145.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/04/e2d069e48f2641e0cc326b9b8c1if145.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
