@@ -1,0 +1,18 @@
+
+---
+title: '猫pk狗_养哪一个比较好_-跫音的回答：我家两猫两狗，也都是自己一把屎一把尿带大的。下面介绍下养他们_艰难_里程 小狗小的时候要带好①在家不能一直叫，如果考...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pica.zhimg.com/v2-b90757b9ca3d2266177d9585ff37bf6a_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Fri, 23 Sep 2022 05:10:37 GMT
+thumbnail: 'https://pica.zhimg.com/v2-b90757b9ca3d2266177d9585ff37bf6a_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>猫pk狗:养哪一个比较好?</strong><br>跫音的回答<br><p data-pid="ruQGen1q">我家两猫两狗，也都是自己一把屎一把尿带大的。下面介绍下养他们“艰难”里程 </p><p data-pid="-Jcx3cPj">小狗小的时候要带好①在家不能一直叫，如果考虑到大了偶尔也要关笼子养，要从小适应，否则等大了进笼子就要发脾气乱叫，会吵到其他邻居②拉屎撒尿要学会定点，试想如果天天在你家里客厅卧室动不动撒尿拉屎。即使你想养，家里怕也容不下它(另:言外之意，狗狗拉屎撒要在户外进行。那也意味着你养了它以后，作为一个负责的好主人，你要每天遛狗刮风下雨风雨无阻，拉屎之后最好随时携带拾便袋，随时处理不“污染”环境，也省的被人指指点点。有的大型犬可能精力旺盛，遛狗散步也不够它的运动量，需要你带它跑步。)③因为狗狗经常出去，它需要疫苗狂犬驱虫清洁面面俱到(我家养的萨摩耶和拉布拉多，萨摩耶一周不洗就会变成小灰，拉布拉多相对来说自洁能力要好很多，为了节约成本，驱虫疫苗还有洗澡都是自己动手，尤其洗澡是浩大工程，一只狗起步两小时)④相对于猫咪，狗狗更喜欢粘人跟你玩(至少我家是这样，小猫咪你要看它心情什么时候跟你玩)</p><p data-pid="RA5oqo9v">小猫相对狗狗来讲确实省事了不少，但也有不少小猫，性子比较高冷，或者肠胃比较脆弱，亦或者它不能随时随地的跟你出去玩，闯荡世界。①猫咪只要小时候猫妈妈教过用猫砂盆，那么定点拉屎的问题就完全解决了②猫咪高兴的时候跑酷，不高兴的时候抓猫抓板。这些再怎么闹不至于吵到邻居(但是小猫咪真的会早上四五点喊你起床，在你屋子里跑酷，脸上睡觉。不要觉得狗狗会翻垃圾箱猫咪不会！他们都会，猫咪还会上桌子爬柜子，养了猫咪记得收好你目视可见的一切易碎品，小零件。避免造成不必要的损失或者被小猫咪吞服)③绝育问题，狗狗绝育就是性子更稳定，不绝育也不存在尿床或者在屋子里“叫春”(我家两个大公狗目前两岁左右，还都没有绝育，目前一切都还好）。但是猫咪就不行，公猫发情会到处撒尿，或者被隔壁小猫拐走。母猫发情会一直叫，且它自己也很难受，地上打滚，茶饭不思，日渐消瘦。所以猫咪基本上最后都要走上绝育之路(有些公猫发情可能也不会乱尿，但是极少数)</p><p data-pid="GKSmQiUa">吃食上面，跟着富人吃好的，跟着穷人吃差的。只要用心养，肯定会在自己能力范围内给它最好的。这个问题不太大。</p><p data-pid="zP6RGmPN">图一:高兴坏了的修狗</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-b90757b9ca3d2266177d9585ff37bf6a_1440w.jpg?source=1940ef5c" data-rawwidth="872" data-rawheight="1920" data-size="normal" data-default-watermark-src="https://pica.zhimg.com/50/v2-f1cf96fc092b21a51661e59cdc07105d_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-b90757b9ca3d2266177d9585ff37bf6a_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="cD2qJ4CY">图二:洗完澡出去兜风的修狗</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-3824d1a3bd4f5e635a95b93dc490b18f_1440w.jpg?source=1940ef5c" data-rawwidth="1538" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-3adccda73bcc9493810623ee5036163a_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-3824d1a3bd4f5e635a95b93dc490b18f_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="-MR_2WcK">图三:看起来跟好rua的小姑娘(实际上特别高冷>_<。让不让你摸都要看她心情)</p><figure data-size="normal"><img src="https://pic4.zhimg.com/v2-52a38a20a58822948971a98caae78467_1440w.jpg?source=1940ef5c" data-rawwidth="1280" data-rawheight="2814" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-6e97b3175c7284f722404f9263f1ab8f_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic4.zhimg.com/v2-52a38a20a58822948971a98caae78467_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="TRbTzK1-">图四:嚣张跋扈的大橘(其实它性子很粘人，随时随地让你rua～且不肥不瘦手感刚刚好)</p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-1af47645ff741146aa771188d3f8a6f4_1440w.jpg?source=1940ef5c" data-rawwidth="1538" data-rawheight="2048" data-size="normal" data-default-watermark-src="https://picx.zhimg.com/50/v2-cf57b01d70e7ed91797db12f67f9a8bc_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-1af47645ff741146aa771188d3f8a6f4_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p></p>  
+</div>
+            
