@@ -1,0 +1,18 @@
+
+---
+title: 'RTX 40显卡被指太贵 网友创作meme图呼吁AMD拯救玩家'
+categories: 
+ - 新媒体
+ - ZAKER
+ - channel
+headimg: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632d60d58e9f0960d55d9a1d_1024.jpg'
+author: ZAKER
+comments: false
+date: Fri, 23 Sep 2022 01:15:27 GMT
+thumbnail: 'https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632d60d58e9f0960d55d9a1d_1024.jpg'
+---
+
+<div>   
+<p>这几天显卡圈很热闹，NVIDIA 发布了 RTX 40 系列显卡，性能提升非常明显，在新一代 DLSS 3 及 RTX 光追加持下，性能可达上代显卡 4 倍，原始光栅性能也提升了 70% 左右。然而这次史上最强性能显卡的发布也带来了太多争议，核心问题就在于 RTX 40 系列三款显卡价格偏贵，RTX 4080 12GB 就要 7199 元，RTX 4080 16GB 则要 9499 元，RTX 4090 24GB 则是 12999 元。</p><p>要知道 RTX 4080 12GB 这次还是 192bit 位宽的，之前的显卡中这种配置大概也就是 RTX 4070 而已，现在摇身一变成为旗舰级显卡了。</p><p>这么精妙的刀法再加上全面上涨的价格，这几天国内及国外的玩家都在各种吐槽，各种顽梗发泄不满，更多的人则把希望放在了 AMD 身上，后者将在 11 月 3 日发布 RX 7000 系列显卡。</p><p>RX 7000 系列显卡到底有什么样的表现？现在一切都没定论，<strong>但是网友已经把它当做救星了，强烈期待 RX 7000 系列显卡能够一鸣惊人，对 RTX 40 系列显卡带来致命打击，逼着 NVIDIA 降价。</strong></p><p></p><div class="img_box" id="id_imagebox_0" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_0" data-original="http://zkres2.myzaker.com/202209/632d60d58e9f0960d55d9a1d_1024.jpg" data-height="252" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632d60d58e9f0960d55d9a1d_1024.jpg" referrerpolicy="no-referrer"></div></div>当然，也有网友人间清醒，在 reddit 上发帖给 AMD 提建议，表示现在是他们提高 GPU 市场份额的好机会，可以给玩家带来更好的性价比。<p></p><p>但是他也提醒说，<strong>AMD 千万不要变得贪婪，不要犯蠢，在定价方面上不要跟 NVIDIA 一样。</strong></p><p></p><div class="img_box" id="id_imagebox_1" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_1" data-original="http://zkres2.myzaker.com/202209/632d60d58e9f0960d55d9a1e_1024.jpg" data-height="585" data-width="460" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632d60d58e9f0960d55d9a1e_1024.jpg" referrerpolicy="no-referrer"></div></div>在这事上，不论国内还是国外玩家，不得不让人佩服他们的天真与可爱，假如 11 月初发布的 RX 7000 系列显卡性能、能效及新技术可以匹敌甚至超越 RTX 40 系列显卡，竟然期待 AMD 新卡价格不要太贵。<p></p><p>这种好事是存在的吗？网友自己都说了，AMD 是一家商业公司，最终目标是赚钱，他们可不是搞慈善的。</p><p></p><div class="img_box" id="id_imagebox_2" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_2" data-original="http://zkres2.myzaker.com/202209/632d60d58e9f0960d55d9a1f_1024.jpg" data-height="971" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632d60d58e9f0960d55d9a1f_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_3" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_3" data-original="http://zkres1.myzaker.com/202209/632d60d58e9f0960d55d9a20_1024.jpg" data-height="941" data-width="700" src="https://cors.zfour.workers.dev/?http://zkres1.myzaker.com/202209/632d60d58e9f0960d55d9a20_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_4" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_4" data-original="http://zkres2.myzaker.com/202209/632d60d58e9f0960d55d9a21_1024.jpg" data-height="419" data-width="336" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632d60d58e9f0960d55d9a21_1024.jpg" referrerpolicy="no-referrer"></div></div><div class="img_box" id="id_imagebox_5" onclick><div class="content_img_div perview_img_div"><img class="lazy opacity_0 " id="img_5" data-original="http://zkres2.myzaker.com/202209/632d60d58e9f0960d55d9a22_1024.jpg" data-height="273" data-width="460" src="https://cors.zfour.workers.dev/?http://zkres2.myzaker.com/202209/632d60d58e9f0960d55d9a22_1024.jpg" referrerpolicy="no-referrer"></div></div><p></p><div id="recommend_bottom"></div><div id="article_bottom"></div>  
+</div>
+            
