@@ -1,0 +1,19 @@
+
+---
+title: '被动的软银孙正义，求助三星欲解决 ARM 燃眉之急仍存挑战'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 分类资讯
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/9/8fa967ef-2dc4-426a-8979-af3f8adfd74a.png'
+author: IT 之家
+comments: false
+date: Fri, 23 Sep 2022 01:09:37 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/9/8fa967ef-2dc4-426a-8979-af3f8adfd74a.png'
+---
+
+<div>   
+<p data-vmark="7457">北京时间 9 月 23 日消息，在面向英伟达的出售交易失败后，软银集团把旗下芯片设计巨头 ARM 的未来寄托在了 IPO 上。然而，股市状况不佳，软银目前正努力在 ARM 上市前提高其估值。为此，<span class="accentTextColor">软银董事长兼 CEO 孙正义 (Masayoshi Son) 亲自与三星电子接触，探讨可能的战略合作。</span></p><p style="text-align: center;" data-vmark="4459"><img src="https://img.ithome.com/newsuploadfiles/2022/9/8fa967ef-2dc4-426a-8979-af3f8adfd74a.png" w="735" h="410" alt="孙正义" title="被动的软银孙正义，求助三星欲解决 ARM 燃眉之急仍存挑战" width="735" height="410" referrerpolicy="no-referrer"></p><p data-vmark="5cb7">在旗舰科技投资工具愿景基金上一财年遭遇创纪录亏损后，软银一直面临着在 ARM 身上变现的压力。为了筹集资金，软银在第二季度已经出售了所持美国打车巨头 Uber 的剩余股份，并减持了阿里巴巴集团的股票。</p><p data-vmark="c35b">与此同时，近几个月来，全球科技股遭遇重创，打击了软银在 2022 年让 ARM 上市的计划。孙正义此前曾表示，他“几乎每天”都在考虑如何处理 ARM，“非常积极”。</p><p data-vmark="dac9">然而，孙正义寻求与三星建立战略伙伴关系并非没有挑战。如果 ARM 与一家特定的芯片公司达成合作，那么它可能会面临来自其他客户的抵制，并最终威胁到它对智能手机芯片设计的掌控。</p><h2 data-vmark="7d56">疫情后首访韩国</h2><p data-vmark="9aae">孙正义在周三宣布，计划在 10 月份访问韩国与三星进行会谈。<span class="accentTextColor">“我期待着三年来第一次访问韩国，我想和三星谈谈与 ARM 的战略联盟。”他在一份声明中说。</span></p><p data-vmark="4073">自新冠肺炎疫情开始传播以来，孙正义一直在东京工作，这次亲自拜访三星显示出他对潜在合作的热情。</p><p data-vmark="6ff8">三星集团实际领导人、三星副会长李在镕 (Lee Jae-yong) 周三对此表示，孙正义在访问首尔期间“可能会提出某种提议”，“但我不确定”。</p><p style="text-align: center;" data-vmark="f240"><img src="https://img.ithome.com/newsuploadfiles/2022/9/aeb9a854-bbc7-4e6d-b1bc-f97ace859318.jpg@s_2,w_820,h_461" w="976" h="549" alt="孙正义将会见李在镕" title="被动的软银孙正义，求助三星欲解决 ARM 燃眉之急仍存挑战" srcset="https://img.ithome.com/newsuploadfiles/2022/9/aeb9a854-bbc7-4e6d-b1bc-f97ace859318.jpg 2x" width="976" height="461" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="838a">孙正义将会见李在镕</p><p data-vmark="2bc8">孙正义把 ARM 视为软银集团的“核心”，这家芯片设计公司的产品基本上就是芯片公司用来敲定设计的蓝图。ARM 的产品之所以受欢迎，是因为它们节能。全球 90% 以上的智能手机处理器都是基于 ARM 的知识产权。</p><p data-vmark="a0a0">一位熟悉芯片行业的消息人士称，ARM 是手机芯片设计领域的“唯一主导者”。</p><h2 data-vmark="44ed">为何找三星？</h2><p data-vmark="5f42">目前，三星正自己设计智能手机处理器，是 ARM 的一个重要客户。而且，三星还在扩大芯片代工业务，开放了更多合作机会。</p><p data-vmark="f9ce">截至今年 6 月底，三星持有 125 万亿韩元 (约合 890 亿美元) 的现金。据信，该公司正探索在芯片领域进行收购，以实现半导体产品线的多元化，把业务扩大到存储芯片和智能手机处理器等领域以外。</p><p data-vmark="de0a">野村证券 (Nomura) 亚洲科技研究主管钟汉忠 (CW Chung) 表示，鉴于反垄断担忧已经挫败了英伟达早些时候的收购企图，三星独自收购全部 ARM 的可能性很低。“更有可能的情况是，三星可能会寻求收购 ARM 的一部分。”他表示。他还表示，另一种可能的情况是，在为 ARM 寻求 IPO 之前，软银首先将 ARM 的部分股权出售给三星。</p><p data-vmark="e582">三星国内对手 SK 海力士的掌门人在今年 3 月的股东大会上也曾提议收购 ARM。业内厂商预计会密切关注 ARM 与三星拟议中的合作关系的命运。</p><h2 data-vmark="86b2">挑战依旧不小</h2><p data-vmark="4c25">但是，ARM 要想与另一家半导体公司展开过于密切的合作也存在障碍。<span class="accentTextColor">ARM 加强与某个特定客户的关系可能会引发其他客户的抵制，因为他们担心这种合作会让自己处于不利地位。</span></p><p style="text-align: center;" data-vmark="611a"><img src="https://img.ithome.com/newsuploadfiles/2022/9/3ca88ce7-7f0f-43a0-aad8-0d00d7138968.png" w="693" h="388" alt="ARM架构芯片具备节能等优势" title="被动的软银孙正义，求助三星欲解决 ARM 燃眉之急仍存挑战" width="693" height="388" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="ea69">ARM 架构芯片具备节能等优势</p><p data-vmark="3484">2020 年 9 月，图形处理器公司英伟达宣布斥资 400 亿美元收购 ARM。然而，业内同行的强烈反对使监管审查变得复杂，最终导致该交易失败。</p><p data-vmark="9e79">ARM 这种无可匹敌的地位引发了担忧，促使企业寻找替代方案。许多芯片设计师和制造商都对 RISC-V 感兴趣，后者是一种免费的、开源的指令集架构，可能会挑战 Arm 在该领域的主导地位。一些创业公司已经在提供基于 RISC-V 架构的蓝图。ARM 的错误举动可能会吓跑客户，挤压其市场份额。</p><p data-vmark="68d8">此外，其他公司也已表示有意入股 ARM。ARM 大客户、高通 CEO 克里斯蒂亚诺・安蒙 (Cristiano Amon) 在今年稍早时候表示，该公司有意投资 ARM。另外，分析师和媒体纷纷猜测，半导体行业可能会成立一个财团来收购 ARM。</p><p data-vmark="027d">孙正义说过，“我希望人们期待我们核心业务的增长”。在为 ARM 制定下一步计划时，无论是 IPO 还是与三星合作，他都可能面临艰难的平衡抉择。</p>
+          
+</div>
+            

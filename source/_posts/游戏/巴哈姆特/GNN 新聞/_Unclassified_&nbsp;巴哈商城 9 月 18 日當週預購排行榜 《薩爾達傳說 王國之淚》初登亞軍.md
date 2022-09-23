@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.JPG?v=1663825126168'
 author: 巴哈姆特
 comments: false
-date: 2022-09-23 00:59:51
+date: 2022-09-23 03:46:25
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.JPG?v=1663825126168'
 ---
 
@@ -21,7 +21,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.JPG?v=1663825126168" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.JPG 2x" style="max-width: unset;" title="《薩爾達傳說 王國之淚》" alt="image" referrerpolicy="no-referrer"></figcaption>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.JPG?v=1663825126168" data-srcset="https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.JPG 2x" style="max-width: unset;" title="《薩爾達傳說 王國之淚》" referrerpolicy="no-referrer"></figcaption>
 <figure class="pic-desc">
 《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%96%A9%E7%88%BE%E9%81%94%E5%82%B3%E8%AA%AA%20%E7%8E%8B%E5%9C%8B%E4%B9%8B%E6%B7%9A" target="_blank">薩爾達傳說 王國之淚</a>》</figure>
 </li>
@@ -48,7 +48,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.
 <div>
  </div>
 <div>
-　　2022 年 9 月 18 日（日）上午 8 點出爐的巴哈商城預購排行榜，因為 TGS2022 前夕的 9 月 13 日舉辦的 Nintendo Direct 而有很大的變化。《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%96%A9%E7%88%BE%E9%81%94%E5%82%B3%E8%AA%AA" target="_blank">薩爾達傳說</a>》新作《王國之淚》正式定名並發表上市日期開放預購之後，隨即就衝上預購榜亞軍，威力不同凡響。另一款首度發表的新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%81%96%E7%81%AB%E9%99%8D%E9%AD%94%E9%8C%84+Engage" target="_blank">聖火降魔錄 Engage</a>》拿下預購榜第六名。因而讓 PS5《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E7%A5%9E%EF%BC%9A%E8%AB%B8%E7%A5%9E%E9%BB%83%E6%98%8F" target="_blank">戰神：諸神黃昏</a>》再次掉出前三名，回到久居的第四名。其他入榜作品也都退後一兩名。</div>
+　　2022 年 9 月 18 日（日）上午 8 點出爐的巴哈商城預購排行榜，因為 TGS2022 前夕的 9 月 13 日舉辦的 Nintendo Direct 而有很大的變化。《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%96%A9%E7%88%BE%E9%81%94%E5%82%B3%E8%AA%AA" target="_blank">薩爾達傳說</a>》新作《王國之淚》正式定名並發表上市日期開放預購之後，隨即就衝上預購榜亞軍，威力不同凡響。不過也讓 PS5《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E6%88%B0%E7%A5%9E%EF%BC%9A%E8%AB%B8%E7%A5%9E%E9%BB%83%E6%98%8F" target="_blank">戰神：諸神黃昏</a>》再次掉出前三名，回到之前久居的第四名。另一款首度發表的新作《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%81%96%E7%81%AB%E9%99%8D%E9%AD%94%E9%8C%84+Engage" target="_blank">聖火降魔錄 Engage</a>》拿下第六名。其他入榜作品大都退後一兩名。</div>
 <div>
  </div>
 <div>
@@ -71,7 +71,7 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/8211cb3c7cb56950dd336d11081i81z5.JPG?v=1663823519305" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/8211cb3c7cb56950dd336d11081i81z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/8211cb3c7cb56950dd336d11081i81z5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/63/8211cb3c7cb56950dd336d11081i81z5.JPG?v=1663823519305" data-srcset="https://p2.bahamut.com.tw/B/2KU/63/8211cb3c7cb56950dd336d11081i81z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/63/8211cb3c7cb56950dd336d11081i81z5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -100,13 +100,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.
 <div>
  </div>
 <div>
-　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%81%96%E7%81%AB%E9%99%8D%E9%AD%94%E9%8C%84+Engage" target="_blank">聖火降魔錄 Engage</a>》是任天堂經典戰略模擬角色扮演遊戲《聖火降魔錄》系列最新作，是以四個王國和一個聖地組成的世界「艾雷歐斯大陸」為舞台。故事敘述一千年前人類借助異界英雄「紋章士」之力，團結各國成功封印邪龍。時光流逝，封印的力量逐漸衰弱，世界開始顯現邪龍復活的徵兆。玩家將扮演身為神龍的主角「琉爾」，一千年前隨著邪龍被封印而沉眠，某天突然甦醒，但卻失去了關於自己的記憶。故事從主角與代代守護神龍的「<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%BE%8D%E4%B9%8B%E5%AE%88%E8%AD%B7" target="_blank">龍之守護</a>者」相遇展開，主角能喚醒沉睡在戒指中的異界英雄「紋章士」<span style="font-family: "Helvetica Neue", Roboto, Arial, "Lucida Grande", "PingFang TC", 蘋果儷中黑, "Apple LiGothic Medium", 巴哈正黑體, "Microsoft JhengHei", 微軟正黑體, Helvetica, sans-serif;">與之並肩作戰。</span></div>
+　　《<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E8%81%96%E7%81%AB%E9%99%8D%E9%AD%94%E9%8C%84+Engage" target="_blank">聖火降魔錄 Engage</a>》是任天堂經典戰略模擬角色扮演遊戲《聖火降魔錄》系列最新作，是以四個王國和一個聖地組成的世界「艾雷歐斯大陸」為舞台。故事敘述一千年前人類借助異界英雄「紋章士」之力，團結各國成功封印邪龍。時光流逝，封印的力量逐漸衰弱，世界開始顯現邪龍復活的徵兆。玩家將扮演身為神龍的主角「琉爾」，一千年前隨著邪龍被封印而沉眠，某天突然甦醒，但卻失去了關於自己的記憶。故事從主角與代代守護神龍的「<a class="acglink" href="https://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%BE%8D%E4%B9%8B%E5%AE%88%E8%AD%B7" target="_blank">龍之守護</a>者」相遇展開，主角能喚醒沉睡在戒指中的異界英雄「紋章士」<span style="font-family:">與之並肩作戰。</span></div>
 <div>
  </div>
 <div>
 <ul class="bh-grids-img">
 <li class="bh-grids-img-box" style="width: 99.87%;">
-<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/17/8470c80225aa4c85bd66bcfa661i7sd5.JPG?v=1663824756353" data-srcset="https://p2.bahamut.com.tw/B/2KU/17/8470c80225aa4c85bd66bcfa661i7sd5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/17/8470c80225aa4c85bd66bcfa661i7sd5.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+<figcaption style="padding-bottom: 56.26%"><img alt="image" name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/17/8470c80225aa4c85bd66bcfa661i7sd5.JPG?v=1663824756353" data-srcset="https://p2.bahamut.com.tw/B/2KU/17/8470c80225aa4c85bd66bcfa661i7sd5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/17/8470c80225aa4c85bd66bcfa661i7sd5.JPG 2x" style="max-width: unset;" title referrerpolicy="no-referrer"></figcaption></li>
 </ul>
 </div>
 <div>
@@ -145,13 +145,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.
 </tr>
 <tr class="single-row" data-kind="1020_159_1_0,4" data-pf="NS">
 <td class="number">
-<img class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_01.png" alt="image" referrerpolicy="no-referrer">
+<img alt="image" class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_01.png" referrerpolicy="no-referrer">
 <p>
 1</p>
 </td>
 <td class="main-content">
 <div class="form-content">
-<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1020&dc_c2=159&dc_type=1&dc_machine=0,4" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/27/d3cc63cccd6ad831d7279c542d1hmhz5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/27/d3cc63cccd6ad831d7279c542d1hmhz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/27/d3cc63cccd6ad831d7279c542d1hmhz5.JPG 2x" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1020&dc_c2=159&dc_type=1&dc_machine=0,4" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/27/d3cc63cccd6ad831d7279c542d1hmhz5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/27/d3cc63cccd6ad831d7279c542d1hmhz5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/27/d3cc63cccd6ad831d7279c542d1hmhz5.JPG 2x" referrerpolicy="no-referrer"></a>
 <div class="info-text">
 <div class="text-header">
 <span class="pt-tags rank-NS-color">NS</span>
@@ -174,13 +174,13 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/82/c59e85747d3493c9e1bae630d61i82i5.
 </tr>
 <tr class="single-row" data-kind="1039_33_1_0,4" data-pf="NS">
 <td class="number">
-<img class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_02.png" alt="image" referrerpolicy="no-referrer">
+<img alt="image" class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_02.png" referrerpolicy="no-referrer">
 <p>
 2</p>
 </td>
 <td class="main-content">
 <div class="form-content">
-<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1039&dc_c2=33&dc_type=1&dc_machine=0,4" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/edb60fb7e9a54ae3a6838f8d1a1i82z5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/edb60fb7e9a54ae3a6838f8d1a1i82z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/edb60fb7e9a54ae3a6838f8d1a1i82z5.JPG 2x" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=1039&dc_c2=33&dc_type=1&dc_machine=0,4" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/99/edb60fb7e9a54ae3a6838f8d1a1i82z5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/99/edb60fb7e9a54ae3a6838f8d1a1i82z5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/99/edb60fb7e9a54ae3a6838f8d1a1i82z5.JPG 2x" referrerpolicy="no-referrer"></a>
 <div class="info-text">
 <div class="text-header">
 <span class="pt-tags rank-NS-color">NS</span>
@@ -203,13 +203,13 @@ NEW</div>
 </tr>
 <tr class="single-row" data-kind="6006_6_1_0,4" data-pf="NS">
 <td class="number">
-<img class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_03.png" alt="image" referrerpolicy="no-referrer">
+<img alt="image" class="lazyload" data-sizes="auto" src="https://i2.bahamut.com.tw/newgshop/pic_ranking_crown_03.png" referrerpolicy="no-referrer">
 <p>
 3</p>
 </td>
 <td class="main-content">
 <div class="form-content">
-<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=6006&dc_c2=6&dc_type=1&dc_machine=0,4" target="_blank"><img class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/93/c2d97f5ece797cdea449addc011h8yx5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/93/c2d97f5ece797cdea449addc011h8yx5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/93/c2d97f5ece797cdea449addc011h8yx5.JPG 2x" alt="image" referrerpolicy="no-referrer"></a>
+<a href="https://buy.gamer.com.tw/search.php?frm=rank&kind=0&dc_c1=6006&dc_c2=6&dc_type=1&dc_machine=0,4" target="_blank"><img alt="image" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/93/c2d97f5ece797cdea449addc011h8yx5.JPG" data-srcset="https://p2.bahamut.com.tw/B/2KU/93/c2d97f5ece797cdea449addc011h8yx5.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/93/c2d97f5ece797cdea449addc011h8yx5.JPG 2x" referrerpolicy="no-referrer"></a>
 <div class="info-text">
 <div class="text-header">
 <span class="pt-tags rank-NS-color">NS</span>
