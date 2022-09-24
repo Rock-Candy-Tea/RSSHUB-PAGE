@@ -16,7 +16,7 @@ thumbnail: 'https://img1.mydrivers.com/img/20220924/s_c634eb2e934a4d17a556b02a97
 <p>近来有网红主播声称，4090用户若沿用现有ATX 2.0电源，最坏的情况是把房子点着。想求稳就要早做打算，抓紧时间抢购ATX 3.0电源，<strike>所以EVGA才转行卖电源</strike>。</p>
 <p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220924/c634eb2e934a4d17a556b02a978f2e91.jpg" target="_blank"><img alt="ATX 3.0迷思" h="337" src="https://img1.mydrivers.com/img/20220924/s_c634eb2e934a4d17a556b02a978f2e91.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>他们的主张是，ATX 3.0电源带有原生12VHPWR连接器，支持600瓦功率输送，不仅能满足额定450瓦的4090，还能战未来（比如4090Ti）。</p>
-<p>原生12VHPWR当然很好，根据Intel的ATX 3.0规范可知，除12个电源触点外，还额外设计4个信号触点供显卡与电源通信，告知对方需要多少功率。即便玩家购入一块4090之类的电老虎，也不至于因电源功率不足无法启动PC。</p>
+<p>原生12VHPWR当然好，根据Intel的ATX 3.0规范可知，除12个电源触点外，还额外设计4个信号触点供显卡与电源通信，告知对方需要多少功率。即便玩家购入一块4090之类的电老虎，也不至于因电源功率不足无法启动PC。</p>
 <p style="text-align: center;"><a href="https://img1.mydrivers.com/img/20220924/2fe23c2837b347489136c0818dc6869d.jpg" style="text-align: -webkit-center;" target="_blank"><img alt="ATX 3.0迷思" h="227" src="https://img1.mydrivers.com/img/20220924/s_2fe23c2837b347489136c0818dc6869d.jpg" style="border: 1px solid black;" w="600" referrerpolicy="no-referrer"></a></p>
 <p>根据上表可知，若显卡未监听到电源信号（Sense0与Sense1开路），则以最低档功率运行，确保用户能亮机并进入系统，然后显卡驱动程序会告诉用户GPU正处于低功率运行状态。</p>
 <p>现在的问题是，旧电源显然不支持这套握手信号，即便<strong>每一块4系显卡都附送了12VHPWR转接线</strong>，也只是负责将旧电源的8Pin PCIE转接成显卡端的12VHPWR——按坊间流传已久的说法，单路8Pin可提供150瓦功率，四根8Pin正好达成12VHPWR的上限，即4x150=600瓦。</p>
