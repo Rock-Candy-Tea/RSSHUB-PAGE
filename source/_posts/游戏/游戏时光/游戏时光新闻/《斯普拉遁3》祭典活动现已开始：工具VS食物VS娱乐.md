@@ -23,7 +23,7 @@ thumbnail: 'https://img01.vgtime.com/game/cover/2022/09/24/220924085319596_u524.
 
                 
                 
-                    <div class="topicContent front_content sort_content">《斯普拉遁3》祭典活动（港日服）现已开始。在准备祭的投票环节中，「打发时间的东西」队取得领先。 ​​​​</div>
+                    <div class="topicContent front_content sort_content">《斯普拉遁3》祭典活动现已开始。在准备祭法螺获得数量最多的队伍环节中，「打发时间的东西」队取得领先。</div>
                     <ul class="vg_short_img_box">
                         
                             <li><img alt="https://img01.vgtime.com/game/cover/2022/09/24/220924085319596_u524.jfif" src="https://img01.vgtime.com/game/cover/2022/09/24/220924085319596_u524.jfif?x-oss-process=image/resize,m_fill,h_480,w_480,limit_0" referrerpolicy="no-referrer"></li>
