@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://pic1.zhimg.com/v2-5dd7f0c736c46727e096149c74c15a61_1440w.jpg?source=b1748391'
+headimg: 'https://picsum.photos/400/300?random=6211'
 author: 知乎
 comments: false
-date: Sat, 24 Sep 2022 07:10:39 GMT
-thumbnail: 'https://pic1.zhimg.com/v2-5dd7f0c736c46727e096149c74c15a61_1440w.jpg?source=b1748391'
+date: Sat, 24 Sep 2022 04:11:21 GMT
+thumbnail: 'https://picsum.photos/400/300?random=6211'
 ---
 
 <div>   
-魔方数码的回答<br><br><p data-pid="qJjvQz1O">只能说iPhone 14遇冷，不过那是它自身原因，但是iPhone 14 Pro和iPhone Pro Max一切都正常！</p><p data-pid="ZXYfEGEa">其实只不过先前炒作太过于猛烈，没想到跟预期相差很大而已，一样的iPhone只要降价合理自然是主角！</p><p data-pid="NiZMPswj">毕竟5000价位没几个机型可以和iPhone系列抗衡，这是现实数据证明的。</p><p data-pid="9_d1Mcf2">所以基础版本出货不好是它自身，只不过目前来看人们认为价格和iPhone 13相差很大，但是升级不多，这才给我们一个信号不如iPhone 13性价比高。</p><p data-pid="0zWmWA7C">所以选择iPhone 13系列还是选择新款iPhone 14你自己决定，毕竟购物的时候口袋决定脑袋！</p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-5dd7f0c736c46727e096149c74c15a61_1440w.jpg?source=b1748391" data-caption data-size="normal" data-rawwidth="669" data-rawheight="400" data-default-watermark-src="https://pica.zhimg.com/v2-57992455b3d1a5cead38ca5ed5c2b8bc_720w.jpg?source=b1748391" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-5dd7f0c736c46727e096149c74c15a61_r.jpg?source=b1748391" referrerpolicy="no-referrer"></figure><p></p>  
+听风的回答<br><br><p data-pid="w9UBJXbi">库克的精准刀法，一向如此。</p><p data-pid="-_bRzwCE">iPhone 14属于严重挤牙膏，而且还是那种稍微一挤。</p><p data-pid="_jYelf1v">芯片不升级，主摄不升级，内存加个2G，加了个光学防抖，就连屏幕开模都不用灵动岛，这属实就是数字13升级到14，把消费者玩的明明白白。</p><p data-pid="IV_GDZJ1">iPhone 14就不是这次的主机机型，前两天看新闻，准备把iPhone 14生产线切换到14 pro，很明显，14确实没多少人喜欢。</p><p data-pid="iBsD1zOv">iPhone 14 pro相比于14基础版，价格可是贵了很多，升级的东西也多了很多，苹果本次发布会重头戏就是14 pro，从升级来看，确实如此。</p><p data-pid="WakySxRf">此次药丸屏的灵动岛设计，即使是在垃圾堆里种花，那确实是一种创新，你看14基础版就没有。</p><p data-pid="FGBQzvcG">如果买14，我认为就是割韭菜，没啥升级，还是那么贵。</p><p data-pid="LjNT3V_l">有点钱，还是直接上14 pro，最起码明年15发布时，14 pro还可以与15基础版相当，甚至比15要强很多，也不是没有可能。</p><p></p>  
 </div>
             
