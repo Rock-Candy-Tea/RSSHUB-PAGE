@@ -1,0 +1,18 @@
+
+---
+title: '拼多多上的猫和狗有人买过吗  怎么样 ？-ABCD的回答：我爸给我买的，图片上说幼猫，发过来是只大猫，精神尚好就是胆小。 性格好，没脾气且黏人，就是挑食，之前...'
+categories: 
+ - 社交媒体
+ - 知乎
+ - 话题
+headimg: 'https://pica.zhimg.com/v2-197604e0a8c3c701e23e194a22146a89_1440w.jpg?source=1940ef5c'
+author: 知乎
+comments: false
+date: Sat, 24 Sep 2022 08:03:25 GMT
+thumbnail: 'https://pica.zhimg.com/v2-197604e0a8c3c701e23e194a22146a89_1440w.jpg?source=1940ef5c'
+---
+
+<div>   
+<strong>拼多多上的猫和狗有人买过吗  怎么样 ？</strong><br>ABCD的回答<br><p data-pid="Avy7_Bj5">我爸给我买的，图片上说幼猫，发过来是只大猫，精神尚好就是胆小。</p><p data-pid="TzNgcMcR">性格好，没脾气且黏人，就是挑食，之前老胖，现在不吃猫粮，就吃菜，瘦到皮包骨也不吃，但是养了挺久的。</p><p data-pid="FseupZD0">只能说幸运吧，因为保不齐发来一只有病的。</p><p data-pid="aZONCIuI">很大一只，但是我现在很喜欢它。</p><p data-pid="j9J18rEY">是只发腮的猪仔。</p><p data-pid="u4f9dL9O">虽然我家猫很好但还是不建议在拼多多买，可以绑架或者领养，但是实在想试试也不是不行，但是要想好要是猫猫出了什么问题有没有解决的方案，要是他不亲人，乱拉乱尿怎么办。</p><p data-pid="_moZSY_y">只能说我运气好，但不会每次每个人运气都那么好</p><p data-pid="eokJa77D">猫来之前我真的很害怕收到尸体或者病恹恹的毛孩子。</p><p data-pid="XCUhaIkl">下面我给大家炫一下我家奶牛</p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-197604e0a8c3c701e23e194a22146a89_1440w.jpg?source=1940ef5c" data-rawwidth="1280" data-rawheight="2274" data-size="normal" data-default-watermark-src="https://pic3.zhimg.com/50/v2-08414595301b94197abd89ad37631498_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-197604e0a8c3c701e23e194a22146a89_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://picx.zhimg.com/v2-23d6aa149c4fd5ca2e31dcf208144093_1440w.jpg?source=1940ef5c" data-rawwidth="1280" data-rawheight="2844" data-size="normal" data-default-watermark-src="https://pic2.zhimg.com/50/v2-75420e9331952aca093616103af76ca0_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://picx.zhimg.com/v2-23d6aa149c4fd5ca2e31dcf208144093_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pica.zhimg.com/v2-9d35456dd03c4dd6ca116dd060d2ae94_1440w.jpg?source=1940ef5c" data-rawwidth="1280" data-rawheight="2844" data-size="normal" data-default-watermark-src="https://pic1.zhimg.com/50/v2-9076db073600e2ad12e5aec99ec55e56_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pica.zhimg.com/v2-9d35456dd03c4dd6ca116dd060d2ae94_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p class="ztext-empty-paragraph"><br></p><figure data-size="normal"><img src="https://pic1.zhimg.com/v2-ba2c3d8ff01a6ceff7698799e588d027_1440w.jpg?source=1940ef5c" data-rawwidth="1280" data-rawheight="2844" data-size="normal" data-default-watermark-src="https://picx.zhimg.com/50/v2-3557bff116bc067c1d81dbb14d8d8aa0_720w.jpg?source=1940ef5c" class="origin_image zh-lightbox-thumb" data-original="https://pic1.zhimg.com/v2-ba2c3d8ff01a6ceff7698799e588d027_r.jpg?source=1940ef5c" referrerpolicy="no-referrer"></figure><p data-pid="Ck02l7nq">瘦了的照片没有，不吃东西真的心疼，现在打算试试买肉干喂，希望我们妞妞健健康康呀~</p><p class="ztext-empty-paragraph"><br></p><p class="ztext-empty-paragraph"><br></p><p class="ztext-empty-paragraph"><br></p><p data-pid="ORF6hYjV">忘记说了</p><p class="ztext-empty-paragraph"><br></p><p class="ztext-empty-paragraph"><br></p><p data-pid="ZQnHP88Q">他才</p><p class="ztext-empty-paragraph"><br></p><p data-pid="yCdQfIpq">10块钱</p>  
+</div>
+            
