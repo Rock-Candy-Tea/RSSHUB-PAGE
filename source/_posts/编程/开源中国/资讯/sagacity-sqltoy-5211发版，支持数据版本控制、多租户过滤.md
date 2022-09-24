@@ -14,7 +14,8 @@ thumbnail: 'https://oscimg.oschina.net/oscnet/up-a385d72ceb030d705e8e5803ca3cd4c
 
 <div>   
 <div class="content">
-                                                                                            <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong>开源地址：</strong></p> 
+                                                                    
+                                                        <p style="color:#333333; margin-left:0; margin-right:0; text-align:left"><strong>开源地址：</strong></p> 
 <ul style="list-style-type:disc; margin-left:0; margin-right:0"> 
  <li>github: <a href="https://www.oschina.net/action/GoToLink?url=https%3A%2F%2Fgithub.com%2Fchenrenfei%2Fsagacity-sqltoy" target="_blank">https://github.com/sagframe/sagacity-sqltoy</a></li> 
  <li>gitee: <a href="https://gitee.com/sagacity/sagacity-sqltoy">https://gitee.com/sagacity/sagacity-sqltoy</a></li> 
