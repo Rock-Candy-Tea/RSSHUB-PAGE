@@ -5,11 +5,11 @@ categories:
  - 新媒体
  - 香水时代
  - 首页
-headimg: 'https://picsum.photos/400/300?random=1914'
+headimg: 'https://picsum.photos/400/300?random=4867'
 author: 香水时代
 comments: false
 date: Sat, 17 Sep 2022 19:17:19 GMT
-thumbnail: 'https://picsum.photos/400/300?random=1914'
+thumbnail: 'https://picsum.photos/400/300?random=4867'
 ---
 
 <div>   
@@ -18,6 +18,8 @@ thumbnail: 'https://picsum.photos/400/300?random=1914'
 
 再后来某一个瞬间几乎完全就是带了几年的绿檀手串。
 感觉辨识度会很高，熟悉一点的朋友可以从一堆外套里正确找到你的那件的程度。
+
+一天之后试别的香还是能闻到这个味道，如果睡前用一定很幸福。
 
 不是直白的“闻起来好有钱”，而是“这么好闻肯定很贵”。  
 </div>
