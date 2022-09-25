@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - 知乎
  - 知乎热榜
-headimg: 'https://picsum.photos/400/300?random=7501'
+headimg: 'https://picsum.photos/400/300?random=2130'
 author: 知乎
 comments: false
-date: Sun, 25 Sep 2022 03:31:12 GMT
-thumbnail: 'https://picsum.photos/400/300?random=7501'
+date: Sun, 25 Sep 2022 05:27:43 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2130'
 ---
 
 <div>   
-jixed的回答<br><br><p data-pid="YspgXOSI">说真的，当他把源代码挂2w美元的时候，我就知道他年龄肯定不大。。。</p>  
+little麦芽的回答<br><br><p data-pid="g_uRlWOk">注意看</p><p data-pid="72oyoFsg">画面中这个男人名叫小帅。</p><p data-pid="Cbv774U9">就在前一天，小帅才刚和他的女朋友小美在一起过完了他的17岁生日。</p><p data-pid="cwCNjNKh">你绝对猜不到，这名刚满17岁的少年的真实身份竟是一位少年天才黑客！</p><p data-pid="1N2jh32A">此刻！小帅正在紧张地尝试破解R星机密文件，但小帅、小美还有他们的好朋友大壮并不知道，下一秒危险已经降临…</p><hr><p data-pid="KPIdLOws">这个男人叫小帅，这个女人叫小美。</p><p data-pid="zPew7X9D">近日，R星爆出了史上最恶劣侠盗猎车手6泄露事件！</p><p data-pid="bx9AzS9_">没错，幕后黑手正是我们的天才少年黑客小帅。</p><p data-pid="MbyxzX4I">就当小帅以为早已漫天过海，正跟买家讨价还价之时，意想不到的事发生了，一群全副武装的黑衣人叫喊着：“我们是佛波勒！！！”猛地撞开门把他按倒在地。</p><p data-pid="w96ZdsKM">画面一转</p><p data-pid="CrT_fQoH">小美无奈目送着小帅被一群佛波勒扭送上车，流着泪扑进了他们的好朋友大壮的怀里，瑟瑟发抖，而大壮的双手犹豫地停在空中片刻，还是紧紧回抱住了小美。</p><hr><p data-pid="W0wZYIVx">注意看</p><p data-pid="GmXbL0ro">画面中这名穿囚服的男子就是我们的主角小帅</p><p data-pid="Ro0YaR-u">自打小帅入狱后，室友眼镜男和胡子哥看他年纪小都对他特别照顾。</p><p data-pid="z57bhpvW">还有两位美女狱警，我们就叫她们金发姐和大波浪吧，都对小帅这个天才小男孩产生了兴趣，甚至天天为了他争风吃醋。</p><p data-pid="LpMxEtRS">小帅没想到，监狱生活也能如此滋润，可他仍然心心念念想回到外面的世界，因为外面有他心爱的女朋友小美还有他最好的哥们大壮。</p><p data-pid="_qW4GFGa">让他感到有些奇怪的是小美和大壮在他刚入狱那会儿探视过两次后，就再也没来过了…</p><hr><p data-pid="_4G89m_C">x年后，小帅刑满释放，来不及享受自由的空气，他第一时间冲到了女朋友小美家门口。</p><p data-pid="j4iJvG5D">小帅清了清嗓子，紧张地敲了几下小美家的大门，过了一会，开门迎接他的竟是他的好哥们大壮。小帅用力推开大帅冲进卧室，只见躺在床上的小美穿着吊带睡裙头发凌乱。</p><p data-pid="SX-quxbp">小帅瞬间明白了眼前的一切，他攥紧拳头咬了咬牙扭头便走。</p><p data-pid="lF8_Nmih">随着BGM响起，小帅已经在心底默默开始制定复仇计划，与其像只败犬一样只会流泪，不如想想如何用自己的天才黑客技术来报复这对背叛他的男女，以及伤害了他的这个世界……</p><p data-pid="y-1__Kbv">与此同时，画面里，金发姐和大波浪竟然一边斗着嘴一边拖着行李箱出现在了小帅的家附近。</p><p data-pid="hBcMXd38">究竟小帅是如何用天才头脑实施报复计划的呢，他跟金发姐和大波浪之间又会发生什么故事呢，让我们一起期待后续，关注我！接下来的解说更精彩……</p>  
 </div>
             

@@ -5,14 +5,14 @@ categories:
  - 社交媒体
  - Mastodon
  - 实例公共时间线（本站）
-headimg: 'https://img.pawoo.net/media_attachments/files/109/057/749/960/996/493/original/1f47b1d775141489.jpeg'
+headimg: 'https://img.pawoo.net/media_attachments/files/109/057/985/898/760/015/original/b259d9c30f6defd7.jpeg'
 author: Mastodon
 comments: false
-date: Sun, 25 Sep 2022 07:00:03 GMT
-thumbnail: 'https://img.pawoo.net/media_attachments/files/109/057/749/960/996/493/original/1f47b1d775141489.jpeg'
+date: Sun, 25 Sep 2022 08:00:03 GMT
+thumbnail: 'https://img.pawoo.net/media_attachments/files/109/057/985/898/760/015/original/b259d9c30f6defd7.jpeg'
 ---
 
 <div>   
-<hr><p>【過去記事】<br>[イラスト] 【R-18】新任教師 （よその子）<br>投稿日：2013.4.6<br>作者：Wi...<br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E3%82%88%E3%81%9D%E3%81%AE%E5%AD%90" class="mention hashtag" rel="tag">#よその子</a><br><a href="https://www.a-legend.net/wordpress/?p=8203" rel="nofollow noopener noreferrer" target="_blank">https://www.a-legend.net/wordpress/?p=8203</a></p><br><img src="https://img.pawoo.net/media_attachments/files/109/057/749/960/996/493/original/1f47b1d775141489.jpeg" alt="image " referrerpolicy="no-referrer">  
+<hr><p>【過去記事】<br>[イラスト] 【R-18】ゴムの日 （オリジナル：母娘どんぶり...<br><a href="https://pawoo.net/tags/ILLUST" class="mention hashtag" rel="tag">#ILLUST</a><br><a href="https://pawoo.net/tags/ORIGINAL" class="mention hashtag" rel="tag">#ORIGINAL</a><br><a href="https://pawoo.net/tags/R18" class="mention hashtag" rel="tag">#R18</a><br><a href="https://pawoo.net/tags/%E6%AF%8D%E5%A8%98%E3%81%A9%E3%82%93%E3%81%B6%E3%82%8A" class="mention hashtag" rel="tag">#母娘どんぶり</a><br><a href="https://www.a-legend.net/wordpress/?p=7454" rel="nofollow noopener noreferrer" target="_blank">https://www.a-legend.net/wordpress/?p=7454</a></p><br><img src="https://img.pawoo.net/media_attachments/files/109/057/985/898/760/015/original/b259d9c30f6defd7.jpeg" alt="image " referrerpolicy="no-referrer">  
 </div>
             
