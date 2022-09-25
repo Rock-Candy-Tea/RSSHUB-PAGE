@@ -8,7 +8,7 @@ categories:
 headimg: 'https://axisstudiosgroup.com/site/assets/files/14648/destiny2_witch_queen_axis_studios_10.-full.png'
 author: Axis Studios
 comments: false
-date: 2022-09-25 04:59:47
+date: 2022-09-25 05:38:19
 thumbnail: 'https://axisstudiosgroup.com/site/assets/files/14648/destiny2_witch_queen_axis_studios_10.-full.png'
 ---
 
