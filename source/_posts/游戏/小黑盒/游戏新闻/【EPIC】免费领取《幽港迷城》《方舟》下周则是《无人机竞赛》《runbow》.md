@@ -1,0 +1,18 @@
+
+---
+title: '【EPIC】免费领取《幽港迷城》《方舟》下周则是《无人机竞赛》《runbow》'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/780290_sGLiy.jpg'
+author: 小黑盒
+comments: false
+date: Sun, 25 Sep 2022 02:11:23 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/780290_sGLiy.jpg'
+---
+
+<div>   
+<h2><b>现在开始可以免费领取游戏《幽港迷城》和《方舟生存进化》，下周游戏则是《无人机竞赛联盟模拟器》和《runbow》<span data-emoji="cube_滑稽" class="hb-emoji"></span></b></h2><h2><b>《幽港迷城》</b></h2><p><img data-gameid="780290" src="https://cdn.max-c.com/heybox/game/header/780290_sGLiy.jpg" referrerpolicy="no-referrer"></p><blockquote><p><b>无论你是被冒险的召唤吸引到《幽港迷城》，还是被对黑暗中闪闪发光的金子的渴望所吸引，你的命运肯定是一样的。《幽港迷城》这款广受欢迎的桌面游戏的数字改编版本，混合了战术rpg和地下城元素。</b><br></p></blockquote><p><img class="lazy" data-height="546" src="https://imgheybox.max-c.com/bbs/2022/09/24/393f1aa43b731894bed8367170d5d5a4/thumb.jpeg" data-width="958" referrerpolicy="no-referrer"></p><p><b style="font-size: 19px;">免费领取截止至9月29日11时</b><br></p><p><b>领取链接:</b><a href="https://store.epicgames.com/zh-CN/p/gloomhaven-92f741" target="_blank">https://store.epicgames.com/zh-CN/p/gloomhaven-92f741（点击链接即可）</a></p><h2><b>《方舟生存进化》</b></h2><p><img data-gameid="346110" src="https://cdn.max-c.com/heybox/game/header/346110_ctVwy.jpg" referrerpolicy="no-referrer"></p><blockquote><p><b>你被困在一座神秘之岛上，必须学会生存。善用自己的精明和智慧，猎杀或驯服岛上漫游的原始生物，与其他玩家互动、竞争和厮杀，生存下来，称霸一方……并逃出生天！</b><br></p></blockquote><p><img class="lazy" data-height="522" src="https://imgheybox.max-c.com/bbs/2022/09/24/d48a1245e251897d07274272d4585c33/thumb.jpeg" data-width="968" referrerpolicy="no-referrer"></p><p><b style="font-size: 19px;">免费领取截止至9月29日11时</b><br></p><p><b>领取链接</b>:<a href="https://store.epicgames.com/zh-CN/p/ark" target="_blank">https://store.epicgames.com/zh-CN/p/ark（点击链接即可）</a></p><h2><b>黑盒联动:</b></h2><p>充值-点击会员卡券-输入<b>achai666</b>即可白嫖3天黑盒加速卡以及一张9折续费卡</p><p><img class="lazy" data-height="560" src="https://imgheybox.max-c.com/bbs/2022/09/24/7779895f16f4f62a79d71b8f9d9212c5/thumb.jpeg" data-width="845" referrerpolicy="no-referrer"></p><h2><b>下周的免费游戏有:</b></h2><h2><b>《DRL Simulator》</b></h2><p><img data-gameid="641780" src="https://cdn.max-c.com/heybox/game/header/641780_IIrsw.jpg" referrerpolicy="no-referrer"></p><blockquote><p><b>《DRL Simulator》是业界领先的第一人称无人机竞速和模拟游戏。《DRL Sim》包含了丰富，不断进化的各种要素，包括紧张激烈的无人机竞速。本作包含现实世界的 DRL 操控机师们竞赛的赛道，且每个赛季将会加入更多新赛道。</b><br></p></blockquote><p><img class="lazy" data-height="526" src="https://imgheybox.max-c.com/bbs/2022/09/24/e7965ddd18d3b459414bafd6b4858c58/thumb.jpeg" data-width="942" referrerpolicy="no-referrer"></p><h2><b>《runbow》</b></h2><p><img data-gameid="464650" src="https://cdn.max-c.com/heybox/game/header/464650_o9wSk.jpg" referrerpolicy="no-referrer"></p><blockquote><p><b>《Runbow》将会成为你期待的派对平台游戏!在这款游戏中，将会有大量的角色、服装和疯狂的游戏模式，《Runbow》将会给你带来丰富多彩的多人混乱体验。</b></p></blockquote><p><img class="lazy" data-height="536" src="https://imgheybox.max-c.com/bbs/2022/09/24/c9ca1c5e688936ba278d6f17ae343fe3/thumb.jpeg" data-width="967" referrerpolicy="no-referrer"></p><p><a href="heybox://open_subject" target="_blank">#pc游戏#</a><a href="heybox://open_subject" target="_blank">#游戏推荐#</a><a href="heybox://open_subject" target="_blank">#单机游戏#</a></p><p><a href="heybox://open_subject" target="_blank">#喜加一#</a><a href="heybox://open_subject" target="_blank">#Epic#</a><a href="heybox://open_subject" target="_blank">#Epic喜加一#</a></p><p><a href="heybox://open_subject" target="_blank">#免费领取#</a><a href="heybox://open_subject" target="_blank">#限时免费#</a></p>  
+</div>
+            
