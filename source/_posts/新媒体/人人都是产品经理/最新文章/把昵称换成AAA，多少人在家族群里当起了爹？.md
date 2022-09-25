@@ -44,7 +44,6 @@ thumbnail: 'https://image.woshipm.com/wp-files/2022/09/xmqzLUfOKiLa3ZZPhw2T.png'
 <p>这里有一系列昵称供您挑选。</p>
 <p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="把昵称换成AAA，多少人在家族群里当起了爹？" src="https://image.woshipm.com/wp-files/2022/09/ru3shvJ6oHGXN5zNzeRw.png" alt="把昵称换成AAA，多少人在家族群里当起了爹？" width="598" height="329" referrerpolicy="no-referrer"></p>
 <p>在头像和背景的选择上也要深谙AAA的搭配规则：选择蓝天、草地、湖畔等场景，主人公或霸气或娇媚地面对镜头，<strong>男性搭配墨镜，女性扬起丝巾。</strong></p>
-<p><img data-action="zoom" class="rich_pages wxw-img js_insertlocalimg aligncenter" title="把昵称换成AAA，多少人在家族群里当起了爹？" src="https://image.woshipm.com/wp-files/2022/09/J25zYQAmUtouWdfjtioI.png" alt="把昵称换成AAA，多少人在家族群里当起了爹？" width="643" height="339" referrerpolicy="no-referrer"></p>
 <p>记得，一定要微笑，自信且从容地微笑。</p>
 <p>上传前记得压缩画质，务必让照片覆盖上没有十年都积累不下来的包浆。</p>
 <p>表面功夫做好，接下来就是词语表达。上流君提供一条捷径：在“相亲相爱一家人”的群聊里取经。</p>
@@ -84,7 +83,6 @@ thumbnail: 'https://image.woshipm.com/wp-files/2022/09/xmqzLUfOKiLa3ZZPhw2T.png'
 <p>就如同在中年群体中流行的两首金曲《姐就是女王》《爷们儿要战斗》传达出的理念：<strong>不必忸怩也无需端着，开心至上。</strong></p>
 <p>在自我鼓舞之余，AAA文学也自有其实用性。</p>
 <p>尤其是与电商客服或外卖小哥的沟通上——一看是不好惹的中年男人，安全性与沟通效果直线上升。</p>
-<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="把昵称换成AAA，多少人在家族群里当起了爹？" src="https://image.woshipm.com/wp-files/2022/09/2WsRIEng23Id4gfnaUIA.png" alt="把昵称换成AAA，多少人在家族群里当起了爹？" referrerpolicy="no-referrer"></p>
 <p><strong>用魔法打败魔法，是AAA文学的另一大突出属性。</strong></p>
 <p>与其让父母、亲戚催婚、催育，拿来与别家孩子作比，或是被强行灌输人生真理，不如先下手为强，走他们的路，让他们无路可走。</p>
 <p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="把昵称换成AAA，多少人在家族群里当起了爹？" src="https://image.woshipm.com/wp-files/2022/09/raMWHKhbCMdcdkNUDkcy.png" alt="把昵称换成AAA，多少人在家族群里当起了爹？" width="404" height="490" referrerpolicy="no-referrer"></p>
@@ -96,7 +94,6 @@ thumbnail: 'https://image.woshipm.com/wp-files/2022/09/xmqzLUfOKiLa3ZZPhw2T.png'
 <p>每代人似乎都是在“我是为你好”的话语中走过来的，那些基于传统观念强加在人身上的桎梏，往往都不是正确的。</p>
 <p>当赞美女性的“媛”字被污名化，当女性们互相表达善意的“集美”被用来当作蔑称……AAA达人们，正是在用玩梗的方式，进行有样学样的话语解构。</p>
 <p>当然，玩梗归玩梗，<strong>一时不留意，也许还会陷入新的麻烦里。</strong></p>
-<p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="把昵称换成AAA，多少人在家族群里当起了爹？" src="https://image.woshipm.com/wp-files/2022/09/cUiTUR3SUPUeXGo8NzS2.png" alt="把昵称换成AAA，多少人在家族群里当起了爹？" referrerpolicy="no-referrer"></p>
 <p><img data-action="zoom" class="rich_pages wxw-img aligncenter" title="把昵称换成AAA，多少人在家族群里当起了爹？" src="https://image.woshipm.com/wp-files/2022/09/SolcR3L4QUvIn7mRN6Bm.png" alt="把昵称换成AAA，多少人在家族群里当起了爹？" width="407" height="662" referrerpolicy="no-referrer"></p>
 <div class="article--copyright"><p>作者：李诺米；编辑：阿浔；公众号：网易上流</p>
 <p>原文链接：https://mp.weixin.qq.com/s/ZyA7iWPCxvOVd5n9-9p9xg</p>
