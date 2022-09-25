@@ -5,14 +5,14 @@ categories:
  - 新媒体
  - 人人都是产品经理
  - 天天问
-headimg: 'https://picsum.photos/400/300?random=4652'
+headimg: 'https://picsum.photos/400/300?random=9885'
 author: 人人都是产品经理
 comments: false
-date: Sun, 25 Sep 2022 13:29:32 GMT
-thumbnail: 'https://picsum.photos/400/300?random=4652'
+date: Sun, 25 Sep 2022 14:09:23 GMT
+thumbnail: 'https://picsum.photos/400/300?random=9885'
 ---
 
 <div>   
-<p>快手在广州开了一家线下K歌欢唱店，该店和传统KTV不同，更类似K歌空间，包括了开放式舞台、歌房区、休闲区等几大空间，全程自助式消费。</p><p><br></p><p><span style="color: rgb(255, 0, 0);">你认为快手可以在线上玩些什么花样，引导更多人到线下KTV消费？</span></p><p><br></p><p>【规则】</p><p>1. 本帖采用随机悬赏，红包金额为48元，参与回答即可参与瓜分红包。</p><p>2. 回答需扣题，且具体回答问题忌笼统！回复不少于15字，禁止变相抄袭，在开奖前我们会删除不合规回答哦~</p>  
+【悬赏问答】快手开线下KTV，可以玩些什么花样引导更多线下消费？  
 </div>
             
