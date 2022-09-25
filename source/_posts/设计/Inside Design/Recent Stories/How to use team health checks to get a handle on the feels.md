@@ -8,7 +8,7 @@ categories:
 headimg: 'https://www.invisionapp.com/inside-design/freehand-templates-team-health-check/'
 author: Inside Design
 comments: false
-date: 2022-09-25 10:12:18
+date: 2022-09-25 11:09:43
 thumbnail: 'https://www.invisionapp.com/inside-design/freehand-templates-team-health-check/'
 ---
 
