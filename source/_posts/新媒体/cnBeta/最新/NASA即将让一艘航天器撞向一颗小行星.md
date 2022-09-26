@@ -1,0 +1,19 @@
+
+---
+title: 'NASA即将让一艘航天器撞向一颗小行星'
+categories: 
+ - 新媒体
+ - cnBeta
+ - 最新
+headimg: 'https://static.cnbetacdn.com/article/2022/09/dd50e170833676d.png'
+author: cnBeta
+comments: false
+date: Mon, 26 Sep 2022 03:13:30 GMT
+thumbnail: 'https://static.cnbetacdn.com/article/2022/09/dd50e170833676d.png'
+---
+
+<div>   
+Dimorphos是一块离地球很远的太空岩石，我们人类甚至不知道它长什么样子--而在周一，NASA将要用一艘航天器将它撞碎。双重小行星重定向测试(DART)在撞击小行星时将以超过14000英里的时速飞行，这将是有史以来最金属的科学实验之一。<br>
+ <p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/dd50e170833676d.png" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/dd50e170833676d.png" referrerpolicy="no-referrer"></a></p><p style="text-align: left;">DART是美国宇航局想看看其是否能改变小行星在太空中的运动的一个项目。它被称为世界上第一个“行星防御测试任务”。</p><p style="text-align: left;">无论是Dimorphos还是其较大的同伴Didymos都不会对地球构成任何威胁。事实上，目前还没有发现任何对我们星球构成直接威胁的小行星。这两个只是很好的目标练习。Dimorphos和Didymos是一个双小行星系统，Dimorphos是Didymos的“小卫星”。当这个小卫星绕着大小行星运行时，它在大小行星和地球之间穿行。这意味着世界上和世界外的望远镜都可以监测这个系统，并且还能相对快速地看到撞击对Dimorphos的速度和轨迹的影响。</p><p style="text-align: left;">撞击后不久，地球上每个大陆上的望远镜都将聚焦于该系统以观察其后果。在地球之外，詹姆斯-韦伯太空望远镜、哈勃甚至是小行星上的Lucy飞船都将把它们的目光投向这个小行星系统，以此来看看当一块石头遇到一个坚硬的航天器时会发生什么。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/38e7e81789cfdb4.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/38e7e81789cfdb4.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>玩转行星防御</strong></p><p style="text-align: left;">研究人员称，这次撞击预计会将Dimorphos的速度改变几分之一，使其完成轨道的时间改变几分钟。这可能看起来不多，但对于行星防御科学家来说，这几分钟是非常重要的。NASA防御官员Lindley Johnson在任务开始前的新闻发布会上说道：“这次演示对我们在地球上的未来极为重要。”</p><p style="text-align: left;">Johnson称，这一历史时刻是独一无二的，这是人类第一次既了解小行星构成的威胁又实际拥有技术来做一些事情。如果我们真的探测到一块巨大的石头向地球飞来，那么有一个或两个计划来阻止这块石头无疑是件好事。</p><p style="text-align: left;">“DART正在展示我们所谓的动能撞击技术以改变小行星在空间的速度，进而改变其轨道，”Johnson说道。</p><p style="text-align: left;">行星防御工具箱中还有其他选择，包括“重力牵引器”--一个可以飞到小行星旁边的航天器，然后轻轻地把它拉到一个更安全的路径。还有一种可能性是向小行星发射离子束，这需要持续很长时间，然后将其推到不同的轨道上。DART正在首先尝试一种更直接的方法，即全速撞向它。</p><p style="text-align:center"><a href="https://static.cnbetacdn.com/article/2022/09/fb2be3a72433bdf.webp" target="_blank"><img src="https://static.cnbetacdn.com/article/2022/09/fb2be3a72433bdf.webp" referrerpolicy="no-referrer"></a></p><p style="text-align: left;"><strong>为撞击做准备</strong></p><p style="text-align: left;">在其最后的接近过程中，DART将自己驾驶。约翰-霍普金斯应用物理实验室的DART任务系统工程师Elena Adams在一次新闻发布会上说，将有约44人在控制室观察遥测和数据，但在撞击前约4小时开始航天器必须做一切事情。它身上有一个智能导航系统，正在引导它前往Didymos/Dimorphos系统。它在今年夏天早些时候发现了Didymos，但直到撞击前约一小时它才能够看到实际目标Dimorphos。</p><p style="text-align: left;">当它发现Dimorphos时，这个163米宽的小行星将只显示为一个像素。这将足以让导航系统开始追踪岩石本身，而不是其伴生小行星。Adams称，在撞击前两分半钟，将航天器带到该点的导航系统将关闭。“我们只是要把相机对准，拍下我们将首次看到的这颗小行星的最惊人的照片，”他说道。</p><p style="text-align: left;">由于这是一次千载难逢的经历，该团队将详细记录这次碰撞。</p><p style="text-align: left;">除了太空和地球上的观测站将进行观察外，DART自己的相机将在最后一刻之前发回图像并将其传回地球以便人们能看到任务达到其戏剧性的结论。</p><p style="text-align: left;">此外，一个小型的配套航天器将记录太空中的行动。意大利的LICIACube（用于成像小行星的轻型意大利CubeSat）与DART一起发射并在9月11日与较大的航天器分离。它正在跟踪它的同伴并将记录实验的后果，它将在撞击后约三分钟内飞过Dimorphos。另外它还将有机会看到Dimorphos的另一面，而大型航天器将永远无法看到这一面。</p><p style="text-align: left;"><strong>接下来将发生什么？</strong></p><p style="text-align: left;">“这项任务有两个部分。第一部分是撞击小行星，下一部分是实际测量之后发生的事情，”Admas说道。该团队预计小行星在碰撞后会跑得更快并将随着时间的推移对其进行跟踪。</p><p style="text-align: left;">“这就像你掉了你的手表并摔坏了它。它不会保持一定的时间，”DART的项目科学家Tom Statler说道，“你可能不会马上注意到它，但是在接下来的几周、几天和几周内你会注意到你的手表在快速运转--我们会注意到双子小行星系统在快速运转。”</p><p style="text-align: left;">虽然Statler和其他研究人员对撞击后可能发生的情况有一个很好的想法，但这次测试的一个重要原因是，我们不知道当我们撞上小行星时到底会发生什么。有关小行星对撞击的反应的信息可以帮助校准未来的测试并最终告知我们如何接近一个有威胁的小行星。</p><p style="text-align: left;">“作为一名科学家，我完全希望能从实验结果中获得惊喜，”Statler说道，“尽管作为一个行星保卫者，我不希望太惊讶。”</p><p style="text-align: left;"><strong>如何收看NASA的DART任务</strong></p><p style="text-align: left;">NASA将于美东部时间9月26日周一下午6点开始报道DART的撞击。预计碰撞将在美东时间7点14分发生。人们可以在NASA的网站或YouTube频道上收看现场报道或在Facebook和Twitter上关注。</p>   
+</div>
+            

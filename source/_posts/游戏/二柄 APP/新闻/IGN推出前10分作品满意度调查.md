@@ -1,0 +1,18 @@
+
+---
+title: 'IGN推出前10分作品满意度调查'
+categories: 
+ - 游戏
+ - 二柄 APP
+ - 新闻
+headimg: 'https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1014520625.png'
+author: 二柄 APP
+comments: false
+date: 2022-09-26 03:50:07
+thumbnail: 'https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1014520625.png'
+---
+
+<div>   
+IGN今日开展了一项玩家投票活动，其内容为此前曾获得过10分（满分）的作品在玩家眼中是否认同，以下为截至目前的游戏获票情况。<br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1014520625.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1015205294.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1015456435.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1016346580.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1017311561.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1017410745.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1018178298.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1018275301.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1018333154.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1019194414.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1019267104.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1019343206.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1019454931.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1020300105.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1020387214.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1020469542.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1020542150.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1021345984.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1021423623.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1021499070.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1022299365.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1022363081.png" referrerpolicy="no-referrer"><br><img src="https://erbingeditor.diershoubing.com/kprilrC42FNeTgvFAD/2022/09/26/1022462598.png" " referrerpolicy="no-referrer"><br><img src="https://news.diershoubing.com/article_info/ios/56909/" video": null" referrerpolicy="no-referrer"><br><img src="https://news.diershoubing.com/article_info/ios/56909/" article_id": 56909&#125;" referrerpolicy="no-referrer">  
+</div>
+            
