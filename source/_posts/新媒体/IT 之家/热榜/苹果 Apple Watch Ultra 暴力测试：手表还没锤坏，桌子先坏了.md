@@ -1,0 +1,19 @@
+
+---
+title: '苹果 Apple Watch Ultra 暴力测试：手表还没锤坏，桌子先坏了'
+categories: 
+ - 新媒体
+ - IT 之家
+ - 热榜
+headimg: 'https://img.ithome.com/newsuploadfiles/2022/9/e2d226e7-8322-49b6-8919-88766c7e6bdb.png'
+author: IT 之家
+comments: false
+date: Mon, 26 Sep 2022 05:52:51 GMT
+thumbnail: 'https://img.ithome.com/newsuploadfiles/2022/9/e2d226e7-8322-49b6-8919-88766c7e6bdb.png'
+---
+
+<div>   
+<p data-vmark="4e5e"><a class="s_tag" href="https://www.ithome.com/" target="_blank">IT之家</a> 9 月 26 日消息，一位 YouTuber 对苹果新发布的 Apple Watch Ultra 手表进行了暴力测试，<span class="accentTextColor">通过跌落、放入一罐钉子中以及用锤子反复敲击，来测试蓝宝石屏幕的可靠性</span>。</p><p data-vmark="70a0">TechRax 首先测试了 Apple Watch Ultra 的跌落，将其从大约 1.2 米高的地方跌落。除了钛金属外壳上有一些<span class="accentTextColor">小凹痕</span>外，Apple Watch Ultra 几乎没有磨损。</p><p style="text-align: center;" data-vmark="dbda"><img src="https://img.ithome.com/newsuploadfiles/2022/9/e2d226e7-8322-49b6-8919-88766c7e6bdb.png" w="775" h="406" title="苹果 Apple Watch Ultra 暴力测试：手表还没锤坏，桌子先坏了" width="775" height="406" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="f8a8"><img src="https://img.ithome.com/newsuploadfiles/2022/9/a92ab448-1b7f-406d-8877-b953f6f176e9.png" w="1161" h="842" title="苹果 Apple Watch Ultra 暴力测试：手表还没锤坏，桌子先坏了" width="1161" height="595" referrerpolicy="no-referrer"></p><p data-vmark="47b2">接下来，TechRax 将 Apple Watch Ultra 混入了一罐钉子中，然后使劲摇晃，也没有留下明显的痕迹，<span class="accentTextColor">但是他吐槽表带变脏了</span>，这个表带并不耐脏，尤其是户外运动场景。</p><p style="text-align: center;" data-vmark="e45d"><img src="https://img.ithome.com/newsuploadfiles/2022/9/625e3168-c545-46c1-8d45-33bcb5e9b555.png" w="860" h="776" title="苹果 Apple Watch Ultra 暴力测试：手表还没锤坏，桌子先坏了" width="860" height="740" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="5e1d"><img src="https://img.ithome.com/newsuploadfiles/2022/9/f74355fa-6a99-41ea-861f-6ea12df0106e.png" w="1113" h="762" title="苹果 Apple Watch Ultra 暴力测试：手表还没锤坏，桌子先坏了" width="1113" height="561" referrerpolicy="no-referrer"></p><p style="text-align: justify;" data-vmark="1695">最后，TechRax 将 Apple Watch Ultra 放在桌子上，用锤子反复敲打。<span class="accentTextColor">结果敲了几次后，桌子先坏了</span>，再敲打几次后，Apple Watch Ultra 的显示屏才熄灭并停止工作。但即使如此，屏幕仍然完好无损，直到又敲了几下才将屏幕敲碎。</p><p style="text-align: center;" data-vmark="3152"><img src="https://img.ithome.com/newsuploadfiles/2022/9/b665d58e-4e34-40aa-b8ba-084828a658c2.png" w="706" h="687" title="苹果 Apple Watch Ultra 暴力测试：手表还没锤坏，桌子先坏了" width="706" height="687" referrerpolicy="no-referrer"></p><p style="text-align: center;" data-vmark="bbc3">、<img src="https://img.ithome.com/newsuploadfiles/2022/9/0bcb3d65-b3fe-483e-b586-2dd8c55ef08a.png" w="857" h="473" title="苹果 Apple Watch Ultra 暴力测试：手表还没锤坏，桌子先坏了" width="857" height="453" referrerpolicy="no-referrer"></p><p data-vmark="15d7">TechRax 最后还敲了几下手表背面，看起来并没有正面坚固，很快就敲坏了。</p><p style="text-align: center;" data-vmark="fdd1"><img src="https://img.ithome.com/newsuploadfiles/2022/9/870dc96b-2d92-471b-9012-ab95c12f36f3.png" w="1121" h="822" title="苹果 Apple Watch Ultra 暴力测试：手表还没锤坏，桌子先坏了" width="1121" height="601" referrerpolicy="no-referrer"></p><p data-vmark="0ffb">大家具体可以看下面的视频：</p><p style="text-align: center;" data-vmark="2c75"><iframe class="ithome_video bilibili" src="https://player.bilibili.com/player.html?bvid=bv1GP411p7GY&page=1" frameborder="no" width="100%" allowfullscreen="true"> </iframe></p><p data-vmark="1e93">IT之家了解到，苹果声称 Apple Watch Ultra 是其迄今为止最坚固、耐用的 Apple Watch，采用坚固的设计，配备 49 毫米钛金属表壳和平坦的蓝宝石水晶表镜，更大显示屏，专为户外设计的新表带，防水性能高达 100 米深度，可定制的亮橙色操作按钮，长达 60 小时电池续航时间以及即将推出的低功耗模式，双频 GPS 支持等，售价 799 美元（国行 6299 元）。</p><p style="text-align: center;" data-vmark="0ffc"><img src="https://img.ithome.com/newsuploadfiles/2022/9/336ab780-4ca3-4940-8d18-a48648eb5444.jpg@s_2,w_820,h_461" w="820" h="461" title="苹果 Apple Watch Ultra 暴力测试：手表还没锤坏，桌子先坏了" width="820" height="461" referrerpolicy="no-referrer"></p>
+          
+</div>
+            
