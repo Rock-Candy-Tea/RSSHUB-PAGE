@@ -1,0 +1,18 @@
+
+---
+title: '結果出爐｜夏日慶之冷錢包巡禮：Web3 資安徵文比賽'
+categories: 
+ - 新媒体
+ - Matters
+ - 最新、熱議、精華
+headimg: 'https://picsum.photos/400/300?random=2819'
+author: Matters
+comments: false
+date: Mon, 26 Sep 2022 08:56:20 GMT
+thumbnail: 'https://picsum.photos/400/300?random=2819'
+---
+
+<div>   
+<p>Matters 舉辦 <a href="https://matters.news/@hi176/321081" rel="noopener noreferrer" target="_blank">夏日慶之冷錢包巡禮：Web3 資安徵文比賽</a> 已順利成完，在閱讀每篇精彩的投稿文之後，團隊決定頒發首獎給 <a href="https://matters.news/@KumaSanki" rel="noopener noreferrer" target="_blank">熊太先森</a> 的 ＜<a href="https://matters.news/@KumaSanki/330067" rel="noopener noreferrer" target="_blank">【新手學習】那些駭客「教懂」我的道理與解決辦法</a> ＞一文。首獎甄選方式採用團隊決定制（也是唯一由團隊挑選的獎項），我們希望能以內容為核心的的角度，來挑選出品質最好的文章。我們在挑選中秉持了一些準則：文章是否有豐富的內容、寫作者是否提供自身經驗、文章閱讀起來是否流暢完整、寫作者是否有自己的見解與看法等。</p><p>在熊太先森的文章中，他首先分享了自己差點被詐騙的經驗，接著從這個案例論述了三個資安問題，三個問題導致不同程度的資安漏洞，以及後續的責任與懲罰問題。熊太先森接著提出解決方案，並分享自己的做法。文章陳述完整扎實，有自己的經驗作為背書，讀起來順暢，是一篇難得的 web3 資安分享文。</p><p>在選文過程中，另外兩篇也在最後的考慮之中，文章都非常優秀，難以割捨。一篇是 <a href="https://matters.news/@tg0977068715" rel="noopener noreferrer" target="_blank">Emma Chou</a> 的 ＜<a href="https://matters.news/@tg0977068715/324224" rel="noopener noreferrer" target="_blank">被PUA兩個多月的感情詐騙和金錢詐騙</a>＞，在這篇文章中，Emma 分享了她在七月期間遭到網路騙錢、騙感情的經歷，並且鉅細靡遺的記錄下過程，還公佈了許多對話與加密貨幣交易的截圖，並且在敘述過程當中，加上自己的看法以及心得，給予讀者警剔，也看得出花了很大力氣重整經驗。第二篇則是 <a href="https://matters.news/@puzzletw" rel="noopener noreferrer" target="_blank">TKW's Season Fun Art</a> 的＜ <a href="https://matters.news/@puzzletw/330277" rel="noopener noreferrer" target="_blank">10個盡最大努力在Web3世界避免被騙的方法</a>＞ ，相當有條理列出多種保護自己資產的方式，也在當中舉出自己遇過的情況作出例子，最後給出將錢包依照不同等級分類也是很有建設性的建議，實屬佳文。</p><p>在綜合考慮之後，團隊決定將首獎頒給熊太先森。在過程中，若熊太先森文章在二三名挑選的數據指標中也在前位，將會順延遞補，不會造成拿了首獎又拿二三獎的情況。</p><p>此外，第二、三名的得獎指標，是綜合拍手數、閱讀時長、打賞的數量和比例而誕生的。在計算所有文章的數據後，第二名為 Emma Chou 的＜被PUA兩個多月的感情詐騙和金錢詐騙＞，拍手數390次、打賞數3次、閱讀時長 26.5 小時；第三名為閱讀筆耕的<a href="https://matters.news/@penfarming/325087" rel="noopener noreferrer" target="_blank"> ＜我錯了，冷錢包裡裝的不是錢，而是⋯⋯＞</a> ，拍手數413次、打賞數6次、閱讀時長4.5小時。<br class="smart"><br class="smart"><br class="smart">團隊感謝所有創作者的參與，也希望大家的資產都安好無恙，在web3一切順利。<br class="smart"><br class="smart">重溫眾人資安文章，點撃 <a href="https://matters.news/tags/131837-Web3%E8%B3%87%E5%AE%89%E5%BE%B5%E6%96%87?type=hottest" rel="noopener noreferrer" target="_blank">這邊</a>。<br class="smart"><br class="smart"></p><hr><p><br class="smart"></p><blockquote>首獎：<br class="smart">熊太先森 - 【新手學習】那些駭客「教懂」我的道理與解決辦法<a href="https://matters.news/@KumaSanki/330067" rel="noopener noreferrer" target="_blank"><br class="smart">https://matters.news/@KumaSanki/330067</a><br class="smart">獲 SecuX Nifty 冷錢包一個（市價約199USD）<br class="smart"></blockquote><blockquote>第二名：<br class="smart">Emma Chou - 被PUA兩個多月的感情詐騙和金錢詐騙<a href="https://matters.news/@tg0977068715/324224" rel="noopener noreferrer" target="_blank"><br class="smart">https://matters.news/@tg0977068715/324224</a><br class="smart">獲 SecuX X-SEED 註記詞金屬卡一份（市價約39USD）<br class="smart"></blockquote><blockquote>第三名：<br class="smart">閱讀筆耕 - 我錯了，冷錢包裡裝的不是錢，而是⋯⋯<a href="https://matters.news/@penfarming/325087" rel="noopener noreferrer" target="_blank">https://matters.news/@penfarming/325087</a><br class="smart">獲SecuX X-SEED 註記詞金屬卡一份（市價約39USD）</blockquote><p><br class="smart"></p><hr><p>如何領獎：<br class="smart">是次徵文比賽獎品為實體物品，請獲獎者以 Matters 註冊信箱，寄信到 <strong>hi@matters.news </strong>，標題為「夏日之慶 web3 徵文比賽領獎」，並留下你的（一）收件人姓名、（二）收件人電話、（三）收件地址，同時在 <a href="http://discord.gg/matterslab" rel="noopener noreferrer" target="_blank">Matters Discord</a> 上開票（open-a-ticket 頻道）告知已經寄信。Matters 將會在得獎文章留言告知獲獎，請注意網站通知。</p><p>團隊將交由贊助商 SecuX 寄出。收件地址台灣地區免運，海外地區須自行負擔國際運費和關稅。</p><p><br class="smart">日期及時間：<br class="smart">公告刊出後至10月7日週五午夜為止，逾期將視同放棄，獎項將延後遞補給其他參加者。</p><p>Matters 甄選團隊：阿里、多比、Yingshin<br class="smart"></p>  
+</div>
+            
