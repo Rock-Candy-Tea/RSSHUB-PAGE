@@ -1,0 +1,18 @@
+
+---
+title: 'Steam本周销量排行 SteamDeck依旧霸榜'
+categories: 
+ - 游戏
+ - 小黑盒
+ - 游戏新闻
+headimg: 'https://cdn.max-c.com/heybox/game/header/1675180_OBWui.jpg'
+author: 小黑盒
+comments: false
+date: Mon, 26 Sep 2022 10:50:25 GMT
+thumbnail: 'https://cdn.max-c.com/heybox/game/header/1675180_OBWui.jpg'
+---
+
+<div>   
+<p>Steam本周周数据统计现已出炉，SteamDeck已经连续17次夺得冠军，在动画的影响下，再加上游戏迎来半价平史低《赛博朋克2077》的销量直线上升，游戏的在线峰值甚至超过12万，一起来看一下本周榜单吧</p><p>1.SteamDeck掌机 <br></p><p><img data-gameid="1675180" src="https://cdn.max-c.com/heybox/game/header/1675180_OBWui.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="602" src="https://imgheybox.max-c.com/web/2022/09/26/6cea2e4c144ecdd4c08941260cb55527/thumb.jpeg" data-width="964" referrerpolicy="no-referrer"></p><p>2.《使命召唤：现代战争II2022》 </p><p><img data-gameid="1938090" src="https://cdn.max-c.com/heybox/game/header/1938090_wYLSX.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="726" src="https://imgheybox.max-c.com/web/2022/09/26/5d90a95caaf43d075a612d50a7bacd31/thumb.jpeg" data-width="1161" referrerpolicy="no-referrer"></p><p>3.《赛博朋克2077》 </p><p><img data-gameid="1091500" src="https://cdn.max-c.com/heybox/game/header/1091500_3olJW.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/web/2022/09/26/46dc9de3338d2e7bb94f87be40289f81/thumb.jpeg" data-width="3456" referrerpolicy="no-referrer"></p><p>4.《SlimeRancher2》 </p><p><img data-gameid="1657630" src="https://cdn.max-c.com/heybox/game/header/1657630_C1HPW.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="843" src="https://imgheybox.max-c.com/web/2022/09/26/6c36cda0bde6a339d0512d8c0ab76eea/thumb.jpeg" data-width="1348" referrerpolicy="no-referrer"></p><p>5.《EASPORTSFIFA23》 </p><p><img data-gameid="1811260" src="https://cdn.max-c.com/heybox/game/header/1811260_IGxxP.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="436" src="https://imgheybox.max-c.com/web/2022/09/26/bda37b1ad4bf08f622d54f930d925713/thumb.png" data-width="697" referrerpolicy="no-referrer"></p><p>6.《重返猴岛》 </p><p><img data-gameid="2060130" src="https://cdn.max-c.com/heybox/game/header/2060130_hkmxP.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="720" src="https://imgheybox.max-c.com/web/2022/09/26/6151a18f7e0c028026f5e329ee5c50da/thumb.jpeg" data-width="1152" referrerpolicy="no-referrer"></p><p>7.《建筑模拟器》 </p><p><img data-gameid="1273400" src="https://cdn.max-c.com/heybox/game/header/1273400_NuXUo.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/09/26/0998403f0191c306c3df28d60d370138/thumb.jpeg" data-width="1728" referrerpolicy="no-referrer"></p><p>8.《战神》 </p><p><img data-gameid="1593500" src="https://cdn.max-c.com/heybox/game/header/1593500_ZaojB.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1069" src="https://imgheybox.max-c.com/web/2022/09/26/be3c4c00f114b5ce0a8d898863739a94/thumb.jpeg" data-width="1913" referrerpolicy="no-referrer"></p><p>9.《艾尔登法环》 </p><p><img data-gameid="1245620" src="https://cdn.max-c.com/heybox/game/header/1245620_EMJHO.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="2160" src="https://imgheybox.max-c.com/web/2022/09/26/0c0b8ab4869f4e1be07803496e824759/thumb.jpeg" data-width="3456" referrerpolicy="no-referrer"></p><p>10.《NBA2K23》</p><p><img data-gameid="1919590" src="https://cdn.max-c.com/heybox/game/header/1919590_xqtZw.jpg" referrerpolicy="no-referrer"></p><p><img class="lazy" data-height="1080" src="https://imgheybox.max-c.com/web/2022/09/26/807c724676aa4c72c03d37bcafa5ea7d/thumb.jpeg" data-width="1728" referrerpolicy="no-referrer"></p>  
+</div>
+            
