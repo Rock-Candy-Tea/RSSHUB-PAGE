@@ -8,7 +8,7 @@ categories:
 headimg: 'https://p2.bahamut.com.tw/B/2KU/19/3d82c9c1f5580c1d5525a706441ifff5.JPG?v=1664168183878'
 author: 巴哈姆特
 comments: false
-date: 2022-09-26 06:44:03
+date: 2022-09-26 07:28:16
 thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/3d82c9c1f5580c1d5525a706441ifff5.JPG?v=1664168183878'
 ---
 
@@ -35,6 +35,14 @@ thumbnail: 'https://p2.bahamut.com.tw/B/2KU/19/3d82c9c1f5580c1d5525a706441ifff5.
  </div>
 <div>
 　　《<a class="acglink" href="http://acg.gamer.com.tw/search.php?encode=utf8&kw=%E9%AD%94%E7%8D%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%B7%AB%E5%A6%96%E7%8E%8B%E4%B9%8B%E6%80%92%20%E7%B6%93%E5%85%B8%E7%89%88" target="_blank">魔獸世界：巫妖王之怒 經典版</a>》將在明日上午 6 時於全球同步推出，屆時玩家為了對抗巫妖王，將踏上一段凶險萬分的旅程，穿越北裂境大陸上的冰封森林與積雪山峰，克服接踵而來的艱困挑戰、攻下冰冠城塞並打敗艾澤拉斯有史以來最危險的敵人之一。</div>
+<div>
+ </div>
+<div>
+<ul class="bh-grids-img">
+<li class="bh-grids-img-box" style="width: 99.87%;">
+<figcaption style="padding-bottom: 56.26%"><img name="gnnPIC" class="lazyload" data-sizes="auto" src="https://p2.bahamut.com.tw/B/2KU/25/f5f57123ece7112e77dbaf33621ifl55.JPG?v=1664175402798" data-srcset="https://p2.bahamut.com.tw/B/2KU/25/f5f57123ece7112e77dbaf33621ifl55.JPG?w=1000 1x,https://p2.bahamut.com.tw/B/2KU/25/f5f57123ece7112e77dbaf33621ifl55.JPG 2x" style="max-width: unset;" title alt="image" referrerpolicy="no-referrer"></figcaption></li>
+</ul>
+</div>
 <div>
  </div>
 </div>
